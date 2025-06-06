@@ -39,7 +39,7 @@ jobs:
 
       - name: Run MLB build script
         run: |
-          python3 tools/crosswalk/build_players_registry.py crosswalk/exports/mlb/players/ids/players.json exports/mlb --registry-file schema/mlb/players.yaml
+          python3 tools/registry/mlb/build_players_registry.py crosswalk/exports/mlb/players/ids/players.json exports/mlb --registry-file schema/mlb/players.yaml
 
       - name: Commit export files
         run: |
