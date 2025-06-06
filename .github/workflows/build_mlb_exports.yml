@@ -1,0 +1,52 @@
+name: Build and commit export files
+
+on:
+  workflow_dispatch:  # manually triggered
+  repository_dispatch:
+    types: [crosswalk-updated]
+  push:
+    branches:
+      - main
+    paths:
+      - "/schemas/**"
+
+jobs:
+  build_mlb_exports:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
+      - name: Clone prism-crosswalk repo
+        run: |
+          git clone https://github.com/statsvine/prism-crosswalk.git crosswalk
+      
+      - name: Clone prism-tools repo
+        run: |
+          git clone https://github.com/statsvine/prism-tools.git tools
+
+      - name: Set up Python
+        uses: actions/setup-python@v2
+        with:
+          python-version: '3.x'
+
+      - name: pip install dependencies
+        run: |
+          pip install -r tools/requirements.txt
+
+      - name: Run MLB build script
+        run: |
+          python3 tools/crosswalk/build_players_registry.py crosswalk/exports/mlb/players/ids/players.json exports/mlb --registry-file schema/mlb/players.yaml
+
+      - name: Commit export files
+        run: |
+          git config --global user.name "PRISM Build Bot"
+          git config --global user.email "statvine+prism@gmail.com"
+          git add exports/
+          git commit -m "Automated build: Update MLB output files" || echo "No changes to commit"
+          git push origin main
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

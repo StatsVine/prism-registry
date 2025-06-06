@@ -1,0 +1,302 @@
+---
+sources:
+  mlbam:
+    crosswalk_key: mlbam_id
+    preprocess:
+      - field: name_givenFirstMiddle
+        template: "{{ person.firstName }} {{ person.middleName }}"
+      - field: profile_birthYear
+        template: "{{ person.birthDate.split('-')[0] }}"
+      - field: profile_birth_month
+        template: "{{ person.birthDate.split('-')[1] }}"
+      - field: profile_birth_day
+        template: "{{ person.birthDate.split('-')[2] }}"
+  chadwick:
+    crosswalk_key: mlbam_id
+    preprocess:
+      - field: name_firstLast
+        template: "{{ name_first }} {{ name_last }}"
+      - field: name_lastFirst
+        template: "{{ name_last }}, {{ name_first }}"
+      - field: name_lastInitName
+        # this attempts to match the MLB lastInitName
+        template: "{{ name_last }}, {{ name_first[0] }}"
+      - field: birth_date
+        template: "{{ birth_year }}-{{ birth_month }}-{{ birth_day }}"
+  sfbb:
+    crosswalk_key: mlbam_id
+
+mappings:
+  # Ids
+  - dest: id
+    src: crosswalk.prism_id
+  - dest: ids.prism
+    src: crosswalk.prism_id
+  - dest: ids.bbref
+    src: 
+      - crosswalk.bbref_id
+      - sfbb.BREFID
+  - dest: ids.fangraphs
+    src: 
+      - crosswalk.fangraphs_id
+      - sfbb.IDFANGRAPHS
+  - dest: ids.mlbam
+    src: 
+      - crosswalk.mlbam_id
+      - mlbam.person.id
+      - sfbb.mlbam_id
+  - dest: ids.nfbc
+    src: 
+      - crosswalk.nfbc_id
+      - sfbb.NFBCID
+  - dest: ids.sfbb
+    src: 
+      - crosswalk.sfbb_id
+      - sfbb.IDPLAYER
+  - dest: ids.yahoo
+    src: 
+      - crosswalk.yahoo_id
+      - sfbb.YAHOOID
+
+  # Names
+  - dest: names.last
+    src: 
+      - chadwick.name_last
+      - mlbam.person.useLastName
+      - mlbam.person.lastName
+  - dest: names.first
+    src: 
+      - chadwick.name_first
+      - mlbam.person.useName
+      - mlbam.person.firstName
+  - dest: names.middle
+    src: 
+      - mlbam.person.middleName
+      # TODO consider splitting chadwick name_given
+  - dest: names.nick
+    src: mlbam.person.nickName
+  - dest: names.boxscore
+    src:
+      - mlbam.person.boxscoreName
+      - mlbam.person.lastInitName
+      - chadwick.name_lastInitName
+  - dest: names.givenFirst
+    src:
+      - mlbam.person.firstName
+      # TODO consider splitting chadwick name_given
+  - dest: names.givenFirstMiddle
+    src:
+      - chadwick.name_given
+      - mlbam.name_givenFirstMiddle
+  - dest: names.firstLast
+    src:
+      - mlbam.person.nameFirstLast
+      - chadwick.nameFirstLast
+  - dest: names.lastFirst
+    src:
+      - mlbam.person.lastFirstName
+      - chadwick.name_lastFirst
+  - dest: names.lastFirstInit
+    src:
+      - mlbam.person.lastInitName
+      - chadwick.name_lastInitName
+  - dest: names.givenFull
+    src:
+      - mlbam.person.fullFMLName
+      - chadwick.name_firstLast
+
+  # profile
+  - dest: profile.birthDate 
+    src:
+      - chadwick.birth_date
+      - mlbam.person.birthDate
+  - dest: profile.birthYear 
+    src:
+      - chadwick.birth_year
+      - mlbam.profile_birth_year
+  - dest: profile.birthMonth 
+    src:
+      - chadwick.birth_month
+      - mlbam.profile_birth_month
+  - dest: profile.birthDay 
+    src:
+      - chadwick.birth_day
+      - mlbam.profile_birth_day
+  - dest: profile.birthCity
+    src:
+      - mlbam.person.birthCity
+  - dest: profile.birthState
+    src:
+      - mlbam.person.birthStateProvince
+  - dest: profile.birthCountry
+    src:
+      - mlbam.person.birthCountry
+  - dest: profile.batHand
+    src:
+      - mlbam.person.batSide.code
+  - dest: profile.fieldHand
+    src:
+      - mlbam.person.pitchHand.code
+  - dest: profile.debutDate
+    src:
+      - mlbam.person.mlbDebutDate
+  
+  # position
+  - dest: position.abbreviation
+    src:
+      - mlbam.person.primaryPosition.abbreviation
+  - dest: position.code
+    src:
+      - mlbam.person.primaryPosition.code
+
+  # team
+  - dest: team.mlb_id
+    src:
+      - mlbam.team.id
+      - mlbam.parentTeamId
+  - dest: team.abbreviation
+    src:
+      - mlbam.team.abbreviation
+
+  # status
+  - dest: status.code
+    src:
+      - mlbam.status.code
+  - dest: status.description
+    src:
+      - mlbam.status.description
+fieldsets:
+  ids:
+    fields:
+      - id
+      - ids.prism
+      - ids.bbref
+      - ids.fangraphs
+      - ids.mlbam
+      - ids.nfbc
+      - ids.sfbb
+      - ids.yahoo
+  names_basic:
+    fields:
+      - names.last
+      - names.first
+      - names.middle
+  names_all:
+    fieldsets:
+      - names_basic
+    fields:
+      - names.boxscore
+      - names.givenFirst
+      - names.givenFirstMiddle
+      - names.firstLast
+      - names.lastFirst
+      - names.lastFirstInit
+      - names.givenFull
+  birth:
+    fields:
+      - profile.birthDate
+      - profile.birthYear
+      - profile.birthMonth
+      - profile.birthDay
+      - profile.birthCity
+      - profile.birthState
+      - profile.birthCountry
+  hands:
+    fields:
+      - profile.batHand
+      - profile.fieldHand
+  position:
+    fields:
+      - position.code
+      - position.abbreviation
+  team_basic:
+    fields:
+      - team.mlb_id
+      - team.abbreviation
+  status:
+    fields:
+      - status.code
+      - status.description
+pivots:
+  by_id:
+    name: by_id
+    fields:
+      - name: prism_id
+        field: ids.prism
+        is_array: false
+      - name: bbref_id
+        field: ids.bbref
+        is_array: false
+      - name: fangraphs_ids
+        field: ids.fangraphs
+        is_array: false
+      - name: mlbam_id
+        field: ids.mlbam
+        is_array: false
+      - name: nfbc_id
+        field: ids.nfbc
+        is_array: false
+      - name: sfbb_id
+        field: ids.sfbb
+        is_array: false
+      - name: yahoo_id
+        field: ids.yahoo
+        is_array: false
+products:
+  player_ids:
+    fieldsets:
+      - ids
+      - names_basic
+    by_ids: true
+    pivots:
+      - by_id
+  players_profile:
+    fieldsets:
+      - ids
+      - names_all
+      - birth
+    pivots:
+      - by_id
+  players_mlb_profile:
+    fieldsets:
+      - ids
+      - names_all
+      - birth
+      - position
+      - hands
+    fields:
+      - profile.debutDate
+    pivots:
+      - by_id
+  players_mlb_roster:
+    fieldsets:
+      - ids
+      - names_all
+      - birth
+      - position
+      - hands
+      - team_basic
+      - status
+    fields:
+      - profile.debutDate
+    pivots:
+      - by_id
+      - name: by_team
+        fields:
+          - name: mlb_id
+            field: team.mlb_id
+            is_array: true
+            null_key: "null"
+          - name: abbrev
+            field: team.abbreviation
+            is_array: true
+      - name: by_team_status
+        fields:
+          - name: mlb_id
+            field: team.mlb_id
+            subfield: status.code
+            is_array: true
+          - name: abbrev
+            field: team.abbreviation
+            subfield: status.code
+            is_array: true
