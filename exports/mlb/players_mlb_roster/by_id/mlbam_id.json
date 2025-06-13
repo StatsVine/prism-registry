@@ -8779,8 +8779,8 @@
       "abbreviation": "MIL"
     },
     "status": {
-      "code": "D15",
-      "description": "Injured 15-Day"
+      "code": "D60",
+      "description": "Injured 60-Day"
     }
   },
   "606115": {
@@ -10699,8 +10699,8 @@
       "abbreviation": "CIN"
     },
     "status": {
-      "code": "BRV",
-      "description": "Bereavement List"
+      "code": "A",
+      "description": "Active"
     }
   },
   "609280": {
@@ -13627,8 +13627,8 @@
       "abbreviation": "CLE"
     },
     "status": {
-      "code": "A",
-      "description": "Active"
+      "code": "RM",
+      "description": "Reassigned to Minors"
     }
   },
   "624585": {
@@ -14412,9 +14412,9 @@
     },
     "names": {
       "boxscore": "Anderson, S",
-      "givenFirst": "Shaun",
+      "givenFirst": null,
       "givenFirstMiddle": "Shaun",
-      "firstLast": "Shaun Anderson",
+      "firstLast": null,
       "lastFirst": "Anderson, Shaun",
       "lastFirstInit": "Anderson, S",
       "givenFull": "Shaun Anderson",
@@ -14427,24 +14427,24 @@
       "birthYear": "1994",
       "birthMonth": "10",
       "birthDay": "29",
-      "birthCity": "Coral Springs",
-      "birthState": "FL",
-      "birthCountry": "USA",
-      "batHand": "R",
-      "fieldHand": "R",
-      "debutDate": "2019-05-15"
+      "birthCity": null,
+      "birthState": null,
+      "birthCountry": null,
+      "batHand": null,
+      "fieldHand": null,
+      "debutDate": null
     },
     "position": {
-      "code": "1",
-      "abbreviation": "P"
+      "code": null,
+      "abbreviation": null
     },
     "team": {
-      "mlb_id": 108,
-      "abbreviation": "LAA"
+      "mlb_id": null,
+      "abbreviation": null
     },
     "status": {
-      "code": "A",
-      "description": "Active"
+      "code": null,
+      "description": null
     }
   },
   "641313": {
@@ -18615,12 +18615,12 @@
       "abbreviation": "P"
     },
     "team": {
-      "mlb_id": 158,
-      "abbreviation": "MIL"
+      "mlb_id": 145,
+      "abbreviation": "CWS"
     },
     "status": {
-      "code": "A",
-      "description": "Active"
+      "code": "NYR",
+      "description": "Not Yet Reported"
     }
   },
   "650859": {
@@ -21551,6 +21551,54 @@
       "description": "Active"
     }
   },
+  "657424": {
+    "id": "brxhzsnrnd",
+    "ids": {
+      "prism": "brxhzsnrnd",
+      "bbref": "gagema01",
+      "fangraphs": "17381",
+      "mlbam": "657424",
+      "nfbc": "11488",
+      "sfbb": null,
+      "yahoo": "12631"
+    },
+    "names": {
+      "boxscore": "Gage",
+      "givenFirst": "Matthew",
+      "givenFirstMiddle": "Matthew Robert",
+      "firstLast": "Matt Gage",
+      "lastFirst": "Gage, Matt",
+      "lastFirstInit": "Gage, M",
+      "givenFull": "Matthew Robert Gage",
+      "last": "Gage",
+      "first": "Matt",
+      "middle": "Robert"
+    },
+    "profile": {
+      "birthDate": "1993-2-11",
+      "birthYear": "1993",
+      "birthMonth": "2",
+      "birthDay": "11",
+      "birthCity": "Johnstown",
+      "birthState": "NY",
+      "birthCountry": "USA",
+      "batHand": "L",
+      "fieldHand": "L",
+      "debutDate": "2022-06-06"
+    },
+    "position": {
+      "code": "1",
+      "abbreviation": "P"
+    },
+    "team": {
+      "mlb_id": 116,
+      "abbreviation": "DET"
+    },
+    "status": {
+      "code": "A",
+      "description": "Active"
+    }
+  },
   "657514": {
     "id": "3cgx0c7yy4",
     "ids": {
@@ -22791,8 +22839,8 @@
       "abbreviation": "P"
     },
     "team": {
-      "mlb_id": 142,
-      "abbreviation": "MIN"
+      "mlb_id": 111,
+      "abbreviation": "BOS"
     },
     "status": {
       "code": "A",
@@ -24283,8 +24331,8 @@
       "abbreviation": "NYM"
     },
     "status": {
-      "code": "A",
-      "description": "Active"
+      "code": "RM",
+      "description": "Reassigned to Minors"
     }
   },
   "663586": {
@@ -24763,8 +24811,8 @@
       "abbreviation": "MIL"
     },
     "status": {
-      "code": "A",
-      "description": "Active"
+      "code": "PL",
+      "description": "Paternity List"
     }
   },
   "663671": {
@@ -26731,8 +26779,8 @@
       "abbreviation": "NYY"
     },
     "status": {
-      "code": "RM",
-      "description": "Reassigned to Minors"
+      "code": "A",
+      "description": "Active"
     }
   },
   "664126": {
@@ -30379,8 +30427,8 @@
       "abbreviation": "MIN"
     },
     "status": {
-      "code": "NYR",
-      "description": "Not Yet Reported"
+      "code": "A",
+      "description": "Active"
     }
   },
   "666215": {
@@ -30395,40 +30443,40 @@
       "yahoo": "10479"
     },
     "names": {
-      "boxscore": "Whitley, F",
-      "givenFirst": null,
+      "boxscore": "Whitley",
+      "givenFirst": "Charles",
       "givenFirstMiddle": "Charles Forrest",
-      "firstLast": null,
+      "firstLast": "Forrest Whitley",
       "lastFirst": "Whitley, Forrest",
       "lastFirstInit": "Whitley, F",
-      "givenFull": "Forrest Whitley",
+      "givenFull": "Charles Forrest Whitley",
       "last": "Whitley",
       "first": "Forrest",
-      "middle": null
+      "middle": "Forrest"
     },
     "profile": {
       "birthDate": "1997-9-15",
       "birthYear": "1997",
       "birthMonth": "9",
       "birthDay": "15",
-      "birthCity": null,
-      "birthState": null,
-      "birthCountry": null,
-      "batHand": null,
-      "fieldHand": null,
-      "debutDate": null
+      "birthCity": "San Antonio",
+      "birthState": "TX",
+      "birthCountry": "USA",
+      "batHand": "R",
+      "fieldHand": "R",
+      "debutDate": "2024-04-16"
     },
     "position": {
-      "code": null,
-      "abbreviation": null
+      "code": "1",
+      "abbreviation": "P"
     },
     "team": {
-      "mlb_id": null,
-      "abbreviation": null
+      "mlb_id": 139,
+      "abbreviation": "TB"
     },
     "status": {
-      "code": null,
-      "description": null
+      "code": "NYR",
+      "description": "Not Yet Reported"
     }
   },
   "666277": {
@@ -31787,40 +31835,40 @@
       "yahoo": "10875"
     },
     "names": {
-      "boxscore": "Vilade",
-      "givenFirst": "Ryan",
+      "boxscore": "Vilade, R",
+      "givenFirst": null,
       "givenFirstMiddle": "Ryan James",
-      "firstLast": "Ryan Vilade",
+      "firstLast": null,
       "lastFirst": "Vilade, Ryan",
       "lastFirstInit": "Vilade, R",
-      "givenFull": "Ryan James Vilade",
+      "givenFull": "Ryan Vilade",
       "last": "Vilade",
       "first": "Ryan",
-      "middle": "James"
+      "middle": null
     },
     "profile": {
       "birthDate": "1999-2-18",
       "birthYear": "1999",
       "birthMonth": "2",
       "birthDay": "18",
-      "birthCity": "Grapevine",
-      "birthState": "TX",
-      "birthCountry": "USA",
-      "batHand": "R",
-      "fieldHand": "R",
-      "debutDate": "2021-09-18"
+      "birthCity": null,
+      "birthState": null,
+      "birthCountry": null,
+      "batHand": null,
+      "fieldHand": null,
+      "debutDate": null
     },
     "position": {
-      "code": "9",
-      "abbreviation": "RF"
+      "code": null,
+      "abbreviation": null
     },
     "team": {
-      "mlb_id": 138,
-      "abbreviation": "STL"
+      "mlb_id": null,
+      "abbreviation": null
     },
     "status": {
-      "code": "A",
-      "description": "Active"
+      "code": null,
+      "description": null
     }
   },
   "668731": {
@@ -32011,8 +32059,8 @@
       "abbreviation": "NYM"
     },
     "status": {
-      "code": "RM",
-      "description": "Reassigned to Minors"
+      "code": "A",
+      "description": "Active"
     }
   },
   "668834": {
@@ -32059,8 +32107,8 @@
       "abbreviation": "MIL"
     },
     "status": {
-      "code": "A",
-      "description": "Active"
+      "code": "RM",
+      "description": "Reassigned to Minors"
     }
   },
   "668845": {
@@ -39115,8 +39163,8 @@
       "abbreviation": "STL"
     },
     "status": {
-      "code": "RM",
-      "description": "Reassigned to Minors"
+      "code": "A",
+      "description": "Active"
     }
   },
   "672282": {
@@ -40555,8 +40603,8 @@
       "abbreviation": "NYM"
     },
     "status": {
-      "code": "A",
-      "description": "Active"
+      "code": "D15",
+      "description": "Injured 15-Day"
     }
   },
   "673548": {
@@ -49675,8 +49723,8 @@
       "abbreviation": "CWS"
     },
     "status": {
-      "code": "RM",
-      "description": "Reassigned to Minors"
+      "code": "A",
+      "description": "Active"
     }
   },
   "681481": {
@@ -50731,8 +50779,8 @@
       "abbreviation": "MIL"
     },
     "status": {
-      "code": "RM",
-      "description": "Reassigned to Minors"
+      "code": "A",
+      "description": "Active"
     }
   },
   "681987": {
@@ -50971,8 +51019,8 @@
       "abbreviation": "MIL"
     },
     "status": {
-      "code": "RM",
-      "description": "Reassigned to Minors"
+      "code": "A",
+      "description": "Active"
     }
   },
   "682227": {
@@ -51499,8 +51547,8 @@
       "abbreviation": "NYM"
     },
     "status": {
-      "code": "PL",
-      "description": "Paternity List"
+      "code": "A",
+      "description": "Active"
     }
   },
   "682634": {
@@ -52123,8 +52171,8 @@
       "abbreviation": "PIT"
     },
     "status": {
-      "code": "D10",
-      "description": "Injured 10-Day"
+      "code": "D60",
+      "description": "Injured 60-Day"
     }
   },
   "682868": {
@@ -53083,8 +53131,8 @@
       "abbreviation": "LAA"
     },
     "status": {
-      "code": "A",
-      "description": "Active"
+      "code": "RM",
+      "description": "Reassigned to Minors"
     }
   },
   "683146": {
@@ -53563,8 +53611,8 @@
       "abbreviation": "COL"
     },
     "status": {
-      "code": "RM",
-      "description": "Reassigned to Minors"
+      "code": "A",
+      "description": "Active"
     }
   },
   "683679": {
@@ -53655,8 +53703,8 @@
       "abbreviation": "1B"
     },
     "team": {
-      "mlb_id": 145,
-      "abbreviation": "CWS"
+      "mlb_id": 158,
+      "abbreviation": "MIL"
     },
     "status": {
       "code": "RM",
@@ -55627,8 +55675,8 @@
       "abbreviation": "CIN"
     },
     "status": {
-      "code": "A",
-      "description": "Active"
+      "code": "RM",
+      "description": "Reassigned to Minors"
     }
   },
   "686751": {
@@ -56363,40 +56411,40 @@
       "yahoo": "63947"
     },
     "names": {
-      "boxscore": "Van Belle",
-      "givenFirst": "Brian",
+      "boxscore": "Van Belle, B",
+      "givenFirst": null,
       "givenFirstMiddle": "Brian Michael",
-      "firstLast": "Brian Van Belle",
+      "firstLast": null,
       "lastFirst": "Van Belle, Brian",
       "lastFirstInit": "Van Belle, B",
-      "givenFull": "Brian Michael Van Belle",
+      "givenFull": "Brian Van Belle",
       "last": "Van Belle",
       "first": "Brian",
-      "middle": "Michael"
+      "middle": null
     },
     "profile": {
       "birthDate": "1996-9-3",
       "birthYear": "1996",
       "birthMonth": "9",
       "birthDay": "3",
-      "birthCity": "Pembroke Pines",
-      "birthState": "FL",
-      "birthCountry": "USA",
-      "batHand": "R",
-      "fieldHand": "R",
+      "birthCity": null,
+      "birthState": null,
+      "birthCountry": null,
+      "batHand": null,
+      "fieldHand": null,
       "debutDate": null
     },
     "position": {
-      "code": "1",
-      "abbreviation": "P"
+      "code": null,
+      "abbreviation": null
     },
     "team": {
-      "mlb_id": 111,
-      "abbreviation": "BOS"
+      "mlb_id": null,
+      "abbreviation": null
     },
     "status": {
-      "code": "A",
-      "description": "Active"
+      "code": null,
+      "description": null
     }
   },
   "687064": {
@@ -56683,8 +56731,8 @@
       "abbreviation": "COL"
     },
     "status": {
-      "code": "A",
-      "description": "Active"
+      "code": "RM",
+      "description": "Reassigned to Minors"
     }
   },
   "687231": {
@@ -57067,8 +57115,8 @@
       "abbreviation": "NYY"
     },
     "status": {
-      "code": "A",
-      "description": "Active"
+      "code": "RM",
+      "description": "Reassigned to Minors"
     }
   },
   "687401": {
@@ -58219,8 +58267,8 @@
       "abbreviation": "STL"
     },
     "status": {
-      "code": "A",
-      "description": "Active"
+      "code": "RM",
+      "description": "Reassigned to Minors"
     }
   },
   "688363": {
@@ -58651,8 +58699,8 @@
       "abbreviation": "DET"
     },
     "status": {
-      "code": "A",
-      "description": "Active"
+      "code": "RM",
+      "description": "Reassigned to Minors"
     }
   },
   "689254": {
@@ -59147,40 +59195,40 @@
       "yahoo": "63902"
     },
     "names": {
-      "boxscore": "Darrell-Hicks, M",
-      "givenFirst": null,
+      "boxscore": "Darrell-Hicks",
+      "givenFirst": "Michael",
       "givenFirstMiddle": "Michael Brian",
-      "firstLast": null,
+      "firstLast": "Michael Darrell-Hicks",
       "lastFirst": "Darrell-Hicks, Michael",
       "lastFirstInit": "Darrell-Hicks, M",
-      "givenFull": "Michael Darrell-Hicks",
+      "givenFull": "Michael Brian Darrell-Hicks",
       "last": "Darrell-Hicks",
       "first": "Michael",
-      "middle": null
+      "middle": "Brian"
     },
     "profile": {
       "birthDate": "1997-11-13",
       "birthYear": "1997",
       "birthMonth": "11",
       "birthDay": "13",
-      "birthCity": null,
-      "birthState": null,
-      "birthCountry": null,
-      "batHand": null,
-      "fieldHand": null,
-      "debutDate": null
+      "birthCity": "Parkersburg",
+      "birthState": "WV",
+      "birthCountry": "USA",
+      "batHand": "R",
+      "fieldHand": "R",
+      "debutDate": "2025-04-11"
     },
     "position": {
-      "code": null,
-      "abbreviation": null
+      "code": "1",
+      "abbreviation": "P"
     },
     "team": {
-      "mlb_id": null,
-      "abbreviation": null
+      "mlb_id": 134,
+      "abbreviation": "PIT"
     },
     "status": {
-      "code": null,
-      "description": null
+      "code": "RM",
+      "description": "Reassigned to Minors"
     }
   },
   "690544": {
@@ -63611,40 +63659,40 @@
       "yahoo": "60254"
     },
     "names": {
-      "boxscore": "Misiorowski, J",
-      "givenFirst": null,
+      "boxscore": "Misiorowski",
+      "givenFirst": "Jacob",
       "givenFirstMiddle": "Jacob Walter",
-      "firstLast": null,
+      "firstLast": "Jacob Misiorowski",
       "lastFirst": "Misiorowski, Jacob",
       "lastFirstInit": "Misiorowski, J",
-      "givenFull": "Jacob Misiorowski",
+      "givenFull": "Jacob Walter Misiorowski",
       "last": "Misiorowski",
       "first": "Jacob",
-      "middle": null
+      "middle": "Walter"
     },
     "profile": {
       "birthDate": "2002-4-3",
       "birthYear": "2002",
       "birthMonth": "4",
       "birthDay": "3",
-      "birthCity": null,
-      "birthState": null,
-      "birthCountry": null,
-      "batHand": null,
-      "fieldHand": null,
-      "debutDate": null
+      "birthCity": "Blue Springs",
+      "birthState": "MO",
+      "birthCountry": "USA",
+      "batHand": "R",
+      "fieldHand": "R",
+      "debutDate": "2025-06-12"
     },
     "position": {
-      "code": null,
-      "abbreviation": null
+      "code": "1",
+      "abbreviation": "P"
     },
     "team": {
-      "mlb_id": null,
-      "abbreviation": null
+      "mlb_id": 158,
+      "abbreviation": "MIL"
     },
     "status": {
-      "code": null,
-      "description": null
+      "code": "A",
+      "description": "Active"
     }
   },
   "694851": {
@@ -64363,8 +64411,8 @@
       "abbreviation": "DET"
     },
     "status": {
-      "code": "D15",
-      "description": "Injured 15-Day"
+      "code": "D60",
+      "description": "Injured 60-Day"
     }
   },
   "695578": {
@@ -64747,8 +64795,8 @@
       "abbreviation": "LAA"
     },
     "status": {
-      "code": "RM",
-      "description": "Reassigned to Minors"
+      "code": "A",
+      "description": "Active"
     }
   },
   "696149": {
@@ -65849,6 +65897,54 @@
     "team": {
       "mlb_id": 147,
       "abbreviation": "NYY"
+    },
+    "status": {
+      "code": "A",
+      "description": "Active"
+    }
+  },
+  "701552": {
+    "id": "g6hrhnhb2h",
+    "ids": {
+      "prism": "g6hrhnhb2h",
+      "bbref": "granian01",
+      "fangraphs": "29542",
+      "mlbam": "701552",
+      "nfbc": "12410",
+      "sfbb": null,
+      "yahoo": "60410"
+    },
+    "names": {
+      "boxscore": "Granillo",
+      "givenFirst": "Andre",
+      "givenFirstMiddle": "Andre Anthony",
+      "firstLast": "Andre Granillo",
+      "lastFirst": "Granillo, Andre",
+      "lastFirstInit": "Granillo, A",
+      "givenFull": "Andre Anthony Granillo",
+      "last": "Granillo",
+      "first": "Andre",
+      "middle": "Anthony"
+    },
+    "profile": {
+      "birthDate": "2000-5-12",
+      "birthYear": "2000",
+      "birthMonth": "5",
+      "birthDay": "12",
+      "birthCity": "Hemet",
+      "birthState": "CA",
+      "birthCountry": "USA",
+      "batHand": "R",
+      "fieldHand": "R",
+      "debutDate": "2025-06-12"
+    },
+    "position": {
+      "code": "1",
+      "abbreviation": "P"
+    },
+    "team": {
+      "mlb_id": 138,
+      "abbreviation": "STL"
     },
     "status": {
       "code": "A",
