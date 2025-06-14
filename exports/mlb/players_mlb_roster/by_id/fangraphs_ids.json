@@ -3787,8 +3787,8 @@
       "abbreviation": "CLE"
     },
     "status": {
-      "code": "D7",
-      "description": "Injured 7-Day"
+      "code": "A",
+      "description": "Active"
     }
   },
   "12979": {
@@ -25295,6 +25295,54 @@
       "description": "Active"
     }
   },
+  "20185": {
+    "id": "000svvhjew",
+    "ids": {
+      "prism": "000svvhjew",
+      "bbref": "popza01",
+      "fangraphs": "20185",
+      "mlbam": "647315",
+      "nfbc": "11183",
+      "sfbb": null,
+      "yahoo": "12108"
+    },
+    "names": {
+      "boxscore": "Pop",
+      "givenFirst": "Zachery",
+      "givenFirstMiddle": "Zachery M.",
+      "firstLast": "Zach Pop",
+      "lastFirst": "Pop, Zach",
+      "lastFirstInit": "Pop, Z",
+      "givenFull": "Zachery M. Pop",
+      "last": "Pop",
+      "first": "Zach",
+      "middle": "M."
+    },
+    "profile": {
+      "birthDate": "1996-9-20",
+      "birthYear": "1996",
+      "birthMonth": "9",
+      "birthDay": "20",
+      "birthCity": "Brampton",
+      "birthState": "ON",
+      "birthCountry": "Canada",
+      "batHand": "R",
+      "fieldHand": "R",
+      "debutDate": "2021-04-03"
+    },
+    "position": {
+      "code": "1",
+      "abbreviation": "P"
+    },
+    "team": {
+      "mlb_id": 136,
+      "abbreviation": "SEA"
+    },
+    "status": {
+      "code": "A",
+      "description": "Active"
+    }
+  },
   "20191": {
     "id": "jhg3jtkd2r",
     "ids": {
@@ -34747,8 +34795,8 @@
       "abbreviation": "LAA"
     },
     "status": {
-      "code": "D10",
-      "description": "Injured 10-Day"
+      "code": "RM",
+      "description": "Reassigned to Minors"
     }
   },
   "22713": {
@@ -62251,8 +62299,8 @@
       "abbreviation": "SEA"
     },
     "status": {
-      "code": "A",
-      "description": "Active"
+      "code": "RM",
+      "description": "Reassigned to Minors"
     }
   },
   "33824": {
@@ -67629,6 +67677,54 @@
     "status": {
       "code": null,
       "description": null
+    }
+  },
+  "sa3025168": {
+    "id": "ev718lw96h",
+    "ids": {
+      "prism": "ev718lw96h",
+      "bbref": "moorech03",
+      "fangraphs": "sa3025168",
+      "mlbam": "695681",
+      "nfbc": "12194",
+      "sfbb": "moorech03",
+      "yahoo": "64361"
+    },
+    "names": {
+      "boxscore": "Moore",
+      "givenFirst": "Christian",
+      "givenFirstMiddle": "Christian",
+      "firstLast": "Christian Moore",
+      "lastFirst": "Moore, Christian",
+      "lastFirstInit": "Moore, C",
+      "givenFull": "Christian Moore",
+      "last": "Moore",
+      "first": "Christian",
+      "middle": null
+    },
+    "profile": {
+      "birthDate": "2002-10-21",
+      "birthYear": "2002",
+      "birthMonth": "10",
+      "birthDay": "21",
+      "birthCity": "Brooklyn",
+      "birthState": "NY",
+      "birthCountry": "USA",
+      "batHand": "R",
+      "fieldHand": "R",
+      "debutDate": "2025-06-13"
+    },
+    "position": {
+      "code": "4",
+      "abbreviation": "2B"
+    },
+    "team": {
+      "mlb_id": 108,
+      "abbreviation": "LAA"
+    },
+    "status": {
+      "code": "A",
+      "description": "Active"
     }
   },
   "sa3028086": {
