@@ -5232,8 +5232,8 @@
         "abbreviation": "BAL"
       },
       "status": {
-        "code": "A",
-        "description": "Active"
+        "code": "RM",
+        "description": "Reassigned to Minors"
       }
     },
     {
@@ -5568,8 +5568,8 @@
         "abbreviation": "BAL"
       },
       "status": {
-        "code": "D10",
-        "description": "Injured 10-Day"
+        "code": "A",
+        "description": "Active"
       }
     },
     {
@@ -11051,6 +11051,54 @@
       }
     },
     {
+      "id": "7jl0qezb3m",
+      "ids": {
+        "prism": "7jl0qezb3m",
+        "bbref": null,
+        "fangraphs": "sa3014925",
+        "mlbam": "687003",
+        "nfbc": "12408",
+        "sfbb": null,
+        "yahoo": "63947"
+      },
+      "names": {
+        "boxscore": "Van Belle",
+        "givenFirst": "Brian",
+        "givenFirstMiddle": "Brian Michael",
+        "firstLast": "Brian Van Belle",
+        "lastFirst": "Van Belle, Brian",
+        "lastFirstInit": "Van Belle, B",
+        "givenFull": "Brian Michael Van Belle",
+        "last": "Van Belle",
+        "first": "Brian",
+        "middle": "Michael"
+      },
+      "profile": {
+        "birthDate": "1996-9-3",
+        "birthYear": "1996",
+        "birthMonth": "9",
+        "birthDay": "3",
+        "birthCity": "Pembroke Pines",
+        "birthState": "FL",
+        "birthCountry": "USA",
+        "batHand": "R",
+        "fieldHand": "R",
+        "debutDate": null
+      },
+      "position": {
+        "code": "1",
+        "abbreviation": "P"
+      },
+      "team": {
+        "mlb_id": 113,
+        "abbreviation": "CIN"
+      },
+      "status": {
+        "code": "RM",
+        "description": "Reassigned to Minors"
+      }
+    },
+    {
       "id": "7nrlfr2db0",
       "ids": {
         "prism": "7nrlfr2db0",
@@ -11435,6 +11483,54 @@
       }
     },
     {
+      "id": "evg547wslr",
+      "ids": {
+        "prism": "evg547wslr",
+        "bbref": "viladry01",
+        "fangraphs": "22165",
+        "mlbam": "668723",
+        "nfbc": "10324",
+        "sfbb": "viladry01",
+        "yahoo": "10875"
+      },
+      "names": {
+        "boxscore": "Vilade",
+        "givenFirst": "Ryan",
+        "givenFirstMiddle": "Ryan James",
+        "firstLast": "Ryan Vilade",
+        "lastFirst": "Vilade, Ryan",
+        "lastFirstInit": "Vilade, R",
+        "givenFull": "Ryan James Vilade",
+        "last": "Vilade",
+        "first": "Ryan",
+        "middle": "James"
+      },
+      "profile": {
+        "birthDate": "1999-2-18",
+        "birthYear": "1999",
+        "birthMonth": "2",
+        "birthDay": "18",
+        "birthCity": "Grapevine",
+        "birthState": "TX",
+        "birthCountry": "USA",
+        "batHand": "R",
+        "fieldHand": "R",
+        "debutDate": "2021-09-18"
+      },
+      "position": {
+        "code": "9",
+        "abbreviation": "RF"
+      },
+      "team": {
+        "mlb_id": 113,
+        "abbreviation": "CIN"
+      },
+      "status": {
+        "code": "RM",
+        "description": "Reassigned to Minors"
+      }
+    },
+    {
       "id": "f8wh4p8mg4",
       "ids": {
         "prism": "f8wh4p8mg4",
@@ -11480,54 +11576,6 @@
       "status": {
         "code": "A",
         "description": "Active"
-      }
-    },
-    {
-      "id": "g603x2ybf8",
-      "ids": {
-        "prism": "g603x2ybf8",
-        "bbref": "hurtuja01",
-        "fangraphs": "27599",
-        "mlbam": "674441",
-        "nfbc": "11917",
-        "sfbb": "hurtuja01",
-        "yahoo": "63480"
-      },
-      "names": {
-        "boxscore": "Hurtubise",
-        "givenFirst": "Jacob",
-        "givenFirstMiddle": "Jacob Gilles",
-        "firstLast": "Jacob Hurtubise",
-        "lastFirst": "Hurtubise, Jacob",
-        "lastFirstInit": "Hurtubise, J",
-        "givenFull": "Jacob Gilles Hurtubise",
-        "last": "Hurtubise",
-        "first": "Jacob",
-        "middle": "Gilles"
-      },
-      "profile": {
-        "birthDate": "1997-12-11",
-        "birthYear": "1997",
-        "birthMonth": "12",
-        "birthDay": "11",
-        "birthCity": "Indianapolis",
-        "birthState": "IN",
-        "birthCountry": "USA",
-        "batHand": "L",
-        "fieldHand": "R",
-        "debutDate": "2024-05-13"
-      },
-      "position": {
-        "code": "7",
-        "abbreviation": "LF"
-      },
-      "team": {
-        "mlb_id": 113,
-        "abbreviation": "CIN"
-      },
-      "status": {
-        "code": "RM",
-        "description": "Reassigned to Minors"
       }
     },
     {
@@ -19262,8 +19310,8 @@
         "abbreviation": "HOU"
       },
       "status": {
-        "code": "A",
-        "description": "Active"
+        "code": "RM",
+        "description": "Reassigned to Minors"
       }
     },
     {
@@ -20078,8 +20126,8 @@
         "abbreviation": "HOU"
       },
       "status": {
-        "code": "D15",
-        "description": "Injured 15-Day"
+        "code": "D60",
+        "description": "Injured 60-Day"
       }
     },
     {
@@ -20168,6 +20216,54 @@
       "position": {
         "code": "2",
         "abbreviation": "C"
+      },
+      "team": {
+        "mlb_id": 117,
+        "abbreviation": "HOU"
+      },
+      "status": {
+        "code": "A",
+        "description": "Active"
+      }
+    },
+    {
+      "id": "9yz52w35tm",
+      "ids": {
+        "prism": "9yz52w35tm",
+        "bbref": "guilllu01",
+        "fangraphs": "16451",
+        "mlbam": "641645",
+        "nfbc": "9870",
+        "sfbb": "guilllu01",
+        "yahoo": "10920"
+      },
+      "names": {
+        "boxscore": "Guillorme",
+        "givenFirst": "Luis",
+        "givenFirstMiddle": "Luis Miguel",
+        "firstLast": "Luis Guillorme",
+        "lastFirst": "Guillorme, Luis",
+        "lastFirstInit": "Guillorme, L",
+        "givenFull": "Luis Miguel Guillorme",
+        "last": "Guillorme",
+        "first": "Luis",
+        "middle": "Miguel"
+      },
+      "profile": {
+        "birthDate": "1994-9-27",
+        "birthYear": "1994",
+        "birthMonth": "9",
+        "birthDay": "27",
+        "birthCity": "Caracas",
+        "birthState": null,
+        "birthCountry": "Venezuela",
+        "batHand": "L",
+        "fieldHand": "R",
+        "debutDate": "2018-05-11"
+      },
+      "position": {
+        "code": "4",
+        "abbreviation": "2B"
       },
       "team": {
         "mlb_id": 117,
@@ -20947,6 +21043,54 @@
       }
     },
     {
+      "id": "nd4j0zm7m8",
+      "ids": {
+        "prism": "nd4j0zm7m8",
+        "bbref": "hummeco01",
+        "fangraphs": "19458",
+        "mlbam": "669450",
+        "nfbc": "11332",
+        "sfbb": "hummeco01",
+        "yahoo": "12348"
+      },
+      "names": {
+        "boxscore": "Hummel",
+        "givenFirst": "Cooper",
+        "givenFirstMiddle": "Cooper Everett",
+        "firstLast": "Cooper Hummel",
+        "lastFirst": "Hummel, Cooper",
+        "lastFirstInit": "Hummel, C",
+        "givenFull": "Cooper Everett Hummel",
+        "last": "Hummel",
+        "first": "Cooper",
+        "middle": "Everett"
+      },
+      "profile": {
+        "birthDate": "1994-11-28",
+        "birthYear": "1994",
+        "birthMonth": "11",
+        "birthDay": "28",
+        "birthCity": "Portland",
+        "birthState": "OR",
+        "birthCountry": "USA",
+        "batHand": "S",
+        "fieldHand": "R",
+        "debutDate": "2022-04-07"
+      },
+      "position": {
+        "code": "9",
+        "abbreviation": "RF"
+      },
+      "team": {
+        "mlb_id": 117,
+        "abbreviation": "HOU"
+      },
+      "status": {
+        "code": "A",
+        "description": "Active"
+      }
+    },
+    {
       "id": "p2knbj95gd",
       "ids": {
         "prism": "p2knbj95gd",
@@ -21278,8 +21422,8 @@
         "abbreviation": "HOU"
       },
       "status": {
-        "code": "A",
-        "description": "Active"
+        "code": "D10",
+        "description": "Injured 10-Day"
       }
     },
     {
@@ -26756,8 +26900,8 @@
         "abbreviation": "WSH"
       },
       "status": {
-        "code": "A",
-        "description": "Active"
+        "code": "D15",
+        "description": "Injured 15-Day"
       }
     },
     {
@@ -27524,8 +27668,8 @@
         "abbreviation": "WSH"
       },
       "status": {
-        "code": "RM",
-        "description": "Reassigned to Minors"
+        "code": "A",
+        "description": "Active"
       }
     },
     {
@@ -40834,8 +40978,8 @@
         "abbreviation": "STL"
       },
       "status": {
-        "code": "D10",
-        "description": "Injured 10-Day"
+        "code": "A",
+        "description": "Active"
       }
     },
     {
@@ -41266,8 +41410,8 @@
         "abbreviation": "STL"
       },
       "status": {
-        "code": "A",
-        "description": "Active"
+        "code": "RM",
+        "description": "Reassigned to Minors"
       }
     },
     {
@@ -46216,54 +46360,6 @@
       "status": {
         "code": "D60",
         "description": "Injured 60-Day"
-      }
-    },
-    {
-      "id": "ry58vpbpm8",
-      "ids": {
-        "prism": "ry58vpbpm8",
-        "bbref": "garabge01",
-        "fangraphs": "19835",
-        "mlbam": "642520",
-        "nfbc": "12092",
-        "sfbb": null,
-        "yahoo": "64463"
-      },
-      "names": {
-        "boxscore": "Garabito",
-        "givenFirst": "Gerson",
-        "givenFirstMiddle": "Gerson Yeris",
-        "firstLast": "Gerson Garabito",
-        "lastFirst": "Garabito, Gerson",
-        "lastFirstInit": "Garabito, G",
-        "givenFull": "Gerson Yeris Garabito",
-        "last": "Garabito",
-        "first": "Gerson",
-        "middle": "Yeris"
-      },
-      "profile": {
-        "birthDate": "1995-8-19",
-        "birthYear": "1995",
-        "birthMonth": "8",
-        "birthDay": "19",
-        "birthCity": "San Cristobal",
-        "birthState": null,
-        "birthCountry": "Dominican Republic",
-        "batHand": "R",
-        "fieldHand": "R",
-        "debutDate": "2024-05-26"
-      },
-      "position": {
-        "code": "1",
-        "abbreviation": "P"
-      },
-      "team": {
-        "mlb_id": 140,
-        "abbreviation": "TEX"
-      },
-      "status": {
-        "code": "RM",
-        "description": "Reassigned to Minors"
       }
     },
     {
@@ -55296,8 +55392,8 @@
         "abbreviation": "CWS"
       },
       "status": {
-        "code": "A",
-        "description": "Active"
+        "code": "RM",
+        "description": "Reassigned to Minors"
       }
     },
     {
@@ -55824,8 +55920,8 @@
         "abbreviation": "CWS"
       },
       "status": {
-        "code": "RM",
-        "description": "Reassigned to Minors"
+        "code": "A",
+        "description": "Active"
       }
     },
     {
@@ -55872,8 +55968,8 @@
         "abbreviation": "CWS"
       },
       "status": {
-        "code": "NYR",
-        "description": "Not Yet Reported"
+        "code": "A",
+        "description": "Active"
       }
     },
     {
@@ -56016,8 +56112,8 @@
         "abbreviation": "CWS"
       },
       "status": {
-        "code": "A",
-        "description": "Active"
+        "code": "RM",
+        "description": "Reassigned to Minors"
       }
     },
     {
@@ -64285,54 +64381,6 @@
       }
     },
     {
-      "id": "7jl0qezb3m",
-      "ids": {
-        "prism": "7jl0qezb3m",
-        "bbref": null,
-        "fangraphs": "sa3014925",
-        "mlbam": "687003",
-        "nfbc": "12408",
-        "sfbb": null,
-        "yahoo": "63947"
-      },
-      "names": {
-        "boxscore": "Van Belle, B",
-        "givenFirst": null,
-        "givenFirstMiddle": "Brian Michael",
-        "firstLast": null,
-        "lastFirst": "Van Belle, Brian",
-        "lastFirstInit": "Van Belle, B",
-        "givenFull": "Brian Van Belle",
-        "last": "Van Belle",
-        "first": "Brian",
-        "middle": null
-      },
-      "profile": {
-        "birthDate": "1996-9-3",
-        "birthYear": "1996",
-        "birthMonth": "9",
-        "birthDay": "3",
-        "birthCity": null,
-        "birthState": null,
-        "birthCountry": null,
-        "batHand": null,
-        "fieldHand": null,
-        "debutDate": null
-      },
-      "position": {
-        "code": null,
-        "abbreviation": null
-      },
-      "team": {
-        "mlb_id": null,
-        "abbreviation": null
-      },
-      "status": {
-        "code": null,
-        "description": null
-      }
-    },
-    {
       "id": "7x3dgmgbcm",
       "ids": {
         "prism": "7x3dgmgbcm",
@@ -65005,54 +65053,6 @@
       }
     },
     {
-      "id": "evg547wslr",
-      "ids": {
-        "prism": "evg547wslr",
-        "bbref": "viladry01",
-        "fangraphs": "22165",
-        "mlbam": "668723",
-        "nfbc": "10324",
-        "sfbb": "viladry01",
-        "yahoo": "10875"
-      },
-      "names": {
-        "boxscore": "Vilade, R",
-        "givenFirst": null,
-        "givenFirstMiddle": "Ryan James",
-        "firstLast": null,
-        "lastFirst": "Vilade, Ryan",
-        "lastFirstInit": "Vilade, R",
-        "givenFull": "Ryan Vilade",
-        "last": "Vilade",
-        "first": "Ryan",
-        "middle": null
-      },
-      "profile": {
-        "birthDate": "1999-2-18",
-        "birthYear": "1999",
-        "birthMonth": "2",
-        "birthDay": "18",
-        "birthCity": null,
-        "birthState": null,
-        "birthCountry": null,
-        "batHand": null,
-        "fieldHand": null,
-        "debutDate": null
-      },
-      "position": {
-        "code": null,
-        "abbreviation": null
-      },
-      "team": {
-        "mlb_id": null,
-        "abbreviation": null
-      },
-      "status": {
-        "code": null,
-        "description": null
-      }
-    },
-    {
       "id": "eyzwkfztcm",
       "ids": {
         "prism": "eyzwkfztcm",
@@ -65176,6 +65176,54 @@
         "birthYear": "1998",
         "birthMonth": "9",
         "birthDay": "3",
+        "birthCity": null,
+        "birthState": null,
+        "birthCountry": null,
+        "batHand": null,
+        "fieldHand": null,
+        "debutDate": null
+      },
+      "position": {
+        "code": null,
+        "abbreviation": null
+      },
+      "team": {
+        "mlb_id": null,
+        "abbreviation": null
+      },
+      "status": {
+        "code": null,
+        "description": null
+      }
+    },
+    {
+      "id": "g603x2ybf8",
+      "ids": {
+        "prism": "g603x2ybf8",
+        "bbref": "hurtuja01",
+        "fangraphs": "27599",
+        "mlbam": "674441",
+        "nfbc": "11917",
+        "sfbb": "hurtuja01",
+        "yahoo": "63480"
+      },
+      "names": {
+        "boxscore": "Hurtubise, J",
+        "givenFirst": null,
+        "givenFirstMiddle": "Jacob Gilles",
+        "firstLast": null,
+        "lastFirst": "Hurtubise, Jacob",
+        "lastFirstInit": "Hurtubise, J",
+        "givenFull": "Jacob Hurtubise",
+        "last": "Hurtubise",
+        "first": "Jacob",
+        "middle": null
+      },
+      "profile": {
+        "birthDate": "1997-12-11",
+        "birthYear": "1997",
+        "birthMonth": "12",
+        "birthDay": "11",
         "birthCity": null,
         "birthState": null,
         "birthCountry": null,
@@ -66397,54 +66445,6 @@
       }
     },
     {
-      "id": "nd4j0zm7m8",
-      "ids": {
-        "prism": "nd4j0zm7m8",
-        "bbref": "hummeco01",
-        "fangraphs": "19458",
-        "mlbam": "669450",
-        "nfbc": "11332",
-        "sfbb": "hummeco01",
-        "yahoo": "12348"
-      },
-      "names": {
-        "boxscore": "Hummel, C",
-        "givenFirst": null,
-        "givenFirstMiddle": "Cooper Everett",
-        "firstLast": null,
-        "lastFirst": "Hummel, Cooper",
-        "lastFirstInit": "Hummel, C",
-        "givenFull": "Cooper Hummel",
-        "last": "Hummel",
-        "first": "Cooper",
-        "middle": null
-      },
-      "profile": {
-        "birthDate": "1994-11-28",
-        "birthYear": "1994",
-        "birthMonth": "11",
-        "birthDay": "28",
-        "birthCity": null,
-        "birthState": null,
-        "birthCountry": null,
-        "batHand": null,
-        "fieldHand": null,
-        "debutDate": null
-      },
-      "position": {
-        "code": null,
-        "abbreviation": null
-      },
-      "team": {
-        "mlb_id": null,
-        "abbreviation": null
-      },
-      "status": {
-        "code": null,
-        "description": null
-      }
-    },
-    {
       "id": "p7vexf8j64",
       "ids": {
         "prism": "p7vexf8j64",
@@ -66856,6 +66856,54 @@
         "birthYear": "1991",
         "birthMonth": "2",
         "birthDay": "6",
+        "birthCity": null,
+        "birthState": null,
+        "birthCountry": null,
+        "batHand": null,
+        "fieldHand": null,
+        "debutDate": null
+      },
+      "position": {
+        "code": null,
+        "abbreviation": null
+      },
+      "team": {
+        "mlb_id": null,
+        "abbreviation": null
+      },
+      "status": {
+        "code": null,
+        "description": null
+      }
+    },
+    {
+      "id": "ry58vpbpm8",
+      "ids": {
+        "prism": "ry58vpbpm8",
+        "bbref": "garabge01",
+        "fangraphs": "19835",
+        "mlbam": "642520",
+        "nfbc": "12092",
+        "sfbb": null,
+        "yahoo": "64463"
+      },
+      "names": {
+        "boxscore": "Garabito, G",
+        "givenFirst": null,
+        "givenFirstMiddle": "Gerson Yeris",
+        "firstLast": null,
+        "lastFirst": "Garabito, Gerson",
+        "lastFirstInit": "Garabito, G",
+        "givenFull": "Gerson Garabito",
+        "last": "Garabito",
+        "first": "Gerson",
+        "middle": null
+      },
+      "profile": {
+        "birthDate": "1995-8-19",
+        "birthYear": "1995",
+        "birthMonth": "8",
+        "birthDay": "19",
         "birthCity": null,
         "birthState": null,
         "birthCountry": null,

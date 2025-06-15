@@ -2731,8 +2731,8 @@
       "abbreviation": "HOU"
     },
     "status": {
-      "code": "D15",
-      "description": "Injured 15-Day"
+      "code": "D60",
+      "description": "Injured 60-Day"
     }
   },
   "ashbyaa01": {
@@ -10843,8 +10843,8 @@
       "abbreviation": "WSH"
     },
     "status": {
-      "code": "A",
-      "description": "Active"
+      "code": "D15",
+      "description": "Injured 15-Day"
     }
   },
   "chandbu01": {
@@ -11323,8 +11323,8 @@
       "abbreviation": "CWS"
     },
     "status": {
-      "code": "NYR",
-      "description": "Not Yet Reported"
+      "code": "A",
+      "description": "Active"
     }
   },
   "clarkde02": {
@@ -16123,8 +16123,8 @@
       "abbreviation": "CWS"
     },
     "status": {
-      "code": "A",
-      "description": "Active"
+      "code": "RM",
+      "description": "Reassigned to Minors"
     }
   },
   "ellarfr01": {
@@ -19259,40 +19259,40 @@
       "yahoo": "64463"
     },
     "names": {
-      "boxscore": "Garabito",
-      "givenFirst": "Gerson",
+      "boxscore": "Garabito, G",
+      "givenFirst": null,
       "givenFirstMiddle": "Gerson Yeris",
-      "firstLast": "Gerson Garabito",
+      "firstLast": null,
       "lastFirst": "Garabito, Gerson",
       "lastFirstInit": "Garabito, G",
-      "givenFull": "Gerson Yeris Garabito",
+      "givenFull": "Gerson Garabito",
       "last": "Garabito",
       "first": "Gerson",
-      "middle": "Yeris"
+      "middle": null
     },
     "profile": {
       "birthDate": "1995-8-19",
       "birthYear": "1995",
       "birthMonth": "8",
       "birthDay": "19",
-      "birthCity": "San Cristobal",
+      "birthCity": null,
       "birthState": null,
-      "birthCountry": "Dominican Republic",
-      "batHand": "R",
-      "fieldHand": "R",
-      "debutDate": "2024-05-26"
+      "birthCountry": null,
+      "batHand": null,
+      "fieldHand": null,
+      "debutDate": null
     },
     "position": {
-      "code": "1",
-      "abbreviation": "P"
+      "code": null,
+      "abbreviation": null
     },
     "team": {
-      "mlb_id": 140,
-      "abbreviation": "TEX"
+      "mlb_id": null,
+      "abbreviation": null
     },
     "status": {
-      "code": "RM",
-      "description": "Reassigned to Minors"
+      "code": null,
+      "description": null
     }
   },
   "garciad02": {
@@ -20395,8 +20395,8 @@
       "abbreviation": "CWS"
     },
     "status": {
-      "code": "A",
-      "description": "Active"
+      "code": "RM",
+      "description": "Reassigned to Minors"
     }
   },
   "gillalo01": {
@@ -22319,6 +22319,54 @@
       "description": "Active"
     }
   },
+  "guilllu01": {
+    "id": "9yz52w35tm",
+    "ids": {
+      "prism": "9yz52w35tm",
+      "bbref": "guilllu01",
+      "fangraphs": "16451",
+      "mlbam": "641645",
+      "nfbc": "9870",
+      "sfbb": "guilllu01",
+      "yahoo": "10920"
+    },
+    "names": {
+      "boxscore": "Guillorme",
+      "givenFirst": "Luis",
+      "givenFirstMiddle": "Luis Miguel",
+      "firstLast": "Luis Guillorme",
+      "lastFirst": "Guillorme, Luis",
+      "lastFirstInit": "Guillorme, L",
+      "givenFull": "Luis Miguel Guillorme",
+      "last": "Guillorme",
+      "first": "Luis",
+      "middle": "Miguel"
+    },
+    "profile": {
+      "birthDate": "1994-9-27",
+      "birthYear": "1994",
+      "birthMonth": "9",
+      "birthDay": "27",
+      "birthCity": "Caracas",
+      "birthState": null,
+      "birthCountry": "Venezuela",
+      "batHand": "L",
+      "fieldHand": "R",
+      "debutDate": "2018-05-11"
+    },
+    "position": {
+      "code": "4",
+      "abbreviation": "2B"
+    },
+    "team": {
+      "mlb_id": 117,
+      "abbreviation": "HOU"
+    },
+    "status": {
+      "code": "A",
+      "description": "Active"
+    }
+  },
   "gurrilo01": {
     "id": "p0v5xd8qdr",
     "ids": {
@@ -22987,8 +23035,8 @@
       "abbreviation": "BAL"
     },
     "status": {
-      "code": "A",
-      "description": "Active"
+      "code": "RM",
+      "description": "Reassigned to Minors"
     }
   },
   "hanifbr01": {
@@ -26891,40 +26939,40 @@
       "yahoo": "12348"
     },
     "names": {
-      "boxscore": "Hummel, C",
-      "givenFirst": null,
+      "boxscore": "Hummel",
+      "givenFirst": "Cooper",
       "givenFirstMiddle": "Cooper Everett",
-      "firstLast": null,
+      "firstLast": "Cooper Hummel",
       "lastFirst": "Hummel, Cooper",
       "lastFirstInit": "Hummel, C",
-      "givenFull": "Cooper Hummel",
+      "givenFull": "Cooper Everett Hummel",
       "last": "Hummel",
       "first": "Cooper",
-      "middle": null
+      "middle": "Everett"
     },
     "profile": {
       "birthDate": "1994-11-28",
       "birthYear": "1994",
       "birthMonth": "11",
       "birthDay": "28",
-      "birthCity": null,
-      "birthState": null,
-      "birthCountry": null,
-      "batHand": null,
-      "fieldHand": null,
-      "debutDate": null
+      "birthCity": "Portland",
+      "birthState": "OR",
+      "birthCountry": "USA",
+      "batHand": "S",
+      "fieldHand": "R",
+      "debutDate": "2022-04-07"
     },
     "position": {
-      "code": null,
-      "abbreviation": null
+      "code": "9",
+      "abbreviation": "RF"
     },
     "team": {
-      "mlb_id": null,
-      "abbreviation": null
+      "mlb_id": 117,
+      "abbreviation": "HOU"
     },
     "status": {
-      "code": null,
-      "description": null
+      "code": "A",
+      "description": "Active"
     }
   },
   "hurtebr01": {
@@ -27035,40 +27083,40 @@
       "yahoo": "63480"
     },
     "names": {
-      "boxscore": "Hurtubise",
-      "givenFirst": "Jacob",
+      "boxscore": "Hurtubise, J",
+      "givenFirst": null,
       "givenFirstMiddle": "Jacob Gilles",
-      "firstLast": "Jacob Hurtubise",
+      "firstLast": null,
       "lastFirst": "Hurtubise, Jacob",
       "lastFirstInit": "Hurtubise, J",
-      "givenFull": "Jacob Gilles Hurtubise",
+      "givenFull": "Jacob Hurtubise",
       "last": "Hurtubise",
       "first": "Jacob",
-      "middle": "Gilles"
+      "middle": null
     },
     "profile": {
       "birthDate": "1997-12-11",
       "birthYear": "1997",
       "birthMonth": "12",
       "birthDay": "11",
-      "birthCity": "Indianapolis",
-      "birthState": "IN",
-      "birthCountry": "USA",
-      "batHand": "L",
-      "fieldHand": "R",
-      "debutDate": "2024-05-13"
+      "birthCity": null,
+      "birthState": null,
+      "birthCountry": null,
+      "batHand": null,
+      "fieldHand": null,
+      "debutDate": null
     },
     "position": {
-      "code": "7",
-      "abbreviation": "LF"
+      "code": null,
+      "abbreviation": null
     },
     "team": {
-      "mlb_id": 113,
-      "abbreviation": "CIN"
+      "mlb_id": null,
+      "abbreviation": null
     },
     "status": {
-      "code": "RM",
-      "description": "Reassigned to Minors"
+      "code": null,
+      "description": null
     }
   },
   "ibanean01": {
@@ -33595,8 +33643,8 @@
       "abbreviation": "WSH"
     },
     "status": {
-      "code": "RM",
-      "description": "Reassigned to Minors"
+      "code": "A",
+      "description": "Active"
     }
   },
   "lowderh01": {
@@ -38251,8 +38299,8 @@
       "abbreviation": "HOU"
     },
     "status": {
-      "code": "A",
-      "description": "Active"
+      "code": "D10",
+      "description": "Injured 10-Day"
     }
   },
   "menacr01": {
@@ -42091,8 +42139,8 @@
       "abbreviation": "CWS"
     },
     "status": {
-      "code": "RM",
-      "description": "Reassigned to Minors"
+      "code": "A",
+      "description": "Active"
     }
   },
   "noeljh01": {
@@ -50875,8 +50923,8 @@
       "abbreviation": "BAL"
     },
     "status": {
-      "code": "D10",
-      "description": "Injured 10-Day"
+      "code": "A",
+      "description": "Active"
     }
   },
   "sanchje02": {
@@ -53275,8 +53323,8 @@
       "abbreviation": "STL"
     },
     "status": {
-      "code": "A",
-      "description": "Active"
+      "code": "RM",
+      "description": "Reassigned to Minors"
     }
   },
   "silsech01": {
@@ -61211,40 +61259,40 @@
       "yahoo": "10875"
     },
     "names": {
-      "boxscore": "Vilade, R",
-      "givenFirst": null,
+      "boxscore": "Vilade",
+      "givenFirst": "Ryan",
       "givenFirstMiddle": "Ryan James",
-      "firstLast": null,
+      "firstLast": "Ryan Vilade",
       "lastFirst": "Vilade, Ryan",
       "lastFirstInit": "Vilade, R",
-      "givenFull": "Ryan Vilade",
+      "givenFull": "Ryan James Vilade",
       "last": "Vilade",
       "first": "Ryan",
-      "middle": null
+      "middle": "James"
     },
     "profile": {
       "birthDate": "1999-2-18",
       "birthYear": "1999",
       "birthMonth": "2",
       "birthDay": "18",
-      "birthCity": null,
-      "birthState": null,
-      "birthCountry": null,
-      "batHand": null,
-      "fieldHand": null,
-      "debutDate": null
+      "birthCity": "Grapevine",
+      "birthState": "TX",
+      "birthCountry": "USA",
+      "batHand": "R",
+      "fieldHand": "R",
+      "debutDate": "2021-09-18"
     },
     "position": {
-      "code": null,
-      "abbreviation": null
+      "code": "9",
+      "abbreviation": "RF"
     },
     "team": {
-      "mlb_id": null,
-      "abbreviation": null
+      "mlb_id": 113,
+      "abbreviation": "CIN"
     },
     "status": {
-      "code": null,
-      "description": null
+      "code": "RM",
+      "description": "Reassigned to Minors"
     }
   },
   "villada01": {
@@ -62011,8 +62059,8 @@
       "abbreviation": "STL"
     },
     "status": {
-      "code": "D10",
-      "description": "Injured 10-Day"
+      "code": "A",
+      "description": "Active"
     }
   },
   "walkejo03": {
@@ -63163,8 +63211,8 @@
       "abbreviation": "HOU"
     },
     "status": {
-      "code": "A",
-      "description": "Active"
+      "code": "RM",
+      "description": "Reassigned to Minors"
     }
   },
   "whiteel04": {
