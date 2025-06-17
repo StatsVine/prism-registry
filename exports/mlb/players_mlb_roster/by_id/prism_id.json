@@ -1356,39 +1356,39 @@
     },
     "names": {
       "boxscore": "Swanson, E",
-      "givenFirst": "Erik",
+      "givenFirst": null,
       "givenFirstMiddle": "Erik Donald",
-      "firstLast": "Erik Swanson",
+      "firstLast": null,
       "lastFirst": "Swanson, Erik",
       "lastFirstInit": "Swanson, E",
-      "givenFull": "Erik Donald Swanson",
+      "givenFull": "Erik Swanson",
       "last": "Swanson",
       "first": "Erik",
-      "middle": "Donald"
+      "middle": null
     },
     "profile": {
       "birthDate": "1993-9-4",
       "birthYear": "1993",
       "birthMonth": "9",
       "birthDay": "4",
-      "birthCity": "Fargo",
-      "birthState": "ND",
-      "birthCountry": "USA",
-      "batHand": "R",
-      "fieldHand": "R",
-      "debutDate": "2019-04-11"
+      "birthCity": null,
+      "birthState": null,
+      "birthCountry": null,
+      "batHand": null,
+      "fieldHand": null,
+      "debutDate": null
     },
     "position": {
-      "code": "1",
-      "abbreviation": "P"
+      "code": null,
+      "abbreviation": null
     },
     "team": {
-      "mlb_id": 141,
-      "abbreviation": "TOR"
+      "mlb_id": null,
+      "abbreviation": null
     },
     "status": {
-      "code": "A",
-      "description": "Active"
+      "code": null,
+      "description": null
     }
   },
   "0lqfwsdh4w": {
@@ -2395,8 +2395,8 @@
       "abbreviation": "NYM"
     },
     "status": {
-      "code": "A",
-      "description": "Active"
+      "code": "D15",
+      "description": "Injured 15-Day"
     }
   },
   "11xr0jsdf0": {
@@ -18868,7 +18868,7 @@
     "ids": {
       "prism": "8z70xbxknh",
       "bbref": "housebr01",
-      "fangraphs": "sa3017694",
+      "fangraphs": "29993",
       "mlbam": "691781",
       "nfbc": "11926",
       "sfbb": "housebr01",
@@ -23083,8 +23083,8 @@
       "abbreviation": "CWS"
     },
     "status": {
-      "code": "D10",
-      "description": "Injured 10-Day"
+      "code": "A",
+      "description": "Active"
     }
   },
   "brxhzsnrnd": {
@@ -31147,8 +31147,8 @@
       "abbreviation": "BAL"
     },
     "status": {
-      "code": "A",
-      "description": "Active"
+      "code": "RM",
+      "description": "Reassigned to Minors"
     }
   },
   "fqb6h1sdbh": {
@@ -32219,40 +32219,40 @@
       "yahoo": "63480"
     },
     "names": {
-      "boxscore": "Hurtubise, J",
-      "givenFirst": null,
+      "boxscore": "Hurtubise",
+      "givenFirst": "Jacob",
       "givenFirstMiddle": "Jacob Gilles",
-      "firstLast": null,
+      "firstLast": "Jacob Hurtubise",
       "lastFirst": "Hurtubise, Jacob",
       "lastFirstInit": "Hurtubise, J",
-      "givenFull": "Jacob Hurtubise",
+      "givenFull": "Jacob Gilles Hurtubise",
       "last": "Hurtubise",
       "first": "Jacob",
-      "middle": null
+      "middle": "Gilles"
     },
     "profile": {
       "birthDate": "1997-12-11",
       "birthYear": "1997",
       "birthMonth": "12",
       "birthDay": "11",
-      "birthCity": null,
-      "birthState": null,
-      "birthCountry": null,
-      "batHand": null,
-      "fieldHand": null,
-      "debutDate": null
+      "birthCity": "Indianapolis",
+      "birthState": "IN",
+      "birthCountry": "USA",
+      "batHand": "L",
+      "fieldHand": "R",
+      "debutDate": "2024-05-13"
     },
     "position": {
-      "code": null,
-      "abbreviation": null
+      "code": "7",
+      "abbreviation": "LF"
     },
     "team": {
-      "mlb_id": null,
-      "abbreviation": null
+      "mlb_id": 136,
+      "abbreviation": "SEA"
     },
     "status": {
-      "code": null,
-      "description": null
+      "code": "RM",
+      "description": "Reassigned to Minors"
     }
   },
   "g64b07yz64": {
@@ -35661,6 +35661,54 @@
     "status": {
       "code": "D60",
       "description": "Injured 60-Day"
+    }
+  },
+  "hr6rkggeew": {
+    "id": "hr6rkggeew",
+    "ids": {
+      "prism": "hr6rkggeew",
+      "bbref": null,
+      "fangraphs": "sa3023068",
+      "mlbam": "692216",
+      "nfbc": null,
+      "sfbb": null,
+      "yahoo": "62758"
+    },
+    "names": {
+      "boxscore": "Kayfus, C",
+      "givenFirst": null,
+      "givenFirstMiddle": "Collin Joseph",
+      "firstLast": null,
+      "lastFirst": "Kayfus, C. J.",
+      "lastFirstInit": "Kayfus, C",
+      "givenFull": "C. J. Kayfus",
+      "last": "Kayfus",
+      "first": "C. J.",
+      "middle": null
+    },
+    "profile": {
+      "birthDate": "2001-10-28",
+      "birthYear": "2001",
+      "birthMonth": "10",
+      "birthDay": "28",
+      "birthCity": null,
+      "birthState": null,
+      "birthCountry": null,
+      "batHand": null,
+      "fieldHand": null,
+      "debutDate": null
+    },
+    "position": {
+      "code": null,
+      "abbreviation": null
+    },
+    "team": {
+      "mlb_id": null,
+      "abbreviation": null
+    },
+    "status": {
+      "code": null,
+      "description": null
     }
   },
   "hr9r4x7em0": {
@@ -40843,8 +40891,8 @@
       "abbreviation": "NYM"
     },
     "status": {
-      "code": "RM",
-      "description": "Reassigned to Minors"
+      "code": "A",
+      "description": "Active"
     }
   },
   "l2hvnkt1s8": {
@@ -50299,8 +50347,8 @@
       "abbreviation": "TOR"
     },
     "status": {
-      "code": "A",
-      "description": "Active"
+      "code": "D15",
+      "description": "Injured 15-Day"
     }
   },
   "qbftkmzfj0": {
@@ -56875,8 +56923,8 @@
       "abbreviation": "BAL"
     },
     "status": {
-      "code": "RM",
-      "description": "Reassigned to Minors"
+      "code": "A",
+      "description": "Active"
     }
   },
   "tqzg9g7ty4": {
@@ -63451,8 +63499,8 @@
       "abbreviation": "TOR"
     },
     "status": {
-      "code": "RM",
-      "description": "Reassigned to Minors"
+      "code": "A",
+      "description": "Active"
     }
   },
   "xlh503n348": {
