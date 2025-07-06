@@ -908,8 +908,8 @@
         "abbreviation": "LAA"
       },
       "status": {
-        "code": "A",
-        "description": "Active"
+        "code": "D10",
+        "description": "Injured 10-Day"
       }
     },
     {
@@ -1382,6 +1382,54 @@
       "position": {
         "code": "5",
         "abbreviation": "3B"
+      },
+      "team": {
+        "mlb_id": 108,
+        "abbreviation": "LAA"
+      },
+      "status": {
+        "code": "A",
+        "description": "Active"
+      }
+    },
+    {
+      "id": "qgtts42snm",
+      "ids": {
+        "prism": "qgtts42snm",
+        "bbref": "stevech02",
+        "fangraphs": "29614",
+        "mlbam": "677060",
+        "nfbc": "12093",
+        "sfbb": null,
+        "yahoo": "62197"
+      },
+      "names": {
+        "boxscore": "Stevens",
+        "givenFirst": "Chad",
+        "givenFirstMiddle": "Chad David",
+        "firstLast": "Chad Stevens",
+        "lastFirst": "Stevens, Chad",
+        "lastFirstInit": "Stevens, C",
+        "givenFull": "Chad David Stevens",
+        "last": "Stevens",
+        "first": "Chad",
+        "middle": "David"
+      },
+      "profile": {
+        "birthDate": "1999-2-3",
+        "birthYear": "1999",
+        "birthMonth": "2",
+        "birthDay": "3",
+        "birthCity": "Walnut Creek",
+        "birthState": "CA",
+        "birthCountry": "USA",
+        "batHand": "R",
+        "fieldHand": "R",
+        "debutDate": "2025-07-03"
+      },
+      "position": {
+        "code": "6",
+        "abbreviation": "SS"
       },
       "team": {
         "mlb_id": 108,
@@ -2115,6 +2163,54 @@
       }
     },
     {
+      "id": "2lw0b7kd9d",
+      "ids": {
+        "prism": "2lw0b7kd9d",
+        "bbref": "woodfja01",
+        "fangraphs": "18674",
+        "mlbam": "663765",
+        "nfbc": "10772",
+        "sfbb": "woodfja01",
+        "yahoo": "11542"
+      },
+      "names": {
+        "boxscore": "Woodford",
+        "givenFirst": "Jacob",
+        "givenFirstMiddle": "Jacob Robert",
+        "firstLast": "Jake Woodford",
+        "lastFirst": "Woodford, Jake",
+        "lastFirstInit": "Woodford, J",
+        "givenFull": "Jacob Robert Woodford",
+        "last": "Woodford",
+        "first": "Jake",
+        "middle": "Robert"
+      },
+      "profile": {
+        "birthDate": "1996-10-28",
+        "birthYear": "1996",
+        "birthMonth": "10",
+        "birthDay": "28",
+        "birthCity": "St. Petersburg",
+        "birthState": "FL",
+        "birthCountry": "USA",
+        "batHand": "R",
+        "fieldHand": "R",
+        "debutDate": "2020-08-15"
+      },
+      "position": {
+        "code": "1",
+        "abbreviation": "P"
+      },
+      "team": {
+        "mlb_id": 109,
+        "abbreviation": "AZ"
+      },
+      "status": {
+        "code": "A",
+        "description": "Active"
+      }
+    },
+    {
       "id": "2yqfzwe0zr",
       "ids": {
         "prism": "2yqfzwe0zr",
@@ -2206,8 +2302,8 @@
         "abbreviation": "AZ"
       },
       "status": {
-        "code": "D10",
-        "description": "Injured 10-Day"
+        "code": "A",
+        "description": "Active"
       }
     },
     {
@@ -3694,8 +3790,8 @@
         "abbreviation": "AZ"
       },
       "status": {
-        "code": "A",
-        "description": "Active"
+        "code": "RM",
+        "description": "Reassigned to Minors"
       }
     },
     {
@@ -4512,8 +4608,8 @@
         "abbreviation": "BAL"
       },
       "status": {
-        "code": "A",
-        "description": "Active"
+        "code": "RM",
+        "description": "Reassigned to Minors"
       }
     },
     {
@@ -4656,8 +4752,8 @@
         "abbreviation": "BAL"
       },
       "status": {
-        "code": "D10",
-        "description": "Injured 10-Day"
+        "code": "A",
+        "description": "Active"
       }
     },
     {
@@ -4754,6 +4850,54 @@
       "status": {
         "code": "D10",
         "description": "Injured 10-Day"
+      }
+    },
+    {
+      "id": "bnwdhh11nm",
+      "ids": {
+        "prism": "bnwdhh11nm",
+        "bbref": "martico02",
+        "fangraphs": "19884",
+        "mlbam": "656686",
+        "nfbc": "10170",
+        "sfbb": "martico02",
+        "yahoo": "11316"
+      },
+      "names": {
+        "boxscore": "Martin, Co",
+        "givenFirst": "Corbin",
+        "givenFirstMiddle": "Corbin Montgomery",
+        "firstLast": "Corbin Martin",
+        "lastFirst": "Martin, Corbin",
+        "lastFirstInit": "Martin, Co",
+        "givenFull": "Corbin Montgomery Martin",
+        "last": "Martin",
+        "first": "Corbin",
+        "middle": "Montgomery"
+      },
+      "profile": {
+        "birthDate": "1995-12-28",
+        "birthYear": "1995",
+        "birthMonth": "12",
+        "birthDay": "28",
+        "birthCity": "Hempstead",
+        "birthState": "TX",
+        "birthCountry": "USA",
+        "batHand": "R",
+        "fieldHand": "R",
+        "debutDate": "2019-05-12"
+      },
+      "position": {
+        "code": "1",
+        "abbreviation": "P"
+      },
+      "team": {
+        "mlb_id": 110,
+        "abbreviation": "BAL"
+      },
+      "status": {
+        "code": "A",
+        "description": "Active"
       }
     },
     {
@@ -6674,8 +6818,8 @@
         "abbreviation": "BOS"
       },
       "status": {
-        "code": "RM",
-        "description": "Reassigned to Minors"
+        "code": "D15",
+        "description": "Injured 15-Day"
       }
     },
     {
@@ -7442,8 +7586,8 @@
         "abbreviation": "BOS"
       },
       "status": {
-        "code": "A",
-        "description": "Active"
+        "code": "RM",
+        "description": "Reassigned to Minors"
       }
     },
     {
@@ -9412,8 +9556,8 @@
         "abbreviation": "CHC"
       },
       "status": {
-        "code": "RM",
-        "description": "Reassigned to Minors"
+        "code": "A",
+        "description": "Active"
       }
     },
     {
@@ -10564,8 +10708,8 @@
         "abbreviation": "CHC"
       },
       "status": {
-        "code": "A",
-        "description": "Active"
+        "code": "D15",
+        "description": "Injured 15-Day"
       }
     }
   ],
@@ -11334,8 +11478,8 @@
         "abbreviation": "CIN"
       },
       "status": {
-        "code": "A",
-        "description": "Active"
+        "code": "RM",
+        "description": "Reassigned to Minors"
       }
     },
     {
@@ -11382,8 +11526,8 @@
         "abbreviation": "CIN"
       },
       "status": {
-        "code": "A",
-        "description": "Active"
+        "code": "RM",
+        "description": "Reassigned to Minors"
       }
     },
     {
@@ -11622,8 +11766,8 @@
         "abbreviation": "CIN"
       },
       "status": {
-        "code": "A",
-        "description": "Active"
+        "code": "RM",
+        "description": "Reassigned to Minors"
       }
     },
     {
@@ -11910,8 +12054,8 @@
         "abbreviation": "CIN"
       },
       "status": {
-        "code": "D10",
-        "description": "Injured 10-Day"
+        "code": "A",
+        "description": "Active"
       }
     },
     {
@@ -12294,8 +12438,8 @@
         "abbreviation": "CIN"
       },
       "status": {
-        "code": "D15",
-        "description": "Injured 15-Day"
+        "code": "A",
+        "description": "Active"
       }
     },
     {
@@ -12824,8 +12968,8 @@
         "abbreviation": "CLE"
       },
       "status": {
-        "code": "D15",
-        "description": "Injured 15-Day"
+        "code": "A",
+        "description": "Active"
       }
     },
     {
@@ -13784,8 +13928,8 @@
         "abbreviation": "CLE"
       },
       "status": {
-        "code": "RM",
-        "description": "Reassigned to Minors"
+        "code": "A",
+        "description": "Active"
       }
     },
     {
@@ -14365,54 +14509,6 @@
       }
     },
     {
-      "id": "q8xmt7ee0m",
-      "ids": {
-        "prism": "q8xmt7ee0m",
-        "bbref": "allarko01",
-        "fangraphs": "18694",
-        "mlbam": "663465",
-        "nfbc": "9790",
-        "sfbb": "allarko01",
-        "yahoo": "10422"
-      },
-      "names": {
-        "boxscore": "Allard",
-        "givenFirst": "Kolby",
-        "givenFirstMiddle": "Kolby Kenneth",
-        "firstLast": "Kolby Allard",
-        "lastFirst": "Allard, Kolby",
-        "lastFirstInit": "Allard, K",
-        "givenFull": "Kolby Kenneth Allard",
-        "last": "Allard",
-        "first": "Kolby",
-        "middle": "Kenneth"
-      },
-      "profile": {
-        "birthDate": "1997-8-13",
-        "birthYear": "1997",
-        "birthMonth": "8",
-        "birthDay": "13",
-        "birthCity": "Anaheim",
-        "birthState": "CA",
-        "birthCountry": "USA",
-        "batHand": "L",
-        "fieldHand": "L",
-        "debutDate": "2018-07-31"
-      },
-      "position": {
-        "code": "1",
-        "abbreviation": "P"
-      },
-      "team": {
-        "mlb_id": 114,
-        "abbreviation": "CLE"
-      },
-      "status": {
-        "code": "A",
-        "description": "Active"
-      }
-    },
-    {
       "id": "rqhj9d5cem",
       "ids": {
         "prism": "rqhj9d5cem",
@@ -14845,54 +14941,6 @@
       }
     },
     {
-      "id": "zeb60s5q8r",
-      "ids": {
-        "prism": "zeb60s5q8r",
-        "bbref": "ortizlu03",
-        "fangraphs": "27646",
-        "mlbam": "682847",
-        "nfbc": "11572",
-        "sfbb": "ortizlu03",
-        "yahoo": "12699"
-      },
-      "names": {
-        "boxscore": "Ortiz, L.L.",
-        "givenFirst": "Luis",
-        "givenFirstMiddle": "Luis Leandro",
-        "firstLast": "Luis L. Ortiz",
-        "lastFirst": "Ortiz, Luis L.",
-        "lastFirstInit": "Ortiz, L. L.",
-        "givenFull": "Luis Leandro Ortiz",
-        "last": "Ortiz",
-        "first": "Luis",
-        "middle": "Leandro"
-      },
-      "profile": {
-        "birthDate": "1999-1-27",
-        "birthYear": "1999",
-        "birthMonth": "1",
-        "birthDay": "27",
-        "birthCity": "San Pedro de Macoris",
-        "birthState": null,
-        "birthCountry": "Dominican Republic",
-        "batHand": "R",
-        "fieldHand": "R",
-        "debutDate": "2022-09-13"
-      },
-      "position": {
-        "code": "1",
-        "abbreviation": "P"
-      },
-      "team": {
-        "mlb_id": 114,
-        "abbreviation": "CLE"
-      },
-      "status": {
-        "code": "A",
-        "description": "Active"
-      }
-    },
-    {
       "id": "zlb613bpvd",
       "ids": {
         "prism": "zlb613bpvd",
@@ -14994,8 +15042,8 @@
       "id": "292ge5lh1w",
       "ids": {
         "prism": "292ge5lh1w",
-        "bbref": null,
-        "fangraphs": "sa3015648",
+        "bbref": "fernaya01",
+        "fangraphs": "28552",
         "mlbam": "692585",
         "nfbc": "12219",
         "sfbb": null,
@@ -15023,7 +15071,7 @@
         "birthCountry": "Cuba",
         "batHand": "L",
         "fieldHand": "L",
-        "debutDate": null
+        "debutDate": "2025-07-02"
       },
       "position": {
         "code": "9",
@@ -15178,8 +15226,8 @@
         "abbreviation": "COL"
       },
       "status": {
-        "code": "RM",
-        "description": "Reassigned to Minors"
+        "code": "A",
+        "description": "Active"
       }
     },
     {
@@ -15610,8 +15658,8 @@
         "abbreviation": "COL"
       },
       "status": {
-        "code": "A",
-        "description": "Active"
+        "code": "RM",
+        "description": "Reassigned to Minors"
       }
     },
     {
@@ -15658,8 +15706,8 @@
         "abbreviation": "COL"
       },
       "status": {
-        "code": "D60",
-        "description": "Injured 60-Day"
+        "code": "RM",
+        "description": "Reassigned to Minors"
       }
     },
     {
@@ -17196,8 +17244,8 @@
         "abbreviation": "DET"
       },
       "status": {
-        "code": "A",
-        "description": "Active"
+        "code": "RM",
+        "description": "Reassigned to Minors"
       }
     },
     {
@@ -19116,8 +19164,8 @@
         "abbreviation": "DET"
       },
       "status": {
-        "code": "A",
-        "description": "Active"
+        "code": "RM",
+        "description": "Reassigned to Minors"
       }
     },
     {
@@ -19164,8 +19212,8 @@
         "abbreviation": "DET"
       },
       "status": {
-        "code": "D15",
-        "description": "Injured 15-Day"
+        "code": "A",
+        "description": "Active"
       }
     },
     {
@@ -19212,8 +19260,8 @@
         "abbreviation": "DET"
       },
       "status": {
-        "code": "A",
-        "description": "Active"
+        "code": "RM",
+        "description": "Reassigned to Minors"
       }
     }
   ],
@@ -19456,54 +19504,6 @@
       "status": {
         "code": "D60",
         "description": "Injured 60-Day"
-      }
-    },
-    {
-      "id": "37dxl83rew",
-      "ids": {
-        "prism": "37dxl83rew",
-        "bbref": "weemsjo01",
-        "fangraphs": "13190",
-        "mlbam": "607179",
-        "nfbc": "10864",
-        "sfbb": "weemsjo01",
-        "yahoo": "11900"
-      },
-      "names": {
-        "boxscore": "Weems",
-        "givenFirst": "Jordan",
-        "givenFirstMiddle": "Jordan Blake",
-        "firstLast": "Jordan Weems",
-        "lastFirst": "Weems, Jordan",
-        "lastFirstInit": "Weems, J",
-        "givenFull": "Jordan Blake Weems",
-        "last": "Weems",
-        "first": "Jordan",
-        "middle": "Blake"
-      },
-      "profile": {
-        "birthDate": "1992-11-7",
-        "birthYear": "1992",
-        "birthMonth": "11",
-        "birthDay": "7",
-        "birthCity": "Columbus",
-        "birthState": "GA",
-        "birthCountry": "USA",
-        "batHand": "L",
-        "fieldHand": "R",
-        "debutDate": "2020-07-28"
-      },
-      "position": {
-        "code": "1",
-        "abbreviation": "P"
-      },
-      "team": {
-        "mlb_id": 117,
-        "abbreviation": "HOU"
-      },
-      "status": {
-        "code": "A",
-        "description": "Active"
       }
     },
     {
@@ -20216,6 +20216,54 @@
       "position": {
         "code": "2",
         "abbreviation": "C"
+      },
+      "team": {
+        "mlb_id": 117,
+        "abbreviation": "HOU"
+      },
+      "status": {
+        "code": "A",
+        "description": "Active"
+      }
+    },
+    {
+      "id": "9y8e89cwmd",
+      "ids": {
+        "prism": "9y8e89cwmd",
+        "bbref": "shortza01",
+        "fangraphs": "19562",
+        "mlbam": "670097",
+        "nfbc": "10776",
+        "sfbb": "shortza01",
+        "yahoo": "11438"
+      },
+      "names": {
+        "boxscore": "Short",
+        "givenFirst": "Zachary",
+        "givenFirstMiddle": "Zachary Ryan",
+        "firstLast": "Zack Short",
+        "lastFirst": "Short, Zack",
+        "lastFirstInit": "Short, Z",
+        "givenFull": "Zachary Ryan Short",
+        "last": "Short",
+        "first": "Zack",
+        "middle": "Ryan"
+      },
+      "profile": {
+        "birthDate": "1995-5-29",
+        "birthYear": "1995",
+        "birthMonth": "5",
+        "birthDay": "29",
+        "birthCity": "Kingston",
+        "birthState": "NY",
+        "birthCountry": "USA",
+        "batHand": "R",
+        "fieldHand": "R",
+        "debutDate": "2021-04-21"
+      },
+      "position": {
+        "code": "5",
+        "abbreviation": "3B"
       },
       "team": {
         "mlb_id": 117,
@@ -21280,6 +21328,54 @@
       "status": {
         "code": "RM",
         "description": "Reassigned to Minors"
+      }
+    },
+    {
+      "id": "t7nnx7w7r8",
+      "ids": {
+        "prism": "t7nnx7w7r8",
+        "bbref": "nerishe01",
+        "fangraphs": "11804",
+        "mlbam": "593576",
+        "nfbc": "8860",
+        "sfbb": "nerishe01",
+        "yahoo": "9779"
+      },
+      "names": {
+        "boxscore": "Neris",
+        "givenFirst": "Héctor",
+        "givenFirstMiddle": "Héctor",
+        "firstLast": "Héctor Neris",
+        "lastFirst": "Neris, Héctor",
+        "lastFirstInit": "Neris, H",
+        "givenFull": "Héctor Neris",
+        "last": "Neris",
+        "first": "Héctor",
+        "middle": null
+      },
+      "profile": {
+        "birthDate": "1989-6-14",
+        "birthYear": "1989",
+        "birthMonth": "6",
+        "birthDay": "14",
+        "birthCity": "Villa Altagracia",
+        "birthState": null,
+        "birthCountry": "Dominican Republic",
+        "batHand": "R",
+        "fieldHand": "R",
+        "debutDate": "2014-08-05"
+      },
+      "position": {
+        "code": "1",
+        "abbreviation": "P"
+      },
+      "team": {
+        "mlb_id": 117,
+        "abbreviation": "HOU"
+      },
+      "status": {
+        "code": "A",
+        "description": "Active"
       }
     },
     {
@@ -23061,6 +23157,54 @@
       }
     },
     {
+      "id": "rt2xnr6kj4",
+      "ids": {
+        "prism": "rt2xnr6kj4",
+        "bbref": "mailelu01",
+        "fangraphs": "13355",
+        "mlbam": "571912",
+        "nfbc": "9143",
+        "sfbb": "mailelu01",
+        "yahoo": "10068"
+      },
+      "names": {
+        "boxscore": "Maile",
+        "givenFirst": "Luke",
+        "givenFirstMiddle": "Luke Richard",
+        "firstLast": "Luke Maile",
+        "lastFirst": "Maile, Luke",
+        "lastFirstInit": "Maile, L",
+        "givenFull": "Luke Richard Maile",
+        "last": "Maile",
+        "first": "Luke",
+        "middle": "Richard"
+      },
+      "profile": {
+        "birthDate": "1991-2-6",
+        "birthYear": "1991",
+        "birthMonth": "2",
+        "birthDay": "6",
+        "birthCity": "Edgewood",
+        "birthState": "KY",
+        "birthCountry": "USA",
+        "batHand": "R",
+        "fieldHand": "R",
+        "debutDate": "2015-09-01"
+      },
+      "position": {
+        "code": "2",
+        "abbreviation": "C"
+      },
+      "team": {
+        "mlb_id": 118,
+        "abbreviation": "KC"
+      },
+      "status": {
+        "code": "A",
+        "description": "Active"
+      }
+    },
+    {
       "id": "slbkt2y2e8",
       "ids": {
         "prism": "slbkt2y2e8",
@@ -23152,8 +23296,8 @@
         "abbreviation": "KC"
       },
       "status": {
-        "code": "A",
-        "description": "Active"
+        "code": "RM",
+        "description": "Reassigned to Minors"
       }
     },
     {
@@ -24114,8 +24258,8 @@
         "abbreviation": "LAD"
       },
       "status": {
-        "code": "RM",
-        "description": "Reassigned to Minors"
+        "code": "A",
+        "description": "Active"
       }
     },
     {
@@ -24402,8 +24546,8 @@
         "abbreviation": "LAD"
       },
       "status": {
-        "code": "A",
-        "description": "Active"
+        "code": "D10",
+        "description": "Injured 10-Day"
       }
     },
     {
@@ -24642,8 +24786,8 @@
         "abbreviation": "LAD"
       },
       "status": {
-        "code": "A",
-        "description": "Active"
+        "code": "RM",
+        "description": "Reassigned to Minors"
       }
     },
     {
@@ -25314,8 +25458,8 @@
         "abbreviation": "LAD"
       },
       "status": {
-        "code": "RM",
-        "description": "Reassigned to Minors"
+        "code": "A",
+        "description": "Active"
       }
     },
     {
@@ -25463,6 +25607,54 @@
       }
     },
     {
+      "id": "vk4gr2zbhh",
+      "ids": {
+        "prism": "vk4gr2zbhh",
+        "bbref": "alexacj01",
+        "fangraphs": "20557",
+        "mlbam": "680769",
+        "nfbc": "12115",
+        "sfbb": null,
+        "yahoo": "61739"
+      },
+      "names": {
+        "boxscore": "Alexander, C",
+        "givenFirst": "Charles",
+        "givenFirstMiddle": "Charles Joseph Wesley",
+        "firstLast": "CJ Alexander",
+        "lastFirst": "Alexander, CJ",
+        "lastFirstInit": "Alexander, C",
+        "givenFull": "Charles Joseph Wesley Alexander",
+        "last": "Alexander",
+        "first": "CJ",
+        "middle": "Joseph Wesley"
+      },
+      "profile": {
+        "birthDate": "1996-7-17",
+        "birthYear": "1996",
+        "birthMonth": "7",
+        "birthDay": "17",
+        "birthCity": "Merrillville",
+        "birthState": "IN",
+        "birthCountry": "USA",
+        "batHand": "L",
+        "fieldHand": "R",
+        "debutDate": "2024-06-24"
+      },
+      "position": {
+        "code": "3",
+        "abbreviation": "1B"
+      },
+      "team": {
+        "mlb_id": 119,
+        "abbreviation": "LAD"
+      },
+      "status": {
+        "code": "RM",
+        "description": "Reassigned to Minors"
+      }
+    },
+    {
       "id": "wr7lpzxfhh",
       "ids": {
         "prism": "wr7lpzxfhh",
@@ -25556,54 +25748,6 @@
       "status": {
         "code": "A",
         "description": "Active"
-      }
-    },
-    {
-      "id": "xymfpjbmpr",
-      "ids": {
-        "prism": "xymfpjbmpr",
-        "bbref": "berrost01",
-        "fangraphs": "22766",
-        "mlbam": "672642",
-        "nfbc": "12113",
-        "sfbb": "berrost01",
-        "yahoo": "61812"
-      },
-      "names": {
-        "boxscore": "Berroa",
-        "givenFirst": "Steward",
-        "givenFirstMiddle": "Steward",
-        "firstLast": "Steward Berroa",
-        "lastFirst": "Berroa, Steward",
-        "lastFirstInit": "Berroa, S",
-        "givenFull": "Steward Berroa",
-        "last": "Berroa",
-        "first": "Steward",
-        "middle": null
-      },
-      "profile": {
-        "birthDate": "1999-6-5",
-        "birthYear": "1999",
-        "birthMonth": "6",
-        "birthDay": "5",
-        "birthCity": "Santo Domingo",
-        "birthState": null,
-        "birthCountry": "Dominican Republic",
-        "batHand": "S",
-        "fieldHand": "R",
-        "debutDate": "2024-06-23"
-      },
-      "position": {
-        "code": "9",
-        "abbreviation": "RF"
-      },
-      "team": {
-        "mlb_id": 119,
-        "abbreviation": "LAD"
-      },
-      "status": {
-        "code": "RM",
-        "description": "Reassigned to Minors"
       }
     },
     {
@@ -25996,8 +26140,8 @@
       "id": "1rmvfxw37r",
       "ids": {
         "prism": "1rmvfxw37r",
-        "bbref": null,
-        "fangraphs": "sa3014716",
+        "bbref": "laraan01",
+        "fangraphs": "27967",
         "mlbam": "691251",
         "nfbc": "12261",
         "sfbb": null,
@@ -26036,8 +26180,8 @@
         "abbreviation": "WSH"
       },
       "status": {
-        "code": "A",
-        "description": "Active"
+        "code": "RM",
+        "description": "Reassigned to Minors"
       }
     },
     {
@@ -26468,8 +26612,8 @@
         "abbreviation": "WSH"
       },
       "status": {
-        "code": "D60",
-        "description": "Injured 60-Day"
+        "code": "A",
+        "description": "Active"
       }
     },
     {
@@ -26708,8 +26852,8 @@
         "abbreviation": "WSH"
       },
       "status": {
-        "code": "A",
-        "description": "Active"
+        "code": "D15",
+        "description": "Injured 15-Day"
       }
     },
     {
@@ -26996,8 +27140,8 @@
         "abbreviation": "WSH"
       },
       "status": {
-        "code": "D15",
-        "description": "Injured 15-Day"
+        "code": "A",
+        "description": "Active"
       }
     },
     {
@@ -27092,8 +27236,8 @@
         "abbreviation": "WSH"
       },
       "status": {
-        "code": "D10",
-        "description": "Injured 10-Day"
+        "code": "A",
+        "description": "Active"
       }
     },
     {
@@ -27236,8 +27380,8 @@
         "abbreviation": "WSH"
       },
       "status": {
-        "code": "D15",
-        "description": "Injured 15-Day"
+        "code": "D60",
+        "description": "Injured 60-Day"
       }
     },
     {
@@ -27860,8 +28004,8 @@
         "abbreviation": "WSH"
       },
       "status": {
-        "code": "A",
-        "description": "Active"
+        "code": "RM",
+        "description": "Reassigned to Minors"
       }
     },
     {
@@ -27956,8 +28100,8 @@
         "abbreviation": "WSH"
       },
       "status": {
-        "code": "A",
-        "description": "Active"
+        "code": "RM",
+        "description": "Reassigned to Minors"
       }
     },
     {
@@ -28010,6 +28154,54 @@
     }
   ],
   "121": [
+    {
+      "id": "000svvhjew",
+      "ids": {
+        "prism": "000svvhjew",
+        "bbref": "popza01",
+        "fangraphs": "20185",
+        "mlbam": "647315",
+        "nfbc": "11183",
+        "sfbb": null,
+        "yahoo": "12108"
+      },
+      "names": {
+        "boxscore": "Pop",
+        "givenFirst": "Zachery",
+        "givenFirstMiddle": "Zachery M.",
+        "firstLast": "Zach Pop",
+        "lastFirst": "Pop, Zach",
+        "lastFirstInit": "Pop, Z",
+        "givenFull": "Zachery M. Pop",
+        "last": "Pop",
+        "first": "Zach",
+        "middle": "M."
+      },
+      "profile": {
+        "birthDate": "1996-9-20",
+        "birthYear": "1996",
+        "birthMonth": "9",
+        "birthDay": "20",
+        "birthCity": "Brampton",
+        "birthState": "ON",
+        "birthCountry": "Canada",
+        "batHand": "R",
+        "fieldHand": "R",
+        "debutDate": "2021-04-03"
+      },
+      "position": {
+        "code": "1",
+        "abbreviation": "P"
+      },
+      "team": {
+        "mlb_id": 121,
+        "abbreviation": "NYM"
+      },
+      "status": {
+        "code": "A",
+        "description": "Active"
+      }
+    },
     {
       "id": "04tb2mnv00",
       "ids": {
@@ -28198,8 +28390,8 @@
         "abbreviation": "NYM"
       },
       "status": {
-        "code": "A",
-        "description": "Active"
+        "code": "D15",
+        "description": "Injured 15-Day"
       }
     },
     {
@@ -28336,54 +28528,6 @@
       "position": {
         "code": "7",
         "abbreviation": "LF"
-      },
-      "team": {
-        "mlb_id": 121,
-        "abbreviation": "NYM"
-      },
-      "status": {
-        "code": "RM",
-        "description": "Reassigned to Minors"
-      }
-    },
-    {
-      "id": "35x6z8n9c0",
-      "ids": {
-        "prism": "35x6z8n9c0",
-        "bbref": "zuberty01",
-        "fangraphs": "20379",
-        "mlbam": "676604",
-        "nfbc": "10936",
-        "sfbb": "zuberty01",
-        "yahoo": "11940"
-      },
-      "names": {
-        "boxscore": "Zuber",
-        "givenFirst": "Tyler",
-        "givenFirstMiddle": "John Tyler",
-        "firstLast": "Tyler Zuber",
-        "lastFirst": "Zuber, Tyler",
-        "lastFirstInit": "Zuber, T",
-        "givenFull": "Tyler  Zuber",
-        "last": "Zuber",
-        "first": "Tyler",
-        "middle": null
-      },
-      "profile": {
-        "birthDate": "1995-6-16",
-        "birthYear": "1995",
-        "birthMonth": "6",
-        "birthDay": "16",
-        "birthCity": "White Hall",
-        "birthState": "AR",
-        "birthCountry": "USA",
-        "batHand": "R",
-        "fieldHand": "R",
-        "debutDate": "2020-07-24"
-      },
-      "position": {
-        "code": "1",
-        "abbreviation": "P"
       },
       "team": {
         "mlb_id": 121,
@@ -28822,8 +28966,8 @@
         "abbreviation": "NYM"
       },
       "status": {
-        "code": "A",
-        "description": "Active"
+        "code": "D15",
+        "description": "Injured 15-Day"
       }
     },
     {
@@ -28960,6 +29104,54 @@
       "position": {
         "code": "3",
         "abbreviation": "1B"
+      },
+      "team": {
+        "mlb_id": 121,
+        "abbreviation": "NYM"
+      },
+      "status": {
+        "code": "A",
+        "description": "Active"
+      }
+    },
+    {
+      "id": "bhe2ftz4bd",
+      "ids": {
+        "prism": "bhe2ftz4bd",
+        "bbref": "garciri01",
+        "fangraphs": "20023",
+        "mlbam": "670329",
+        "nfbc": "10678",
+        "sfbb": null,
+        "yahoo": "11453"
+      },
+      "names": {
+        "boxscore": "Garcia, Ri",
+        "givenFirst": "Joshua",
+        "givenFirstMiddle": "Joshua Rico",
+        "firstLast": "Rico Garcia",
+        "lastFirst": "Garcia, Rico",
+        "lastFirstInit": "Garcia, R",
+        "givenFull": "Joshua Rico Garcia",
+        "last": "Garcia",
+        "first": "Rico",
+        "middle": "Rico"
+      },
+      "profile": {
+        "birthDate": "1994-1-10",
+        "birthYear": "1994",
+        "birthMonth": "1",
+        "birthDay": "10",
+        "birthCity": "Honolulu",
+        "birthState": "HI",
+        "birthCountry": "USA",
+        "batHand": "R",
+        "fieldHand": "R",
+        "debutDate": "2019-08-27"
+      },
+      "position": {
+        "code": "1",
+        "abbreviation": "P"
       },
       "team": {
         "mlb_id": 121,
@@ -29158,8 +29350,8 @@
         "abbreviation": "NYM"
       },
       "status": {
-        "code": "A",
-        "description": "Active"
+        "code": "RM",
+        "description": "Reassigned to Minors"
       }
     },
     {
@@ -29830,8 +30022,8 @@
         "abbreviation": "NYM"
       },
       "status": {
-        "code": "A",
-        "description": "Active"
+        "code": "RM",
+        "description": "Reassigned to Minors"
       }
     },
     {
@@ -29878,8 +30070,8 @@
         "abbreviation": "NYM"
       },
       "status": {
-        "code": "A",
-        "description": "Active"
+        "code": "D15",
+        "description": "Injured 15-Day"
       }
     },
     {
@@ -29926,8 +30118,8 @@
         "abbreviation": "NYM"
       },
       "status": {
-        "code": "RM",
-        "description": "Reassigned to Minors"
+        "code": "A",
+        "description": "Active"
       }
     },
     {
@@ -30310,8 +30502,8 @@
         "abbreviation": "NYM"
       },
       "status": {
-        "code": "RM",
-        "description": "Reassigned to Minors"
+        "code": "A",
+        "description": "Active"
       }
     },
     {
@@ -31416,8 +31608,8 @@
         "abbreviation": "ATH"
       },
       "status": {
-        "code": "A",
-        "description": "Active"
+        "code": "D10",
+        "description": "Injured 10-Day"
       }
     },
     {
@@ -32376,8 +32568,8 @@
         "abbreviation": "ATH"
       },
       "status": {
-        "code": "D60",
-        "description": "Injured 60-Day"
+        "code": "A",
+        "description": "Active"
       }
     },
     {
@@ -35452,8 +35644,8 @@
         "abbreviation": "SD"
       },
       "status": {
-        "code": "A",
-        "description": "Active"
+        "code": "RM",
+        "description": "Reassigned to Minors"
       }
     },
     {
@@ -36454,6 +36646,54 @@
       "position": {
         "code": "2",
         "abbreviation": "C"
+      },
+      "team": {
+        "mlb_id": 135,
+        "abbreviation": "SD"
+      },
+      "status": {
+        "code": "A",
+        "description": "Active"
+      }
+    },
+    {
+      "id": "vgqzke5kkr",
+      "ids": {
+        "prism": "vgqzke5kkr",
+        "bbref": "nunezed03",
+        "fangraphs": "23162",
+        "mlbam": "674384",
+        "nfbc": "12421",
+        "sfbb": null,
+        "yahoo": "64804"
+      },
+      "names": {
+        "boxscore": "Núñez, E",
+        "givenFirst": "Eduarniel",
+        "givenFirstMiddle": "Eduarniel",
+        "firstLast": "Eduarniel Núñez",
+        "lastFirst": "Núñez, Eduarniel",
+        "lastFirstInit": "Núñez, E",
+        "givenFull": "Eduarniel Núñez",
+        "last": "Núñez",
+        "first": "Eduarniel",
+        "middle": null
+      },
+      "profile": {
+        "birthDate": "1999-6-7",
+        "birthYear": "1999",
+        "birthMonth": "6",
+        "birthDay": "7",
+        "birthCity": "Samana",
+        "birthState": null,
+        "birthCountry": "Dominican Republic",
+        "batHand": "R",
+        "fieldHand": "R",
+        "debutDate": "2025-07-02"
+      },
+      "position": {
+        "code": "1",
+        "abbreviation": "P"
       },
       "team": {
         "mlb_id": 135,
@@ -37811,6 +38051,54 @@
       }
     },
     {
+      "id": "mjnvvngmtm",
+      "ids": {
+        "prism": "mjnvvngmtm",
+        "bbref": "jacqujo01",
+        "fangraphs": "25178",
+        "mlbam": "682175",
+        "nfbc": "11806",
+        "sfbb": null,
+        "yahoo": "61871"
+      },
+      "names": {
+        "boxscore": "Jacques",
+        "givenFirst": "Joe",
+        "givenFirstMiddle": "Joseph",
+        "firstLast": "Joe Jacques",
+        "lastFirst": "Jacques, Joe",
+        "lastFirstInit": "Jacques, J",
+        "givenFull": "Joe  Jacques",
+        "last": "Jacques",
+        "first": "Joe",
+        "middle": null
+      },
+      "profile": {
+        "birthDate": "1995-3-11",
+        "birthYear": "1995",
+        "birthMonth": "3",
+        "birthDay": "11",
+        "birthCity": "Shrewsbury",
+        "birthState": "NJ",
+        "birthCountry": "USA",
+        "batHand": "L",
+        "fieldHand": "L",
+        "debutDate": "2023-06-12"
+      },
+      "position": {
+        "code": "1",
+        "abbreviation": "P"
+      },
+      "team": {
+        "mlb_id": 136,
+        "abbreviation": "SEA"
+      },
+      "status": {
+        "code": "RM",
+        "description": "Reassigned to Minors"
+      }
+    },
+    {
       "id": "mlpf13z6g4",
       "ids": {
         "prism": "mlpf13z6g4",
@@ -38430,8 +38718,8 @@
         "abbreviation": "SEA"
       },
       "status": {
-        "code": "RM",
-        "description": "Reassigned to Minors"
+        "code": "A",
+        "description": "Active"
       }
     },
     {
@@ -38960,8 +39248,8 @@
         "abbreviation": "SF"
       },
       "status": {
-        "code": "A",
-        "description": "Active"
+        "code": "RM",
+        "description": "Reassigned to Minors"
       }
     },
     {
@@ -39056,8 +39344,8 @@
         "abbreviation": "SF"
       },
       "status": {
-        "code": "RM",
-        "description": "Reassigned to Minors"
+        "code": "A",
+        "description": "Active"
       }
     },
     {
@@ -39440,8 +39728,8 @@
         "abbreviation": "SF"
       },
       "status": {
-        "code": "D10",
-        "description": "Injured 10-Day"
+        "code": "A",
+        "description": "Active"
       }
     },
     {
@@ -39973,6 +40261,54 @@
       }
     },
     {
+      "id": "gphl3gmkfr",
+      "ids": {
+        "prism": "gphl3gmkfr",
+        "bbref": "alexasc02",
+        "fangraphs": "10591",
+        "mlbam": "518397",
+        "nfbc": "9149",
+        "sfbb": "alexasc02",
+        "yahoo": "10072"
+      },
+      "names": {
+        "boxscore": "Alexander, S",
+        "givenFirst": "Scott",
+        "givenFirstMiddle": "Scott Alain",
+        "firstLast": "Scott Alexander",
+        "lastFirst": "Alexander, Scott",
+        "lastFirstInit": "Alexander, S",
+        "givenFull": "Scott Alain Alexander",
+        "last": "Alexander",
+        "first": "Scott",
+        "middle": "Alain"
+      },
+      "profile": {
+        "birthDate": "1989-7-10",
+        "birthYear": "1989",
+        "birthMonth": "7",
+        "birthDay": "10",
+        "birthCity": "Santa Rosa",
+        "birthState": "CA",
+        "birthCountry": "USA",
+        "batHand": "L",
+        "fieldHand": "L",
+        "debutDate": "2015-09-02"
+      },
+      "position": {
+        "code": "1",
+        "abbreviation": "P"
+      },
+      "team": {
+        "mlb_id": 137,
+        "abbreviation": "SF"
+      },
+      "status": {
+        "code": "A",
+        "description": "Active"
+      }
+    },
+    {
       "id": "gyg7cx1zp8",
       "ids": {
         "prism": "gyg7cx1zp8",
@@ -40117,54 +40453,6 @@
       }
     },
     {
-      "id": "lgb5t716hw",
-      "ids": {
-        "prism": "lgb5t716hw",
-        "bbref": "portelo01",
-        "fangraphs": "20626",
-        "mlbam": "682515",
-        "nfbc": "11865",
-        "sfbb": "portelo01",
-        "yahoo": "61636"
-      },
-      "names": {
-        "boxscore": "Porter",
-        "givenFirst": "Logan",
-        "givenFirstMiddle": "Logan",
-        "firstLast": "Logan Porter",
-        "lastFirst": "Porter, Logan",
-        "lastFirstInit": "Porter, L",
-        "givenFull": "Logan  Porter",
-        "last": "Porter",
-        "first": "Logan",
-        "middle": null
-      },
-      "profile": {
-        "birthDate": "1995-7-12",
-        "birthYear": "1995",
-        "birthMonth": "7",
-        "birthDay": "12",
-        "birthCity": "Phoenix",
-        "birthState": "AZ",
-        "birthCountry": "USA",
-        "batHand": "R",
-        "fieldHand": "R",
-        "debutDate": "2023-09-12"
-      },
-      "position": {
-        "code": "2",
-        "abbreviation": "C"
-      },
-      "team": {
-        "mlb_id": 137,
-        "abbreviation": "SF"
-      },
-      "status": {
-        "code": "RM",
-        "description": "Reassigned to Minors"
-      }
-    },
-    {
       "id": "mjl228q9jd",
       "ids": {
         "prism": "mjl228q9jd",
@@ -40304,8 +40592,8 @@
         "abbreviation": "SF"
       },
       "status": {
-        "code": "A",
-        "description": "Active"
+        "code": "D15",
+        "description": "Injured 15-Day"
       }
     },
     {
@@ -40496,8 +40784,8 @@
         "abbreviation": "SF"
       },
       "status": {
-        "code": "A",
-        "description": "Active"
+        "code": "RM",
+        "description": "Reassigned to Minors"
       }
     },
     {
@@ -43332,8 +43620,8 @@
         "abbreviation": "TB"
       },
       "status": {
-        "code": "A",
-        "description": "Active"
+        "code": "RM",
+        "description": "Reassigned to Minors"
       }
     },
     {
@@ -43956,8 +44244,8 @@
         "abbreviation": "TB"
       },
       "status": {
-        "code": "D60",
-        "description": "Injured 60-Day"
+        "code": "A",
+        "description": "Active"
       }
     },
     {
@@ -44923,54 +45211,6 @@
       }
     },
     {
-      "id": "3k2bx7y1x4",
-      "ids": {
-        "prism": "3k2bx7y1x4",
-        "bbref": "mckinbi01",
-        "fangraphs": "15654",
-        "mlbam": "641856",
-        "nfbc": "8939",
-        "sfbb": "mckinbi01",
-        "yahoo": "9860"
-      },
-      "names": {
-        "boxscore": "McKinney",
-        "givenFirst": "William",
-        "givenFirstMiddle": "William Landis",
-        "firstLast": "Billy McKinney",
-        "lastFirst": "McKinney, Billy",
-        "lastFirstInit": "McKinney, B",
-        "givenFull": "William Landis McKinney",
-        "last": "McKinney",
-        "first": "Billy",
-        "middle": "Landis"
-      },
-      "profile": {
-        "birthDate": "1994-8-23",
-        "birthYear": "1994",
-        "birthMonth": "8",
-        "birthDay": "23",
-        "birthCity": "Dallas",
-        "birthState": "TX",
-        "birthCountry": "USA",
-        "batHand": "L",
-        "fieldHand": "L",
-        "debutDate": "2018-03-30"
-      },
-      "position": {
-        "code": "7",
-        "abbreviation": "LF"
-      },
-      "team": {
-        "mlb_id": 140,
-        "abbreviation": "TEX"
-      },
-      "status": {
-        "code": "A",
-        "description": "Active"
-      }
-    },
-    {
       "id": "4351wfzy5m",
       "ids": {
         "prism": "4351wfzy5m",
@@ -45782,8 +46022,8 @@
         "abbreviation": "TEX"
       },
       "status": {
-        "code": "D10",
-        "description": "Injured 10-Day"
+        "code": "A",
+        "description": "Active"
       }
     },
     {
@@ -46262,8 +46502,8 @@
         "abbreviation": "TEX"
       },
       "status": {
-        "code": "A",
-        "description": "Active"
+        "code": "RM",
+        "description": "Reassigned to Minors"
       }
     },
     {
@@ -46934,8 +47174,8 @@
         "abbreviation": "TEX"
       },
       "status": {
-        "code": "BRV",
-        "description": "Bereavement List"
+        "code": "A",
+        "description": "Active"
       }
     }
   ],
@@ -47133,6 +47373,54 @@
       }
     },
     {
+      "id": "3zyze3pnf8",
+      "ids": {
+        "prism": "3zyze3pnf8",
+        "bbref": null,
+        "fangraphs": "sa3005471",
+        "mlbam": "681751",
+        "nfbc": "12422",
+        "sfbb": null,
+        "yahoo": "65106"
+      },
+      "names": {
+        "boxscore": "Estrada",
+        "givenFirst": "Lazaro",
+        "givenFirstMiddle": "Lazaro Alejandro",
+        "firstLast": "Lazaro Estrada",
+        "lastFirst": "Estrada, Lazaro",
+        "lastFirstInit": "Estrada, L",
+        "givenFull": "Lazaro Alejandro Estrada",
+        "last": "Estrada",
+        "first": "Lazaro",
+        "middle": "Alejandro"
+      },
+      "profile": {
+        "birthDate": "1999-4-24",
+        "birthYear": "1999",
+        "birthMonth": "4",
+        "birthDay": "24",
+        "birthCity": "Ciudad Habana",
+        "birthState": null,
+        "birthCountry": "Cuba",
+        "batHand": "R",
+        "fieldHand": "R",
+        "debutDate": "2025-07-05"
+      },
+      "position": {
+        "code": "1",
+        "abbreviation": "P"
+      },
+      "team": {
+        "mlb_id": 141,
+        "abbreviation": "TOR"
+      },
+      "status": {
+        "code": "A",
+        "description": "Active"
+      }
+    },
+    {
       "id": "47l5d967zr",
       "ids": {
         "prism": "47l5d967zr",
@@ -47224,8 +47512,8 @@
         "abbreviation": "TOR"
       },
       "status": {
-        "code": "A",
-        "description": "Active"
+        "code": "D15",
+        "description": "Injured 15-Day"
       }
     },
     {
@@ -47368,8 +47656,8 @@
         "abbreviation": "TOR"
       },
       "status": {
-        "code": "D10",
-        "description": "Injured 10-Day"
+        "code": "D60",
+        "description": "Injured 60-Day"
       }
     },
     {
@@ -47896,8 +48184,8 @@
         "abbreviation": "TOR"
       },
       "status": {
-        "code": "A",
-        "description": "Active"
+        "code": "RM",
+        "description": "Reassigned to Minors"
       }
     },
     {
@@ -48616,8 +48904,8 @@
         "abbreviation": "TOR"
       },
       "status": {
-        "code": "RM",
-        "description": "Reassigned to Minors"
+        "code": "A",
+        "description": "Active"
       }
     },
     {
@@ -50287,7 +50575,7 @@
         "birthCountry": "USA",
         "batHand": "R",
         "fieldHand": "R",
-        "debutDate": null
+        "debutDate": "2025-07-05"
       },
       "position": {
         "code": "1",
@@ -50298,8 +50586,8 @@
         "abbreviation": "MIN"
       },
       "status": {
-        "code": "RM",
-        "description": "Reassigned to Minors"
+        "code": "A",
+        "description": "Active"
       }
     },
     {
@@ -50682,8 +50970,8 @@
         "abbreviation": "MIN"
       },
       "status": {
-        "code": "A",
-        "description": "Active"
+        "code": "RM",
+        "description": "Reassigned to Minors"
       }
     },
     {
@@ -52268,8 +52556,8 @@
         "abbreviation": "PHI"
       },
       "status": {
-        "code": "A",
-        "description": "Active"
+        "code": "RM",
+        "description": "Reassigned to Minors"
       }
     },
     {
@@ -55349,6 +55637,54 @@
       }
     },
     {
+      "id": "584erhpf38",
+      "ids": {
+        "prism": "584erhpf38",
+        "bbref": "graytr01",
+        "fangraphs": "19877",
+        "mlbam": "656484",
+        "nfbc": "10952",
+        "sfbb": null,
+        "yahoo": "61782"
+      },
+      "names": {
+        "boxscore": "Gray",
+        "givenFirst": "Tristan",
+        "givenFirstMiddle": "Tristan Colby",
+        "firstLast": "Tristan Gray",
+        "lastFirst": "Gray, Tristan",
+        "lastFirstInit": "Gray, T",
+        "givenFull": "Tristan Colby Gray",
+        "last": "Gray",
+        "first": "Tristan",
+        "middle": "Colby"
+      },
+      "profile": {
+        "birthDate": "1996-3-22",
+        "birthYear": "1996",
+        "birthMonth": "3",
+        "birthDay": "22",
+        "birthCity": "Houston",
+        "birthState": "TX",
+        "birthCountry": "USA",
+        "batHand": "L",
+        "fieldHand": "R",
+        "debutDate": "2023-09-16"
+      },
+      "position": {
+        "code": "5",
+        "abbreviation": "3B"
+      },
+      "team": {
+        "mlb_id": 145,
+        "abbreviation": "CWS"
+      },
+      "status": {
+        "code": "RM",
+        "description": "Reassigned to Minors"
+      }
+    },
+    {
       "id": "6p9y4xwl4h",
       "ids": {
         "prism": "6p9y4xwl4h",
@@ -55641,7 +55977,7 @@
       "ids": {
         "prism": "991ydx34nd",
         "bbref": "montgco01",
-        "fangraphs": "sa3017170",
+        "fangraphs": "29712",
         "mlbam": "695657",
         "nfbc": "11892",
         "sfbb": "montgco01",
@@ -55669,7 +56005,7 @@
         "birthCountry": "USA",
         "batHand": "L",
         "fieldHand": "R",
-        "debutDate": null
+        "debutDate": "2025-07-04"
       },
       "position": {
         "code": "6",
@@ -55680,8 +56016,8 @@
         "abbreviation": "CWS"
       },
       "status": {
-        "code": "RM",
-        "description": "Reassigned to Minors"
+        "code": "A",
+        "description": "Active"
       }
     },
     {
@@ -56453,54 +56789,6 @@
       }
     },
     {
-      "id": "r9ygrfp4k0",
-      "ids": {
-        "prism": "r9ygrfp4k0",
-        "bbref": "capravi01",
-        "fangraphs": "25040",
-        "mlbam": "681962",
-        "nfbc": "11460",
-        "sfbb": "capravi01",
-        "yahoo": "12607"
-      },
-      "names": {
-        "boxscore": "Capra",
-        "givenFirst": "Vincent",
-        "givenFirstMiddle": "Vincent James",
-        "firstLast": "Vinny Capra",
-        "lastFirst": "Capra, Vinny",
-        "lastFirstInit": "Capra, V",
-        "givenFull": "Vincent James Capra",
-        "last": "Capra",
-        "first": "Vinny",
-        "middle": "James"
-      },
-      "profile": {
-        "birthDate": "1996-7-7",
-        "birthYear": "1996",
-        "birthMonth": "7",
-        "birthDay": "7",
-        "birthCity": "Melbourne",
-        "birthState": "FL",
-        "birthCountry": "USA",
-        "batHand": "R",
-        "fieldHand": "R",
-        "debutDate": "2022-05-01"
-      },
-      "position": {
-        "code": "5",
-        "abbreviation": "3B"
-      },
-      "team": {
-        "mlb_id": 145,
-        "abbreviation": "CWS"
-      },
-      "status": {
-        "code": "A",
-        "description": "Active"
-      }
-    },
-    {
       "id": "sj139t1dn8",
       "ids": {
         "prism": "sj139t1dn8",
@@ -57216,8 +57504,8 @@
         "abbreviation": "CWS"
       },
       "status": {
-        "code": "D60",
-        "description": "Injured 60-Day"
+        "code": "RM",
+        "description": "Reassigned to Minors"
       }
     }
   ],
@@ -59524,8 +59812,8 @@
         "abbreviation": "NYY"
       },
       "status": {
-        "code": "A",
-        "description": "Active"
+        "code": "RM",
+        "description": "Reassigned to Minors"
       }
     },
     {
@@ -60100,8 +60388,8 @@
         "abbreviation": "NYY"
       },
       "status": {
-        "code": "A",
-        "description": "Active"
+        "code": "D15",
+        "description": "Injured 15-Day"
       }
     },
     {
@@ -60388,8 +60676,8 @@
         "abbreviation": "NYY"
       },
       "status": {
-        "code": "RM",
-        "description": "Reassigned to Minors"
+        "code": "A",
+        "description": "Active"
       }
     },
     {
@@ -60761,7 +61049,7 @@
         "birthCountry": "USA",
         "batHand": "L",
         "fieldHand": "L",
-        "debutDate": null
+        "debutDate": "2025-07-05"
       },
       "position": {
         "code": "1",
@@ -60772,8 +61060,8 @@
         "abbreviation": "NYY"
       },
       "status": {
-        "code": "RM",
-        "description": "Reassigned to Minors"
+        "code": "A",
+        "description": "Active"
       }
     },
     {
@@ -62886,8 +63174,8 @@
         "abbreviation": "MIL"
       },
       "status": {
-        "code": "A",
-        "description": "Active"
+        "code": "RM",
+        "description": "Reassigned to Minors"
       }
     },
     {
@@ -63278,8 +63566,8 @@
       "id": "s4h64n1nz8",
       "ids": {
         "prism": "s4h64n1nz8",
-        "bbref": null,
-        "fangraphs": "sa3006894",
+        "bbref": "seiglan01",
+        "fangraphs": "23802",
         "mlbam": "678011",
         "nfbc": "10136",
         "sfbb": null,
@@ -63660,54 +63948,6 @@
     }
   ],
   "null": [
-    {
-      "id": "000svvhjew",
-      "ids": {
-        "prism": "000svvhjew",
-        "bbref": "popza01",
-        "fangraphs": "20185",
-        "mlbam": "647315",
-        "nfbc": "11183",
-        "sfbb": null,
-        "yahoo": "12108"
-      },
-      "names": {
-        "boxscore": "Pop, Z",
-        "givenFirst": null,
-        "givenFirstMiddle": "Zachery M.",
-        "firstLast": null,
-        "lastFirst": "Pop, Zach",
-        "lastFirstInit": "Pop, Z",
-        "givenFull": "Zach Pop",
-        "last": "Pop",
-        "first": "Zach",
-        "middle": null
-      },
-      "profile": {
-        "birthDate": "1996-9-20",
-        "birthYear": "1996",
-        "birthMonth": "9",
-        "birthDay": "20",
-        "birthCity": null,
-        "birthState": null,
-        "birthCountry": null,
-        "batHand": null,
-        "fieldHand": null,
-        "debutDate": null
-      },
-      "position": {
-        "code": null,
-        "abbreviation": null
-      },
-      "team": {
-        "mlb_id": null,
-        "abbreviation": null
-      },
-      "status": {
-        "code": null,
-        "description": null
-      }
-    },
     {
       "id": "09s0gxm8y0",
       "ids": {
@@ -64381,6 +64621,54 @@
       }
     },
     {
+      "id": "35x6z8n9c0",
+      "ids": {
+        "prism": "35x6z8n9c0",
+        "bbref": "zuberty01",
+        "fangraphs": "20379",
+        "mlbam": "676604",
+        "nfbc": "10936",
+        "sfbb": "zuberty01",
+        "yahoo": "11940"
+      },
+      "names": {
+        "boxscore": "Zuber, T",
+        "givenFirst": null,
+        "givenFirstMiddle": "John Tyler",
+        "firstLast": null,
+        "lastFirst": "Zuber, Tyler",
+        "lastFirstInit": "Zuber, T",
+        "givenFull": "Tyler Zuber",
+        "last": "Zuber",
+        "first": "Tyler",
+        "middle": null
+      },
+      "profile": {
+        "birthDate": "1995-6-16",
+        "birthYear": "1995",
+        "birthMonth": "6",
+        "birthDay": "16",
+        "birthCity": null,
+        "birthState": null,
+        "birthCountry": null,
+        "batHand": null,
+        "fieldHand": null,
+        "debutDate": null
+      },
+      "position": {
+        "code": null,
+        "abbreviation": null
+      },
+      "team": {
+        "mlb_id": null,
+        "abbreviation": null
+      },
+      "status": {
+        "code": null,
+        "description": null
+      }
+    },
+    {
       "id": "364zk9pxcw",
       "ids": {
         "prism": "364zk9pxcw",
@@ -64429,6 +64717,54 @@
       }
     },
     {
+      "id": "37dxl83rew",
+      "ids": {
+        "prism": "37dxl83rew",
+        "bbref": "weemsjo01",
+        "fangraphs": "13190",
+        "mlbam": "607179",
+        "nfbc": "10864",
+        "sfbb": "weemsjo01",
+        "yahoo": "11900"
+      },
+      "names": {
+        "boxscore": "Weems, J",
+        "givenFirst": null,
+        "givenFirstMiddle": "Jordan Blake",
+        "firstLast": null,
+        "lastFirst": "Weems, Jordan",
+        "lastFirstInit": "Weems, J",
+        "givenFull": "Jordan Weems",
+        "last": "Weems",
+        "first": "Jordan",
+        "middle": null
+      },
+      "profile": {
+        "birthDate": "1992-11-7",
+        "birthYear": "1992",
+        "birthMonth": "11",
+        "birthDay": "7",
+        "birthCity": null,
+        "birthState": null,
+        "birthCountry": null,
+        "batHand": null,
+        "fieldHand": null,
+        "debutDate": null
+      },
+      "position": {
+        "code": null,
+        "abbreviation": null
+      },
+      "team": {
+        "mlb_id": null,
+        "abbreviation": null
+      },
+      "status": {
+        "code": null,
+        "description": null
+      }
+    },
+    {
       "id": "382wsws0xh",
       "ids": {
         "prism": "382wsws0xh",
@@ -64456,6 +64792,54 @@
         "birthYear": "1993",
         "birthMonth": "3",
         "birthDay": "15",
+        "birthCity": null,
+        "birthState": null,
+        "birthCountry": null,
+        "batHand": null,
+        "fieldHand": null,
+        "debutDate": null
+      },
+      "position": {
+        "code": null,
+        "abbreviation": null
+      },
+      "team": {
+        "mlb_id": null,
+        "abbreviation": null
+      },
+      "status": {
+        "code": null,
+        "description": null
+      }
+    },
+    {
+      "id": "3k2bx7y1x4",
+      "ids": {
+        "prism": "3k2bx7y1x4",
+        "bbref": "mckinbi01",
+        "fangraphs": "15654",
+        "mlbam": "641856",
+        "nfbc": "8939",
+        "sfbb": "mckinbi01",
+        "yahoo": "9860"
+      },
+      "names": {
+        "boxscore": "McKinney, B",
+        "givenFirst": null,
+        "givenFirstMiddle": "William Landis",
+        "firstLast": null,
+        "lastFirst": "McKinney, Billy",
+        "lastFirstInit": "McKinney, B",
+        "givenFull": "Billy McKinney",
+        "last": "McKinney",
+        "first": "Billy",
+        "middle": null
+      },
+      "profile": {
+        "birthDate": "1994-8-23",
+        "birthYear": "1994",
+        "birthMonth": "8",
+        "birthDay": "23",
         "birthCity": null,
         "birthState": null,
         "birthCountry": null,
@@ -66061,54 +66445,6 @@
       }
     },
     {
-      "id": "gphl3gmkfr",
-      "ids": {
-        "prism": "gphl3gmkfr",
-        "bbref": "alexasc02",
-        "fangraphs": "10591",
-        "mlbam": "518397",
-        "nfbc": "9149",
-        "sfbb": "alexasc02",
-        "yahoo": "10072"
-      },
-      "names": {
-        "boxscore": "Alexander, S",
-        "givenFirst": null,
-        "givenFirstMiddle": "Scott Alain",
-        "firstLast": null,
-        "lastFirst": "Alexander, Scott",
-        "lastFirstInit": "Alexander, S",
-        "givenFull": "Scott Alexander",
-        "last": "Alexander",
-        "first": "Scott",
-        "middle": null
-      },
-      "profile": {
-        "birthDate": "1989-7-10",
-        "birthYear": "1989",
-        "birthMonth": "7",
-        "birthDay": "10",
-        "birthCity": null,
-        "birthState": null,
-        "birthCountry": null,
-        "batHand": null,
-        "fieldHand": null,
-        "debutDate": null
-      },
-      "position": {
-        "code": null,
-        "abbreviation": null
-      },
-      "team": {
-        "mlb_id": null,
-        "abbreviation": null
-      },
-      "status": {
-        "code": null,
-        "description": null
-      }
-    },
-    {
       "id": "h47tkyh4g4",
       "ids": {
         "prism": "h47tkyh4g4",
@@ -67117,6 +67453,54 @@
       }
     },
     {
+      "id": "lgb5t716hw",
+      "ids": {
+        "prism": "lgb5t716hw",
+        "bbref": "portelo01",
+        "fangraphs": "20626",
+        "mlbam": "682515",
+        "nfbc": "11865",
+        "sfbb": "portelo01",
+        "yahoo": "61636"
+      },
+      "names": {
+        "boxscore": "Porter, L",
+        "givenFirst": null,
+        "givenFirstMiddle": "Logan",
+        "firstLast": null,
+        "lastFirst": "Porter, Logan",
+        "lastFirstInit": "Porter, L",
+        "givenFull": "Logan Porter",
+        "last": "Porter",
+        "first": "Logan",
+        "middle": null
+      },
+      "profile": {
+        "birthDate": "1995-7-12",
+        "birthYear": "1995",
+        "birthMonth": "7",
+        "birthDay": "12",
+        "birthCity": null,
+        "birthState": null,
+        "birthCountry": null,
+        "batHand": null,
+        "fieldHand": null,
+        "debutDate": null
+      },
+      "position": {
+        "code": null,
+        "abbreviation": null
+      },
+      "team": {
+        "mlb_id": null,
+        "abbreviation": null
+      },
+      "status": {
+        "code": null,
+        "description": null
+      }
+    },
+    {
       "id": "lre5xsr3mr",
       "ids": {
         "prism": "lre5xsr3mr",
@@ -67741,6 +68125,54 @@
       }
     },
     {
+      "id": "q8xmt7ee0m",
+      "ids": {
+        "prism": "q8xmt7ee0m",
+        "bbref": "allarko01",
+        "fangraphs": "18694",
+        "mlbam": "663465",
+        "nfbc": "9790",
+        "sfbb": "allarko01",
+        "yahoo": "10422"
+      },
+      "names": {
+        "boxscore": "Allard, K",
+        "givenFirst": null,
+        "givenFirstMiddle": "Kolby Kenneth",
+        "firstLast": null,
+        "lastFirst": "Allard, Kolby",
+        "lastFirstInit": "Allard, K",
+        "givenFull": "Kolby Allard",
+        "last": "Allard",
+        "first": "Kolby",
+        "middle": null
+      },
+      "profile": {
+        "birthDate": "1997-8-13",
+        "birthYear": "1997",
+        "birthMonth": "8",
+        "birthDay": "13",
+        "birthCity": null,
+        "birthState": null,
+        "birthCountry": null,
+        "batHand": null,
+        "fieldHand": null,
+        "debutDate": null
+      },
+      "position": {
+        "code": null,
+        "abbreviation": null
+      },
+      "team": {
+        "mlb_id": null,
+        "abbreviation": null
+      },
+      "status": {
+        "code": null,
+        "description": null
+      }
+    },
+    {
       "id": "q9521qe6fr",
       "ids": {
         "prism": "q9521qe6fr",
@@ -67981,6 +68413,54 @@
       }
     },
     {
+      "id": "r9ygrfp4k0",
+      "ids": {
+        "prism": "r9ygrfp4k0",
+        "bbref": "capravi01",
+        "fangraphs": "25040",
+        "mlbam": "681962",
+        "nfbc": "11460",
+        "sfbb": "capravi01",
+        "yahoo": "12607"
+      },
+      "names": {
+        "boxscore": "Capra, V",
+        "givenFirst": null,
+        "givenFirstMiddle": "Vincent James",
+        "firstLast": null,
+        "lastFirst": "Capra, Vinny",
+        "lastFirstInit": "Capra, V",
+        "givenFull": "Vinny Capra",
+        "last": "Capra",
+        "first": "Vinny",
+        "middle": null
+      },
+      "profile": {
+        "birthDate": "1996-7-7",
+        "birthYear": "1996",
+        "birthMonth": "7",
+        "birthDay": "7",
+        "birthCity": null,
+        "birthState": null,
+        "birthCountry": null,
+        "batHand": null,
+        "fieldHand": null,
+        "debutDate": null
+      },
+      "position": {
+        "code": null,
+        "abbreviation": null
+      },
+      "team": {
+        "mlb_id": null,
+        "abbreviation": null
+      },
+      "status": {
+        "code": null,
+        "description": null
+      }
+    },
+    {
       "id": "r9z6fpypf8",
       "ids": {
         "prism": "r9z6fpypf8",
@@ -68008,54 +68488,6 @@
         "birthYear": "1995",
         "birthMonth": "3",
         "birthDay": "16",
-        "birthCity": null,
-        "birthState": null,
-        "birthCountry": null,
-        "batHand": null,
-        "fieldHand": null,
-        "debutDate": null
-      },
-      "position": {
-        "code": null,
-        "abbreviation": null
-      },
-      "team": {
-        "mlb_id": null,
-        "abbreviation": null
-      },
-      "status": {
-        "code": null,
-        "description": null
-      }
-    },
-    {
-      "id": "rt2xnr6kj4",
-      "ids": {
-        "prism": "rt2xnr6kj4",
-        "bbref": "mailelu01",
-        "fangraphs": "13355",
-        "mlbam": "571912",
-        "nfbc": "9143",
-        "sfbb": "mailelu01",
-        "yahoo": "10068"
-      },
-      "names": {
-        "boxscore": "Maile, L",
-        "givenFirst": null,
-        "givenFirstMiddle": "Luke Richard",
-        "firstLast": null,
-        "lastFirst": "Maile, Luke",
-        "lastFirstInit": "Maile, L",
-        "givenFull": "Luke Maile",
-        "last": "Maile",
-        "first": "Luke",
-        "middle": null
-      },
-      "profile": {
-        "birthDate": "1991-2-6",
-        "birthYear": "1991",
-        "birthMonth": "2",
-        "birthDay": "6",
         "birthCity": null,
         "birthState": null,
         "birthCountry": null,
@@ -68317,54 +68749,6 @@
       }
     },
     {
-      "id": "t7nnx7w7r8",
-      "ids": {
-        "prism": "t7nnx7w7r8",
-        "bbref": "nerishe01",
-        "fangraphs": "11804",
-        "mlbam": "593576",
-        "nfbc": "8860",
-        "sfbb": "nerishe01",
-        "yahoo": "9779"
-      },
-      "names": {
-        "boxscore": "Neris, H",
-        "givenFirst": null,
-        "givenFirstMiddle": "Héctor",
-        "firstLast": null,
-        "lastFirst": "Neris, Héctor",
-        "lastFirstInit": "Neris, H",
-        "givenFull": "Héctor Neris",
-        "last": "Neris",
-        "first": "Héctor",
-        "middle": null
-      },
-      "profile": {
-        "birthDate": "1989-6-14",
-        "birthYear": "1989",
-        "birthMonth": "6",
-        "birthDay": "14",
-        "birthCity": null,
-        "birthState": null,
-        "birthCountry": null,
-        "batHand": null,
-        "fieldHand": null,
-        "debutDate": null
-      },
-      "position": {
-        "code": null,
-        "abbreviation": null
-      },
-      "team": {
-        "mlb_id": null,
-        "abbreviation": null
-      },
-      "status": {
-        "code": null,
-        "description": null
-      }
-    },
-    {
       "id": "tfqy3w0c84",
       "ids": {
         "prism": "tfqy3w0c84",
@@ -68439,54 +68823,6 @@
         "birthDate": "1997-4-17",
         "birthYear": "1997",
         "birthMonth": "4",
-        "birthDay": "17",
-        "birthCity": null,
-        "birthState": null,
-        "birthCountry": null,
-        "batHand": null,
-        "fieldHand": null,
-        "debutDate": null
-      },
-      "position": {
-        "code": null,
-        "abbreviation": null
-      },
-      "team": {
-        "mlb_id": null,
-        "abbreviation": null
-      },
-      "status": {
-        "code": null,
-        "description": null
-      }
-    },
-    {
-      "id": "vk4gr2zbhh",
-      "ids": {
-        "prism": "vk4gr2zbhh",
-        "bbref": "alexacj01",
-        "fangraphs": "20557",
-        "mlbam": "680769",
-        "nfbc": "12115",
-        "sfbb": null,
-        "yahoo": "61739"
-      },
-      "names": {
-        "boxscore": "Alexander, C",
-        "givenFirst": null,
-        "givenFirstMiddle": "Charles Joseph Wesley",
-        "firstLast": null,
-        "lastFirst": "Alexander, CJ",
-        "lastFirstInit": "Alexander, C",
-        "givenFull": "CJ Alexander",
-        "last": "Alexander",
-        "first": "CJ",
-        "middle": null
-      },
-      "profile": {
-        "birthDate": "1996-7-17",
-        "birthYear": "1996",
-        "birthMonth": "7",
         "birthDay": "17",
         "birthCity": null,
         "birthState": null,
@@ -69133,6 +69469,54 @@
       }
     },
     {
+      "id": "xymfpjbmpr",
+      "ids": {
+        "prism": "xymfpjbmpr",
+        "bbref": "berrost01",
+        "fangraphs": "22766",
+        "mlbam": "672642",
+        "nfbc": "12113",
+        "sfbb": "berrost01",
+        "yahoo": "61812"
+      },
+      "names": {
+        "boxscore": "Berroa, S",
+        "givenFirst": null,
+        "givenFirstMiddle": "Steward",
+        "firstLast": null,
+        "lastFirst": "Berroa, Steward",
+        "lastFirstInit": "Berroa, S",
+        "givenFull": "Steward Berroa",
+        "last": "Berroa",
+        "first": "Steward",
+        "middle": null
+      },
+      "profile": {
+        "birthDate": "1999-6-5",
+        "birthYear": "1999",
+        "birthMonth": "6",
+        "birthDay": "5",
+        "birthCity": null,
+        "birthState": null,
+        "birthCountry": null,
+        "batHand": null,
+        "fieldHand": null,
+        "debutDate": null
+      },
+      "position": {
+        "code": null,
+        "abbreviation": null
+      },
+      "team": {
+        "mlb_id": null,
+        "abbreviation": null
+      },
+      "status": {
+        "code": null,
+        "description": null
+      }
+    },
+    {
       "id": "y3jwgys4xd",
       "ids": {
         "prism": "y3jwgys4xd",
@@ -69448,6 +69832,54 @@
         "birthYear": "1990",
         "birthMonth": "5",
         "birthDay": "30",
+        "birthCity": null,
+        "birthState": null,
+        "birthCountry": null,
+        "batHand": null,
+        "fieldHand": null,
+        "debutDate": null
+      },
+      "position": {
+        "code": null,
+        "abbreviation": null
+      },
+      "team": {
+        "mlb_id": null,
+        "abbreviation": null
+      },
+      "status": {
+        "code": null,
+        "description": null
+      }
+    },
+    {
+      "id": "zeb60s5q8r",
+      "ids": {
+        "prism": "zeb60s5q8r",
+        "bbref": "ortizlu03",
+        "fangraphs": "27646",
+        "mlbam": "682847",
+        "nfbc": "11572",
+        "sfbb": "ortizlu03",
+        "yahoo": "12699"
+      },
+      "names": {
+        "boxscore": "Ortiz, L",
+        "givenFirst": null,
+        "givenFirstMiddle": "Luis Leandro",
+        "firstLast": null,
+        "lastFirst": "Ortiz, Luis",
+        "lastFirstInit": "Ortiz, L",
+        "givenFull": "Luis Ortiz",
+        "last": "Ortiz",
+        "first": "Luis",
+        "middle": null
+      },
+      "profile": {
+        "birthDate": "1999-1-27",
+        "birthYear": "1999",
+        "birthMonth": "1",
+        "birthDay": "27",
         "birthCity": null,
         "birthState": null,
         "birthCountry": null,
