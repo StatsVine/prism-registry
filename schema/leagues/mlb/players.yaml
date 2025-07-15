@@ -1,6 +1,17 @@
 ---
 sources:
-  mlbam:
+  mlbam_people:
+    crosswalk_key: mlbam_id
+    preprocess:
+      - field: name_givenFirstMiddle
+        template: "{{ firstName }} {{ middleName }}"
+      - field: birthYear
+        template: "{{ birthDate.split('-')[0] }}"
+      - field: birth_month
+        template: "{{ birthDate.split('-')[1] }}"
+      - field: birth_day
+        template: "{{ birthDate.split('-')[2] }}"
+  mlbam_rosters:
     crosswalk_key: mlbam_id
     preprocess:
       - field: name_givenFirstMiddle
@@ -43,7 +54,8 @@ mappings:
   - dest: ids.mlbam
     src: 
       - crosswalk.mlbam_id
-      - mlbam.person.id
+      - mlbam_people.id
+      - mlbam_rosters.person.id
       - sfbb.mlbam_id
   - dest: ids.nfbc
     src: 
@@ -62,109 +74,143 @@ mappings:
   - dest: names.last
     src: 
       - chadwick.name_last
-      - mlbam.person.useLastName
-      - mlbam.person.lastName
+      - mlbam_people.useLastName
+      - mlbam_people.lastName
+      - mlbam_rosters.person.useLastName
+      - mlbam_rosters.person.lastName
   - dest: names.first
     src: 
       - chadwick.name_first
-      - mlbam.person.useName
-      - mlbam.person.firstName
+      - mlbam_people.useName
+      - mlbam_people.firstName
+      - mlbam_rosters.person.useName
+      - mlbam_rosters.person.firstName
   - dest: names.middle
     src: 
-      - mlbam.person.middleName
+      - mlbam_people.middleName
+      - mlbam_rosters.person.middleName
       # TODO consider splitting chadwick name_given
   - dest: names.nick
-    src: mlbam.person.nickName
+    src:
+      - mlbam_people.nickName 
+      - mlbam_rosters.person.nickName
   - dest: names.boxscore
     src:
-      - mlbam.person.boxscoreName
-      - mlbam.person.lastInitName
+      - mlbam_people.boxscoreName
+      - mlbam_people.lastInitName
+      - mlbam_rosters.person.boxscoreName
+      - mlbam_rosters.person.lastInitName
       - chadwick.name_lastInitName
   - dest: names.givenFirst
     src:
-      - mlbam.person.firstName
+      - mlbam_people.firstName
+      - mlbam_rosters.person.firstName
+      - chadwick.name_first
       # TODO consider splitting chadwick name_given
   - dest: names.givenFirstMiddle
     src:
       - chadwick.name_given
-      - mlbam.name_givenFirstMiddle
+      - mlbam_people.name_givenFirstMiddle
+      - mlbam_rosters.name_givenFirstMiddle
   - dest: names.firstLast
     src:
-      - mlbam.person.nameFirstLast
+      - mlbam_people.nameFirstLast
+      - mlbam_rosters.person.nameFirstLast
       - chadwick.nameFirstLast
   - dest: names.lastFirst
     src:
-      - mlbam.person.lastFirstName
+      - mlbam_people.lastFirstName
+      - mlbam_rosters.person.lastFirstName
       - chadwick.name_lastFirst
   - dest: names.lastFirstInit
     src:
-      - mlbam.person.lastInitName
+      - mlbam_people.lastInitName
+      - mlbam_rosters.person.lastInitName
       - chadwick.name_lastInitName
   - dest: names.givenFull
     src:
-      - mlbam.person.fullFMLName
+      - mlbam_people.fullFMLName
+      - mlbam_rosters.person.fullFMLName
       - chadwick.name_firstLast
 
   # profile
   - dest: profile.birthDate 
     src:
       - chadwick.birth_date
-      - mlbam.person.birthDate
+      - mlbam_people.birthDate
+      - mlbam_rosters.person.birthDate
   - dest: profile.birthYear 
     src:
       - chadwick.birth_year
-      - mlbam.profile_birth_year
+      - mlbam_people.birth_year
+      - mlbam_rosters.profile_birth_year
   - dest: profile.birthMonth 
     src:
       - chadwick.birth_month
-      - mlbam.profile_birth_month
+      - mlbam_people.birth_month
+      - mlbam_rosters.profile_birth_month
   - dest: profile.birthDay 
     src:
       - chadwick.birth_day
-      - mlbam.profile_birth_day
+      - mlbam_people.birth_day
+      - mlbam_rosters.profile_birth_day
   - dest: profile.birthCity
     src:
-      - mlbam.person.birthCity
+      - mlbam_people.birthCity
+      - mlbam_rosters.person.birthCity
   - dest: profile.birthState
     src:
-      - mlbam.person.birthStateProvince
+      - mlbam_people.birthStateProvince
+      - mlbam_rosters.person.birthStateProvince
   - dest: profile.birthCountry
     src:
-      - mlbam.person.birthCountry
+      - mlbam_people.birthCountry
+      - mlbam_rosters.person.birthCountry
   - dest: profile.batHand
     src:
-      - mlbam.person.batSide.code
+      - mlbam_people.batSide.code
+      - mlbam_rosters.person.batSide.code
   - dest: profile.fieldHand
     src:
-      - mlbam.person.pitchHand.code
+      - mlbam_people.pitchHand.code
+      - mlbam_rosters.person.pitchHand.code
   - dest: profile.debutDate
     src:
-      - mlbam.person.mlbDebutDate
+      - mlbam_people.mlbDebutDate
+      - mlbam_rosters.person.mlbDebutDate
   
   # position
   - dest: position.abbreviation
     src:
-      - mlbam.person.primaryPosition.abbreviation
+      - mlbam_people.primaryPosition.abbreviation
+      - mlbam_rosters.person.primaryPosition.abbreviation
   - dest: position.code
     src:
-      - mlbam.person.primaryPosition.code
+      - mlbam_people.primaryPosition.code
+      - mlbam_rosters.person.primaryPosition.code
 
   # team
   - dest: team.mlb_id
     src:
-      - mlbam.team.id
-      - mlbam.parentTeamId
+      # Stick to parent org
+      - mlbam_rosters.parentTeamId
+      - mlbam_people.parentTeam.id
+      - mlbam_rosters.team.id
+      - mlbam_people.team.abbreviation
   - dest: team.abbreviation
     src:
-      - mlbam.team.abbreviation
+      # Stick to parent org
+      - mlbam_rosters.team.abbreviation
+      - mlbam_people.parentTeam.abbreviation
+      - mlbam_people.team.abbreviation
 
   # status
   - dest: status.code
     src:
-      - mlbam.status.code
+      - mlbam_rosters.status.code
   - dest: status.description
     src:
-      - mlbam.status.description
+      - mlbam_rosters.status.description
 fieldsets:
   ids:
     fields:
