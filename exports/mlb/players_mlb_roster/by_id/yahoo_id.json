@@ -2919,12 +2919,12 @@
       "abbreviation": "2B"
     },
     "team": {
-      "mlb_id": 134,
-      "abbreviation": "PIT"
+      "mlb_id": 118,
+      "abbreviation": "KC"
     },
     "status": {
-      "code": "A",
-      "description": "Active"
+      "code": "NYR",
+      "description": "Not Yet Reported"
     }
   },
   "10325": {
@@ -3495,8 +3495,8 @@
       "abbreviation": "P"
     },
     "team": {
-      "mlb_id": 141,
-      "abbreviation": "TOR"
+      "mlb_id": 109,
+      "abbreviation": "AZ"
     },
     "status": {
       "code": null,
@@ -7723,8 +7723,8 @@
       "abbreviation": "CLE"
     },
     "status": {
-      "code": "A",
-      "description": "Active"
+      "code": "D15",
+      "description": "Injured 15-Day"
     }
   },
   "10659": {
@@ -10459,8 +10459,8 @@
       "abbreviation": "TEX"
     },
     "status": {
-      "code": "A",
-      "description": "Active"
+      "code": "D10",
+      "description": "Injured 10-Day"
     }
   },
   "10879": {
@@ -10507,8 +10507,8 @@
       "abbreviation": "SD"
     },
     "status": {
-      "code": "PL",
-      "description": "Paternity List"
+      "code": "A",
+      "description": "Active"
     }
   },
   "10880": {
@@ -13963,8 +13963,8 @@
       "abbreviation": "MIA"
     },
     "status": {
-      "code": "D15",
-      "description": "Injured 15-Day"
+      "code": "D60",
+      "description": "Injured 60-Day"
     }
   },
   "11083": {
@@ -21259,8 +21259,8 @@
       "abbreviation": "SD"
     },
     "status": {
-      "code": "A",
-      "description": "Active"
+      "code": "RM",
+      "description": "Reassigned to Minors"
     }
   },
   "11529": {
@@ -33879,12 +33879,12 @@
       "abbreviation": "P"
     },
     "team": {
-      "mlb_id": 158,
-      "abbreviation": "MIL"
+      "mlb_id": 110,
+      "abbreviation": "BAL"
     },
     "status": {
-      "code": null,
-      "description": null
+      "code": "RM",
+      "description": "Reassigned to Minors"
     }
   },
   "12292": {
@@ -38447,6 +38447,54 @@
       "description": "Reassigned to Minors"
     }
   },
+  "12488": {
+    "id": "0mg5h79vw0",
+    "ids": {
+      "prism": "0mg5h79vw0",
+      "bbref": null,
+      "fangraphs": "sa3008079",
+      "mlbam": "666126",
+      "nfbc": "12427",
+      "sfbb": null,
+      "yahoo": "12488"
+    },
+    "names": {
+      "boxscore": "Cortes",
+      "givenFirst": "Carlos",
+      "givenFirstMiddle": "Carlos Andres",
+      "firstLast": "Carlos Cortes",
+      "lastFirst": "Cortes, Carlos",
+      "lastFirstInit": "Cortes, C",
+      "givenFull": "Carlos Andres Cortes",
+      "last": "Cortes",
+      "first": "Carlos",
+      "middle": "Andres"
+    },
+    "profile": {
+      "birthDate": "1997-6-30",
+      "birthYear": "1997",
+      "birthMonth": "6",
+      "birthDay": "30",
+      "birthCity": "Orlando",
+      "birthState": "FL",
+      "birthCountry": "USA",
+      "batHand": "L",
+      "fieldHand": "S",
+      "debutDate": null
+    },
+    "position": {
+      "code": "7",
+      "abbreviation": "LF"
+    },
+    "team": {
+      "mlb_id": 133,
+      "abbreviation": "ATH"
+    },
+    "status": {
+      "code": "RM",
+      "description": "Reassigned to Minors"
+    }
+  },
   "12492": {
     "id": "zt0h7t3wz8",
     "ids": {
@@ -38971,8 +39019,8 @@
       "abbreviation": "ATH"
     },
     "status": {
-      "code": "D15",
-      "description": "Injured 15-Day"
+      "code": "D60",
+      "description": "Injured 60-Day"
     }
   },
   "12508": {
@@ -45453,6 +45501,54 @@
     "status": {
       "code": "A",
       "description": "Active"
+    }
+  },
+  "60091": {
+    "id": "h79v3km08r",
+    "ids": {
+      "prism": "h79v3km08r",
+      "bbref": null,
+      "fangraphs": "sa3019983",
+      "mlbam": "687637",
+      "nfbc": "12226",
+      "sfbb": null,
+      "yahoo": "60091"
+    },
+    "names": {
+      "boxscore": "Beavers",
+      "givenFirst": "Dylan",
+      "givenFirstMiddle": "Dylan Matthew",
+      "firstLast": "Dylan Beavers",
+      "lastFirst": "Beavers, Dylan",
+      "lastFirstInit": "Beavers, D",
+      "givenFull": "Dylan Matthew Beavers",
+      "last": "Beavers",
+      "first": "Dylan",
+      "middle": "Matthew"
+    },
+    "profile": {
+      "birthDate": "2001-8-11",
+      "birthYear": "2001",
+      "birthMonth": "8",
+      "birthDay": "11",
+      "birthCity": "San Luis Obispo",
+      "birthState": "CA",
+      "birthCountry": "USA",
+      "batHand": "L",
+      "fieldHand": "R",
+      "debutDate": null
+    },
+    "position": {
+      "code": "O",
+      "abbreviation": "OF"
+    },
+    "team": {
+      "mlb_id": 110,
+      "abbreviation": "BAL"
+    },
+    "status": {
+      "code": null,
+      "description": null
     }
   },
   "60092": {
@@ -53367,12 +53463,12 @@
       "abbreviation": "SS"
     },
     "team": {
-      "mlb_id": 118,
-      "abbreviation": "KC"
+      "mlb_id": 134,
+      "abbreviation": "PIT"
     },
     "status": {
-      "code": "A",
-      "description": "Active"
+      "code": "RM",
+      "description": "Reassigned to Minors"
     }
   },
   "61744": {
@@ -58551,12 +58647,12 @@
       "abbreviation": "P"
     },
     "team": {
-      "mlb_id": 144,
-      "abbreviation": "ATL"
+      "mlb_id": 146,
+      "abbreviation": "MIA"
     },
     "status": {
-      "code": null,
-      "description": null
+      "code": "RM",
+      "description": "Reassigned to Minors"
     }
   },
   "63454": {
