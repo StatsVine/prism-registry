@@ -1195,8 +1195,8 @@
       "abbreviation": "HOU"
     },
     "status": {
-      "code": "RM",
-      "description": "Reassigned to Minors"
+      "code": "A",
+      "description": "Active"
     }
   },
   "alexasc02": {
@@ -1867,8 +1867,8 @@
       "abbreviation": "COL"
     },
     "status": {
-      "code": "A",
-      "description": "Active"
+      "code": "RM",
+      "description": "Reassigned to Minors"
     }
   },
   "amayaja01": {
@@ -3915,7 +3915,7 @@
       "birthYear": "1999",
       "birthMonth": "11",
       "birthDay": "12",
-      "birthCity": "Bellvue",
+      "birthCity": "Bellevue",
       "birthState": "WA",
       "birthCountry": "USA",
       "batHand": "L",
@@ -4507,8 +4507,8 @@
       "abbreviation": "BAL"
     },
     "status": {
-      "code": "A",
-      "description": "Active"
+      "code": "D15",
+      "description": "Injured 15-Day"
     }
   },
   "bazared01": {
@@ -7195,8 +7195,8 @@
       "abbreviation": "TB"
     },
     "status": {
-      "code": "A",
-      "description": "Active"
+      "code": "RM",
+      "description": "Reassigned to Minors"
     }
   },
   "brantro01": {
@@ -12815,6 +12815,54 @@
       "description": "Active"
     }
   },
+  "corteca01": {
+    "id": "0mg5h79vw0",
+    "ids": {
+      "prism": "0mg5h79vw0",
+      "bbref": "corteca01",
+      "fangraphs": "21842",
+      "mlbam": "666126",
+      "nfbc": "12427",
+      "sfbb": null,
+      "yahoo": "12488"
+    },
+    "names": {
+      "boxscore": "Cortes",
+      "givenFirst": "Carlos",
+      "givenFirstMiddle": "Carlos Andres",
+      "firstLast": "Carlos Cortes",
+      "lastFirst": "Cortes, Carlos",
+      "lastFirstInit": "Cortes, C",
+      "givenFull": "Carlos Andres Cortes",
+      "last": "Cortes",
+      "first": "Carlos",
+      "middle": "Andres"
+    },
+    "profile": {
+      "birthDate": "1997-6-30",
+      "birthYear": "1997",
+      "birthMonth": "6",
+      "birthDay": "30",
+      "birthCity": "Orlando",
+      "birthState": "FL",
+      "birthCountry": "USA",
+      "batHand": "L",
+      "fieldHand": "S",
+      "debutDate": "2025-07-23"
+    },
+    "position": {
+      "code": "7",
+      "abbreviation": "LF"
+    },
+    "team": {
+      "mlb_id": 133,
+      "abbreviation": "ATH"
+    },
+    "status": {
+      "code": "A",
+      "description": "Active"
+    }
+  },
   "cortene01": {
     "id": "6ctv9rwc0h",
     "ids": {
@@ -13323,7 +13371,7 @@
       "birthYear": "1996",
       "birthMonth": "7",
       "birthDay": "24",
-      "birthCity": "Carrolton",
+      "birthCity": "Carrollton",
       "birthState": "GA",
       "birthCountry": "USA",
       "batHand": "R",
@@ -16459,8 +16507,8 @@
       "abbreviation": "LAA"
     },
     "status": {
-      "code": "A",
-      "description": "Active"
+      "code": "RM",
+      "description": "Reassigned to Minors"
     }
   },
   "edmanto01": {
@@ -17035,8 +17083,8 @@
       "abbreviation": "AZ"
     },
     "status": {
-      "code": "RM",
-      "description": "Reassigned to Minors"
+      "code": "A",
+      "description": "Active"
     }
   },
   "ennsdi01": {
@@ -20535,12 +20583,12 @@
       "abbreviation": "P"
     },
     "team": {
-      "mlb_id": 136,
-      "abbreviation": "SEA"
+      "mlb_id": 109,
+      "abbreviation": "AZ"
     },
     "status": {
-      "code": "A",
-      "description": "Active"
+      "code": "RM",
+      "description": "Reassigned to Minors"
     }
   },
   "garcijo02": {
@@ -24955,8 +25003,8 @@
       "abbreviation": "DET"
     },
     "status": {
-      "code": null,
-      "description": null
+      "code": "A",
+      "description": "Active"
     }
   },
   "harvehu01": {
@@ -26151,12 +26199,12 @@
       "abbreviation": "P"
     },
     "team": {
-      "mlb_id": 116,
+      "mlb_id": "DET",
       "abbreviation": "DET"
     },
     "status": {
-      "code": "A",
-      "description": "Active"
+      "code": null,
+      "description": null
     }
   },
   "hernada03": {
@@ -26395,8 +26443,8 @@
       "abbreviation": "HOU"
     },
     "status": {
-      "code": "A",
-      "description": "Active"
+      "code": "RM",
+      "description": "Reassigned to Minors"
     }
   },
   "hernate01": {
@@ -32539,8 +32587,8 @@
       "abbreviation": "SEA"
     },
     "status": {
-      "code": "RM",
-      "description": "Reassigned to Minors"
+      "code": "A",
+      "description": "Active"
     }
   },
   "kranima01": {
@@ -35511,8 +35559,8 @@
       "abbreviation": "P"
     },
     "team": {
-      "mlb_id": 142,
-      "abbreviation": "MIN"
+      "mlb_id": 121,
+      "abbreviation": "NYM"
     },
     "status": {
       "code": null,
@@ -36855,8 +36903,8 @@
       "abbreviation": "P"
     },
     "team": {
-      "mlb_id": 109,
-      "abbreviation": "AZ"
+      "mlb_id": 141,
+      "abbreviation": "TOR"
     },
     "status": {
       "code": null,
@@ -40415,6 +40463,54 @@
       "description": "Injured 10-Day"
     }
   },
+  "meltotr01": {
+    "id": "5dw550fr1d",
+    "ids": {
+      "prism": "5dw550fr1d",
+      "bbref": "meltotr01",
+      "fangraphs": "31807",
+      "mlbam": "675512",
+      "nfbc": "12430",
+      "sfbb": null,
+      "yahoo": "60175"
+    },
+    "names": {
+      "boxscore": "Melton",
+      "givenFirst": "Troy",
+      "givenFirstMiddle": "Troy Edward",
+      "firstLast": "Troy Melton",
+      "lastFirst": "Melton, Troy",
+      "lastFirstInit": "Melton, T",
+      "givenFull": "Troy Edward Melton",
+      "last": "Melton",
+      "first": "Troy",
+      "middle": "Edward"
+    },
+    "profile": {
+      "birthDate": "2000-12-3",
+      "birthYear": "2000",
+      "birthMonth": "12",
+      "birthDay": "3",
+      "birthCity": "Newport Beach",
+      "birthState": "CA",
+      "birthCountry": "USA",
+      "batHand": "R",
+      "fieldHand": "R",
+      "debutDate": "2025-07-23"
+    },
+    "position": {
+      "code": "1",
+      "abbreviation": "P"
+    },
+    "team": {
+      "mlb_id": 116,
+      "abbreviation": "DET"
+    },
+    "status": {
+      "code": "A",
+      "description": "Active"
+    }
+  },
   "menacr01": {
     "id": "69x6nmx89w",
     "ids": {
@@ -43767,12 +43863,12 @@
       "abbreviation": "1B"
     },
     "team": {
-      "mlb_id": 109,
-      "abbreviation": "AZ"
+      "mlb_id": 136,
+      "abbreviation": "SEA"
     },
     "status": {
-      "code": "A",
-      "description": "Active"
+      "code": "NYR",
+      "description": "Not Yet Reported"
     }
   },
   "neelyja01": {
@@ -49055,6 +49151,54 @@
       "description": "Reassigned to Minors"
     }
   },
+  "quijajo01": {
+    "id": "pl257qjkg0",
+    "ids": {
+      "prism": "pl257qjkg0",
+      "bbref": "quijajo01",
+      "fangraphs": "19200",
+      "mlbam": "650671",
+      "nfbc": "10465",
+      "sfbb": "quijajo01",
+      "yahoo": "11217"
+    },
+    "names": {
+      "boxscore": "Quijada",
+      "givenFirst": "José",
+      "givenFirstMiddle": "José Gregorio",
+      "firstLast": "José Quijada",
+      "lastFirst": "Quijada, José",
+      "lastFirstInit": "Quijada, J",
+      "givenFull": "José Gregorio Quijada",
+      "last": "Quijada",
+      "first": "José",
+      "middle": "Gregorio"
+    },
+    "profile": {
+      "birthDate": "1995-11-9",
+      "birthYear": "1995",
+      "birthMonth": "11",
+      "birthDay": "9",
+      "birthCity": "Caripito",
+      "birthState": null,
+      "birthCountry": "Venezuela",
+      "batHand": "L",
+      "fieldHand": "L",
+      "debutDate": "2019-04-24"
+    },
+    "position": {
+      "code": "1",
+      "abbreviation": "P"
+    },
+    "team": {
+      "mlb_id": 108,
+      "abbreviation": "LAA"
+    },
+    "status": {
+      "code": "A",
+      "description": "Active"
+    }
+  },
   "quintjo01": {
     "id": "x6yrjterzd",
     "ids": {
@@ -50299,8 +50443,8 @@
       "abbreviation": "WSH"
     },
     "status": {
-      "code": "A",
-      "description": "Active"
+      "code": "RM",
+      "description": "Reassigned to Minors"
     }
   },
   "ricebe01": {
@@ -55470,7 +55614,7 @@
       "birthCity": "Fort Defiance",
       "birthState": "AZ",
       "birthCountry": "USA",
-      "batHand": "S",
+      "batHand": "L",
       "fieldHand": "S",
       "debutDate": "2025-07-02"
     },
@@ -58747,8 +58891,8 @@
       "abbreviation": "LAA"
     },
     "status": {
-      "code": "D15",
-      "description": "Injured 15-Day"
+      "code": "D60",
+      "description": "Injured 60-Day"
     }
   },
   "stephtr01": {
@@ -59659,8 +59803,8 @@
       "abbreviation": "BAL"
     },
     "status": {
-      "code": "RM",
-      "description": "Reassigned to Minors"
+      "code": "A",
+      "description": "Active"
     }
   },
   "stubbga01": {
@@ -61435,8 +61579,8 @@
       "abbreviation": "AZ"
     },
     "status": {
-      "code": "A",
-      "description": "Active"
+      "code": "BRV",
+      "description": "Bereavement List"
     }
   },
   "thomaco02": {
