@@ -4603,8 +4603,8 @@
       "abbreviation": "BAL"
     },
     "status": {
-      "code": "A",
-      "description": "Active"
+      "code": "RM",
+      "description": "Reassigned to Minors"
     }
   },
   "10235": {
@@ -12475,8 +12475,8 @@
       "abbreviation": "DET"
     },
     "status": {
-      "code": "PL",
-      "description": "Paternity List"
+      "code": "A",
+      "description": "Active"
     }
   },
   "10712": {
@@ -16647,12 +16647,12 @@
       "abbreviation": "3B"
     },
     "team": {
-      "mlb_id": 145,
-      "abbreviation": "CWS"
+      "mlb_id": 139,
+      "abbreviation": "TB"
     },
     "status": {
-      "code": "RM",
-      "description": "Reassigned to Minors"
+      "code": "NYR",
+      "description": "Not Yet Reported"
     }
   },
   "10955": {
@@ -24475,8 +24475,8 @@
       "abbreviation": "KC"
     },
     "status": {
-      "code": "RM",
-      "description": "Reassigned to Minors"
+      "code": "A",
+      "description": "Active"
     }
   },
   "11389": {
@@ -26587,8 +26587,8 @@
       "abbreviation": "NYY"
     },
     "status": {
-      "code": "D15",
-      "description": "Injured 15-Day"
+      "code": "A",
+      "description": "Active"
     }
   },
   "11477": {
@@ -32059,8 +32059,8 @@
       "abbreviation": "CLE"
     },
     "status": {
-      "code": "RM",
-      "description": "Reassigned to Minors"
+      "code": "A",
+      "description": "Active"
     }
   },
   "11716": {
@@ -33211,8 +33211,8 @@
       "abbreviation": "TB"
     },
     "status": {
-      "code": "A",
-      "description": "Active"
+      "code": null,
+      "description": null
     }
   },
   "11768": {
@@ -36475,8 +36475,8 @@
       "abbreviation": "HOU"
     },
     "status": {
-      "code": "A",
-      "description": "Active"
+      "code": "RM",
+      "description": "Reassigned to Minors"
     }
   },
   "11867": {
@@ -42335,6 +42335,54 @@
       "description": "Injured 10-Day"
     }
   },
+  "12047": {
+    "id": "g2z9xhq8b4",
+    "ids": {
+      "prism": "g2z9xhq8b4",
+      "bbref": null,
+      "fangraphs": "sa3019969",
+      "mlbam": "682987",
+      "nfbc": "12047",
+      "sfbb": null,
+      "yahoo": "60294"
+    },
+    "names": {
+      "boxscore": "Jones, S",
+      "givenFirst": "Spencer",
+      "givenFirstMiddle": "Spencer George",
+      "firstLast": "Spencer Jones",
+      "lastFirst": "Jones, Spencer",
+      "lastFirstInit": "Jones, S",
+      "givenFull": "Spencer George Jones",
+      "last": "Jones",
+      "first": "Spencer",
+      "middle": "George"
+    },
+    "profile": {
+      "birthDate": "2001-5-14",
+      "birthYear": "2001",
+      "birthMonth": "5",
+      "birthDay": "14",
+      "birthCity": "Encinitas",
+      "birthState": "CA",
+      "birthCountry": "USA",
+      "batHand": "L",
+      "fieldHand": "L",
+      "debutDate": null
+    },
+    "position": {
+      "code": "O",
+      "abbreviation": "OF"
+    },
+    "team": {
+      "mlb_id": 147,
+      "abbreviation": "NYY"
+    },
+    "status": {
+      "code": null,
+      "description": null
+    }
+  },
   "12048": {
     "id": "dcvecl3tmd",
     "ids": {
@@ -43435,8 +43483,8 @@
       "abbreviation": "HOU"
     },
     "status": {
-      "code": "RM",
-      "description": "Reassigned to Minors"
+      "code": "A",
+      "description": "Active"
     }
   },
   "12106": {
@@ -44971,8 +45019,8 @@
       "abbreviation": "TOR"
     },
     "status": {
-      "code": "A",
-      "description": "Active"
+      "code": null,
+      "description": null
     }
   },
   "12153": {
@@ -47083,8 +47131,8 @@
       "abbreviation": "TOR"
     },
     "status": {
-      "code": "RM",
-      "description": "Reassigned to Minors"
+      "code": "A",
+      "description": "Active"
     }
   },
   "12211": {
@@ -52171,8 +52219,8 @@
       "abbreviation": "BAL"
     },
     "status": {
-      "code": "RM",
-      "description": "Reassigned to Minors"
+      "code": "A",
+      "description": "Active"
     }
   },
   "12400": {
@@ -53611,8 +53659,8 @@
       "abbreviation": "AZ"
     },
     "status": {
-      "code": "RM",
-      "description": "Reassigned to Minors"
+      "code": "A",
+      "description": "Active"
     }
   },
   "12430": {
@@ -67051,8 +67099,8 @@
       "abbreviation": "NYY"
     },
     "status": {
-      "code": "NYR",
-      "description": "Not Yet Reported"
+      "code": "A",
+      "description": "Active"
     }
   },
   "9733": {
@@ -70507,8 +70555,8 @@
       "abbreviation": "AZ"
     },
     "status": {
-      "code": "A",
-      "description": "Active"
+      "code": null,
+      "description": null
     }
   },
   "9952": {

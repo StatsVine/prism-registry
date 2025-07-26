@@ -2206,8 +2206,8 @@
         "abbreviation": "AZ"
       },
       "status": {
-        "code": "A",
-        "description": "Active"
+        "code": null,
+        "description": null
       }
     },
     {
@@ -3598,8 +3598,8 @@
         "abbreviation": "AZ"
       },
       "status": {
-        "code": "RM",
-        "description": "Reassigned to Minors"
+        "code": "A",
+        "description": "Active"
       }
     },
     {
@@ -5136,8 +5136,8 @@
         "abbreviation": "BAL"
       },
       "status": {
-        "code": "RM",
-        "description": "Reassigned to Minors"
+        "code": "A",
+        "description": "Active"
       }
     },
     {
@@ -6768,8 +6768,8 @@
         "abbreviation": "BAL"
       },
       "status": {
-        "code": "A",
-        "description": "Active"
+        "code": "RM",
+        "description": "Reassigned to Minors"
       }
     },
     {
@@ -16328,8 +16328,8 @@
         "abbreviation": "CLE"
       },
       "status": {
-        "code": "RM",
-        "description": "Reassigned to Minors"
+        "code": "A",
+        "description": "Active"
       }
     },
     {
@@ -20748,8 +20748,8 @@
         "abbreviation": "DET"
       },
       "status": {
-        "code": "PL",
-        "description": "Paternity List"
+        "code": "A",
+        "description": "Active"
       }
     },
     {
@@ -22670,8 +22670,8 @@
         "abbreviation": "HOU"
       },
       "status": {
-        "code": "A",
-        "description": "Active"
+        "code": "RM",
+        "description": "Reassigned to Minors"
       }
     },
     {
@@ -23726,8 +23726,8 @@
         "abbreviation": "HOU"
       },
       "status": {
-        "code": "RM",
-        "description": "Reassigned to Minors"
+        "code": "A",
+        "description": "Active"
       }
     },
     {
@@ -25456,8 +25456,8 @@
         "abbreviation": "KC"
       },
       "status": {
-        "code": "RM",
-        "description": "Reassigned to Minors"
+        "code": "A",
+        "description": "Active"
       }
     },
     {
@@ -47849,6 +47849,54 @@
       }
     },
     {
+      "id": "584erhpf38",
+      "ids": {
+        "prism": "584erhpf38",
+        "bbref": "graytr01",
+        "fangraphs": "19877",
+        "mlbam": "656484",
+        "nfbc": "10952",
+        "sfbb": null,
+        "yahoo": "61782"
+      },
+      "names": {
+        "boxscore": "Gray",
+        "givenFirst": "Tristan",
+        "givenFirstMiddle": "Tristan Colby",
+        "firstLast": "Tristan Gray",
+        "lastFirst": "Gray, Tristan",
+        "lastFirstInit": "Gray, T",
+        "givenFull": "Tristan Colby Gray",
+        "last": "Gray",
+        "first": "Tristan",
+        "middle": "Colby"
+      },
+      "profile": {
+        "birthDate": "1996-3-22",
+        "birthYear": "1996",
+        "birthMonth": "3",
+        "birthDay": "22",
+        "birthCity": "Houston",
+        "birthState": "TX",
+        "birthCountry": "USA",
+        "batHand": "L",
+        "fieldHand": "R",
+        "debutDate": "2023-09-16"
+      },
+      "position": {
+        "code": "5",
+        "abbreviation": "3B"
+      },
+      "team": {
+        "mlb_id": 139,
+        "abbreviation": "TB"
+      },
+      "status": {
+        "code": "NYR",
+        "description": "Not Yet Reported"
+      }
+    },
+    {
       "id": "65ghlk0rc4",
       "ids": {
         "prism": "65ghlk0rc4",
@@ -49428,8 +49476,8 @@
         "abbreviation": "TB"
       },
       "status": {
-        "code": "A",
-        "description": "Active"
+        "code": null,
+        "description": null
       }
     },
     {
@@ -54040,8 +54088,8 @@
         "abbreviation": "TOR"
       },
       "status": {
-        "code": "RM",
-        "description": "Reassigned to Minors"
+        "code": "A",
+        "description": "Active"
       }
     },
     {
@@ -54520,8 +54568,8 @@
         "abbreviation": "TOR"
       },
       "status": {
-        "code": "A",
-        "description": "Active"
+        "code": null,
+        "description": null
       }
     },
     {
@@ -61733,54 +61781,6 @@
       }
     },
     {
-      "id": "584erhpf38",
-      "ids": {
-        "prism": "584erhpf38",
-        "bbref": "graytr01",
-        "fangraphs": "19877",
-        "mlbam": "656484",
-        "nfbc": "10952",
-        "sfbb": null,
-        "yahoo": "61782"
-      },
-      "names": {
-        "boxscore": "Gray",
-        "givenFirst": "Tristan",
-        "givenFirstMiddle": "Tristan Colby",
-        "firstLast": "Tristan Gray",
-        "lastFirst": "Gray, Tristan",
-        "lastFirstInit": "Gray, T",
-        "givenFull": "Tristan Colby Gray",
-        "last": "Gray",
-        "first": "Tristan",
-        "middle": "Colby"
-      },
-      "profile": {
-        "birthDate": "1996-3-22",
-        "birthYear": "1996",
-        "birthMonth": "3",
-        "birthDay": "22",
-        "birthCity": "Houston",
-        "birthState": "TX",
-        "birthCountry": "USA",
-        "batHand": "L",
-        "fieldHand": "R",
-        "debutDate": "2023-09-16"
-      },
-      "position": {
-        "code": "5",
-        "abbreviation": "3B"
-      },
-      "team": {
-        "mlb_id": 145,
-        "abbreviation": "CWS"
-      },
-      "status": {
-        "code": "RM",
-        "description": "Reassigned to Minors"
-      }
-    },
-    {
       "id": "6p9y4xwl4h",
       "ids": {
         "prism": "6p9y4xwl4h",
@@ -66820,8 +66820,8 @@
         "abbreviation": "NYY"
       },
       "status": {
-        "code": "NYR",
-        "description": "Not Yet Reported"
+        "code": "A",
+        "description": "Active"
       }
     },
     {
@@ -67206,6 +67206,54 @@
       "status": {
         "code": "RM",
         "description": "Reassigned to Minors"
+      }
+    },
+    {
+      "id": "g2z9xhq8b4",
+      "ids": {
+        "prism": "g2z9xhq8b4",
+        "bbref": null,
+        "fangraphs": "sa3019969",
+        "mlbam": "682987",
+        "nfbc": "12047",
+        "sfbb": null,
+        "yahoo": "60294"
+      },
+      "names": {
+        "boxscore": "Jones, S",
+        "givenFirst": "Spencer",
+        "givenFirstMiddle": "Spencer George",
+        "firstLast": "Spencer Jones",
+        "lastFirst": "Jones, Spencer",
+        "lastFirstInit": "Jones, S",
+        "givenFull": "Spencer George Jones",
+        "last": "Jones",
+        "first": "Spencer",
+        "middle": "George"
+      },
+      "profile": {
+        "birthDate": "2001-5-14",
+        "birthYear": "2001",
+        "birthMonth": "5",
+        "birthDay": "14",
+        "birthCity": "Encinitas",
+        "birthState": "CA",
+        "birthCountry": "USA",
+        "batHand": "L",
+        "fieldHand": "L",
+        "debutDate": null
+      },
+      "position": {
+        "code": "O",
+        "abbreviation": "OF"
+      },
+      "team": {
+        "mlb_id": 147,
+        "abbreviation": "NYY"
+      },
+      "status": {
+        "code": null,
+        "description": null
       }
     },
     {
@@ -68164,8 +68212,8 @@
         "abbreviation": "NYY"
       },
       "status": {
-        "code": "D15",
-        "description": "Injured 15-Day"
+        "code": "A",
+        "description": "Active"
       }
     },
     {
