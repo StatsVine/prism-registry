@@ -283,8 +283,8 @@
       "abbreviation": "NYM"
     },
     "status": {
-      "code": "A",
-      "description": "Active"
+      "code": "RM",
+      "description": "Reassigned to Minors"
     }
   },
   "acunaro01": {
@@ -2107,8 +2107,8 @@
       "abbreviation": "TB"
     },
     "status": {
-      "code": "A",
-      "description": "Active"
+      "code": "D10",
+      "description": "Injured 10-Day"
     }
   },
   "arciaor01": {
@@ -2203,8 +2203,8 @@
       "abbreviation": "STL"
     },
     "status": {
-      "code": "A",
-      "description": "Active"
+      "code": "D10",
+      "description": "Injured 10-Day"
     }
   },
   "ariasga01": {
@@ -5371,8 +5371,8 @@
       "abbreviation": "ATH"
     },
     "status": {
-      "code": "RM",
-      "description": "Reassigned to Minors"
+      "code": "A",
+      "description": "Active"
     }
   },
   "blissry01": {
@@ -5659,8 +5659,8 @@
       "abbreviation": "PIT"
     },
     "status": {
-      "code": "D15",
-      "description": "Injured 15-Day"
+      "code": "A",
+      "description": "Active"
     }
   },
   "bouchse01": {
@@ -7675,8 +7675,8 @@
       "abbreviation": "SF"
     },
     "status": {
-      "code": "NYR",
-      "description": "Not Yet Reported"
+      "code": "A",
+      "description": "Active"
     }
   },
   "buxtoby01": {
@@ -8059,8 +8059,8 @@
       "abbreviation": "LAD"
     },
     "status": {
-      "code": "NYR",
-      "description": "Not Yet Reported"
+      "code": "A",
+      "description": "Active"
     }
   },
   "camerda01": {
@@ -9547,8 +9547,8 @@
       "abbreviation": "LAA"
     },
     "status": {
-      "code": "NYR",
-      "description": "Not Yet Reported"
+      "code": "A",
+      "description": "Active"
     }
   },
   "chandbu01": {
@@ -10939,8 +10939,8 @@
       "abbreviation": "SD"
     },
     "status": {
-      "code": "NYR",
-      "description": "Not Yet Reported"
+      "code": "D60",
+      "description": "Injured 60-Day"
     }
   },
   "couloda01": {
@@ -10987,8 +10987,8 @@
       "abbreviation": "TEX"
     },
     "status": {
-      "code": "NYR",
-      "description": "Not Yet Reported"
+      "code": "A",
+      "description": "Active"
     }
   },
   "cousija01": {
@@ -15307,8 +15307,8 @@
       "abbreviation": "SD"
     },
     "status": {
-      "code": "NYR",
-      "description": "Not Yet Reported"
+      "code": "A",
+      "description": "Active"
     }
   },
   "fernary01": {
@@ -15355,8 +15355,8 @@
       "abbreviation": "STL"
     },
     "status": {
-      "code": "RM",
-      "description": "Reassigned to Minors"
+      "code": "A",
+      "description": "Active"
     }
   },
   "ferrejo01": {
@@ -15595,8 +15595,8 @@
       "abbreviation": "DET"
     },
     "status": {
-      "code": "NYR",
-      "description": "Not Yet Reported"
+      "code": "A",
+      "description": "Active"
     }
   },
   "fittsri01": {
@@ -18667,8 +18667,8 @@
       "abbreviation": "STL"
     },
     "status": {
-      "code": "D10",
-      "description": "Injured 10-Day"
+      "code": "A",
+      "description": "Active"
     }
   },
   "gourrlo01": {
@@ -20395,8 +20395,8 @@
       "abbreviation": "PIT"
     },
     "status": {
-      "code": "RM",
-      "description": "Reassigned to Minors"
+      "code": "A",
+      "description": "Active"
     }
   },
   "hartky01": {
@@ -20971,8 +20971,8 @@
       "abbreviation": "NYM"
     },
     "status": {
-      "code": "NYR",
-      "description": "Not Yet Reported"
+      "code": "A",
+      "description": "Active"
     }
   },
   "henceti01": {
@@ -24235,8 +24235,8 @@
       "abbreviation": "TB"
     },
     "status": {
-      "code": "NYR",
-      "description": "Not Yet Reported"
+      "code": "A",
+      "description": "Active"
     }
   },
   "jeffery01": {
@@ -24959,6 +24959,54 @@
       "description": "Active"
     }
   },
+  "julksco01": {
+    "id": "dy3pw4b0sm",
+    "ids": {
+      "prism": "dy3pw4b0sm",
+      "bbref": "julksco01",
+      "fangraphs": "20311",
+      "mlbam": "667452",
+      "nfbc": "11604",
+      "sfbb": "julksco01",
+      "yahoo": "60199"
+    },
+    "names": {
+      "boxscore": "Julks",
+      "givenFirst": "Corey",
+      "givenFirstMiddle": "Corey Christopher",
+      "firstLast": "Corey Julks",
+      "lastFirst": "Julks, Corey",
+      "lastFirstInit": "Julks, C",
+      "givenFull": "Corey Christopher Julks",
+      "last": "Julks",
+      "first": "Corey",
+      "middle": "Christopher"
+    },
+    "profile": {
+      "birthDate": "1996-2-27",
+      "birthYear": "1996",
+      "birthMonth": "2",
+      "birthDay": "27",
+      "birthCity": "Friendswood",
+      "birthState": "TX",
+      "birthCountry": "USA",
+      "batHand": "R",
+      "fieldHand": "R",
+      "debutDate": "2023-03-31"
+    },
+    "position": {
+      "code": "7",
+      "abbreviation": "LF"
+    },
+    "team": {
+      "mlb_id": 145,
+      "abbreviation": "CWS"
+    },
+    "status": {
+      "code": "A",
+      "description": "Active"
+    }
+  },
   "jungja01": {
     "id": "fll5nwp37h",
     "ids": {
@@ -25627,8 +25675,8 @@
       "abbreviation": "TEX"
     },
     "status": {
-      "code": "NYR",
-      "description": "Not Yet Reported"
+      "code": "A",
+      "description": "Active"
     }
   },
   "kellymi03": {
@@ -26059,8 +26107,8 @@
       "abbreviation": "TB"
     },
     "status": {
-      "code": "D10",
-      "description": "Injured 10-Day"
+      "code": "A",
+      "description": "Active"
     }
   },
   "kimhy02": {
@@ -26827,8 +26875,8 @@
       "abbreviation": "SEA"
     },
     "status": {
-      "code": "RM",
-      "description": "Reassigned to Minors"
+      "code": "A",
+      "description": "Active"
     }
   },
   "kreidry01": {
@@ -27307,8 +27355,8 @@
       "abbreviation": "SD"
     },
     "status": {
-      "code": "NYR",
-      "description": "Not Yet Reported"
+      "code": "A",
+      "description": "Active"
     }
   },
   "lawde01": {
@@ -30331,8 +30379,8 @@
       "abbreviation": "SD"
     },
     "status": {
-      "code": "A",
-      "description": "Active"
+      "code": "RM",
+      "description": "Reassigned to Minors"
     }
   },
   "marquge01": {
@@ -30416,7 +30464,7 @@
       "birthCountry": "USA",
       "batHand": "L",
       "fieldHand": "L",
-      "debutDate": null
+      "debutDate": "2025-08-01"
     },
     "position": {
       "code": "8",
@@ -31387,8 +31435,8 @@
       "abbreviation": "TEX"
     },
     "status": {
-      "code": "NYR",
-      "description": "Not Yet Reported"
+      "code": "A",
+      "description": "Active"
     }
   },
   "matoslu01": {
@@ -32203,8 +32251,8 @@
       "abbreviation": "SF"
     },
     "status": {
-      "code": "RM",
-      "description": "Reassigned to Minors"
+      "code": "A",
+      "description": "Active"
     }
   },
   "mcculla02": {
@@ -34027,8 +34075,8 @@
       "abbreviation": "SD"
     },
     "status": {
-      "code": "NYR",
-      "description": "Not Yet Reported"
+      "code": "A",
+      "description": "Active"
     }
   },
   "milleow01": {
@@ -34891,8 +34939,8 @@
       "abbreviation": "DET"
     },
     "status": {
-      "code": "NYR",
-      "description": "Not Yet Reported"
+      "code": "A",
+      "description": "Active"
     }
   },
   "montgco01": {
@@ -35515,8 +35563,8 @@
       "abbreviation": "NYM"
     },
     "status": {
-      "code": "NYR",
-      "description": "Not Yet Reported"
+      "code": "A",
+      "description": "Active"
     }
   },
   "muncyma01": {
@@ -35707,8 +35755,8 @@
       "abbreviation": "STL"
     },
     "status": {
-      "code": "RM",
-      "description": "Reassigned to Minors"
+      "code": "A",
+      "description": "Active"
     }
   },
   "murphch01": {
@@ -37147,8 +37195,8 @@
       "abbreviation": "SD"
     },
     "status": {
-      "code": "NYR",
-      "description": "Not Yet Reported"
+      "code": "A",
+      "description": "Active"
     }
   },
   "ohopplo01": {
@@ -38971,8 +39019,8 @@
       "abbreviation": "LAA"
     },
     "status": {
-      "code": "NYR",
-      "description": "Not Yet Reported"
+      "code": "A",
+      "description": "Active"
     }
   },
   "perdoge01": {
@@ -42283,8 +42331,8 @@
       "abbreviation": "TEX"
     },
     "status": {
-      "code": "A",
-      "description": "Active"
+      "code": "RM",
+      "description": "Reassigned to Minors"
     }
   },
   "rodenal01": {
@@ -43479,8 +43527,8 @@
       "abbreviation": "C"
     },
     "team": {
-      "mlb_id": 139,
-      "abbreviation": "TB"
+      "mlb_id": 119,
+      "abbreviation": "LAD"
     },
     "status": {
       "code": null,
@@ -45691,8 +45739,8 @@
       "abbreviation": "SD"
     },
     "status": {
-      "code": "NYR",
-      "description": "Not Yet Reported"
+      "code": "A",
+      "description": "Active"
     }
   },
   "semiema01": {
@@ -47227,8 +47275,8 @@
       "abbreviation": "CWS"
     },
     "status": {
-      "code": "D15",
-      "description": "Injured 15-Day"
+      "code": "A",
+      "description": "Active"
     }
   },
   "smithwi05": {
@@ -48571,8 +48619,8 @@
       "abbreviation": "LAD"
     },
     "status": {
-      "code": "NYR",
-      "description": "Not Yet Reported"
+      "code": "A",
+      "description": "Active"
     }
   },
   "stockro01": {
@@ -50631,12 +50679,12 @@
       "abbreviation": "C"
     },
     "team": {
-      "mlb_id": 139,
+      "mlb_id": "TB",
       "abbreviation": "TB"
     },
     "status": {
-      "code": "A",
-      "description": "Active"
+      "code": null,
+      "description": null
     }
   },
   "thielca01": {
@@ -51115,8 +51163,8 @@
       "abbreviation": "SEA"
     },
     "status": {
-      "code": "A",
-      "description": "Active"
+      "code": "D15",
+      "description": "Injured 15-Day"
     }
   },
   "thorpdr01": {
@@ -51835,8 +51883,8 @@
       "abbreviation": "PIT"
     },
     "status": {
-      "code": "RM",
-      "description": "Reassigned to Minors"
+      "code": "A",
+      "description": "Active"
     }
   },
   "trivilo01": {
@@ -53947,8 +53995,8 @@
       "abbreviation": "SD"
     },
     "status": {
-      "code": "A",
-      "description": "Active"
+      "code": null,
+      "description": null
     }
   },
   "wagamer01": {
@@ -56491,8 +56539,8 @@
       "abbreviation": "SF"
     },
     "status": {
-      "code": "A",
-      "description": "Active"
+      "code": "RM",
+      "description": "Reassigned to Minors"
     }
   },
   "wittbo02": {
@@ -57211,8 +57259,8 @@
       "abbreviation": "LAD"
     },
     "status": {
-      "code": "A",
-      "description": "Active"
+      "code": "D15",
+      "description": "Injured 15-Day"
     }
   },
   "yelicch01": {

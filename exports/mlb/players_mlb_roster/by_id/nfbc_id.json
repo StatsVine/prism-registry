@@ -955,8 +955,8 @@
       "abbreviation": "NYM"
     },
     "status": {
-      "code": "NYR",
-      "description": "Not Yet Reported"
+      "code": "A",
+      "description": "Active"
     }
   },
   "10076": {
@@ -4267,8 +4267,8 @@
       "abbreviation": "SEA"
     },
     "status": {
-      "code": "RM",
-      "description": "Reassigned to Minors"
+      "code": "A",
+      "description": "Active"
     }
   },
   "10223": {
@@ -4592,7 +4592,7 @@
       "birthCountry": "USA",
       "batHand": "R",
       "fieldHand": "R",
-      "debutDate": null
+      "debutDate": "2025-08-01"
     },
     "position": {
       "code": "4",
@@ -5847,12 +5847,12 @@
       "abbreviation": "C"
     },
     "team": {
-      "mlb_id": 139,
+      "mlb_id": "TB",
       "abbreviation": "TB"
     },
     "status": {
-      "code": "A",
-      "description": "Active"
+      "code": null,
+      "description": null
     }
   },
   "10287": {
@@ -6379,8 +6379,8 @@
       "abbreviation": "STL"
     },
     "status": {
-      "code": "D10",
-      "description": "Injured 10-Day"
+      "code": "A",
+      "description": "Active"
     }
   },
   "10304": {
@@ -6859,8 +6859,8 @@
       "abbreviation": "NYM"
     },
     "status": {
-      "code": "NYR",
-      "description": "Not Yet Reported"
+      "code": "A",
+      "description": "Active"
     }
   },
   "10322": {
@@ -10315,8 +10315,8 @@
       "abbreviation": "SEA"
     },
     "status": {
-      "code": "A",
-      "description": "Active"
+      "code": "D15",
+      "description": "Injured 15-Day"
     }
   },
   "10495": {
@@ -10603,8 +10603,8 @@
       "abbreviation": "TEX"
     },
     "status": {
-      "code": "NYR",
-      "description": "Not Yet Reported"
+      "code": "A",
+      "description": "Active"
     }
   },
   "10511": {
@@ -10795,8 +10795,8 @@
       "abbreviation": "LAD"
     },
     "status": {
-      "code": "NYR",
-      "description": "Not Yet Reported"
+      "code": "A",
+      "description": "Active"
     }
   },
   "10524": {
@@ -13723,8 +13723,8 @@
       "abbreviation": "DET"
     },
     "status": {
-      "code": "NYR",
-      "description": "Not Yet Reported"
+      "code": "A",
+      "description": "Active"
     }
   },
   "10796": {
@@ -14395,8 +14395,8 @@
       "abbreviation": "ATH"
     },
     "status": {
-      "code": "RM",
-      "description": "Reassigned to Minors"
+      "code": "A",
+      "description": "Active"
     }
   },
   "10839": {
@@ -16651,8 +16651,8 @@
       "abbreviation": "TB"
     },
     "status": {
-      "code": "RM",
-      "description": "Reassigned to Minors"
+      "code": "A",
+      "description": "Active"
     }
   },
   "10955": {
@@ -19963,8 +19963,8 @@
       "abbreviation": "TB"
     },
     "status": {
-      "code": "D10",
-      "description": "Injured 10-Day"
+      "code": "A",
+      "description": "Active"
     }
   },
   "11148": {
@@ -20107,8 +20107,8 @@
       "abbreviation": "LAA"
     },
     "status": {
-      "code": "NYR",
-      "description": "Not Yet Reported"
+      "code": "A",
+      "description": "Active"
     }
   },
   "11157": {
@@ -20199,8 +20199,8 @@
       "abbreviation": "C"
     },
     "team": {
-      "mlb_id": 139,
-      "abbreviation": "TB"
+      "mlb_id": 119,
+      "abbreviation": "LAD"
     },
     "status": {
       "code": null,
@@ -21163,8 +21163,8 @@
       "abbreviation": "TB"
     },
     "status": {
-      "code": "NYR",
-      "description": "Not Yet Reported"
+      "code": "A",
+      "description": "Active"
     }
   },
   "11220": {
@@ -21883,8 +21883,8 @@
       "abbreviation": "TEX"
     },
     "status": {
-      "code": "A",
-      "description": "Active"
+      "code": "RM",
+      "description": "Reassigned to Minors"
     }
   },
   "11267": {
@@ -24619,8 +24619,8 @@
       "abbreviation": "SD"
     },
     "status": {
-      "code": "A",
-      "description": "Active"
+      "code": "RM",
+      "description": "Reassigned to Minors"
     }
   },
   "11393": {
@@ -24715,8 +24715,8 @@
       "abbreviation": "TB"
     },
     "status": {
-      "code": "A",
-      "description": "Active"
+      "code": "D10",
+      "description": "Injured 10-Day"
     }
   },
   "11395": {
@@ -24907,8 +24907,8 @@
       "abbreviation": "SF"
     },
     "status": {
-      "code": "NYR",
-      "description": "Not Yet Reported"
+      "code": "A",
+      "description": "Active"
     }
   },
   "11401": {
@@ -24955,8 +24955,8 @@
       "abbreviation": "SD"
     },
     "status": {
-      "code": "NYR",
-      "description": "Not Yet Reported"
+      "code": "A",
+      "description": "Active"
     }
   },
   "11403": {
@@ -27067,8 +27067,8 @@
       "abbreviation": "SD"
     },
     "status": {
-      "code": "NYR",
-      "description": "Not Yet Reported"
+      "code": "A",
+      "description": "Active"
     }
   },
   "11515": {
@@ -29375,6 +29375,54 @@
       "description": "Injured 10-Day"
     }
   },
+  "11604": {
+    "id": "dy3pw4b0sm",
+    "ids": {
+      "prism": "dy3pw4b0sm",
+      "bbref": "julksco01",
+      "fangraphs": "20311",
+      "mlbam": "667452",
+      "nfbc": "11604",
+      "sfbb": "julksco01",
+      "yahoo": "60199"
+    },
+    "names": {
+      "boxscore": "Julks",
+      "givenFirst": "Corey",
+      "givenFirstMiddle": "Corey Christopher",
+      "firstLast": "Corey Julks",
+      "lastFirst": "Julks, Corey",
+      "lastFirstInit": "Julks, C",
+      "givenFull": "Corey Christopher Julks",
+      "last": "Julks",
+      "first": "Corey",
+      "middle": "Christopher"
+    },
+    "profile": {
+      "birthDate": "1996-2-27",
+      "birthYear": "1996",
+      "birthMonth": "2",
+      "birthDay": "27",
+      "birthCity": "Friendswood",
+      "birthState": "TX",
+      "birthCountry": "USA",
+      "batHand": "R",
+      "fieldHand": "R",
+      "debutDate": "2023-03-31"
+    },
+    "position": {
+      "code": "7",
+      "abbreviation": "LF"
+    },
+    "team": {
+      "mlb_id": 145,
+      "abbreviation": "CWS"
+    },
+    "status": {
+      "code": "A",
+      "description": "Active"
+    }
+  },
   "11606": {
     "id": "9wfhd3en9h",
     "ids": {
@@ -29707,8 +29755,8 @@
       "abbreviation": "NYM"
     },
     "status": {
-      "code": "A",
-      "description": "Active"
+      "code": "RM",
+      "description": "Reassigned to Minors"
     }
   },
   "11615": {
@@ -30667,8 +30715,8 @@
       "abbreviation": "STL"
     },
     "status": {
-      "code": "RM",
-      "description": "Reassigned to Minors"
+      "code": "A",
+      "description": "Active"
     }
   },
   "11649": {
@@ -31195,8 +31243,8 @@
       "abbreviation": "PIT"
     },
     "status": {
-      "code": "RM",
-      "description": "Reassigned to Minors"
+      "code": "A",
+      "description": "Active"
     }
   },
   "11669": {
@@ -33307,8 +33355,8 @@
       "abbreviation": "SF"
     },
     "status": {
-      "code": "A",
-      "description": "Active"
+      "code": "RM",
+      "description": "Reassigned to Minors"
     }
   },
   "11770": {
@@ -33643,8 +33691,8 @@
       "abbreviation": "TB"
     },
     "status": {
-      "code": "NYR",
-      "description": "Not Yet Reported"
+      "code": "A",
+      "description": "Active"
     }
   },
   "11780": {
@@ -33883,8 +33931,8 @@
       "abbreviation": "SD"
     },
     "status": {
-      "code": "NYR",
-      "description": "Not Yet Reported"
+      "code": "A",
+      "description": "Active"
     }
   },
   "11789": {
@@ -34171,8 +34219,8 @@
       "abbreviation": "LAA"
     },
     "status": {
-      "code": "A",
-      "description": "Active"
+      "code": "RM",
+      "description": "Reassigned to Minors"
     }
   },
   "11797": {
@@ -36715,8 +36763,8 @@
       "abbreviation": "PIT"
     },
     "status": {
-      "code": "RM",
-      "description": "Reassigned to Minors"
+      "code": "A",
+      "description": "Active"
     }
   },
   "11870": {
@@ -37051,8 +37099,8 @@
       "abbreviation": "TEX"
     },
     "status": {
-      "code": "A",
-      "description": "Active"
+      "code": "RM",
+      "description": "Reassigned to Minors"
     }
   },
   "11881": {
@@ -39392,7 +39440,7 @@
       "birthCountry": "USA",
       "batHand": "L",
       "fieldHand": "L",
-      "debutDate": null
+      "debutDate": "2025-08-01"
     },
     "position": {
       "code": "8",
@@ -41087,6 +41135,54 @@
       "description": "Injured 15-Day"
     }
   },
+  "11988": {
+    "id": "mgdj24jztr",
+    "ids": {
+      "prism": "mgdj24jztr",
+      "bbref": "tengka01",
+      "fangraphs": "24282",
+      "mlbam": "678906",
+      "nfbc": "11988",
+      "sfbb": null,
+      "yahoo": "63484"
+    },
+    "names": {
+      "boxscore": "Teng",
+      "givenFirst": "Kai-Wei",
+      "givenFirstMiddle": "Kai-Wei",
+      "firstLast": "Kai-Wei Teng",
+      "lastFirst": "Teng, Kai-Wei",
+      "lastFirstInit": "Teng, K",
+      "givenFull": "Kai-Wei Teng",
+      "last": "Teng",
+      "first": "Kai-Wei",
+      "middle": null
+    },
+    "profile": {
+      "birthDate": "1998-12-1",
+      "birthYear": "1998",
+      "birthMonth": "12",
+      "birthDay": "1",
+      "birthCity": "Taichung",
+      "birthState": null,
+      "birthCountry": "Taiwan",
+      "batHand": "R",
+      "fieldHand": "R",
+      "debutDate": "2024-03-31"
+    },
+    "position": {
+      "code": "1",
+      "abbreviation": "P"
+    },
+    "team": {
+      "mlb_id": 137,
+      "abbreviation": "SF"
+    },
+    "status": {
+      "code": "A",
+      "description": "Active"
+    }
+  },
   "11989": {
     "id": "7htzkqq0j8",
     "ids": {
@@ -41659,8 +41755,8 @@
       "abbreviation": "STL"
     },
     "status": {
-      "code": "RM",
-      "description": "Reassigned to Minors"
+      "code": "A",
+      "description": "Active"
     }
   },
   "12007": {
@@ -45355,8 +45451,8 @@
       "abbreviation": "SF"
     },
     "status": {
-      "code": "RM",
-      "description": "Reassigned to Minors"
+      "code": "A",
+      "description": "Active"
     }
   },
   "12155": {
@@ -46507,8 +46603,8 @@
       "abbreviation": "TEX"
     },
     "status": {
-      "code": "A",
-      "description": "Active"
+      "code": "RM",
+      "description": "Reassigned to Minors"
     }
   },
   "12184": {
@@ -47227,8 +47323,8 @@
       "abbreviation": "PIT"
     },
     "status": {
-      "code": "RM",
-      "description": "Reassigned to Minors"
+      "code": "A",
+      "description": "Active"
     }
   },
   "12208": {
@@ -48139,8 +48235,8 @@
       "abbreviation": "PIT"
     },
     "status": {
-      "code": "NYR",
-      "description": "Not Yet Reported"
+      "code": "RM",
+      "description": "Reassigned to Minors"
     }
   },
   "12240": {
@@ -48619,8 +48715,8 @@
       "abbreviation": "TB"
     },
     "status": {
-      "code": "A",
-      "description": "Active"
+      "code": "RM",
+      "description": "Reassigned to Minors"
     }
   },
   "12259": {
@@ -50011,8 +50107,8 @@
       "abbreviation": "DET"
     },
     "status": {
-      "code": "A",
-      "description": "Active"
+      "code": "RM",
+      "description": "Reassigned to Minors"
     }
   },
   "12294": {
@@ -50347,8 +50443,8 @@
       "abbreviation": "CWS"
     },
     "status": {
-      "code": "D15",
-      "description": "Injured 15-Day"
+      "code": "A",
+      "description": "Active"
     }
   },
   "12315": {
@@ -51307,8 +51403,8 @@
       "abbreviation": "SF"
     },
     "status": {
-      "code": "D10",
-      "description": "Injured 10-Day"
+      "code": "A",
+      "description": "Active"
     }
   },
   "12372": {
@@ -52363,8 +52459,8 @@
       "abbreviation": "COL"
     },
     "status": {
-      "code": "RM",
-      "description": "Reassigned to Minors"
+      "code": "A",
+      "description": "Active"
     }
   },
   "12397": {
@@ -52987,8 +53083,8 @@
       "abbreviation": "CWS"
     },
     "status": {
-      "code": "A",
-      "description": "Active"
+      "code": "RM",
+      "description": "Reassigned to Minors"
     }
   },
   "12410": {
@@ -53035,8 +53131,8 @@
       "abbreviation": "STL"
     },
     "status": {
-      "code": "RM",
-      "description": "Reassigned to Minors"
+      "code": "A",
+      "description": "Active"
     }
   },
   "12411": {
@@ -53371,8 +53467,8 @@
       "abbreviation": "LAD"
     },
     "status": {
-      "code": "NYR",
-      "description": "Not Yet Reported"
+      "code": "A",
+      "description": "Active"
     }
   },
   "12418": {
@@ -53563,8 +53659,8 @@
       "abbreviation": "ATH"
     },
     "status": {
-      "code": "RM",
-      "description": "Reassigned to Minors"
+      "code": "A",
+      "description": "Active"
     }
   },
   "12422": {
@@ -54089,6 +54185,102 @@
     "team": {
       "mlb_id": 142,
       "abbreviation": "MIN"
+    },
+    "status": {
+      "code": "A",
+      "description": "Active"
+    }
+  },
+  "12433": {
+    "id": "czqqhvsynd",
+    "ids": {
+      "prism": "czqqhvsynd",
+      "bbref": "darnedu01",
+      "fangraphs": "sa3014876",
+      "mlbam": "699911",
+      "nfbc": "12433",
+      "sfbb": null,
+      "yahoo": "61935"
+    },
+    "names": {
+      "boxscore": "Darnell",
+      "givenFirst": "Dugan",
+      "givenFirstMiddle": "Dugan Tate",
+      "firstLast": "Dugan Darnell",
+      "lastFirst": "Darnell, Dugan",
+      "lastFirstInit": "Darnell, D",
+      "givenFull": "Dugan Tate Darnell",
+      "last": "Darnell",
+      "first": "Dugan",
+      "middle": "Tate"
+    },
+    "profile": {
+      "birthDate": "1997-6-26",
+      "birthYear": "1997",
+      "birthMonth": "6",
+      "birthDay": "26",
+      "birthCity": "Northville",
+      "birthState": "MI",
+      "birthCountry": "USA",
+      "batHand": "L",
+      "fieldHand": "R",
+      "debutDate": "2025-08-01"
+    },
+    "position": {
+      "code": "1",
+      "abbreviation": "P"
+    },
+    "team": {
+      "mlb_id": 115,
+      "abbreviation": "COL"
+    },
+    "status": {
+      "code": "A",
+      "description": "Active"
+    }
+  },
+  "12434": {
+    "id": "er8x183ztr",
+    "ids": {
+      "prism": "er8x183ztr",
+      "bbref": "morallu01",
+      "fangraphs": "sa3021487",
+      "mlbam": "806960",
+      "nfbc": "12434",
+      "sfbb": null,
+      "yahoo": "63613"
+    },
+    "names": {
+      "boxscore": "Morales",
+      "givenFirst": "Luis",
+      "givenFirstMiddle": "Luis Danys",
+      "firstLast": "Luis Morales",
+      "lastFirst": "Morales, Luis",
+      "lastFirstInit": "Morales, L",
+      "givenFull": "Luis Danys Morales",
+      "last": "Morales",
+      "first": "Luis",
+      "middle": "Danys"
+    },
+    "profile": {
+      "birthDate": "2002-9-24",
+      "birthYear": "2002",
+      "birthMonth": "9",
+      "birthDay": "24",
+      "birthCity": "Antilla",
+      "birthState": null,
+      "birthCountry": "Cuba",
+      "batHand": "R",
+      "fieldHand": "R",
+      "debutDate": "2025-08-01"
+    },
+    "position": {
+      "code": "1",
+      "abbreviation": "P"
+    },
+    "team": {
+      "mlb_id": 133,
+      "abbreviation": "ATH"
     },
     "status": {
       "code": "A",
@@ -56347,8 +56539,8 @@
       "abbreviation": "STL"
     },
     "status": {
-      "code": "A",
-      "description": "Active"
+      "code": "D10",
+      "description": "Injured 10-Day"
     }
   },
   "8225": {
@@ -58747,8 +58939,8 @@
       "abbreviation": "DET"
     },
     "status": {
-      "code": "NYR",
-      "description": "Not Yet Reported"
+      "code": "A",
+      "description": "Active"
     }
   },
   "8688": {
@@ -59947,8 +60139,8 @@
       "abbreviation": "LAD"
     },
     "status": {
-      "code": "A",
-      "description": "Active"
+      "code": "D15",
+      "description": "Injured 15-Day"
     }
   },
   "8832": {
@@ -60283,8 +60475,8 @@
       "abbreviation": "LAA"
     },
     "status": {
-      "code": "NYR",
-      "description": "Not Yet Reported"
+      "code": "A",
+      "description": "Active"
     }
   },
   "8866": {
@@ -60667,8 +60859,8 @@
       "abbreviation": "TEX"
     },
     "status": {
-      "code": "NYR",
-      "description": "Not Yet Reported"
+      "code": "A",
+      "description": "Active"
     }
   },
   "8924": {
@@ -64219,8 +64411,8 @@
       "abbreviation": "LAD"
     },
     "status": {
-      "code": "NYR",
-      "description": "Not Yet Reported"
+      "code": "A",
+      "description": "Active"
     }
   },
   "9404": {
@@ -66955,8 +67147,8 @@
       "abbreviation": "TEX"
     },
     "status": {
-      "code": "NYR",
-      "description": "Not Yet Reported"
+      "code": "A",
+      "description": "Active"
     }
   },
   "9678": {
@@ -67099,8 +67291,8 @@
       "abbreviation": "SD"
     },
     "status": {
-      "code": "A",
-      "description": "Active"
+      "code": null,
+      "description": null
     }
   },
   "9698": {
@@ -69163,8 +69355,8 @@
       "abbreviation": "SD"
     },
     "status": {
-      "code": "NYR",
-      "description": "Not Yet Reported"
+      "code": "A",
+      "description": "Active"
     }
   },
   "9828": {
@@ -70507,8 +70699,8 @@
       "abbreviation": "SD"
     },
     "status": {
-      "code": "NYR",
-      "description": "Not Yet Reported"
+      "code": "A",
+      "description": "Active"
     }
   },
   "9921": {
@@ -70699,8 +70891,8 @@
       "abbreviation": "SD"
     },
     "status": {
-      "code": "NYR",
-      "description": "Not Yet Reported"
+      "code": "D60",
+      "description": "Injured 60-Day"
     }
   },
   "9936": {
@@ -71227,8 +71419,8 @@
       "abbreviation": "PIT"
     },
     "status": {
-      "code": "D15",
-      "description": "Injured 15-Day"
+      "code": "A",
+      "description": "Active"
     }
   },
   "9964": {
