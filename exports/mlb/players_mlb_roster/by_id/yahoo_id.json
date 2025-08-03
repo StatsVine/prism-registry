@@ -715,8 +715,8 @@
       "abbreviation": "TB"
     },
     "status": {
-      "code": "NYR",
-      "description": "Not Yet Reported"
+      "code": "A",
+      "description": "Active"
     }
   },
   "10105": {
@@ -1147,8 +1147,8 @@
       "abbreviation": "LAD"
     },
     "status": {
-      "code": "D60",
-      "description": "Injured 60-Day"
+      "code": "A",
+      "description": "Active"
     }
   },
   "10152": {
@@ -1435,8 +1435,8 @@
       "abbreviation": "COL"
     },
     "status": {
-      "code": "A",
-      "description": "Active"
+      "code": "D15",
+      "description": "Injured 15-Day"
     }
   },
   "10178": {
@@ -3403,8 +3403,8 @@
       "abbreviation": "CWS"
     },
     "status": {
-      "code": "A",
-      "description": "Active"
+      "code": "D15",
+      "description": "Injured 15-Day"
     }
   },
   "10391": {
@@ -3931,8 +3931,8 @@
       "abbreviation": "CHC"
     },
     "status": {
-      "code": "NYR",
-      "description": "Not Yet Reported"
+      "code": "A",
+      "description": "Active"
     }
   },
   "10424": {
@@ -5851,8 +5851,8 @@
       "abbreviation": "CIN"
     },
     "status": {
-      "code": "NYR",
-      "description": "Not Yet Reported"
+      "code": "A",
+      "description": "Active"
     }
   },
   "10548": {
@@ -9067,8 +9067,8 @@
       "abbreviation": "BAL"
     },
     "status": {
-      "code": "NYR",
-      "description": "Not Yet Reported"
+      "code": "A",
+      "description": "Active"
     }
   },
   "10787": {
@@ -9883,8 +9883,8 @@
       "abbreviation": "KC"
     },
     "status": {
-      "code": "A",
-      "description": "Active"
+      "code": null,
+      "description": null
     }
   },
   "10860": {
@@ -10939,8 +10939,8 @@
       "abbreviation": "BOS"
     },
     "status": {
-      "code": "NYR",
-      "description": "Not Yet Reported"
+      "code": "A",
+      "description": "Active"
     }
   },
   "10899": {
@@ -13339,8 +13339,8 @@
       "abbreviation": "CIN"
     },
     "status": {
-      "code": "NYR",
-      "description": "Not Yet Reported"
+      "code": "A",
+      "description": "Active"
     }
   },
   "11036": {
@@ -15207,12 +15207,12 @@
       "abbreviation": "1B"
     },
     "team": {
-      "mlb_id": 108,
+      "mlb_id": "LAA",
       "abbreviation": "LAA"
     },
     "status": {
-      "code": "A",
-      "description": "Active"
+      "code": null,
+      "description": null
     }
   },
   "11192": {
@@ -16507,8 +16507,8 @@
       "abbreviation": "CIN"
     },
     "status": {
-      "code": "A",
-      "description": "Active"
+      "code": "RM",
+      "description": "Reassigned to Minors"
     }
   },
   "11263": {
@@ -16983,12 +16983,12 @@
       "abbreviation": "CF"
     },
     "team": {
-      "mlb_id": "CIN",
+      "mlb_id": 113,
       "abbreviation": "CIN"
     },
     "status": {
-      "code": null,
-      "description": null
+      "code": "A",
+      "description": "Active"
     }
   },
   "11291": {
@@ -17227,8 +17227,8 @@
       "abbreviation": "COL"
     },
     "status": {
-      "code": "RM",
-      "description": "Reassigned to Minors"
+      "code": "A",
+      "description": "Active"
     }
   },
   "11303": {
@@ -17859,8 +17859,8 @@
     "id": "r0k8yb38xw",
     "ids": {
       "prism": "r0k8yb38xw",
-      "bbref": null,
-      "fangraphs": "sa3007740",
+      "bbref": "jacksje02",
+      "fangraphs": "22239",
       "mlbam": "669236",
       "nfbc": "10234",
       "sfbb": null,
@@ -19723,8 +19723,8 @@
       "abbreviation": "CWS"
     },
     "status": {
-      "code": "RM",
-      "description": "Reassigned to Minors"
+      "code": "A",
+      "description": "Active"
     }
   },
   "11404": {
@@ -20059,8 +20059,8 @@
       "abbreviation": "DET"
     },
     "status": {
-      "code": "A",
-      "description": "Active"
+      "code": "RM",
+      "description": "Reassigned to Minors"
     }
   },
   "11428": {
@@ -20347,8 +20347,8 @@
       "abbreviation": "CIN"
     },
     "status": {
-      "code": "A",
-      "description": "Active"
+      "code": "RM",
+      "description": "Reassigned to Minors"
     }
   },
   "11447": {
@@ -20635,8 +20635,8 @@
       "abbreviation": "CLE"
     },
     "status": {
-      "code": "NYR",
-      "description": "Not Yet Reported"
+      "code": "A",
+      "description": "Active"
     }
   },
   "11471": {
@@ -21979,8 +21979,8 @@
       "abbreviation": "ATL"
     },
     "status": {
-      "code": "RM",
-      "description": "Reassigned to Minors"
+      "code": "A",
+      "description": "Active"
     }
   },
   "11555": {
@@ -23515,8 +23515,8 @@
       "abbreviation": "CHC"
     },
     "status": {
-      "code": "A",
-      "description": "Active"
+      "code": null,
+      "description": null
     }
   },
   "11692": {
@@ -24439,7 +24439,7 @@
       "fangraphs": "25980",
       "mlbam": "683090",
       "nfbc": "12270",
-      "sfbb": null,
+      "sfbb": "lugoma01",
       "yahoo": "11737"
     },
     "names": {
@@ -25147,8 +25147,8 @@
       "abbreviation": "KC"
     },
     "status": {
-      "code": "A",
-      "description": "Active"
+      "code": "RM",
+      "description": "Reassigned to Minors"
     }
   },
   "11771": {
@@ -30811,8 +30811,8 @@
       "abbreviation": "MIN"
     },
     "status": {
-      "code": "D15",
-      "description": "Injured 15-Day"
+      "code": "A",
+      "description": "Active"
     }
   },
   "12097": {
@@ -30955,8 +30955,8 @@
       "abbreviation": "KC"
     },
     "status": {
-      "code": "NYR",
-      "description": "Not Yet Reported"
+      "code": "A",
+      "description": "Active"
     }
   },
   "12105": {
@@ -32971,8 +32971,8 @@
       "abbreviation": "STL"
     },
     "status": {
-      "code": "D10",
-      "description": "Injured 10-Day"
+      "code": "A",
+      "description": "Active"
     }
   },
   "12215": {
@@ -33499,8 +33499,8 @@
       "abbreviation": "BOS"
     },
     "status": {
-      "code": "A",
-      "description": "Active"
+      "code": "RM",
+      "description": "Reassigned to Minors"
     }
   },
   "12258": {
@@ -33883,8 +33883,8 @@
       "abbreviation": "PIT"
     },
     "status": {
-      "code": "RM",
-      "description": "Reassigned to Minors"
+      "code": "A",
+      "description": "Active"
     }
   },
   "12275": {
@@ -35431,7 +35431,7 @@
       "fangraphs": "23917",
       "mlbam": "678391",
       "nfbc": "11398",
-      "sfbb": null,
+      "sfbb": "vivasjo01",
       "yahoo": "12341"
     },
     "names": {
@@ -37207,7 +37207,7 @@
       "fangraphs": "30016",
       "mlbam": "697812",
       "nfbc": "12256",
-      "sfbb": null,
+      "sfbb": "rockjo01",
       "yahoo": "12408"
     },
     "names": {
@@ -37639,7 +37639,7 @@
       "fangraphs": "30145",
       "mlbam": "681916",
       "nfbc": "12404",
-      "sfbb": null,
+      "sfbb": "smithdy01",
       "yahoo": "12425"
     },
     "names": {
@@ -40171,8 +40171,8 @@
       "abbreviation": "TEX"
     },
     "status": {
-      "code": "A",
-      "description": "Active"
+      "code": "D10",
+      "description": "Injured 10-Day"
     }
   },
   "12567": {
@@ -42583,7 +42583,7 @@
       "fangraphs": "20375",
       "mlbam": "669711",
       "nfbc": "10585",
-      "sfbb": null,
+      "sfbb": "weissgr01",
       "yahoo": "12685"
     },
     "names": {
@@ -42667,8 +42667,8 @@
       "abbreviation": "BOS"
     },
     "status": {
-      "code": "D15",
-      "description": "Injured 15-Day"
+      "code": "RM",
+      "description": "Reassigned to Minors"
     }
   },
   "12687": {
@@ -43243,8 +43243,8 @@
       "abbreviation": "STL"
     },
     "status": {
-      "code": "A",
-      "description": "Active"
+      "code": "RM",
+      "description": "Reassigned to Minors"
     }
   },
   "12711": {
@@ -44203,8 +44203,8 @@
       "abbreviation": "CLE"
     },
     "status": {
-      "code": "A",
-      "description": "Active"
+      "code": "RM",
+      "description": "Reassigned to Minors"
     }
   },
   "12734": {
@@ -45111,8 +45111,8 @@
       "abbreviation": "1B"
     },
     "team": {
-      "mlb_id": 145,
-      "abbreviation": "CWS"
+      "mlb_id": 110,
+      "abbreviation": "BAL"
     },
     "status": {
       "code": "RM",
@@ -45211,8 +45211,8 @@
       "abbreviation": "TB"
     },
     "status": {
-      "code": "A",
-      "description": "Active"
+      "code": "RM",
+      "description": "Reassigned to Minors"
     }
   },
   "12769": {
@@ -45843,11 +45843,11 @@
     "id": "h79v3km08r",
     "ids": {
       "prism": "h79v3km08r",
-      "bbref": null,
+      "bbref": "beavedy01",
       "fangraphs": "sa3019983",
       "mlbam": "687637",
       "nfbc": "12226",
-      "sfbb": null,
+      "sfbb": "beavedy01",
       "yahoo": "60091"
     },
     "names": {
@@ -46231,7 +46231,7 @@
       "fangraphs": "27914",
       "mlbam": "694037",
       "nfbc": "11821",
-      "sfbb": null,
+      "sfbb": "palenda01",
       "yahoo": "60121"
     },
     "names": {
@@ -46663,7 +46663,7 @@
       "fangraphs": "28552",
       "mlbam": "692585",
       "nfbc": "12219",
-      "sfbb": null,
+      "sfbb": "fernaya01",
       "yahoo": "60149"
     },
     "names": {
@@ -46759,7 +46759,7 @@
       "fangraphs": "31500",
       "mlbam": "690022",
       "nfbc": "12406",
-      "sfbb": null,
+      "sfbb": "rittery01",
       "yahoo": "60154"
     },
     "names": {
@@ -48627,11 +48627,11 @@
     "id": "g2z9xhq8b4",
     "ids": {
       "prism": "g2z9xhq8b4",
-      "bbref": null,
+      "bbref": "jonessp01",
       "fangraphs": "sa3019969",
       "mlbam": "682987",
       "nfbc": "12047",
-      "sfbb": null,
+      "sfbb": "jonessp01",
       "yahoo": "60294"
     },
     "names": {
@@ -49051,8 +49051,8 @@
       "abbreviation": "PIT"
     },
     "status": {
-      "code": "A",
-      "description": "Active"
+      "code": "RM",
+      "description": "Reassigned to Minors"
     }
   },
   "60341": {
@@ -49255,7 +49255,7 @@
       "fangraphs": "29863",
       "mlbam": "686701",
       "nfbc": "12288",
-      "sfbb": null,
+      "sfbb": "bergery01",
       "yahoo": "60356"
     },
     "names": {
@@ -49291,8 +49291,8 @@
       "abbreviation": "KC"
     },
     "status": {
-      "code": "NYR",
-      "description": "Not Yet Reported"
+      "code": "A",
+      "description": "Active"
     }
   },
   "60360": {
@@ -50155,8 +50155,8 @@
       "abbreviation": "TEX"
     },
     "status": {
-      "code": "RM",
-      "description": "Reassigned to Minors"
+      "code": "A",
+      "description": "Active"
     }
   },
   "60438": {
@@ -51259,8 +51259,8 @@
       "abbreviation": "CWS"
     },
     "status": {
-      "code": "D60",
-      "description": "Injured 60-Day"
+      "code": "RM",
+      "description": "Reassigned to Minors"
     }
   },
   "60638": {
@@ -52327,7 +52327,7 @@
       "fangraphs": "25183",
       "mlbam": "682183",
       "nfbc": "12366",
-      "sfbb": null,
+      "sfbb": "avansdr01",
       "yahoo": "61269"
     },
     "names": {
@@ -52895,6 +52895,54 @@
       "description": "Reassigned to Minors"
     }
   },
+  "61559": {
+    "id": "bqpk6wnx7m",
+    "ids": {
+      "prism": "bqpk6wnx7m",
+      "bbref": "teodobr01",
+      "fangraphs": "29524",
+      "mlbam": "669326",
+      "nfbc": "12178",
+      "sfbb": null,
+      "yahoo": "61559"
+    },
+    "names": {
+      "boxscore": "Teodosio",
+      "givenFirst": "Bryce",
+      "givenFirstMiddle": "Bryce Thomas",
+      "firstLast": "Bryce Teodosio",
+      "lastFirst": "Teodosio, Bryce",
+      "lastFirstInit": "Teodosio, B",
+      "givenFull": "Bryce Thomas Teodosio",
+      "last": "Teodosio",
+      "first": "Bryce",
+      "middle": "Thomas"
+    },
+    "profile": {
+      "birthDate": "1999-6-18",
+      "birthYear": "1999",
+      "birthMonth": "6",
+      "birthDay": "18",
+      "birthCity": "Greenville",
+      "birthState": "SC",
+      "birthCountry": "USA",
+      "batHand": "R",
+      "fieldHand": "L",
+      "debutDate": "2024-09-07"
+    },
+    "position": {
+      "code": "8",
+      "abbreviation": "CF"
+    },
+    "team": {
+      "mlb_id": 108,
+      "abbreviation": "LAA"
+    },
+    "status": {
+      "code": "A",
+      "description": "Active"
+    }
+  },
   "61577": {
     "id": "c7xsbf7n0d",
     "ids": {
@@ -53335,7 +53383,7 @@
       "fangraphs": "26284",
       "mlbam": "670231",
       "nfbc": "12400",
-      "sfbb": null,
+      "sfbb": "ravejo01",
       "yahoo": "61619"
     },
     "names": {
@@ -54475,8 +54523,8 @@
       "abbreviation": "BOS"
     },
     "status": {
-      "code": "D15",
-      "description": "Injured 15-Day"
+      "code": "D60",
+      "description": "Injured 60-Day"
     }
   },
   "61782": {
@@ -54907,8 +54955,8 @@
       "abbreviation": "CLE"
     },
     "status": {
-      "code": "A",
-      "description": "Active"
+      "code": "RM",
+      "description": "Reassigned to Minors"
     }
   },
   "61836": {
@@ -55444,7 +55492,7 @@
     "ids": {
       "prism": "czqqhvsynd",
       "bbref": "darnedu01",
-      "fangraphs": "sa3014876",
+      "fangraphs": "27812",
       "mlbam": "699911",
       "nfbc": "12433",
       "sfbb": null,
@@ -56164,7 +56212,7 @@
     "ids": {
       "prism": "80m8ct4tf0",
       "bbref": "marseja01",
-      "fangraphs": "sa3019868",
+      "fangraphs": "31370",
       "mlbam": "805300",
       "nfbc": "11939",
       "sfbb": "marseja01",
@@ -56743,7 +56791,7 @@
       "fangraphs": "30249",
       "mlbam": "676263",
       "nfbc": "12296",
-      "sfbb": null,
+      "sfbb": "dreyeja01",
       "yahoo": "62262"
     },
     "names": {
@@ -57271,7 +57319,7 @@
       "fangraphs": "30661",
       "mlbam": "800311",
       "nfbc": "12415",
-      "sfbb": null,
+      "sfbb": "fuentdi01",
       "yahoo": "62487"
     },
     "names": {
@@ -57824,7 +57872,7 @@
       "birthCountry": "USA",
       "batHand": "L",
       "fieldHand": "L",
-      "debutDate": null
+      "debutDate": "2025-08-02"
     },
     "position": {
       "code": "3",
@@ -57835,8 +57883,8 @@
       "abbreviation": "CLE"
     },
     "status": {
-      "code": null,
-      "description": null
+      "code": "A",
+      "description": "Active"
     }
   },
   "62798": {
@@ -57847,7 +57895,7 @@
       "fangraphs": "33280",
       "mlbam": "694728",
       "nfbc": "12355",
-      "sfbb": null,
+      "sfbb": "matthbr01",
       "yahoo": "62798"
     },
     "names": {
@@ -58035,11 +58083,11 @@
     "id": "mxyhdlyz0w",
     "ids": {
       "prism": "mxyhdlyz0w",
-      "bbref": null,
+      "bbref": "mcleano01",
       "fangraphs": "sa3023053",
       "mlbam": "690997",
       "nfbc": null,
-      "sfbb": null,
+      "sfbb": "mcleano01",
       "yahoo": "62935"
     },
     "names": {
@@ -58807,7 +58855,7 @@
       "fangraphs": "33197",
       "mlbam": "810938",
       "nfbc": "12377",
-      "sfbb": null,
+      "sfbb": "willibe03",
       "yahoo": "63132"
     },
     "names": {
@@ -59271,12 +59319,12 @@
       "abbreviation": "P"
     },
     "team": {
-      "mlb_id": 119,
-      "abbreviation": "LAD"
+      "mlb_id": 111,
+      "abbreviation": "BOS"
     },
     "status": {
-      "code": "RM",
-      "description": "Reassigned to Minors"
+      "code": null,
+      "description": null
     }
   },
   "63341": {
@@ -60676,7 +60724,7 @@
     "ids": {
       "prism": "er8x183ztr",
       "bbref": "morallu01",
-      "fangraphs": "sa3021487",
+      "fangraphs": "32227",
       "mlbam": "806960",
       "nfbc": "12434",
       "sfbb": null,
@@ -61483,8 +61531,8 @@
       "abbreviation": "LAD"
     },
     "status": {
-      "code": "A",
-      "description": "Active"
+      "code": "RM",
+      "description": "Reassigned to Minors"
     }
   },
   "63927": {
@@ -61879,7 +61927,7 @@
       "fangraphs": "25890",
       "mlbam": "687911",
       "nfbc": "12111",
-      "sfbb": null,
+      "sfbb": "kingbr02",
       "yahoo": "64014"
     },
     "names": {
@@ -62267,7 +62315,7 @@
       "yahoo": "64316"
     },
     "names": {
-      "boxscore": "Burns, Ch",
+      "boxscore": "Burns, C",
       "givenFirst": "Chase",
       "givenFirstMiddle": "Chase David",
       "firstLast": "Chase Burns",
@@ -62839,7 +62887,7 @@
       "fangraphs": "30240",
       "mlbam": "690928",
       "nfbc": "12280",
-      "sfbb": null,
+      "sfbb": "dobbihu01",
       "yahoo": "64811"
     },
     "names": {
@@ -63367,7 +63415,7 @@
       "fangraphs": "29107",
       "mlbam": "699134",
       "nfbc": "12405",
-      "sfbb": null,
+      "sfbb": "rodribr01",
       "yahoo": "64992"
     },
     "names": {
@@ -64267,8 +64315,8 @@
       "abbreviation": "DET"
     },
     "status": {
-      "code": "NYR",
-      "description": "Not Yet Reported"
+      "code": "A",
+      "description": "Active"
     }
   },
   "8287": {
@@ -71083,8 +71131,8 @@
       "abbreviation": "BOS"
     },
     "status": {
-      "code": "D60",
-      "description": "Injured 60-Day"
+      "code": "RM",
+      "description": "Reassigned to Minors"
     }
   },
   "9875": {
