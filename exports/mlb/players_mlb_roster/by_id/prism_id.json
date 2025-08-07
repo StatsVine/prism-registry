@@ -427,8 +427,8 @@
       "abbreviation": "CIN"
     },
     "status": {
-      "code": "A",
-      "description": "Active"
+      "code": "D15",
+      "description": "Injured 15-Day"
     }
   },
   "07ytnfhm9d": {
@@ -1575,8 +1575,8 @@
       "abbreviation": "1B"
     },
     "team": {
-      "mlb_id": 118,
-      "abbreviation": "KC"
+      "mlb_id": 108,
+      "abbreviation": "LAA"
     },
     "status": {
       "code": null,
@@ -1771,8 +1771,8 @@
       "abbreviation": "LAA"
     },
     "status": {
-      "code": "A",
-      "description": "Active"
+      "code": null,
+      "description": null
     }
   },
   "0v7lhb0k5w": {
@@ -2635,8 +2635,8 @@
       "abbreviation": "AZ"
     },
     "status": {
-      "code": "D15",
-      "description": "Injured 15-Day"
+      "code": "D60",
+      "description": "Injured 60-Day"
     }
   },
   "16hqjnv2f0": {
@@ -3935,6 +3935,54 @@
       "description": "Active"
     }
   },
+  "1jzb5ghhm4": {
+    "id": "1jzb5ghhm4",
+    "ids": {
+      "prism": "1jzb5ghhm4",
+      "bbref": "kellyca01",
+      "fangraphs": "9174",
+      "mlbam": "543391",
+      "nfbc": "8028",
+      "sfbb": "kellyca01",
+      "yahoo": "8867"
+    },
+    "names": {
+      "boxscore": "Kelly, C",
+      "givenFirst": "Casey",
+      "givenFirstMiddle": "Casey Patrick",
+      "firstLast": "Casey Kelly",
+      "lastFirst": "Kelly, Casey",
+      "lastFirstInit": "Kelly, C",
+      "givenFull": "Casey Patrick Kelly",
+      "last": "Kelly",
+      "first": "Casey",
+      "middle": "Patrick"
+    },
+    "profile": {
+      "birthDate": "1989-10-4",
+      "birthYear": "1989",
+      "birthMonth": "10",
+      "birthDay": "4",
+      "birthCity": "Sarasota",
+      "birthState": "FL",
+      "birthCountry": "USA",
+      "batHand": "R",
+      "fieldHand": "R",
+      "debutDate": "2012-08-27"
+    },
+    "position": {
+      "code": "1",
+      "abbreviation": "P"
+    },
+    "team": {
+      "mlb_id": 109,
+      "abbreviation": "AZ"
+    },
+    "status": {
+      "code": "A",
+      "description": "Active"
+    }
+  },
   "1k102rev08": {
     "id": "1k102rev08",
     "ids": {
@@ -4363,8 +4411,8 @@
       "abbreviation": "WSH"
     },
     "status": {
-      "code": "A",
-      "description": "Active"
+      "code": "RM",
+      "description": "Reassigned to Minors"
     }
   },
   "1t71ewhkbr": {
@@ -5755,8 +5803,8 @@
       "abbreviation": "NYM"
     },
     "status": {
-      "code": "A",
-      "description": "Active"
+      "code": "RM",
+      "description": "Reassigned to Minors"
     }
   },
   "2m0ekqhq10": {
@@ -6039,12 +6087,12 @@
       "abbreviation": "P"
     },
     "team": {
-      "mlb_id": 111,
+      "mlb_id": "BOS",
       "abbreviation": "BOS"
     },
     "status": {
-      "code": "A",
-      "description": "Active"
+      "code": null,
+      "description": null
     }
   },
   "2qewck3fgh": {
@@ -6279,12 +6327,12 @@
       "abbreviation": "P"
     },
     "team": {
-      "mlb_id": 112,
-      "abbreviation": "CHC"
+      "mlb_id": 142,
+      "abbreviation": "MIN"
     },
     "status": {
-      "code": null,
-      "description": null
+      "code": "A",
+      "description": "Active"
     }
   },
   "2swg173gbw": {
@@ -6523,8 +6571,8 @@
       "abbreviation": "MIN"
     },
     "status": {
-      "code": "D60",
-      "description": "Injured 60-Day"
+      "code": "A",
+      "description": "Active"
     }
   },
   "2ymf23xyqm": {
@@ -8299,8 +8347,8 @@
       "abbreviation": "MIN"
     },
     "status": {
-      "code": "A",
-      "description": "Active"
+      "code": "RM",
+      "description": "Reassigned to Minors"
     }
   },
   "3sq3kpl9qh": {
@@ -9259,8 +9307,8 @@
       "abbreviation": "SD"
     },
     "status": {
-      "code": "RM",
-      "description": "Reassigned to Minors"
+      "code": "A",
+      "description": "Active"
     }
   },
   "484z97slt8": {
@@ -9547,8 +9595,8 @@
       "abbreviation": "WSH"
     },
     "status": {
-      "code": "RM",
-      "description": "Reassigned to Minors"
+      "code": "A",
+      "description": "Active"
     }
   },
   "4bz8s7nmsd": {
@@ -9687,8 +9735,8 @@
       "abbreviation": "P"
     },
     "team": {
-      "mlb_id": 112,
-      "abbreviation": "CHC"
+      "mlb_id": 147,
+      "abbreviation": "NYY"
     },
     "status": {
       "code": null,
@@ -10171,8 +10219,8 @@
       "abbreviation": "ATH"
     },
     "status": {
-      "code": "A",
-      "description": "Active"
+      "code": "D10",
+      "description": "Injured 10-Day"
     }
   },
   "4n1bkmjykm": {
@@ -10267,8 +10315,8 @@
       "abbreviation": "ATH"
     },
     "status": {
-      "code": "RM",
-      "description": "Reassigned to Minors"
+      "code": "A",
+      "description": "Active"
     }
   },
   "4pjb28ns4d": {
@@ -11275,8 +11323,8 @@
       "abbreviation": "CHC"
     },
     "status": {
-      "code": "A",
-      "description": "Active"
+      "code": "D15",
+      "description": "Injured 15-Day"
     }
   },
   "54sm082zfd": {
@@ -11799,12 +11847,12 @@
       "abbreviation": "P"
     },
     "team": {
-      "mlb_id": 119,
-      "abbreviation": "LAD"
+      "mlb_id": 134,
+      "abbreviation": "PIT"
     },
     "status": {
-      "code": null,
-      "description": null
+      "code": "RM",
+      "description": "Reassigned to Minors"
     }
   },
   "584erhpf38": {
@@ -14443,8 +14491,8 @@
       "abbreviation": "CWS"
     },
     "status": {
-      "code": "A",
-      "description": "Active"
+      "code": "RM",
+      "description": "Reassigned to Minors"
     }
   },
   "6qcwhks7wm": {
@@ -14539,8 +14587,8 @@
       "abbreviation": "HOU"
     },
     "status": {
-      "code": "A",
-      "description": "Active"
+      "code": "RM",
+      "description": "Reassigned to Minors"
     }
   },
   "6rwbmer6nh": {
@@ -15211,8 +15259,8 @@
       "abbreviation": "MIN"
     },
     "status": {
-      "code": "NYR",
-      "description": "Not Yet Reported"
+      "code": "A",
+      "description": "Active"
     }
   },
   "728epl7ej0": {
@@ -17227,8 +17275,8 @@
       "abbreviation": "COL"
     },
     "status": {
-      "code": "RM",
-      "description": "Reassigned to Minors"
+      "code": "A",
+      "description": "Active"
     }
   },
   "7s661hv5l4": {
@@ -17469,6 +17517,54 @@
     "status": {
       "code": "RM",
       "description": "Reassigned to Minors"
+    }
+  },
+  "7wwtgtrp78": {
+    "id": "7wwtgtrp78",
+    "ids": {
+      "prism": "7wwtgtrp78",
+      "bbref": "sandeca01",
+      "fangraphs": "23479",
+      "mlbam": "676742",
+      "nfbc": "12437",
+      "sfbb": null,
+      "yahoo": "61323"
+    },
+    "names": {
+      "boxscore": "Sanders",
+      "givenFirst": "Cam",
+      "givenFirstMiddle": "Cameron Ronald",
+      "firstLast": "Cam Sanders",
+      "lastFirst": "Sanders, Cam",
+      "lastFirstInit": "Sanders, C",
+      "givenFull": "Cam  Sanders",
+      "last": "Sanders",
+      "first": "Cam",
+      "middle": null
+    },
+    "profile": {
+      "birthDate": "1996-12-9",
+      "birthYear": "1996",
+      "birthMonth": "12",
+      "birthDay": "9",
+      "birthCity": "Thibodaux",
+      "birthState": "LA",
+      "birthCountry": "USA",
+      "batHand": "R",
+      "fieldHand": "R",
+      "debutDate": "2025-08-05"
+    },
+    "position": {
+      "code": "1",
+      "abbreviation": "P"
+    },
+    "team": {
+      "mlb_id": 134,
+      "abbreviation": "PIT"
+    },
+    "status": {
+      "code": "A",
+      "description": "Active"
     }
   },
   "7x3dgmgbcm": {
@@ -19387,8 +19483,8 @@
       "abbreviation": "MIN"
     },
     "status": {
-      "code": "A",
-      "description": "Active"
+      "code": null,
+      "description": null
     }
   },
   "8r2k20mer4": {
@@ -19531,8 +19627,8 @@
       "abbreviation": "HOU"
     },
     "status": {
-      "code": "D60",
-      "description": "Injured 60-Day"
+      "code": "A",
+      "description": "Active"
     }
   },
   "8xk82h0qed": {
@@ -22267,8 +22363,8 @@
       "abbreviation": "MIL"
     },
     "status": {
-      "code": "NYR",
-      "description": "Not Yet Reported"
+      "code": "D15",
+      "description": "Injured 15-Day"
     }
   },
   "9yz52w35tm": {
@@ -23751,12 +23847,12 @@
       "abbreviation": "P"
     },
     "team": {
-      "mlb_id": 121,
-      "abbreviation": "NYM"
+      "mlb_id": 110,
+      "abbreviation": "BAL"
     },
     "status": {
-      "code": null,
-      "description": null
+      "code": "NYR",
+      "description": "Not Yet Reported"
     }
   },
   "bhyr7dwtdw": {
@@ -24711,7 +24807,7 @@
       "abbreviation": "P"
     },
     "team": {
-      "mlb_id": 144,
+      "mlb_id": "ATL",
       "abbreviation": "ATL"
     },
     "status": {
@@ -25675,8 +25771,8 @@
       "abbreviation": "CIN"
     },
     "status": {
-      "code": "RM",
-      "description": "Reassigned to Minors"
+      "code": "A",
+      "description": "Active"
     }
   },
   "cbq1bw89b4": {
@@ -25867,8 +25963,8 @@
       "abbreviation": "NYY"
     },
     "status": {
-      "code": "A",
-      "description": "Active"
+      "code": "RM",
+      "description": "Reassigned to Minors"
     }
   },
   "cdl92wptgm": {
@@ -29275,8 +29371,8 @@
       "abbreviation": "WSH"
     },
     "status": {
-      "code": "RM",
-      "description": "Reassigned to Minors"
+      "code": "A",
+      "description": "Active"
     }
   },
   "dv58edyj88": {
@@ -29707,8 +29803,8 @@
       "abbreviation": "MIN"
     },
     "status": {
-      "code": "A",
-      "description": "Active"
+      "code": "RM",
+      "description": "Reassigned to Minors"
     }
   },
   "e4qy052bpm": {
@@ -30139,8 +30235,8 @@
       "abbreviation": "PHI"
     },
     "status": {
-      "code": "D15",
-      "description": "Injured 15-Day"
+      "code": "A",
+      "description": "Active"
     }
   },
   "ecnwh2k5em": {
@@ -31147,8 +31243,8 @@
       "abbreviation": "NYY"
     },
     "status": {
-      "code": "A",
-      "description": "Active"
+      "code": null,
+      "description": null
     }
   },
   "eq6mg1tp00": {
@@ -31527,7 +31623,7 @@
       "abbreviation": "C"
     },
     "team": {
-      "mlb_id": "TB",
+      "mlb_id": 139,
       "abbreviation": "TB"
     },
     "status": {
@@ -31627,8 +31723,8 @@
       "abbreviation": "TOR"
     },
     "status": {
-      "code": "A",
-      "description": "Active"
+      "code": null,
+      "description": null
     }
   },
   "f0qfbzshjr": {
@@ -31771,8 +31867,8 @@
       "abbreviation": "CHC"
     },
     "status": {
-      "code": "RM",
-      "description": "Reassigned to Minors"
+      "code": "A",
+      "description": "Active"
     }
   },
   "f2lwprp9mh": {
@@ -37147,8 +37243,8 @@
       "abbreviation": "TOR"
     },
     "status": {
-      "code": null,
-      "description": null
+      "code": "A",
+      "description": "Active"
     }
   },
   "hk8n5xyl40": {
@@ -37715,16 +37811,16 @@
       "debutDate": "2024-08-16"
     },
     "position": {
-      "code": "3",
-      "abbreviation": "1B"
+      "code": "O",
+      "abbreviation": "OF"
     },
     "team": {
       "mlb_id": 108,
       "abbreviation": "LAA"
     },
     "status": {
-      "code": "RM",
-      "description": "Reassigned to Minors"
+      "code": "A",
+      "description": "Active"
     }
   },
   "hq2132fl5d": {
@@ -39787,8 +39883,8 @@
       "abbreviation": "CWS"
     },
     "status": {
-      "code": "RM",
-      "description": "Reassigned to Minors"
+      "code": "A",
+      "description": "Active"
     }
   },
   "jjgbb46fjh": {
@@ -41419,8 +41515,8 @@
       "abbreviation": "SD"
     },
     "status": {
-      "code": "A",
-      "description": "Active"
+      "code": "RM",
+      "description": "Reassigned to Minors"
     }
   },
   "k9kx9nmqsh": {
@@ -44155,8 +44251,8 @@
       "abbreviation": "NYY"
     },
     "status": {
-      "code": "D10",
-      "description": "Injured 10-Day"
+      "code": "A",
+      "description": "Active"
     }
   },
   "lcs4xn65cw": {
@@ -46459,8 +46555,8 @@
       "abbreviation": "NYY"
     },
     "status": {
-      "code": "A",
-      "description": "Active"
+      "code": "D10",
+      "description": "Injured 10-Day"
     }
   },
   "mg7nkwnsp4": {
@@ -47511,8 +47607,8 @@
       "abbreviation": "P"
     },
     "team": {
-      "mlb_id": 119,
-      "abbreviation": "LAD"
+      "mlb_id": 143,
+      "abbreviation": "PHI"
     },
     "status": {
       "code": null,
@@ -48279,8 +48375,8 @@
       "abbreviation": "P"
     },
     "team": {
-      "mlb_id": 146,
-      "abbreviation": "MIA"
+      "mlb_id": 119,
+      "abbreviation": "LAD"
     },
     "status": {
       "code": null,
@@ -48907,8 +49003,8 @@
       "abbreviation": "HOU"
     },
     "status": {
-      "code": "D10",
-      "description": "Injured 10-Day"
+      "code": "D60",
+      "description": "Injured 60-Day"
     }
   },
   "nceemqljww": {
@@ -49731,8 +49827,8 @@
     "id": "nrdrnyhtx4",
     "ids": {
       "prism": "nrdrnyhtx4",
-      "bbref": null,
-      "fangraphs": "sa3007223",
+      "bbref": "poulipj01",
+      "fangraphs": "23394",
       "mlbam": "676571",
       "nfbc": "12423",
       "sfbb": null,
@@ -49760,7 +49856,7 @@
       "birthCountry": "USA",
       "batHand": "R",
       "fieldHand": "L",
-      "debutDate": null
+      "debutDate": "2025-08-05"
     },
     "position": {
       "code": "1",
@@ -49771,8 +49867,8 @@
       "abbreviation": "WSH"
     },
     "status": {
-      "code": "NYR",
-      "description": "Not Yet Reported"
+      "code": "A",
+      "description": "Active"
     }
   },
   "nt7wqcw50r": {
@@ -52459,8 +52555,8 @@
       "abbreviation": "NYM"
     },
     "status": {
-      "code": "RM",
-      "description": "Reassigned to Minors"
+      "code": "A",
+      "description": "Active"
     }
   },
   "pyfxmgpcq8": {
@@ -55195,8 +55291,8 @@
       "abbreviation": "BOS"
     },
     "status": {
-      "code": "RM",
-      "description": "Reassigned to Minors"
+      "code": "A",
+      "description": "Active"
     }
   },
   "r7zd3dkgym": {
@@ -55867,8 +55963,8 @@
       "abbreviation": "WSH"
     },
     "status": {
-      "code": "A",
-      "description": "Active"
+      "code": "RM",
+      "description": "Reassigned to Minors"
     }
   },
   "rgybjsx3n8": {
@@ -56395,8 +56491,8 @@
       "abbreviation": "PHI"
     },
     "status": {
-      "code": "A",
-      "description": "Active"
+      "code": "RM",
+      "description": "Reassigned to Minors"
     }
   },
   "rsq51dk9sw": {
@@ -56443,8 +56539,8 @@
       "abbreviation": "PIT"
     },
     "status": {
-      "code": "A",
-      "description": "Active"
+      "code": "RM",
+      "description": "Reassigned to Minors"
     }
   },
   "rssqmxw6pd": {
@@ -57259,8 +57355,8 @@
       "abbreviation": "COL"
     },
     "status": {
-      "code": "RM",
-      "description": "Reassigned to Minors"
+      "code": "A",
+      "description": "Active"
     }
   },
   "s6lm39htnd": {
@@ -57739,8 +57835,8 @@
       "abbreviation": "NYY"
     },
     "status": {
-      "code": "RM",
-      "description": "Reassigned to Minors"
+      "code": "A",
+      "description": "Active"
     }
   },
   "shpt3nvvld": {
@@ -58459,8 +58555,8 @@
       "abbreviation": "NYY"
     },
     "status": {
-      "code": "D15",
-      "description": "Injured 15-Day"
+      "code": "A",
+      "description": "Active"
     }
   },
   "sr6x6mey1w": {
@@ -58891,8 +58987,8 @@
       "abbreviation": "AZ"
     },
     "status": {
-      "code": "A",
-      "description": "Active"
+      "code": "RM",
+      "description": "Reassigned to Minors"
     }
   },
   "swr2qn24ew": {
@@ -60667,8 +60763,8 @@
       "abbreviation": "ATH"
     },
     "status": {
-      "code": "RM",
-      "description": "Reassigned to Minors"
+      "code": "A",
+      "description": "Active"
     }
   },
   "tqlgmrktx8": {
@@ -60955,8 +61051,8 @@
       "abbreviation": "COL"
     },
     "status": {
-      "code": "A",
-      "description": "Active"
+      "code": "RM",
+      "description": "Reassigned to Minors"
     }
   },
   "ty3jd0tjxd": {
@@ -61963,8 +62059,8 @@
       "abbreviation": "WSH"
     },
     "status": {
-      "code": "A",
-      "description": "Active"
+      "code": "RM",
+      "description": "Reassigned to Minors"
     }
   },
   "v8cesgr7nd": {
@@ -62539,8 +62635,8 @@
       "abbreviation": "ATH"
     },
     "status": {
-      "code": "A",
-      "description": "Active"
+      "code": "RM",
+      "description": "Reassigned to Minors"
     }
   },
   "vh85sl4gf4": {
@@ -65227,8 +65323,8 @@
       "abbreviation": "COL"
     },
     "status": {
-      "code": "A",
-      "description": "Active"
+      "code": "D10",
+      "description": "Injured 10-Day"
     }
   },
   "wmbn5wx6fh": {
