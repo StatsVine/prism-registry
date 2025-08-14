@@ -2347,8 +2347,8 @@
       "abbreviation": "CWS"
     },
     "status": {
-      "code": "D60",
-      "description": "Injured 60-Day"
+      "code": "A",
+      "description": "Active"
     }
   },
   "534910": {
@@ -2827,8 +2827,8 @@
       "abbreviation": "AZ"
     },
     "status": {
-      "code": "A",
-      "description": "Active"
+      "code": "D15",
+      "description": "Injured 15-Day"
     }
   },
   "543135": {
@@ -3067,8 +3067,8 @@
       "abbreviation": "AZ"
     },
     "status": {
-      "code": "RM",
-      "description": "Reassigned to Minors"
+      "code": "A",
+      "description": "Active"
     }
   },
   "543510": {
@@ -5707,8 +5707,8 @@
       "abbreviation": "CWS"
     },
     "status": {
-      "code": "A",
-      "description": "Active"
+      "code": "RM",
+      "description": "Reassigned to Minors"
     }
   },
   "592178": {
@@ -9931,8 +9931,8 @@
       "abbreviation": "HOU"
     },
     "status": {
-      "code": null,
-      "description": null
+      "code": "A",
+      "description": "Active"
     }
   },
   "607192": {
@@ -12235,8 +12235,8 @@
       "abbreviation": "NYM"
     },
     "status": {
-      "code": "D15",
-      "description": "Injured 15-Day"
+      "code": "A",
+      "description": "Active"
     }
   },
   "621114": {
@@ -27019,8 +27019,8 @@
       "abbreviation": "NYM"
     },
     "status": {
-      "code": "A",
-      "description": "Active"
+      "code": "RM",
+      "description": "Reassigned to Minors"
     }
   },
   "663796": {
@@ -30619,8 +30619,8 @@
       "abbreviation": "PIT"
     },
     "status": {
-      "code": "A",
-      "description": "Active"
+      "code": "D7",
+      "description": "Injured 7-Day"
     }
   },
   "665839": {
@@ -32923,8 +32923,8 @@
       "abbreviation": "TEX"
     },
     "status": {
-      "code": "A",
-      "description": "Active"
+      "code": "D10",
+      "description": "Injured 10-Day"
     }
   },
   "666971": {
@@ -34267,8 +34267,8 @@
       "abbreviation": "CIN"
     },
     "status": {
-      "code": "D15",
-      "description": "Injured 15-Day"
+      "code": "A",
+      "description": "Active"
     }
   },
   "668885": {
@@ -44299,8 +44299,8 @@
       "abbreviation": "DET"
     },
     "status": {
-      "code": "A",
-      "description": "Active"
+      "code": "RM",
+      "description": "Reassigned to Minors"
     }
   },
   "676059": {
@@ -45307,8 +45307,8 @@
       "abbreviation": "HOU"
     },
     "status": {
-      "code": "A",
-      "description": "Active"
+      "code": "RM",
+      "description": "Reassigned to Minors"
     }
   },
   "676475": {
@@ -49952,7 +49952,7 @@
       "birthCountry": "Venezuela",
       "batHand": "R",
       "fieldHand": "R",
-      "debutDate": null
+      "debutDate": "2025-08-13"
     },
     "position": {
       "code": "1",
@@ -50155,8 +50155,8 @@
       "abbreviation": "CIN"
     },
     "status": {
-      "code": "A",
-      "description": "Active"
+      "code": "RM",
+      "description": "Reassigned to Minors"
     }
   },
   "680474": {
@@ -53035,8 +53035,8 @@
       "abbreviation": "AZ"
     },
     "status": {
-      "code": "NYR",
-      "description": "Not Yet Reported"
+      "code": "RM",
+      "description": "Reassigned to Minors"
     }
   },
   "681432": {
@@ -55963,8 +55963,8 @@
       "abbreviation": "PIT"
     },
     "status": {
-      "code": "RM",
-      "description": "Reassigned to Minors"
+      "code": "A",
+      "description": "Active"
     }
   },
   "682928": {
@@ -60335,6 +60335,54 @@
       "description": null
     }
   },
+  "687075": {
+    "id": "zzw7zfl3qh",
+    "ids": {
+      "prism": "zzw7zfl3qh",
+      "bbref": "sproabr01",
+      "fangraphs": "sa3023499",
+      "mlbam": "687075",
+      "nfbc": "12198",
+      "sfbb": "sproabr01",
+      "yahoo": "63017"
+    },
+    "names": {
+      "boxscore": "Sproat",
+      "givenFirst": "Brandon",
+      "givenFirstMiddle": "Brandon Carl",
+      "firstLast": "Brandon Sproat",
+      "lastFirst": "Sproat, Brandon",
+      "lastFirstInit": "Sproat, B",
+      "givenFull": "Brandon Carl Sproat",
+      "last": "Sproat",
+      "first": "Brandon",
+      "middle": "Carl"
+    },
+    "profile": {
+      "birthDate": "2000-9-17",
+      "birthYear": "2000",
+      "birthMonth": "9",
+      "birthDay": "17",
+      "birthCity": "Pensacola",
+      "birthState": "FL",
+      "birthCountry": "USA",
+      "batHand": "R",
+      "fieldHand": "R",
+      "debutDate": null
+    },
+    "position": {
+      "code": "1",
+      "abbreviation": "P"
+    },
+    "team": {
+      "mlb_id": 121,
+      "abbreviation": "NYM"
+    },
+    "status": {
+      "code": null,
+      "description": null
+    }
+  },
   "687093": {
     "id": "wxhhn2gwb8",
     "ids": {
@@ -61675,8 +61723,8 @@
       "abbreviation": "DET"
     },
     "status": {
-      "code": "D15",
-      "description": "Injured 15-Day"
+      "code": "A",
+      "description": "Active"
     }
   },
   "687847": {
@@ -67531,8 +67579,8 @@
       "abbreviation": "CWS"
     },
     "status": {
-      "code": "D15",
-      "description": "Injured 15-Day"
+      "code": null,
+      "description": null
     }
   },
   "694374": {
@@ -67963,8 +68011,8 @@
       "abbreviation": "TEX"
     },
     "status": {
-      "code": "D10",
-      "description": "Injured 10-Day"
+      "code": "A",
+      "description": "Active"
     }
   },
   "694646": {
