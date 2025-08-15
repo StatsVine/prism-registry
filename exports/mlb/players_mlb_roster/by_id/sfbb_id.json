@@ -331,8 +331,8 @@
       "abbreviation": "ATL"
     },
     "status": {
-      "code": "D10",
-      "description": "Injured 10-Day"
+      "code": "A",
+      "description": "Active"
     }
   },
   "adamewi01": {
@@ -1579,8 +1579,8 @@
       "abbreviation": "COL"
     },
     "status": {
-      "code": "A",
-      "description": "Active"
+      "code": "RM",
+      "description": "Reassigned to Minors"
     }
   },
   "amayaja01": {
@@ -1627,8 +1627,8 @@
       "abbreviation": "CWS"
     },
     "status": {
-      "code": "A",
-      "description": "Active"
+      "code": null,
+      "description": null
     }
   },
   "amayami01": {
@@ -1675,8 +1675,8 @@
       "abbreviation": "CHC"
     },
     "status": {
-      "code": "A",
-      "description": "Active"
+      "code": "D10",
+      "description": "Injured 10-Day"
     }
   },
   "andergr01": {
@@ -1723,8 +1723,8 @@
       "abbreviation": "MIL"
     },
     "status": {
-      "code": "A",
-      "description": "Active"
+      "code": "RM",
+      "description": "Reassigned to Minors"
     }
   },
   "anderia01": {
@@ -4747,8 +4747,8 @@
       "abbreviation": "MIL"
     },
     "status": {
-      "code": "RM",
-      "description": "Reassigned to Minors"
+      "code": "A",
+      "description": "Active"
     }
   },
   "bertijo01": {
@@ -5371,8 +5371,8 @@
       "abbreviation": "MIL"
     },
     "status": {
-      "code": "RM",
-      "description": "Reassigned to Minors"
+      "code": "A",
+      "description": "Active"
     }
   },
   "blalobr01": {
@@ -5851,8 +5851,8 @@
       "abbreviation": "PIT"
     },
     "status": {
-      "code": "A",
-      "description": "Active"
+      "code": null,
+      "description": null
     }
   },
   "bouchse01": {
@@ -7627,8 +7627,8 @@
       "abbreviation": "CIN"
     },
     "status": {
-      "code": "A",
-      "description": "Active"
+      "code": "D15",
+      "description": "Injured 15-Day"
     }
   },
   "burromi01": {
@@ -8055,8 +8055,8 @@
       "abbreviation": "P"
     },
     "team": {
-      "mlb_id": 121,
-      "abbreviation": "NYM"
+      "mlb_id": 142,
+      "abbreviation": "MIN"
     },
     "status": {
       "code": null,
@@ -8164,7 +8164,7 @@
     "ids": {
       "prism": "h37zjyr4bm",
       "bbref": "caissow01",
-      "fangraphs": "sa3014465",
+      "fangraphs": "27496",
       "mlbam": "683357",
       "nfbc": "12050",
       "sfbb": "caissow01",
@@ -8192,7 +8192,7 @@
       "birthCountry": "Canada",
       "batHand": "L",
       "fieldHand": "R",
-      "debutDate": null
+      "debutDate": "2025-08-14"
     },
     "position": {
       "code": "9",
@@ -8203,8 +8203,8 @@
       "abbreviation": "CHC"
     },
     "status": {
-      "code": "RM",
-      "description": "Reassigned to Minors"
+      "code": "A",
+      "description": "Active"
     }
   },
   "callal02": {
@@ -9111,12 +9111,12 @@
       "abbreviation": "P"
     },
     "team": {
-      "mlb_id": 144,
-      "abbreviation": "ATL"
+      "mlb_id": 147,
+      "abbreviation": "NYY"
     },
     "status": {
-      "code": "A",
-      "description": "Active"
+      "code": null,
+      "description": null
     }
   },
   "carroco02": {
@@ -10699,8 +10699,8 @@
       "abbreviation": "MIL"
     },
     "status": {
-      "code": "A",
-      "description": "Active"
+      "code": "PL",
+      "description": "Paternity List"
     }
   },
   "confomi01": {
@@ -11467,8 +11467,8 @@
       "abbreviation": "WSH"
     },
     "status": {
-      "code": "D60",
-      "description": "Injured 60-Day"
+      "code": "A",
+      "description": "Active"
     }
   },
   "criswco01": {
@@ -13643,40 +13643,40 @@
       "yahoo": "60885"
     },
     "names": {
-      "boxscore": "Driscoll",
+      "boxscore": "Driscoll, L",
       "givenFirst": "Logan",
       "givenFirstMiddle": "Logan Rylee",
-      "firstLast": "Logan Driscoll",
+      "firstLast": null,
       "lastFirst": "Driscoll, Logan",
       "lastFirstInit": "Driscoll, L",
-      "givenFull": "Logan Rylee Driscoll",
+      "givenFull": "Logan Driscoll",
       "last": "Driscoll",
       "first": "Logan",
-      "middle": "Rylee"
+      "middle": null
     },
     "profile": {
       "birthDate": "1997-11-3",
       "birthYear": "1997",
       "birthMonth": "11",
       "birthDay": "3",
-      "birthCity": "Colorado Springs",
-      "birthState": "CO",
-      "birthCountry": "USA",
-      "batHand": "L",
-      "fieldHand": "R",
-      "debutDate": "2024-09-03"
+      "birthCity": null,
+      "birthState": null,
+      "birthCountry": null,
+      "batHand": null,
+      "fieldHand": null,
+      "debutDate": null
     },
     "position": {
-      "code": "2",
-      "abbreviation": "C"
+      "code": null,
+      "abbreviation": null
     },
     "team": {
-      "mlb_id": 139,
-      "abbreviation": "TB"
+      "mlb_id": null,
+      "abbreviation": null
     },
     "status": {
-      "code": "RM",
-      "description": "Reassigned to Minors"
+      "code": null,
+      "description": null
     }
   },
   "dubonma01": {
@@ -15067,8 +15067,8 @@
       "abbreviation": "SEA"
     },
     "status": {
-      "code": "A",
-      "description": "Active"
+      "code": "D15",
+      "description": "Injured 15-Day"
     }
   },
   "faedoal01": {
@@ -18475,8 +18475,8 @@
       "abbreviation": "DET"
     },
     "status": {
-      "code": "A",
-      "description": "Active"
+      "code": "RM",
+      "description": "Reassigned to Minors"
     }
   },
   "glasnty01": {
@@ -20587,8 +20587,8 @@
       "abbreviation": "ATH"
     },
     "status": {
-      "code": "RM",
-      "description": "Reassigned to Minors"
+      "code": "A",
+      "description": "Active"
     }
   },
   "harridu01": {
@@ -23083,8 +23083,8 @@
       "abbreviation": "PIT"
     },
     "status": {
-      "code": "RM",
-      "description": "Reassigned to Minors"
+      "code": "A",
+      "description": "Active"
     }
   },
   "hollija01": {
@@ -23703,8 +23703,8 @@
       "abbreviation": "LF"
     },
     "team": {
-      "mlb_id": 147,
-      "abbreviation": "NYY"
+      "mlb_id": 117,
+      "abbreviation": "HOU"
     },
     "status": {
       "code": null,
@@ -26171,7 +26171,7 @@
       "yahoo": "11251"
     },
     "names": {
-      "boxscore": "Kelly, M",
+      "boxscore": "Kelly, Me",
       "givenFirst": "Kenneth",
       "givenFirstMiddle": "Kenneth Merrill",
       "firstLast": "Merrill Kelly",
@@ -26219,7 +26219,7 @@
       "yahoo": "12636"
     },
     "names": {
-      "boxscore": "Kelly, M",
+      "boxscore": "Kelly, Mi",
       "givenFirst": "Michael",
       "givenFirstMiddle": "Michael Joseph",
       "firstLast": "Michael Kelly",
@@ -26343,12 +26343,12 @@
       "abbreviation": "1B"
     },
     "team": {
-      "mlb_id": 141,
-      "abbreviation": "TOR"
+      "mlb_id": 119,
+      "abbreviation": "LAD"
     },
     "status": {
-      "code": null,
-      "description": null
+      "code": "NYR",
+      "description": "Not Yet Reported"
     }
   },
   "keplema01": {
@@ -26875,8 +26875,8 @@
       "abbreviation": "SD"
     },
     "status": {
-      "code": "A",
-      "description": "Active"
+      "code": "D15",
+      "description": "Injured 15-Day"
     }
   },
   "kinlety01": {
@@ -28651,8 +28651,8 @@
       "abbreviation": "ATL"
     },
     "status": {
-      "code": "A",
-      "description": "Active"
+      "code": null,
+      "description": null
     }
   },
   "lewisro02": {
@@ -29847,12 +29847,12 @@
       "abbreviation": "1B"
     },
     "team": {
-      "mlb_id": 120,
+      "mlb_id": "WSH",
       "abbreviation": "WSH"
     },
     "status": {
-      "code": "A",
-      "description": "Active"
+      "code": null,
+      "description": null
     }
   },
   "lucasea01": {
@@ -31867,8 +31867,8 @@
       "abbreviation": "SEA"
     },
     "status": {
-      "code": "A",
-      "description": "Active"
+      "code": "RM",
+      "description": "Reassigned to Minors"
     }
   },
   "mateojo01": {
@@ -34075,8 +34075,8 @@
       "abbreviation": "CWS"
     },
     "status": {
-      "code": "D10",
-      "description": "Injured 10-Day"
+      "code": "A",
+      "description": "Active"
     }
   },
   "melenmj01": {
@@ -35083,8 +35083,8 @@
       "abbreviation": "MIL"
     },
     "status": {
-      "code": "D15",
-      "description": "Injured 15-Day"
+      "code": "A",
+      "description": "Active"
     }
   },
   "misneka01": {
@@ -37191,8 +37191,8 @@
       "abbreviation": "P"
     },
     "team": {
-      "mlb_id": 108,
-      "abbreviation": "LAA"
+      "mlb_id": 117,
+      "abbreviation": "HOU"
     },
     "status": {
       "code": null,
@@ -40219,8 +40219,8 @@
       "abbreviation": "MIL"
     },
     "status": {
-      "code": "A",
-      "description": "Active"
+      "code": "BRV",
+      "description": "Bereavement List"
     }
   },
   "peterda01": {
@@ -41755,8 +41755,8 @@
       "abbreviation": "SEA"
     },
     "status": {
-      "code": "D10",
-      "description": "Injured 10-Day"
+      "code": "A",
+      "description": "Active"
     }
   },
   "ramirag01": {
@@ -42811,8 +42811,8 @@
       "abbreviation": "COL"
     },
     "status": {
-      "code": "D10",
-      "description": "Injured 10-Day"
+      "code": "A",
+      "description": "Active"
     }
   },
   "rivasle01": {
@@ -47367,12 +47367,12 @@
       "abbreviation": "P"
     },
     "team": {
-      "mlb_id": 145,
-      "abbreviation": "CWS"
+      "mlb_id": 133,
+      "abbreviation": "ATH"
     },
     "status": {
-      "code": null,
-      "description": null
+      "code": "RM",
+      "description": "Reassigned to Minors"
     }
   },
   "sianimi01": {
@@ -49579,8 +49579,8 @@
       "abbreviation": "CLE"
     },
     "status": {
-      "code": "RM",
-      "description": "Reassigned to Minors"
+      "code": null,
+      "description": null
     }
   },
   "stephty01": {
@@ -53755,8 +53755,8 @@
       "abbreviation": "ATH"
     },
     "status": {
-      "code": "A",
-      "description": "Active"
+      "code": null,
+      "description": null
     }
   },
   "valdeen01": {
@@ -54187,8 +54187,8 @@
       "abbreviation": "SD"
     },
     "status": {
-      "code": "RM",
-      "description": "Reassigned to Minors"
+      "code": "A",
+      "description": "Active"
     }
   },
   "vaughan01": {
