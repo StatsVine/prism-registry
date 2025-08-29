@@ -139,8 +139,8 @@
       "abbreviation": "LAA"
     },
     "status": {
-      "code": "PL",
-      "description": "Paternity List"
+      "code": "A",
+      "description": "Active"
     }
   },
   "10036": {
@@ -14155,8 +14155,8 @@
       "abbreviation": "BOS"
     },
     "status": {
-      "code": "A",
-      "description": "Active"
+      "code": "PL",
+      "description": "Paternity List"
     }
   },
   "11091": {
@@ -20107,8 +20107,8 @@
       "abbreviation": "MIA"
     },
     "status": {
-      "code": "A",
-      "description": "Active"
+      "code": "RM",
+      "description": "Reassigned to Minors"
     }
   },
   "11427": {
@@ -25435,8 +25435,8 @@
       "abbreviation": "LAA"
     },
     "status": {
-      "code": "A",
-      "description": "Active"
+      "code": "RM",
+      "description": "Reassigned to Minors"
     }
   },
   "11776": {
@@ -26155,8 +26155,8 @@
       "abbreviation": "BAL"
     },
     "status": {
-      "code": "A",
-      "description": "Active"
+      "code": null,
+      "description": null
     }
   },
   "11805": {
@@ -28315,8 +28315,8 @@
       "abbreviation": "BAL"
     },
     "status": {
-      "code": "NYR",
-      "description": "Not Yet Reported"
+      "code": "A",
+      "description": "Active"
     }
   },
   "11903": {
@@ -33643,8 +33643,8 @@
       "abbreviation": "CWS"
     },
     "status": {
-      "code": "A",
-      "description": "Active"
+      "code": "RM",
+      "description": "Reassigned to Minors"
     }
   },
   "12247": {
@@ -34171,8 +34171,8 @@
       "abbreviation": "BOS"
     },
     "status": {
-      "code": "A",
-      "description": "Active"
+      "code": "RM",
+      "description": "Reassigned to Minors"
     }
   },
   "12271": {
@@ -39904,7 +39904,7 @@
       "givenFirstMiddle": "Roy Ruben",
       "firstLast": "Bubba Chandler",
       "lastFirst": "Chandler, Bubba",
-      "lastFirstInit": "Chandler, R",
+      "lastFirstInit": "Chandler, B",
       "givenFull": "Roy Ruben Chandler",
       "last": "Chandler",
       "first": "Bubba",
@@ -43099,8 +43099,8 @@
       "abbreviation": "CHC"
     },
     "status": {
-      "code": "RM",
-      "description": "Reassigned to Minors"
+      "code": "A",
+      "description": "Active"
     }
   },
   "12685": {
@@ -49915,8 +49915,8 @@
       "abbreviation": "MIA"
     },
     "status": {
-      "code": "RM",
-      "description": "Reassigned to Minors"
+      "code": "A",
+      "description": "Active"
     }
   },
   "60350": {
@@ -53851,8 +53851,8 @@
       "abbreviation": "CWS"
     },
     "status": {
-      "code": "RM",
-      "description": "Reassigned to Minors"
+      "code": "A",
+      "description": "Active"
     }
   },
   "61588": {
@@ -56635,8 +56635,8 @@
       "abbreviation": "CLE"
     },
     "status": {
-      "code": "PL",
-      "description": "Paternity List"
+      "code": "A",
+      "description": "Active"
     }
   },
   "61987": {
@@ -58123,8 +58123,8 @@
       "abbreviation": "NYM"
     },
     "status": {
-      "code": "RM",
-      "description": "Reassigned to Minors"
+      "code": null,
+      "description": null
     }
   },
   "62461": {
@@ -61243,8 +61243,8 @@
       "abbreviation": "BOS"
     },
     "status": {
-      "code": "D60",
-      "description": "Injured 60-Day"
+      "code": "A",
+      "description": "Active"
     }
   },
   "63515": {
@@ -63263,6 +63263,54 @@
       "description": "Reassigned to Minors"
     }
   },
+  "64065": {
+    "id": "4xkvdjnwz8",
+    "ids": {
+      "prism": "4xkvdjnwz8",
+      "bbref": "rashita01",
+      "fangraphs": "sa3011597",
+      "mlbam": "688497",
+      "nfbc": "12448",
+      "sfbb": null,
+      "yahoo": "64065"
+    },
+    "names": {
+      "boxscore": "Rashi",
+      "givenFirst": "Taylor",
+      "givenFirstMiddle": "Taylor Steven",
+      "firstLast": "Taylor Rashi",
+      "lastFirst": "Rashi, Taylor",
+      "lastFirstInit": "Rashi, T",
+      "givenFull": "Taylor Steven Rashi",
+      "last": "Rashi",
+      "first": "Taylor",
+      "middle": "Steven"
+    },
+    "profile": {
+      "birthDate": "1996-1-15",
+      "birthYear": "1996",
+      "birthMonth": "1",
+      "birthDay": "15",
+      "birthCity": "Torrance",
+      "birthState": "CA",
+      "birthCountry": "USA",
+      "batHand": "R",
+      "fieldHand": "R",
+      "debutDate": "2025-08-28"
+    },
+    "position": {
+      "code": "1",
+      "abbreviation": "P"
+    },
+    "team": {
+      "mlb_id": 109,
+      "abbreviation": "AZ"
+    },
+    "status": {
+      "code": "A",
+      "description": "Active"
+    }
+  },
   "64093": {
     "id": "t75ezb9mx4",
     "ids": {
@@ -63741,6 +63789,54 @@
     "status": {
       "code": "RM",
       "description": "Reassigned to Minors"
+    }
+  },
+  "64394": {
+    "id": "t4z4yp8p6w",
+    "ids": {
+      "prism": "t4z4yp8p6w",
+      "bbref": null,
+      "fangraphs": "sa3043900",
+      "mlbam": "801139",
+      "nfbc": null,
+      "sfbb": null,
+      "yahoo": "64394"
+    },
+    "names": {
+      "boxscore": "Tolle",
+      "givenFirst": "Payton",
+      "givenFirstMiddle": "Payton John",
+      "firstLast": "Payton Tolle",
+      "lastFirst": "Tolle, Payton",
+      "lastFirstInit": "Tolle, P",
+      "givenFull": "Payton John Tolle",
+      "last": "Tolle",
+      "first": "Payton",
+      "middle": "John"
+    },
+    "profile": {
+      "birthDate": "2002-11-1",
+      "birthYear": "2002",
+      "birthMonth": "11",
+      "birthDay": "1",
+      "birthCity": "Stillwater",
+      "birthState": "OK",
+      "birthCountry": "USA",
+      "batHand": "L",
+      "fieldHand": "L",
+      "debutDate": null
+    },
+    "position": {
+      "code": "1",
+      "abbreviation": "P"
+    },
+    "team": {
+      "mlb_id": 111,
+      "abbreviation": "BOS"
+    },
+    "status": {
+      "code": null,
+      "description": null
     }
   },
   "64463": {
@@ -65943,12 +66039,12 @@
       "abbreviation": "1B"
     },
     "team": {
-      "mlb_id": 114,
+      "mlb_id": "CLE",
       "abbreviation": "CLE"
     },
     "status": {
-      "code": "A",
-      "description": "Active"
+      "code": null,
+      "description": null
     }
   },
   "8621": {
@@ -67675,8 +67771,8 @@
       "abbreviation": "CHC"
     },
     "status": {
-      "code": "A",
-      "description": "Active"
+      "code": "D15",
+      "description": "Injured 15-Day"
     }
   },
   "9124": {
@@ -72187,8 +72283,8 @@
       "abbreviation": "BOS"
     },
     "status": {
-      "code": "D10",
-      "description": "Injured 10-Day"
+      "code": "A",
+      "description": "Active"
     }
   },
   "9860": {
