@@ -1724,8 +1724,8 @@
         "abbreviation": "ATH"
       },
       "status": {
-        "code": "RM",
-        "description": "Reassigned to Minors"
+        "code": "A",
+        "description": "Active"
       }
     },
     {
@@ -2108,8 +2108,8 @@
         "abbreviation": "ATH"
       },
       "status": {
-        "code": "A",
-        "description": "Active"
+        "code": "RM",
+        "description": "Reassigned to Minors"
       }
     },
     {
@@ -4464,54 +4464,6 @@
       "status": {
         "code": "D60",
         "description": "Injured 60-Day"
-      }
-    },
-    {
-      "id": "t60mpp05m0",
-      "ids": {
-        "prism": "t60mpp05m0",
-        "bbref": "quantca01",
-        "fangraphs": "19312",
-        "mlbam": "615698",
-        "nfbc": "9959",
-        "sfbb": "quantca01",
-        "yahoo": "10573"
-      },
-      "names": {
-        "boxscore": "Quantrill",
-        "givenFirst": "Cal",
-        "givenFirstMiddle": "Cal Paul",
-        "firstLast": "Cal Quantrill",
-        "lastFirst": "Quantrill, Cal",
-        "lastFirstInit": "Quantrill, C",
-        "givenFull": "Cal Paul Quantrill",
-        "last": "Quantrill",
-        "first": "Cal",
-        "middle": "Paul"
-      },
-      "profile": {
-        "birthDate": "1995-2-10",
-        "birthYear": "1995",
-        "birthMonth": "2",
-        "birthDay": "10",
-        "birthCity": "Port Hope",
-        "birthState": "ON",
-        "birthCountry": "Canada",
-        "batHand": "L",
-        "fieldHand": "R",
-        "debutDate": "2019-05-01"
-      },
-      "position": {
-        "code": "1",
-        "abbreviation": "P"
-      },
-      "team": {
-        "mlb_id": "ATL",
-        "abbreviation": "ATL"
-      },
-      "status": {
-        "code": null,
-        "description": null
       }
     },
     {
@@ -11476,8 +11428,8 @@
         "abbreviation": "BOS"
       },
       "status": {
-        "code": "RM",
-        "description": "Reassigned to Minors"
+        "code": "A",
+        "description": "Active"
       }
     },
     {
@@ -11518,6 +11470,54 @@
       "position": {
         "code": "5",
         "abbreviation": "3B"
+      },
+      "team": {
+        "mlb_id": 111,
+        "abbreviation": "BOS"
+      },
+      "status": {
+        "code": "A",
+        "description": "Active"
+      }
+    },
+    {
+      "id": "9xbrlkg4d0",
+      "ids": {
+        "prism": "9xbrlkg4d0",
+        "bbref": "earlyco01",
+        "fangraphs": "33666",
+        "mlbam": "813349",
+        "nfbc": "12459",
+        "sfbb": null,
+        "yahoo": "63143"
+      },
+      "names": {
+        "boxscore": "Early",
+        "givenFirst": "Todd",
+        "givenFirstMiddle": "Todd Connelly McNeil",
+        "firstLast": "Connelly Early",
+        "lastFirst": "Early, Connelly",
+        "lastFirstInit": "Early, C",
+        "givenFull": "Todd Connelly McNeil Early",
+        "last": "Early",
+        "first": "Connelly",
+        "middle": "Connelly McNeil"
+      },
+      "profile": {
+        "birthDate": "2002-4-3",
+        "birthYear": "2002",
+        "birthMonth": "4",
+        "birthDay": "3",
+        "birthCity": "Midlothian",
+        "birthState": "VA",
+        "birthCountry": "USA",
+        "batHand": "L",
+        "fieldHand": "L",
+        "debutDate": "2025-09-09"
+      },
+      "position": {
+        "code": "1",
+        "abbreviation": "P"
       },
       "team": {
         "mlb_id": 111,
@@ -12436,8 +12436,8 @@
         "abbreviation": "BOS"
       },
       "status": {
-        "code": "A",
-        "description": "Active"
+        "code": "RM",
+        "description": "Reassigned to Minors"
       }
     },
     {
@@ -12820,8 +12820,8 @@
         "abbreviation": "BOS"
       },
       "status": {
-        "code": "RM",
-        "description": "Reassigned to Minors"
+        "code": "D60",
+        "description": "Injured 60-Day"
       }
     },
     {
@@ -13204,8 +13204,8 @@
         "abbreviation": "BOS"
       },
       "status": {
-        "code": "A",
-        "description": "Active"
+        "code": "D15",
+        "description": "Injured 15-Day"
       }
     }
   ],
@@ -14646,8 +14646,8 @@
         "abbreviation": "CHC"
       },
       "status": {
-        "code": "A",
-        "description": "Active"
+        "code": "RM",
+        "description": "Reassigned to Minors"
       }
     },
     {
@@ -14886,8 +14886,8 @@
         "abbreviation": "CHC"
       },
       "status": {
-        "code": "RM",
-        "description": "Reassigned to Minors"
+        "code": "A",
+        "description": "Active"
       }
     },
     {
@@ -15510,8 +15510,8 @@
         "abbreviation": "CHC"
       },
       "status": {
-        "code": "A",
-        "description": "Active"
+        "code": "D10",
+        "description": "Injured 10-Day"
       }
     },
     {
@@ -15654,8 +15654,8 @@
         "abbreviation": "CHC"
       },
       "status": {
-        "code": "D15",
-        "description": "Injured 15-Day"
+        "code": "A",
+        "description": "Active"
       }
     },
     {
@@ -16344,7 +16344,7 @@
         "yahoo": "60129"
       },
       "names": {
-        "boxscore": "Stewart",
+        "boxscore": "Stewart, S",
         "givenFirst": "Sal",
         "givenFirstMiddle": "Sal Maxwell",
         "firstLast": "Sal Stewart",
@@ -18058,54 +18058,6 @@
       "status": {
         "code": "RM",
         "description": "Reassigned to Minors"
-      }
-    },
-    {
-      "id": "z3qkd60n88",
-      "ids": {
-        "prism": "z3qkd60n88",
-        "bbref": "lasorjo01",
-        "fangraphs": "25481",
-        "mlbam": "686747",
-        "nfbc": "11798",
-        "sfbb": null,
-        "yahoo": "60624"
-      },
-      "names": {
-        "boxscore": "La Sorsa",
-        "givenFirst": "Joseph",
-        "givenFirstMiddle": "Joseph Peter",
-        "firstLast": "Joe La Sorsa",
-        "lastFirst": "La Sorsa, Joe",
-        "lastFirstInit": "La Sorsa, J",
-        "givenFull": "Joseph Peter La Sorsa",
-        "last": "La Sorsa",
-        "first": "Joe",
-        "middle": "Peter"
-      },
-      "profile": {
-        "birthDate": "1998-4-29",
-        "birthYear": "1998",
-        "birthMonth": "4",
-        "birthDay": "29",
-        "birthCity": "Mount Kisco",
-        "birthState": "NY",
-        "birthCountry": "USA",
-        "batHand": "L",
-        "fieldHand": "L",
-        "debutDate": "2023-05-29"
-      },
-      "position": {
-        "code": "1",
-        "abbreviation": "P"
-      },
-      "team": {
-        "mlb_id": 113,
-        "abbreviation": "CIN"
-      },
-      "status": {
-        "code": null,
-        "description": null
       }
     }
   ],
@@ -22044,8 +21996,8 @@
         "abbreviation": "COL"
       },
       "status": {
-        "code": "A",
-        "description": "Active"
+        "code": "D7",
+        "description": "Injured 7-Day"
       }
     },
     {
@@ -22716,8 +22668,8 @@
         "abbreviation": "COL"
       },
       "status": {
-        "code": "RM",
-        "description": "Reassigned to Minors"
+        "code": "A",
+        "description": "Active"
       }
     },
     {
@@ -23006,8 +22958,8 @@
         "abbreviation": "CWS"
       },
       "status": {
-        "code": "D10",
-        "description": "Injured 10-Day"
+        "code": "A",
+        "description": "Active"
       }
     },
     {
@@ -23246,8 +23198,8 @@
         "abbreviation": "CWS"
       },
       "status": {
-        "code": "RM",
-        "description": "Reassigned to Minors"
+        "code": "A",
+        "description": "Active"
       }
     },
     {
@@ -24158,8 +24110,8 @@
         "abbreviation": "CWS"
       },
       "status": {
-        "code": "A",
-        "description": "Active"
+        "code": "RM",
+        "description": "Reassigned to Minors"
       }
     },
     {
@@ -24686,8 +24638,8 @@
         "abbreviation": "CWS"
       },
       "status": {
-        "code": "A",
-        "description": "Active"
+        "code": null,
+        "description": null
       }
     },
     {
@@ -25840,8 +25792,8 @@
         "abbreviation": "DET"
       },
       "status": {
-        "code": "RM",
-        "description": "Reassigned to Minors"
+        "code": "A",
+        "description": "Active"
       }
     },
     {
@@ -26080,8 +26032,8 @@
         "abbreviation": "DET"
       },
       "status": {
-        "code": "A",
-        "description": "Active"
+        "code": "PL",
+        "description": "Paternity List"
       }
     },
     {
@@ -29682,8 +29634,8 @@
         "abbreviation": "HOU"
       },
       "status": {
-        "code": "RM",
-        "description": "Reassigned to Minors"
+        "code": "A",
+        "description": "Active"
       }
     },
     {
@@ -30882,8 +30834,8 @@
         "abbreviation": "HOU"
       },
       "status": {
-        "code": "A",
-        "description": "Active"
+        "code": "D15",
+        "description": "Injured 15-Day"
       }
     },
     {
@@ -31220,8 +31172,8 @@
         "abbreviation": "KC"
       },
       "status": {
-        "code": "D10",
-        "description": "Injured 10-Day"
+        "code": "A",
+        "description": "Active"
       }
     },
     {
@@ -31364,8 +31316,8 @@
         "abbreviation": "KC"
       },
       "status": {
-        "code": "A",
-        "description": "Active"
+        "code": "D7",
+        "description": "Injured 7-Day"
       }
     },
     {
@@ -36216,8 +36168,8 @@
         "abbreviation": "LAD"
       },
       "status": {
-        "code": "A",
-        "description": "Active"
+        "code": "RM",
+        "description": "Reassigned to Minors"
       }
     },
     {
@@ -37096,7 +37048,7 @@
         "yahoo": "10325"
       },
       "names": {
-        "boxscore": "Stewart",
+        "boxscore": "Stewart, B",
         "givenFirst": "Brock",
         "givenFirstMiddle": "Brock Allen",
         "firstLast": "Brock Stewart",
@@ -37368,8 +37320,8 @@
         "abbreviation": "LAD"
       },
       "status": {
-        "code": "D10",
-        "description": "Injured 10-Day"
+        "code": "A",
+        "description": "Active"
       }
     },
     {
@@ -38136,8 +38088,8 @@
         "abbreviation": "LAD"
       },
       "status": {
-        "code": "A",
-        "description": "Active"
+        "code": "RM",
+        "description": "Reassigned to Minors"
       }
     },
     {
@@ -38664,8 +38616,8 @@
         "abbreviation": "LAD"
       },
       "status": {
-        "code": "D15",
-        "description": "Injured 15-Day"
+        "code": "A",
+        "description": "Active"
       }
     },
     {
@@ -41596,8 +41548,8 @@
         "abbreviation": "MIL"
       },
       "status": {
-        "code": "A",
-        "description": "Active"
+        "code": "RM",
+        "description": "Reassigned to Minors"
       }
     },
     {
@@ -42172,8 +42124,8 @@
         "abbreviation": "MIL"
       },
       "status": {
-        "code": "RM",
-        "description": "Reassigned to Minors"
+        "code": "A",
+        "description": "Active"
       }
     },
     {
@@ -43132,8 +43084,8 @@
         "abbreviation": "MIL"
       },
       "status": {
-        "code": "A",
-        "description": "Active"
+        "code": "RM",
+        "description": "Reassigned to Minors"
       }
     },
     {
@@ -43228,8 +43180,8 @@
         "abbreviation": "MIL"
       },
       "status": {
-        "code": "D10",
-        "description": "Injured 10-Day"
+        "code": "A",
+        "description": "Active"
       }
     },
     {
@@ -48362,6 +48314,54 @@
       "position": {
         "code": "7",
         "abbreviation": "LF"
+      },
+      "team": {
+        "mlb_id": 121,
+        "abbreviation": "NYM"
+      },
+      "status": {
+        "code": null,
+        "description": null
+      }
+    },
+    {
+      "id": "z3qkd60n88",
+      "ids": {
+        "prism": "z3qkd60n88",
+        "bbref": "lasorjo01",
+        "fangraphs": "25481",
+        "mlbam": "686747",
+        "nfbc": "11798",
+        "sfbb": null,
+        "yahoo": "60624"
+      },
+      "names": {
+        "boxscore": "La Sorsa",
+        "givenFirst": "Joseph",
+        "givenFirstMiddle": "Joseph Peter",
+        "firstLast": "Joe La Sorsa",
+        "lastFirst": "La Sorsa, Joe",
+        "lastFirstInit": "La Sorsa, J",
+        "givenFull": "Joseph Peter La Sorsa",
+        "last": "La Sorsa",
+        "first": "Joe",
+        "middle": "Peter"
+      },
+      "profile": {
+        "birthDate": "1998-4-29",
+        "birthYear": "1998",
+        "birthMonth": "4",
+        "birthDay": "29",
+        "birthCity": "Mount Kisco",
+        "birthState": "NY",
+        "birthCountry": "USA",
+        "batHand": "L",
+        "fieldHand": "L",
+        "debutDate": "2023-05-29"
+      },
+      "position": {
+        "code": "1",
+        "abbreviation": "P"
       },
       "team": {
         "mlb_id": 121,
@@ -55960,8 +55960,8 @@
         "abbreviation": "SD"
       },
       "status": {
-        "code": "A",
-        "description": "Active"
+        "code": "RM",
+        "description": "Reassigned to Minors"
       }
     },
     {
@@ -56776,8 +56776,8 @@
         "abbreviation": "SD"
       },
       "status": {
-        "code": "D15",
-        "description": "Injured 15-Day"
+        "code": "A",
+        "description": "Active"
       }
     },
     {
@@ -58028,54 +58028,6 @@
       "status": {
         "code": "D60",
         "description": "Injured 60-Day"
-      }
-    },
-    {
-      "id": "1hbcnx404d",
-      "ids": {
-        "prism": "1hbcnx404d",
-        "bbref": "solando01",
-        "fangraphs": "8623",
-        "mlbam": "456781",
-        "nfbc": "8294",
-        "sfbb": "solando01",
-        "yahoo": "9190"
-      },
-      "names": {
-        "boxscore": "Solano",
-        "givenFirst": "Donovan",
-        "givenFirstMiddle": "Donovan",
-        "firstLast": "Donovan Solano",
-        "lastFirst": "Solano, Donovan",
-        "lastFirstInit": "Solano, D",
-        "givenFull": "Donovan Solano",
-        "last": "Solano",
-        "first": "Donovan",
-        "middle": null
-      },
-      "profile": {
-        "birthDate": "1987-12-17",
-        "birthYear": "1987",
-        "birthMonth": "12",
-        "birthDay": "17",
-        "birthCity": "Barranquilla",
-        "birthState": null,
-        "birthCountry": "Colombia",
-        "batHand": "R",
-        "fieldHand": "R",
-        "debutDate": "2012-05-21"
-      },
-      "position": {
-        "code": "3",
-        "abbreviation": "1B"
-      },
-      "team": {
-        "mlb_id": "SEA",
-        "abbreviation": "SEA"
-      },
-      "status": {
-        "code": null,
-        "description": null
       }
     },
     {
@@ -65520,8 +65472,8 @@
         "abbreviation": "TB"
       },
       "status": {
-        "code": "D15",
-        "description": "Injured 15-Day"
+        "code": "D60",
+        "description": "Injured 60-Day"
       }
     },
     {
@@ -66336,8 +66288,8 @@
         "abbreviation": "TB"
       },
       "status": {
-        "code": "NYR",
-        "description": "Not Yet Reported"
+        "code": "RM",
+        "description": "Reassigned to Minors"
       }
     },
     {
@@ -67444,6 +67396,54 @@
       "status": {
         "code": "A",
         "description": "Active"
+      }
+    },
+    {
+      "id": "1hbcnx404d",
+      "ids": {
+        "prism": "1hbcnx404d",
+        "bbref": "solando01",
+        "fangraphs": "8623",
+        "mlbam": "456781",
+        "nfbc": "8294",
+        "sfbb": "solando01",
+        "yahoo": "9190"
+      },
+      "names": {
+        "boxscore": "Solano",
+        "givenFirst": "Donovan",
+        "givenFirstMiddle": "Donovan",
+        "firstLast": "Donovan Solano",
+        "lastFirst": "Solano, Donovan",
+        "lastFirstInit": "Solano, D",
+        "givenFull": "Donovan Solano",
+        "last": "Solano",
+        "first": "Donovan",
+        "middle": null
+      },
+      "profile": {
+        "birthDate": "1987-12-17",
+        "birthYear": "1987",
+        "birthMonth": "12",
+        "birthDay": "17",
+        "birthCity": "Barranquilla",
+        "birthState": null,
+        "birthCountry": "Colombia",
+        "batHand": "R",
+        "fieldHand": "R",
+        "debutDate": "2012-05-21"
+      },
+      "position": {
+        "code": "3",
+        "abbreviation": "1B"
+      },
+      "team": {
+        "mlb_id": 140,
+        "abbreviation": "TEX"
+      },
+      "status": {
+        "code": null,
+        "description": null
       }
     },
     {
@@ -69364,6 +69364,54 @@
       "status": {
         "code": "A",
         "description": "Active"
+      }
+    },
+    {
+      "id": "t60mpp05m0",
+      "ids": {
+        "prism": "t60mpp05m0",
+        "bbref": "quantca01",
+        "fangraphs": "19312",
+        "mlbam": "615698",
+        "nfbc": "9959",
+        "sfbb": "quantca01",
+        "yahoo": "10573"
+      },
+      "names": {
+        "boxscore": "Quantrill",
+        "givenFirst": "Cal",
+        "givenFirstMiddle": "Cal Paul",
+        "firstLast": "Cal Quantrill",
+        "lastFirst": "Quantrill, Cal",
+        "lastFirstInit": "Quantrill, C",
+        "givenFull": "Cal Paul Quantrill",
+        "last": "Quantrill",
+        "first": "Cal",
+        "middle": "Paul"
+      },
+      "profile": {
+        "birthDate": "1995-2-10",
+        "birthYear": "1995",
+        "birthMonth": "2",
+        "birthDay": "10",
+        "birthCity": "Port Hope",
+        "birthState": "ON",
+        "birthCountry": "Canada",
+        "batHand": "L",
+        "fieldHand": "R",
+        "debutDate": "2019-05-01"
+      },
+      "position": {
+        "code": "1",
+        "abbreviation": "P"
+      },
+      "team": {
+        "mlb_id": 140,
+        "abbreviation": "TEX"
+      },
+      "status": {
+        "code": null,
+        "description": null
       }
     },
     {
