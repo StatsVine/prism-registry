@@ -11511,12 +11511,12 @@
       "abbreviation": "P"
     },
     "team": {
-      "mlb_id": 141,
-      "abbreviation": "TOR"
+      "mlb_id": 134,
+      "abbreviation": "PIT"
     },
     "status": {
-      "code": "A",
-      "description": "Active"
+      "code": null,
+      "description": null
     }
   },
   "16357": {
@@ -14103,12 +14103,12 @@
       "abbreviation": "P"
     },
     "team": {
-      "mlb_id": 121,
-      "abbreviation": "NYM"
+      "mlb_id": 110,
+      "abbreviation": "BAL"
     },
     "status": {
-      "code": null,
-      "description": null
+      "code": "NYR",
+      "description": "Not Yet Reported"
     }
   },
   "17170": {
@@ -18187,8 +18187,8 @@
       "abbreviation": "CHC"
     },
     "status": {
-      "code": "D15",
-      "description": "Injured 15-Day"
+      "code": "A",
+      "description": "Active"
     }
   },
   "18384": {
@@ -33691,8 +33691,8 @@
       "abbreviation": "STL"
     },
     "status": {
-      "code": "A",
-      "description": "Active"
+      "code": "RM",
+      "description": "Reassigned to Minors"
     }
   },
   "21780": {
@@ -39931,8 +39931,8 @@
       "abbreviation": "CHC"
     },
     "status": {
-      "code": "A",
-      "description": "Active"
+      "code": "RM",
+      "description": "Reassigned to Minors"
     }
   },
   "23592": {
@@ -44875,8 +44875,8 @@
       "abbreviation": "BAL"
     },
     "status": {
-      "code": "RM",
-      "description": "Reassigned to Minors"
+      "code": "A",
+      "description": "Active"
     }
   },
   "25311": {
@@ -54431,6 +54431,54 @@
       "description": "Active"
     }
   },
+  "27508": {
+    "id": "br864lsvrw",
+    "ids": {
+      "prism": "br864lsvrw",
+      "bbref": "ragsdca01",
+      "fangraphs": "27508",
+      "mlbam": "685068",
+      "nfbc": "12282",
+      "sfbb": null,
+      "yahoo": "64815"
+    },
+    "names": {
+      "boxscore": "Ragsdale",
+      "givenFirst": "Carson",
+      "givenFirstMiddle": "Carson Andrew",
+      "firstLast": "Carson Ragsdale",
+      "lastFirst": "Ragsdale, Carson",
+      "lastFirstInit": "Ragsdale, C",
+      "givenFull": "Carson Andrew Ragsdale",
+      "last": "Ragsdale",
+      "first": "Carson",
+      "middle": "Andrew"
+    },
+    "profile": {
+      "birthDate": "1998-5-25",
+      "birthYear": "1998",
+      "birthMonth": "5",
+      "birthDay": "25",
+      "birthCity": "Wesley Chapel",
+      "birthState": "FL",
+      "birthCountry": "USA",
+      "batHand": "R",
+      "fieldHand": "R",
+      "debutDate": "2025-09-14"
+    },
+    "position": {
+      "code": "1",
+      "abbreviation": "P"
+    },
+    "team": {
+      "mlb_id": 110,
+      "abbreviation": "BAL"
+    },
+    "status": {
+      "code": null,
+      "description": null
+    }
+  },
   "27514": {
     "id": "hty7g3vhnd",
     "ids": {
@@ -55099,8 +55147,8 @@
       "abbreviation": "TB"
     },
     "status": {
-      "code": "A",
-      "description": "Active"
+      "code": "RM",
+      "description": "Reassigned to Minors"
     }
   },
   "27589": {
@@ -59851,8 +59899,8 @@
       "abbreviation": "TB"
     },
     "status": {
-      "code": "RM",
-      "description": "Reassigned to Minors"
+      "code": "A",
+      "description": "Active"
     }
   },
   "29614": {
@@ -61387,8 +61435,8 @@
       "abbreviation": "BAL"
     },
     "status": {
-      "code": "RM",
-      "description": "Reassigned to Minors"
+      "code": "A",
+      "description": "Active"
     }
   },
   "29868": {
@@ -71467,8 +71515,8 @@
       "abbreviation": "BAL"
     },
     "status": {
-      "code": "A",
-      "description": "Active"
+      "code": "D15",
+      "description": "Injured 15-Day"
     }
   },
   "6562": {
@@ -72715,8 +72763,8 @@
       "abbreviation": "STL"
     },
     "status": {
-      "code": "D10",
-      "description": "Injured 10-Day"
+      "code": "A",
+      "description": "Active"
     }
   },
   "9803": {
@@ -73773,54 +73821,6 @@
     "status": {
       "code": "RM",
       "description": "Reassigned to Minors"
-    }
-  },
-  "sa3014922": {
-    "id": "br864lsvrw",
-    "ids": {
-      "prism": "br864lsvrw",
-      "bbref": null,
-      "fangraphs": "sa3014922",
-      "mlbam": "685068",
-      "nfbc": "12282",
-      "sfbb": null,
-      "yahoo": "64815"
-    },
-    "names": {
-      "boxscore": "Ragsdale",
-      "givenFirst": "Carson",
-      "givenFirstMiddle": "Carson Andrew",
-      "firstLast": "Carson Ragsdale",
-      "lastFirst": "Ragsdale, Carson",
-      "lastFirstInit": "Ragsdale, C",
-      "givenFull": "Carson Andrew Ragsdale",
-      "last": "Ragsdale",
-      "first": "Carson",
-      "middle": "Andrew"
-    },
-    "profile": {
-      "birthDate": "1998-5-25",
-      "birthYear": "1998",
-      "birthMonth": "5",
-      "birthDay": "25",
-      "birthCity": "Wesley Chapel",
-      "birthState": "FL",
-      "birthCountry": "USA",
-      "batHand": "R",
-      "fieldHand": "R",
-      "debutDate": "2025-09-14"
-    },
-    "position": {
-      "code": "1",
-      "abbreviation": "P"
-    },
-    "team": {
-      "mlb_id": 110,
-      "abbreviation": "BAL"
-    },
-    "status": {
-      "code": "A",
-      "description": "Active"
     }
   },
   "sa3015158": {

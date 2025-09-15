@@ -331,8 +331,8 @@
       "abbreviation": "TB"
     },
     "status": {
-      "code": "A",
-      "description": "Active"
+      "code": "RM",
+      "description": "Reassigned to Minors"
     }
   },
   "acunajo01": {
@@ -2779,8 +2779,8 @@
       "abbreviation": "STL"
     },
     "status": {
-      "code": "D10",
-      "description": "Injured 10-Day"
+      "code": "A",
+      "description": "Active"
     }
   },
   "ariasga01": {
@@ -7239,12 +7239,12 @@
       "abbreviation": "P"
     },
     "team": {
-      "mlb_id": 141,
-      "abbreviation": "TOR"
+      "mlb_id": 134,
+      "abbreviation": "PIT"
     },
     "status": {
-      "code": "A",
-      "description": "Active"
+      "code": null,
+      "description": null
     }
   },
   "bouchse01": {
@@ -7579,8 +7579,8 @@
       "abbreviation": "TB"
     },
     "status": {
-      "code": "RM",
-      "description": "Reassigned to Minors"
+      "code": "A",
+      "description": "Active"
     }
   },
   "bradfco01": {
@@ -8443,8 +8443,8 @@
       "abbreviation": "CHC"
     },
     "status": {
-      "code": "A",
-      "description": "Active"
+      "code": "RM",
+      "description": "Reassigned to Minors"
     }
   },
   "brownhu01": {
@@ -11463,12 +11463,12 @@
       "abbreviation": "P"
     },
     "team": {
-      "mlb_id": 121,
-      "abbreviation": "NYM"
+      "mlb_id": 110,
+      "abbreviation": "BAL"
     },
     "status": {
-      "code": null,
-      "description": null
+      "code": "NYR",
+      "description": "Not Yet Reported"
     }
   },
   "castilu02": {
@@ -19531,8 +19531,8 @@
       "abbreviation": "STL"
     },
     "status": {
-      "code": "A",
-      "description": "Active"
+      "code": "RM",
+      "description": "Reassigned to Minors"
     }
   },
   "fermijo02": {
@@ -28891,8 +28891,8 @@
       "abbreviation": "BAL"
     },
     "status": {
-      "code": "RM",
-      "description": "Reassigned to Minors"
+      "code": "A",
+      "description": "Active"
     }
   },
   "hiurake01": {
@@ -41659,8 +41659,8 @@
       "abbreviation": "BAL"
     },
     "status": {
-      "code": "RM",
-      "description": "Reassigned to Minors"
+      "code": "A",
+      "description": "Active"
     }
   },
   "mcdontr01": {
@@ -52367,6 +52367,54 @@
       "description": "Injured 60-Day"
     }
   },
+  "ragsdca01": {
+    "id": "br864lsvrw",
+    "ids": {
+      "prism": "br864lsvrw",
+      "bbref": "ragsdca01",
+      "fangraphs": "27508",
+      "mlbam": "685068",
+      "nfbc": "12282",
+      "sfbb": null,
+      "yahoo": "64815"
+    },
+    "names": {
+      "boxscore": "Ragsdale",
+      "givenFirst": "Carson",
+      "givenFirstMiddle": "Carson Andrew",
+      "firstLast": "Carson Ragsdale",
+      "lastFirst": "Ragsdale, Carson",
+      "lastFirstInit": "Ragsdale, C",
+      "givenFull": "Carson Andrew Ragsdale",
+      "last": "Ragsdale",
+      "first": "Carson",
+      "middle": "Andrew"
+    },
+    "profile": {
+      "birthDate": "1998-5-25",
+      "birthYear": "1998",
+      "birthMonth": "5",
+      "birthDay": "25",
+      "birthCity": "Wesley Chapel",
+      "birthState": "FL",
+      "birthCountry": "USA",
+      "batHand": "R",
+      "fieldHand": "R",
+      "debutDate": "2025-09-14"
+    },
+    "position": {
+      "code": "1",
+      "abbreviation": "P"
+    },
+    "team": {
+      "mlb_id": 110,
+      "abbreviation": "BAL"
+    },
+    "status": {
+      "code": null,
+      "description": null
+    }
+  },
   "raineta01": {
     "id": "0dr7p5djbr",
     "ids": {
@@ -61579,8 +61627,8 @@
       "abbreviation": "CHC"
     },
     "status": {
-      "code": "D15",
-      "description": "Injured 15-Day"
+      "code": "A",
+      "description": "Active"
     }
   },
   "sosaed01": {
@@ -63547,8 +63595,8 @@
       "abbreviation": "BAL"
     },
     "status": {
-      "code": "A",
-      "description": "Active"
+      "code": "D15",
+      "description": "Injured 15-Day"
     }
   },
   "suareeu01": {
