@@ -9355,8 +9355,8 @@
       "abbreviation": "LAA"
     },
     "status": {
-      "code": "A",
-      "description": "Active"
+      "code": null,
+      "description": null
     }
   },
   "10826": {
@@ -19819,8 +19819,8 @@
       "abbreviation": "MIA"
     },
     "status": {
-      "code": "PL",
-      "description": "Paternity List"
+      "code": "A",
+      "description": "Active"
     }
   },
   "11402": {
@@ -20251,8 +20251,8 @@
       "abbreviation": "DET"
     },
     "status": {
-      "code": "A",
-      "description": "Active"
+      "code": "RM",
+      "description": "Reassigned to Minors"
     }
   },
   "11428": {
@@ -26779,8 +26779,8 @@
       "abbreviation": "PIT"
     },
     "status": {
-      "code": "A",
-      "description": "Active"
+      "code": "RM",
+      "description": "Reassigned to Minors"
     }
   },
   "11819": {
@@ -27595,8 +27595,8 @@
       "abbreviation": "MIA"
     },
     "status": {
-      "code": "A",
-      "description": "Active"
+      "code": "RM",
+      "description": "Reassigned to Minors"
     }
   },
   "11849": {
@@ -29947,8 +29947,8 @@
       "abbreviation": "LAA"
     },
     "status": {
-      "code": "D7",
-      "description": "Injured 7-Day"
+      "code": "A",
+      "description": "Active"
     }
   },
   "12013": {
@@ -32155,8 +32155,8 @@
       "abbreviation": "MIA"
     },
     "status": {
-      "code": "A",
-      "description": "Active"
+      "code": "RM",
+      "description": "Reassigned to Minors"
     }
   },
   "12133": {
@@ -36379,8 +36379,8 @@
       "abbreviation": "PIT"
     },
     "status": {
-      "code": "D10",
-      "description": "Injured 10-Day"
+      "code": "A",
+      "description": "Active"
     }
   },
   "12345": {
@@ -37291,8 +37291,8 @@
       "abbreviation": "MIA"
     },
     "status": {
-      "code": "D10",
-      "description": "Injured 10-Day"
+      "code": "A",
+      "description": "Active"
     }
   },
   "12372": {
@@ -48283,8 +48283,8 @@
       "abbreviation": "DET"
     },
     "status": {
-      "code": "RM",
-      "description": "Reassigned to Minors"
+      "code": "A",
+      "description": "Active"
     }
   },
   "60179": {
@@ -49435,8 +49435,8 @@
       "abbreviation": "MIA"
     },
     "status": {
-      "code": "A",
-      "description": "Active"
+      "code": "RM",
+      "description": "Reassigned to Minors"
     }
   },
   "60254": {
@@ -58555,8 +58555,8 @@
       "abbreviation": "MIA"
     },
     "status": {
-      "code": "D10",
-      "description": "Injured 10-Day"
+      "code": "A",
+      "description": "Active"
     }
   },
   "62227": {
@@ -59275,8 +59275,8 @@
       "abbreviation": "AZ"
     },
     "status": {
-      "code": "RM",
-      "description": "Reassigned to Minors"
+      "code": "A",
+      "description": "Active"
     }
   },
   "62487": {
@@ -60189,6 +60189,54 @@
     "status": {
       "code": "D10",
       "description": "Injured 10-Day"
+    }
+  },
+  "62957": {
+    "id": "brj5cx1bj4",
+    "ids": {
+      "prism": "brj5cx1bj4",
+      "bbref": "eldribr01",
+      "fangraphs": "sa3022757",
+      "mlbam": "805811",
+      "nfbc": "12202",
+      "sfbb": "eldribr01",
+      "yahoo": "62957"
+    },
+    "names": {
+      "boxscore": "Eldridge",
+      "givenFirst": "Bryson",
+      "givenFirstMiddle": "Bryson Edward",
+      "firstLast": "Bryce Eldridge",
+      "lastFirst": "Eldridge, Bryce",
+      "lastFirstInit": "Eldridge, B",
+      "givenFull": "Bryson Edward Eldridge",
+      "last": "Eldridge",
+      "first": "Bryce",
+      "middle": "Edward"
+    },
+    "profile": {
+      "birthDate": "2004-10-20",
+      "birthYear": "2004",
+      "birthMonth": "10",
+      "birthDay": "20",
+      "birthCity": "Fairfax",
+      "birthState": "VA",
+      "birthCountry": "USA",
+      "batHand": "L",
+      "fieldHand": "R",
+      "debutDate": null
+    },
+    "position": {
+      "code": "3",
+      "abbreviation": "1B"
+    },
+    "team": {
+      "mlb_id": 137,
+      "abbreviation": "SF"
+    },
+    "status": {
+      "code": null,
+      "description": null
     }
   },
   "62958": {
@@ -63019,8 +63067,8 @@
       "abbreviation": "MIA"
     },
     "status": {
-      "code": "D10",
-      "description": "Injured 10-Day"
+      "code": "A",
+      "description": "Active"
     }
   },
   "63627": {
@@ -64363,8 +64411,8 @@
       "abbreviation": "MIA"
     },
     "status": {
-      "code": "A",
-      "description": "Active"
+      "code": "RM",
+      "description": "Reassigned to Minors"
     }
   },
   "64030": {
@@ -72423,12 +72471,12 @@
       "abbreviation": "P"
     },
     "team": {
-      "mlb_id": 109,
-      "abbreviation": "AZ"
+      "mlb_id": 147,
+      "abbreviation": "NYY"
     },
     "status": {
-      "code": "A",
-      "description": "Active"
+      "code": null,
+      "description": null
     }
   },
   "9718": {
