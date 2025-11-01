@@ -15318,8 +15318,8 @@
         "abbreviation": "CIN"
       },
       "status": {
-        "code": "A",
-        "description": "Active"
+        "code": null,
+        "description": null
       }
     },
     {
@@ -17914,8 +17914,8 @@
         "abbreviation": "COL"
       },
       "status": {
-        "code": "A",
-        "description": "Active"
+        "code": null,
+        "description": null
       }
     },
     {
@@ -18831,54 +18831,6 @@
       }
     },
     {
-      "id": "czqqhvsynd",
-      "ids": {
-        "prism": "czqqhvsynd",
-        "bbref": "darnedu01",
-        "fangraphs": "27812",
-        "mlbam": "699911",
-        "nfbc": "12433",
-        "sfbb": null,
-        "yahoo": "61935"
-      },
-      "names": {
-        "boxscore": "Darnell",
-        "givenFirst": "Dugan",
-        "givenFirstMiddle": "Dugan Tate",
-        "firstLast": "Dugan Darnell",
-        "lastFirst": "Darnell, Dugan",
-        "lastFirstInit": "Darnell, D",
-        "givenFull": "Dugan Tate Darnell",
-        "last": "Darnell",
-        "first": "Dugan",
-        "middle": "Tate"
-      },
-      "profile": {
-        "birthDate": "1997-6-26",
-        "birthYear": "1997",
-        "birthMonth": "6",
-        "birthDay": "26",
-        "birthCity": "Northville",
-        "birthState": "MI",
-        "birthCountry": "USA",
-        "batHand": "L",
-        "fieldHand": "R",
-        "debutDate": "2025-08-01"
-      },
-      "position": {
-        "code": "1",
-        "abbreviation": "P"
-      },
-      "team": {
-        "mlb_id": 115,
-        "abbreviation": "COL"
-      },
-      "status": {
-        "code": "D60",
-        "description": "Injured 60-Day"
-      }
-    },
-    {
       "id": "dcvecl3tmd",
       "ids": {
         "prism": "dcvecl3tmd",
@@ -19018,8 +18970,8 @@
         "abbreviation": "COL"
       },
       "status": {
-        "code": "A",
-        "description": "Active"
+        "code": null,
+        "description": null
       }
     },
     {
@@ -32185,54 +32137,6 @@
       }
     },
     {
-      "id": "lrnkwz3g5w",
-      "ids": {
-        "prism": "lrnkwz3g5w",
-        "bbref": "alfarjo01",
-        "fangraphs": "12180",
-        "mlbam": "595751",
-        "nfbc": "8715",
-        "sfbb": "alfarjo01",
-        "yahoo": "9631"
-      },
-      "names": {
-        "boxscore": "Alfaro",
-        "givenFirst": "Jorge",
-        "givenFirstMiddle": "Jorge Mario",
-        "firstLast": "Jorge Alfaro",
-        "lastFirst": "Alfaro, Jorge",
-        "lastFirstInit": "Alfaro, J",
-        "givenFull": "Jorge Mario Alfaro",
-        "last": "Alfaro",
-        "first": "Jorge",
-        "middle": "Mario"
-      },
-      "profile": {
-        "birthDate": "1993-6-11",
-        "birthYear": "1993",
-        "birthMonth": "6",
-        "birthDay": "11",
-        "birthCity": "Sincelejo",
-        "birthState": null,
-        "birthCountry": "Colombia",
-        "batHand": "R",
-        "fieldHand": "R",
-        "debutDate": "2016-09-12"
-      },
-      "position": {
-        "code": "2",
-        "abbreviation": "C"
-      },
-      "team": {
-        "mlb_id": 120,
-        "abbreviation": "WSH"
-      },
-      "status": {
-        "code": "A",
-        "description": "Active"
-      }
-    },
-    {
       "id": "lvrll1c684",
       "ids": {
         "prism": "lvrll1c684",
@@ -39484,6 +39388,54 @@
       "status": {
         "code": "A",
         "description": "Active"
+      }
+    },
+    {
+      "id": "czqqhvsynd",
+      "ids": {
+        "prism": "czqqhvsynd",
+        "bbref": "darnedu01",
+        "fangraphs": "27812",
+        "mlbam": "699911",
+        "nfbc": "12433",
+        "sfbb": null,
+        "yahoo": "61935"
+      },
+      "names": {
+        "boxscore": "Darnell",
+        "givenFirst": "Dugan",
+        "givenFirstMiddle": "Dugan Tate",
+        "firstLast": "Dugan Darnell",
+        "lastFirst": "Darnell, Dugan",
+        "lastFirstInit": "Darnell, D",
+        "givenFull": "Dugan Tate Darnell",
+        "last": "Darnell",
+        "first": "Dugan",
+        "middle": "Tate"
+      },
+      "profile": {
+        "birthDate": "1997-6-26",
+        "birthYear": "1997",
+        "birthMonth": "6",
+        "birthDay": "26",
+        "birthCity": "Northville",
+        "birthState": "MI",
+        "birthCountry": "USA",
+        "batHand": "L",
+        "fieldHand": "R",
+        "debutDate": "2025-08-01"
+      },
+      "position": {
+        "code": "1",
+        "abbreviation": "P"
+      },
+      "team": {
+        "mlb_id": 134,
+        "abbreviation": "PIT"
+      },
+      "status": {
+        "code": "D60",
+        "description": "Injured 60-Day"
       }
     },
     {
@@ -74256,6 +74208,54 @@
       "position": {
         "code": "7",
         "abbreviation": "LF"
+      },
+      "team": {
+        "mlb_id": 158,
+        "abbreviation": "MIL"
+      },
+      "status": {
+        "code": null,
+        "description": null
+      }
+    },
+    {
+      "id": "lrnkwz3g5w",
+      "ids": {
+        "prism": "lrnkwz3g5w",
+        "bbref": "alfarjo01",
+        "fangraphs": "12180",
+        "mlbam": "595751",
+        "nfbc": "8715",
+        "sfbb": "alfarjo01",
+        "yahoo": "9631"
+      },
+      "names": {
+        "boxscore": "Alfaro",
+        "givenFirst": "Jorge",
+        "givenFirstMiddle": "Jorge Mario",
+        "firstLast": "Jorge Alfaro",
+        "lastFirst": "Alfaro, Jorge",
+        "lastFirstInit": "Alfaro, J",
+        "givenFull": "Jorge Mario Alfaro",
+        "last": "Alfaro",
+        "first": "Jorge",
+        "middle": "Mario"
+      },
+      "profile": {
+        "birthDate": "1993-6-11",
+        "birthYear": "1993",
+        "birthMonth": "6",
+        "birthDay": "11",
+        "birthCity": "Sincelejo",
+        "birthState": null,
+        "birthCountry": "Colombia",
+        "batHand": "R",
+        "fieldHand": "R",
+        "debutDate": "2016-09-12"
+      },
+      "position": {
+        "code": "2",
+        "abbreviation": "C"
       },
       "team": {
         "mlb_id": 158,
