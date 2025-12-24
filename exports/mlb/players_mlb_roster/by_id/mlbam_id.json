@@ -87,12 +87,12 @@
       "abbreviation": "P"
     },
     "team": {
-      "mlb_id": "LAA",
-      "abbreviation": "LAA"
+      "mlb_id": 116,
+      "abbreviation": "DET"
     },
     "status": {
-      "code": null,
-      "description": null
+      "code": "A",
+      "description": "Active"
     }
   },
   "445926": {
@@ -379,8 +379,8 @@
       "abbreviation": "TEX"
     },
     "status": {
-      "code": null,
-      "description": null
+      "code": "A",
+      "description": "Active"
     }
   },
   "456781": {
@@ -1767,12 +1767,12 @@
       "abbreviation": "P"
     },
     "team": {
-      "mlb_id": "TEX",
-      "abbreviation": "TEX"
+      "mlb_id": 109,
+      "abbreviation": "AZ"
     },
     "status": {
-      "code": null,
-      "description": null
+      "code": "A",
+      "description": "Active"
     }
   },
   "518886": {
@@ -2583,12 +2583,12 @@
       "abbreviation": "P"
     },
     "team": {
-      "mlb_id": "TEX",
-      "abbreviation": "TEX"
+      "mlb_id": 114,
+      "abbreviation": "CLE"
     },
     "status": {
-      "code": null,
-      "description": null
+      "code": "A",
+      "description": "Active"
     }
   },
   "542932": {
@@ -5415,12 +5415,12 @@
       "abbreviation": "P"
     },
     "team": {
-      "mlb_id": "CHC",
+      "mlb_id": 112,
       "abbreviation": "CHC"
     },
     "status": {
-      "code": null,
-      "description": null
+      "code": "A",
+      "description": "Active"
     }
   },
   "573262": {
@@ -5511,8 +5511,8 @@
       "abbreviation": "1B"
     },
     "team": {
-      "mlb_id": 138,
-      "abbreviation": "STL"
+      "mlb_id": 111,
+      "abbreviation": "BOS"
     },
     "status": {
       "code": "A",
@@ -5657,6 +5657,54 @@
     "team": {
       "mlb_id": 135,
       "abbreviation": "SD"
+    },
+    "status": {
+      "code": "A",
+      "description": "Active"
+    }
+  },
+  "592122": {
+    "id": "eer7yv45l4",
+    "ids": {
+      "prism": "eer7yv45l4",
+      "bbref": "austity01",
+      "fangraphs": "11850",
+      "mlbam": "592122",
+      "nfbc": "8686",
+      "sfbb": "austity01",
+      "yahoo": "9603"
+    },
+    "names": {
+      "boxscore": "Austin",
+      "givenFirst": "Christopher",
+      "givenFirstMiddle": "Christopher Tyler",
+      "firstLast": "Tyler Austin",
+      "lastFirst": "Austin, Tyler",
+      "lastFirstInit": "Austin, T",
+      "givenFull": "Christopher Tyler Austin",
+      "last": "Austin",
+      "first": "Tyler",
+      "middle": "Tyler"
+    },
+    "profile": {
+      "birthDate": "1991-9-6",
+      "birthYear": "1991",
+      "birthMonth": "9",
+      "birthDay": "6",
+      "birthCity": "Conyers",
+      "birthState": "GA",
+      "birthCountry": "USA",
+      "batHand": "R",
+      "fieldHand": "R",
+      "debutDate": "2016-08-13"
+    },
+    "position": {
+      "code": "3",
+      "abbreviation": "1B"
+    },
+    "team": {
+      "mlb_id": 112,
+      "abbreviation": "CHC"
     },
     "status": {
       "code": "A",
@@ -7863,12 +7911,12 @@
       "abbreviation": "P"
     },
     "team": {
-      "mlb_id": "NYY",
-      "abbreviation": "NYY"
+      "mlb_id": 121,
+      "abbreviation": "NYM"
     },
     "status": {
-      "code": null,
-      "description": null
+      "code": "A",
+      "description": "Active"
     }
   },
   "596142": {
@@ -8487,12 +8535,12 @@
       "abbreviation": "1B"
     },
     "team": {
-      "mlb_id": "WSH",
-      "abbreviation": "WSH"
+      "mlb_id": 142,
+      "abbreviation": "MIN"
     },
     "status": {
-      "code": null,
-      "description": null
+      "code": "A",
+      "description": "Active"
     }
   },
   "605141": {
@@ -8967,12 +9015,12 @@
       "abbreviation": "P"
     },
     "team": {
-      "mlb_id": 140,
-      "abbreviation": "TEX"
+      "mlb_id": 137,
+      "abbreviation": "SF"
     },
     "status": {
-      "code": null,
-      "description": null
+      "code": "A",
+      "description": "Active"
     }
   },
   "605347": {
@@ -11511,12 +11559,12 @@
       "abbreviation": "RF"
     },
     "team": {
-      "mlb_id": "BOS",
-      "abbreviation": "BOS"
+      "mlb_id": 136,
+      "abbreviation": "SEA"
     },
     "status": {
-      "code": null,
-      "description": null
+      "code": "A",
+      "description": "Active"
     }
   },
   "608717": {
@@ -11991,8 +12039,8 @@
       "abbreviation": "3B"
     },
     "team": {
-      "mlb_id": 116,
-      "abbreviation": "DET"
+      "mlb_id": 118,
+      "abbreviation": "KC"
     },
     "status": {
       "code": null,
@@ -12567,8 +12615,8 @@
       "abbreviation": "P"
     },
     "team": {
-      "mlb_id": 142,
-      "abbreviation": "MIN"
+      "mlb_id": 133,
+      "abbreviation": "ATH"
     },
     "status": {
       "code": null,
@@ -12951,8 +12999,8 @@
       "abbreviation": "P"
     },
     "team": {
-      "mlb_id": 143,
-      "abbreviation": "PHI"
+      "mlb_id": 118,
+      "abbreviation": "KC"
     },
     "status": {
       "code": "A",
@@ -13431,8 +13479,8 @@
       "abbreviation": "2B"
     },
     "team": {
-      "mlb_id": 121,
-      "abbreviation": "NYM"
+      "mlb_id": 108,
+      "abbreviation": "LAA"
     },
     "status": {
       "code": null,
@@ -15211,8 +15259,8 @@
       "abbreviation": "DET"
     },
     "status": {
-      "code": null,
-      "description": null
+      "code": "A",
+      "description": "Active"
     }
   },
   "640451": {
@@ -16743,12 +16791,12 @@
       "abbreviation": "P"
     },
     "team": {
-      "mlb_id": "CHC",
-      "abbreviation": "CHC"
+      "mlb_id": 143,
+      "abbreviation": "PHI"
     },
     "status": {
-      "code": null,
-      "description": null
+      "code": "A",
+      "description": "Active"
     }
   },
   "641755": {
@@ -17947,8 +17995,8 @@
       "abbreviation": "NYY"
     },
     "status": {
-      "code": "A",
-      "description": "Active"
+      "code": null,
+      "description": null
     }
   },
   "642232": {
@@ -18999,12 +19047,12 @@
       "abbreviation": "P"
     },
     "team": {
-      "mlb_id": 147,
-      "abbreviation": "NYY"
+      "mlb_id": 133,
+      "abbreviation": "ATH"
     },
     "status": {
-      "code": null,
-      "description": null
+      "code": "A",
+      "description": "Active"
     }
   },
   "643446": {
@@ -19047,8 +19095,8 @@
       "abbreviation": "2B"
     },
     "team": {
-      "mlb_id": 121,
-      "abbreviation": "NYM"
+      "mlb_id": 133,
+      "abbreviation": "ATH"
     },
     "status": {
       "code": "A",
@@ -19383,8 +19431,8 @@
       "abbreviation": "C"
     },
     "team": {
-      "mlb_id": 121,
-      "abbreviation": "NYM"
+      "mlb_id": 147,
+      "abbreviation": "NYY"
     },
     "status": {
       "code": null,
@@ -19431,8 +19479,8 @@
       "abbreviation": "C"
     },
     "team": {
-      "mlb_id": 109,
-      "abbreviation": "AZ"
+      "mlb_id": 140,
+      "abbreviation": "TEX"
     },
     "status": {
       "code": null,
@@ -20107,8 +20155,8 @@
       "abbreviation": "SD"
     },
     "status": {
-      "code": null,
-      "description": null
+      "code": "A",
+      "description": "Active"
     }
   },
   "650644": {
@@ -21455,6 +21503,54 @@
       "description": "Active"
     }
   },
+  "656492": {
+    "id": "6s5e51ekd8",
+    "ids": {
+      "prism": "6s5e51ekd8",
+      "bbref": "grifffo01",
+      "fangraphs": "16432",
+      "mlbam": "656492",
+      "nfbc": "10748",
+      "sfbb": "grifffo01",
+      "yahoo": "10489"
+    },
+    "names": {
+      "boxscore": "Griffin",
+      "givenFirst": "Fred",
+      "givenFirstMiddle": "Fred Foster",
+      "firstLast": "Foster Griffin",
+      "lastFirst": "Griffin, Foster",
+      "lastFirstInit": "Griffin, F",
+      "givenFull": "Fred Foster Griffin",
+      "last": "Griffin",
+      "first": "Foster",
+      "middle": "Foster"
+    },
+    "profile": {
+      "birthDate": "1995-7-27",
+      "birthYear": "1995",
+      "birthMonth": "7",
+      "birthDay": "27",
+      "birthCity": "Orlando",
+      "birthState": "FL",
+      "birthCountry": "USA",
+      "batHand": "R",
+      "fieldHand": "L",
+      "debutDate": "2020-07-27"
+    },
+    "position": {
+      "code": "1",
+      "abbreviation": "P"
+    },
+    "team": {
+      "mlb_id": 120,
+      "abbreviation": "WSH"
+    },
+    "status": {
+      "code": "A",
+      "description": "Active"
+    }
+  },
   "656529": {
     "id": "kq4p58yp0w",
     "ids": {
@@ -22407,12 +22503,12 @@
       "abbreviation": "P"
     },
     "team": {
-      "mlb_id": "ATH",
-      "abbreviation": "ATH"
+      "mlb_id": 145,
+      "abbreviation": "CWS"
     },
     "status": {
-      "code": null,
-      "description": null
+      "code": "A",
+      "description": "Active"
     }
   },
   "656811": {
@@ -22983,12 +23079,12 @@
       "abbreviation": "CF"
     },
     "team": {
-      "mlb_id": 114,
-      "abbreviation": "CLE"
+      "mlb_id": 118,
+      "abbreviation": "KC"
     },
     "status": {
-      "code": null,
-      "description": null
+      "code": "A",
+      "description": "Active"
     }
   },
   "657044": {
@@ -23127,12 +23223,12 @@
       "abbreviation": "P"
     },
     "team": {
-      "mlb_id": 140,
-      "abbreviation": "TEX"
+      "mlb_id": 112,
+      "abbreviation": "CHC"
     },
     "status": {
-      "code": null,
-      "description": null
+      "code": "A",
+      "description": "Active"
     }
   },
   "657136": {
@@ -23559,12 +23655,12 @@
       "abbreviation": "P"
     },
     "team": {
-      "mlb_id": "SEA",
-      "abbreviation": "SEA"
+      "mlb_id": 113,
+      "abbreviation": "CIN"
     },
     "status": {
-      "code": null,
-      "description": null
+      "code": "A",
+      "description": "Active"
     }
   },
   "657585": {
@@ -25387,8 +25483,8 @@
       "abbreviation": "NYM"
     },
     "status": {
-      "code": "A",
-      "description": "Active"
+      "code": null,
+      "description": null
     }
   },
   "663423": {
@@ -28407,8 +28503,8 @@
       "abbreviation": "LF"
     },
     "team": {
-      "mlb_id": 139,
-      "abbreviation": "TB"
+      "mlb_id": 134,
+      "abbreviation": "PIT"
     },
     "status": {
       "code": "A",
@@ -28791,8 +28887,8 @@
       "abbreviation": "2B"
     },
     "team": {
-      "mlb_id": 139,
-      "abbreviation": "TB"
+      "mlb_id": 134,
+      "abbreviation": "PIT"
     },
     "status": {
       "code": "A",
@@ -32391,8 +32487,8 @@
       "abbreviation": "RF"
     },
     "team": {
-      "mlb_id": 145,
-      "abbreviation": "CWS"
+      "mlb_id": 134,
+      "abbreviation": "PIT"
     },
     "status": {
       "code": null,
@@ -33639,12 +33735,12 @@
       "abbreviation": "LF"
     },
     "team": {
-      "mlb_id": "TB",
-      "abbreviation": "TB"
+      "mlb_id": 146,
+      "abbreviation": "MIA"
     },
     "status": {
-      "code": null,
-      "description": null
+      "code": "A",
+      "description": "Active"
     }
   },
   "666659": {
@@ -35223,8 +35319,8 @@
       "abbreviation": "SS"
     },
     "team": {
-      "mlb_id": 115,
-      "abbreviation": "COL"
+      "mlb_id": 144,
+      "abbreviation": "ATL"
     },
     "status": {
       "code": null,
@@ -36231,12 +36327,12 @@
       "abbreviation": "P"
     },
     "team": {
-      "mlb_id": 145,
-      "abbreviation": "CWS"
+      "mlb_id": 115,
+      "abbreviation": "COL"
     },
     "status": {
-      "code": "A",
-      "description": "Active"
+      "code": null,
+      "description": null
     }
   },
   "669022": {
@@ -36759,12 +36855,12 @@
       "abbreviation": "P"
     },
     "team": {
-      "mlb_id": "BOS",
-      "abbreviation": "BOS"
+      "mlb_id": 138,
+      "abbreviation": "STL"
     },
     "status": {
-      "code": null,
-      "description": null
+      "code": "A",
+      "description": "Active"
     }
   },
   "669165": {
@@ -36855,8 +36951,8 @@
       "abbreviation": "P"
     },
     "team": {
-      "mlb_id": 134,
-      "abbreviation": "PIT"
+      "mlb_id": 116,
+      "abbreviation": "DET"
     },
     "status": {
       "code": null,
@@ -38055,8 +38151,8 @@
       "abbreviation": "P"
     },
     "team": {
-      "mlb_id": 139,
-      "abbreviation": "TB"
+      "mlb_id": 110,
+      "abbreviation": "BAL"
     },
     "status": {
       "code": "A",
@@ -38215,7 +38311,7 @@
       "fangraphs": "27570",
       "mlbam": "669371",
       "nfbc": "11423",
-      "sfbb": null,
+      "sfbb": "henryco01",
       "yahoo": "12182"
     },
     "names": {
@@ -39831,8 +39927,8 @@
       "abbreviation": "1B"
     },
     "team": {
-      "mlb_id": 117,
-      "abbreviation": "HOU"
+      "mlb_id": 139,
+      "abbreviation": "TB"
     },
     "status": {
       "code": null,
@@ -40503,8 +40599,8 @@
       "abbreviation": "3B"
     },
     "team": {
-      "mlb_id": 117,
-      "abbreviation": "HOU"
+      "mlb_id": 147,
+      "abbreviation": "NYY"
     },
     "status": {
       "code": null,
@@ -42999,12 +43095,12 @@
       "abbreviation": "LF"
     },
     "team": {
-      "mlb_id": 139,
-      "abbreviation": "TB"
+      "mlb_id": 145,
+      "abbreviation": "CWS"
     },
     "status": {
-      "code": null,
-      "description": null
+      "code": "A",
+      "description": "Active"
     }
   },
   "672012": {
@@ -45255,12 +45351,12 @@
       "abbreviation": "P"
     },
     "team": {
-      "mlb_id": 133,
-      "abbreviation": "ATH"
+      "mlb_id": 139,
+      "abbreviation": "TB"
     },
     "status": {
-      "code": null,
-      "description": null
+      "code": "A",
+      "description": "Active"
     }
   },
   "674384": {
@@ -45543,8 +45639,8 @@
       "abbreviation": "C"
     },
     "team": {
-      "mlb_id": 136,
-      "abbreviation": "SEA"
+      "mlb_id": 135,
+      "abbreviation": "SD"
     },
     "status": {
       "code": null,
@@ -46167,8 +46263,8 @@
       "abbreviation": "P"
     },
     "team": {
-      "mlb_id": 116,
-      "abbreviation": "DET"
+      "mlb_id": 114,
+      "abbreviation": "CLE"
     },
     "status": {
       "code": null,
@@ -46359,8 +46455,8 @@
       "abbreviation": "P"
     },
     "team": {
-      "mlb_id": 136,
-      "abbreviation": "SEA"
+      "mlb_id": 112,
+      "abbreviation": "CHC"
     },
     "status": {
       "code": null,
@@ -47527,7 +47623,7 @@
       "fangraphs": "23394",
       "mlbam": "676571",
       "nfbc": "12423",
-      "sfbb": null,
+      "sfbb": "poulipj01",
       "yahoo": "62678"
     },
     "names": {
@@ -49003,8 +49099,8 @@
       "abbreviation": "BAL"
     },
     "status": {
-      "code": "A",
-      "description": "Active"
+      "code": null,
+      "description": null
     }
   },
   "677053": {
@@ -51499,8 +51595,8 @@
       "abbreviation": "CLE"
     },
     "status": {
-      "code": "A",
-      "description": "Active"
+      "code": null,
+      "description": null
     }
   },
   "678882": {
@@ -51927,8 +52023,8 @@
       "abbreviation": "P"
     },
     "team": {
-      "mlb_id": 109,
-      "abbreviation": "AZ"
+      "mlb_id": 143,
+      "abbreviation": "PHI"
     },
     "status": {
       "code": "A",
@@ -52167,8 +52263,8 @@
       "abbreviation": "P"
     },
     "team": {
-      "mlb_id": 133,
-      "abbreviation": "ATH"
+      "mlb_id": 119,
+      "abbreviation": "LAD"
     },
     "status": {
       "code": null,
@@ -53463,8 +53559,8 @@
       "abbreviation": "P"
     },
     "team": {
-      "mlb_id": 118,
-      "abbreviation": "KC"
+      "mlb_id": 143,
+      "abbreviation": "PHI"
     },
     "status": {
       "code": "A",
@@ -53907,11 +54003,11 @@
     "id": "h2cx9lnj8m",
     "ids": {
       "prism": "h2cx9lnj8m",
-      "bbref": null,
+      "bbref": "weissry01",
       "fangraphs": "sa3007778",
       "mlbam": "680802",
       "nfbc": "11375",
-      "sfbb": null,
+      "sfbb": "weissry01",
       "yahoo": "12349"
     },
     "names": {
@@ -55191,8 +55287,8 @@
       "abbreviation": "P"
     },
     "team": {
-      "mlb_id": 134,
-      "abbreviation": "PIT"
+      "mlb_id": 117,
+      "abbreviation": "HOU"
     },
     "status": {
       "code": "A",
@@ -57111,8 +57207,8 @@
       "abbreviation": "P"
     },
     "team": {
-      "mlb_id": 139,
-      "abbreviation": "TB"
+      "mlb_id": 134,
+      "abbreviation": "PIT"
     },
     "status": {
       "code": "A",
@@ -57351,12 +57447,12 @@
       "abbreviation": "OF"
     },
     "team": {
-      "mlb_id": 134,
-      "abbreviation": "PIT"
+      "mlb_id": 137,
+      "abbreviation": "SF"
     },
     "status": {
-      "code": "A",
-      "description": "Active"
+      "code": null,
+      "description": null
     }
   },
   "682619": {
@@ -59127,8 +59223,8 @@
       "abbreviation": "2B"
     },
     "team": {
-      "mlb_id": 141,
-      "abbreviation": "TOR"
+      "mlb_id": 133,
+      "abbreviation": "ATH"
     },
     "status": {
       "code": null,
@@ -60615,8 +60711,8 @@
       "abbreviation": "P"
     },
     "team": {
-      "mlb_id": 138,
-      "abbreviation": "STL"
+      "mlb_id": 140,
+      "abbreviation": "TEX"
     },
     "status": {
       "code": null,
@@ -60763,8 +60859,8 @@
       "abbreviation": "SF"
     },
     "status": {
-      "code": "A",
-      "description": "Active"
+      "code": null,
+      "description": null
     }
   },
   "685299": {
@@ -61623,8 +61719,8 @@
       "abbreviation": "3B"
     },
     "team": {
-      "mlb_id": 158,
-      "abbreviation": "MIL"
+      "mlb_id": 145,
+      "abbreviation": "CWS"
     },
     "status": {
       "code": null,
@@ -61819,8 +61915,8 @@
       "abbreviation": "ATH"
     },
     "status": {
-      "code": "A",
-      "description": "Active"
+      "code": null,
+      "description": null
     }
   },
   "686611": {
@@ -62919,12 +63015,12 @@
       "abbreviation": "LF"
     },
     "team": {
-      "mlb_id": 137,
-      "abbreviation": "SF"
+      "mlb_id": 146,
+      "abbreviation": "MIA"
     },
     "status": {
-      "code": "A",
-      "description": "Active"
+      "code": null,
+      "description": null
     }
   },
   "686930": {
@@ -66375,8 +66471,8 @@
       "abbreviation": "LF"
     },
     "team": {
-      "mlb_id": 117,
-      "abbreviation": "HOU"
+      "mlb_id": 139,
+      "abbreviation": "TB"
     },
     "status": {
       "code": "A",
@@ -66571,8 +66667,8 @@
       "abbreviation": "STL"
     },
     "status": {
-      "code": "A",
-      "description": "Active"
+      "code": null,
+      "description": null
     }
   },
   "689296": {
@@ -67527,8 +67623,8 @@
       "abbreviation": "P"
     },
     "team": {
-      "mlb_id": 111,
-      "abbreviation": "BOS"
+      "mlb_id": 138,
+      "abbreviation": "STL"
     },
     "status": {
       "code": "A",
@@ -68055,12 +68151,12 @@
       "abbreviation": "C"
     },
     "team": {
-      "mlb_id": 115,
-      "abbreviation": "COL"
+      "mlb_id": 121,
+      "abbreviation": "NYM"
     },
     "status": {
-      "code": null,
-      "description": null
+      "code": "40M",
+      "description": "Forty Man"
     }
   },
   "691016": {
@@ -68455,7 +68551,7 @@
       "fangraphs": "27963",
       "mlbam": "691185",
       "nfbc": "12290",
-      "sfbb": null,
+      "sfbb": "acostma01",
       "yahoo": "11848"
     },
     "names": {
@@ -69315,11 +69411,11 @@
     "id": "ss0bpzzcc0",
     "ids": {
       "prism": "ss0bpzzcc0",
-      "bbref": null,
+      "bbref": "susacda01",
       "fangraphs": "sa3019997",
       "mlbam": "691740",
       "nfbc": "12503",
-      "sfbb": null,
+      "sfbb": "susacda01",
       "yahoo": "60308"
     },
     "names": {
@@ -69883,8 +69979,8 @@
       "abbreviation": "PIT"
     },
     "status": {
-      "code": "A",
-      "description": "Active"
+      "code": null,
+      "description": null
     }
   },
   "691945": {
@@ -71291,7 +71387,7 @@
       "yahoo": "12480"
     },
     "names": {
-      "boxscore": "Chourio",
+      "boxscore": "Chourio, Jac",
       "givenFirst": "Jackson",
       "givenFirstMiddle": "Jackson Bryan",
       "firstLast": "Jackson Chourio",
@@ -72579,11 +72675,11 @@
     "id": "pjttz7sdfw",
     "ids": {
       "prism": "pjttz7sdfw",
-      "bbref": null,
+      "bbref": "thompst01",
       "fangraphs": "sa3019999",
       "mlbam": "694514",
       "nfbc": "11938",
-      "sfbb": null,
+      "sfbb": "thompst01",
       "yahoo": "60146"
     },
     "names": {
@@ -75075,11 +75171,11 @@
     "id": "ckvleldgkh",
     "ids": {
       "prism": "ckvleldgkh",
-      "bbref": null,
+      "bbref": "bernale01",
       "fangraphs": "sa3015773",
       "mlbam": "699024",
       "nfbc": "12494",
-      "sfbb": null,
+      "sfbb": "bernale01",
       "yahoo": "60403"
     },
     "names": {
@@ -79115,13 +79211,13 @@
       "yahoo": "61775"
     },
     "names": {
-      "boxscore": "Flores",
+      "boxscore": "Flores Jr.",
       "givenFirst": "Rafael",
       "givenFirstMiddle": "Rafael",
-      "firstLast": "Rafael Flores",
-      "lastFirst": "Flores, Rafael",
-      "lastFirstInit": "Flores, R",
-      "givenFull": "Rafael Flores",
+      "firstLast": "Rafael Flores Jr.",
+      "lastFirst": "Flores Jr., Rafael",
+      "lastFirstInit": "Flores Jr., R",
+      "givenFull": "Rafael Flores Jr.",
       "last": "Flores",
       "first": "Rafael",
       "middle": null
@@ -79831,7 +79927,7 @@
       "fangraphs": "31815",
       "mlbam": "806188",
       "nfbc": "12382",
-      "sfbb": null,
+      "sfbb": "gibsoca01",
       "yahoo": "61279"
     },
     "names": {
@@ -80057,6 +80153,54 @@
     "team": {
       "mlb_id": 111,
       "abbreviation": "BOS"
+    },
+    "status": {
+      "code": "A",
+      "description": "Active"
+    }
+  },
+  "808959": {
+    "id": "kyv4snybb0",
+    "ids": {
+      "prism": "kyv4snybb0",
+      "bbref": "murakmu01",
+      "fangraphs": "sa3063258",
+      "mlbam": "808959",
+      "nfbc": "12351",
+      "sfbb": "murakmu01",
+      "yahoo": "66369"
+    },
+    "names": {
+      "boxscore": "Murakami",
+      "givenFirst": "Munetaka",
+      "givenFirstMiddle": "Munetaka",
+      "firstLast": "Munetaka Murakami",
+      "lastFirst": "Murakami, Munetaka",
+      "lastFirstInit": "Murakami, M",
+      "givenFull": "Munetaka Murakami",
+      "last": "Murakami",
+      "first": "Munetaka",
+      "middle": null
+    },
+    "profile": {
+      "birthDate": "2000-2-2",
+      "birthYear": "2000",
+      "birthMonth": "2",
+      "birthDay": "2",
+      "birthCity": "Kumamoto",
+      "birthState": null,
+      "birthCountry": "Japan",
+      "batHand": "L",
+      "fieldHand": "R",
+      "debutDate": null
+    },
+    "position": {
+      "code": "I",
+      "abbreviation": "IF"
+    },
+    "team": {
+      "mlb_id": 145,
+      "abbreviation": "CWS"
     },
     "status": {
       "code": "A",
@@ -80489,6 +80633,54 @@
     "team": {
       "mlb_id": 108,
       "abbreviation": "LAA"
+    },
+    "status": {
+      "code": "A",
+      "description": "Active"
+    }
+  },
+  "823550": {
+    "id": "z747l5prw0",
+    "ids": {
+      "prism": "z747l5prw0",
+      "bbref": "songsu01",
+      "fangraphs": "sa3012529",
+      "mlbam": "823550",
+      "nfbc": "12592",
+      "sfbb": "songsu01",
+      "yahoo": "64169"
+    },
+    "names": {
+      "boxscore": "Song",
+      "givenFirst": "Sung-Mun",
+      "givenFirstMiddle": "Sung-Mun",
+      "firstLast": "Sung-Mun Song",
+      "lastFirst": "Song, Sung-Mun",
+      "lastFirstInit": "Song, S",
+      "givenFull": "Sung-Mun Song",
+      "last": "Song",
+      "first": "Sung-Mun",
+      "middle": null
+    },
+    "profile": {
+      "birthDate": "1996-08-29",
+      "birthYear": null,
+      "birthMonth": "08",
+      "birthDay": "29",
+      "birthCity": "Seoul",
+      "birthState": null,
+      "birthCountry": "Republic of Korea",
+      "batHand": "L",
+      "fieldHand": "R",
+      "debutDate": null
+    },
+    "position": {
+      "code": "5",
+      "abbreviation": "3B"
+    },
+    "team": {
+      "mlb_id": 135,
+      "abbreviation": "SD"
     },
     "status": {
       "code": "A",
