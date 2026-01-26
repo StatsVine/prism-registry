@@ -2600,7 +2600,7 @@
         "fangraphs": "35325",
         "mlbam": "696270",
         "nfbc": "12368",
-        "sfbb": null,
+        "sfbb": "johnsry01",
         "yahoo": "64367"
       },
       "names": {
@@ -9604,54 +9604,6 @@
       "status": {
         "code": "A",
         "description": "Active"
-      }
-    },
-    {
-      "id": "gp3rmkjyvw",
-      "ids": {
-        "prism": "gp3rmkjyvw",
-        "bbref": "criswco01",
-        "fangraphs": "24975",
-        "mlbam": "681867",
-        "nfbc": "11270",
-        "sfbb": "criswco01",
-        "yahoo": "12256"
-      },
-      "names": {
-        "boxscore": "Criswell, C",
-        "givenFirst": "Cooper",
-        "givenFirstMiddle": "Cooper Timothy",
-        "firstLast": "Cooper Criswell",
-        "lastFirst": "Criswell, Cooper",
-        "lastFirstInit": "Criswell, C",
-        "givenFull": "Cooper Timothy Criswell",
-        "last": "Criswell",
-        "first": "Cooper",
-        "middle": "Timothy"
-      },
-      "profile": {
-        "birthDate": "1996-7-24",
-        "birthYear": "1996",
-        "birthMonth": "7",
-        "birthDay": "24",
-        "birthCity": "Carrollton",
-        "birthState": "GA",
-        "birthCountry": "USA",
-        "batHand": "R",
-        "fieldHand": "R",
-        "debutDate": "2021-08-27"
-      },
-      "position": {
-        "code": "1",
-        "abbreviation": "P"
-      },
-      "team": {
-        "mlb_id": 111,
-        "abbreviation": "BOS"
-      },
-      "status": {
-        "code": null,
-        "description": null
       }
     },
     {
@@ -33632,7 +33584,7 @@
         "fangraphs": "26247",
         "mlbam": "687377",
         "nfbc": "12153",
-        "sfbb": null,
+        "sfbb": "ribalor01",
         "yahoo": "64784"
       },
       "names": {
@@ -36658,7 +36610,7 @@
         "fangraphs": "22175",
         "mlbam": "668820",
         "nfbc": "10909",
-        "sfbb": null,
+        "sfbb": "kranima01",
         "yahoo": "11977"
       },
       "names": {
@@ -44915,6 +44867,54 @@
       }
     },
     {
+      "id": "gp3rmkjyvw",
+      "ids": {
+        "prism": "gp3rmkjyvw",
+        "bbref": "criswco01",
+        "fangraphs": "24975",
+        "mlbam": "681867",
+        "nfbc": "11270",
+        "sfbb": "criswco01",
+        "yahoo": "12256"
+      },
+      "names": {
+        "boxscore": "Criswell, C",
+        "givenFirst": "Cooper",
+        "givenFirstMiddle": "Cooper Timothy",
+        "firstLast": "Cooper Criswell",
+        "lastFirst": "Criswell, Cooper",
+        "lastFirstInit": "Criswell, C",
+        "givenFull": "Cooper Timothy Criswell",
+        "last": "Criswell",
+        "first": "Cooper",
+        "middle": "Timothy"
+      },
+      "profile": {
+        "birthDate": "1996-7-24",
+        "birthYear": "1996",
+        "birthMonth": "7",
+        "birthDay": "24",
+        "birthCity": "Carrollton",
+        "birthState": "GA",
+        "birthCountry": "USA",
+        "batHand": "R",
+        "fieldHand": "R",
+        "debutDate": "2021-08-27"
+      },
+      "position": {
+        "code": "1",
+        "abbreviation": "P"
+      },
+      "team": {
+        "mlb_id": 136,
+        "abbreviation": "SEA"
+      },
+      "status": {
+        "code": "A",
+        "description": "Active"
+      }
+    },
+    {
       "id": "hr9r4x7em0",
       "ids": {
         "prism": "hr9r4x7em0",
@@ -46206,8 +46206,8 @@
         "abbreviation": "SEA"
       },
       "status": {
-        "code": "A",
-        "description": "Active"
+        "code": null,
+        "description": null
       }
     }
   ],
@@ -58367,6 +58367,54 @@
       }
     },
     {
+      "id": "3pg55nd7xm",
+      "ids": {
+        "prism": "3pg55nd7xm",
+        "bbref": "caratvi01",
+        "fangraphs": "14968",
+        "mlbam": "605170",
+        "nfbc": "9262",
+        "sfbb": "caratvi01",
+        "yahoo": "10748"
+      },
+      "names": {
+        "boxscore": "Caratini",
+        "givenFirst": "Victor",
+        "givenFirstMiddle": "Víctor Manuel",
+        "firstLast": "Victor Caratini",
+        "lastFirst": "Caratini, Victor",
+        "lastFirstInit": "Caratini, V",
+        "givenFull": "Victor Manuel Caratini",
+        "last": "Caratini",
+        "first": "Víctor",
+        "middle": "Manuel"
+      },
+      "profile": {
+        "birthDate": "1993-8-17",
+        "birthYear": "1993",
+        "birthMonth": "8",
+        "birthDay": "17",
+        "birthCity": "Ponce",
+        "birthState": null,
+        "birthCountry": "Puerto Rico",
+        "batHand": "S",
+        "fieldHand": "R",
+        "debutDate": "2017-06-28"
+      },
+      "position": {
+        "code": "2",
+        "abbreviation": "C"
+      },
+      "team": {
+        "mlb_id": 142,
+        "abbreviation": "MIN"
+      },
+      "status": {
+        "code": "A",
+        "description": "Active"
+      }
+    },
+    {
       "id": "3rhmw5rlth",
       "ids": {
         "prism": "3rhmw5rlth",
@@ -59840,6 +59888,54 @@
         "batHand": "R",
         "fieldHand": "R",
         "debutDate": "2022-10-02"
+      },
+      "position": {
+        "code": "1",
+        "abbreviation": "P"
+      },
+      "team": {
+        "mlb_id": 142,
+        "abbreviation": "MIN"
+      },
+      "status": {
+        "code": "A",
+        "description": "Active"
+      }
+    },
+    {
+      "id": "ltkvytd5yd",
+      "ids": {
+        "prism": "ltkvytd5yd",
+        "bbref": "rogerta01",
+        "fangraphs": "13449",
+        "mlbam": "573124",
+        "nfbc": "9225",
+        "sfbb": "rogerta01",
+        "yahoo": "10133"
+      },
+      "names": {
+        "boxscore": "Rogers, Ta",
+        "givenFirst": "Taylor",
+        "givenFirstMiddle": "Taylor Allen",
+        "firstLast": "Taylor Rogers",
+        "lastFirst": "Rogers, Taylor",
+        "lastFirstInit": "Rogers, T",
+        "givenFull": "Taylor Allen Rogers",
+        "last": "Rogers",
+        "first": "Taylor",
+        "middle": "Allen"
+      },
+      "profile": {
+        "birthDate": "1990-12-17",
+        "birthYear": "1990",
+        "birthMonth": "12",
+        "birthDay": "17",
+        "birthCity": "Denver",
+        "birthState": "CO",
+        "birthCountry": "USA",
+        "batHand": "L",
+        "fieldHand": "L",
+        "debutDate": "2016-04-14"
       },
       "position": {
         "code": "1",
@@ -65866,7 +65962,7 @@
         "fangraphs": "21863",
         "mlbam": "666277",
         "nfbc": "11684",
-        "sfbb": null,
+        "sfbb": "soriage01",
         "yahoo": "12751"
       },
       "names": {
@@ -67308,7 +67404,7 @@
         "fangraphs": "16061",
         "mlbam": "592155",
         "nfbc": "12080",
-        "sfbb": null,
+        "sfbb": "booseca01",
         "yahoo": "61577"
       },
       "names": {
@@ -69950,7 +70046,7 @@
         "fangraphs": "26171",
         "mlbam": "687362",
         "nfbc": "12142",
-        "sfbb": null,
+        "sfbb": "gillico01",
         "yahoo": "63927"
       },
       "names": {
@@ -74176,7 +74272,7 @@
         "fangraphs": "27702",
         "mlbam": "687396",
         "nfbc": "11689",
-        "sfbb": null,
+        "sfbb": "headrbr01",
         "yahoo": "12727"
       },
       "names": {
@@ -77497,54 +77593,6 @@
       }
     },
     {
-      "id": "ltkvytd5yd",
-      "ids": {
-        "prism": "ltkvytd5yd",
-        "bbref": "rogerta01",
-        "fangraphs": "13449",
-        "mlbam": "573124",
-        "nfbc": "9225",
-        "sfbb": "rogerta01",
-        "yahoo": "10133"
-      },
-      "names": {
-        "boxscore": "Rogers, Ta",
-        "givenFirst": "Taylor",
-        "givenFirstMiddle": "Taylor Allen",
-        "firstLast": "Taylor Rogers",
-        "lastFirst": "Rogers, Taylor",
-        "lastFirstInit": "Rogers, T",
-        "givenFull": "Taylor Allen Rogers",
-        "last": "Rogers",
-        "first": "Taylor",
-        "middle": "Allen"
-      },
-      "profile": {
-        "birthDate": "1990-12-17",
-        "birthYear": "1990",
-        "birthMonth": "12",
-        "birthDay": "17",
-        "birthCity": "Denver",
-        "birthState": "CO",
-        "birthCountry": "USA",
-        "batHand": "L",
-        "fieldHand": "L",
-        "debutDate": "2016-04-14"
-      },
-      "position": {
-        "code": "1",
-        "abbreviation": "P"
-      },
-      "team": {
-        "mlb_id": "CIN",
-        "abbreviation": "CIN"
-      },
-      "status": {
-        "code": null,
-        "description": null
-      }
-    },
-    {
       "id": "lzzthyjph8",
       "ids": {
         "prism": "lzzthyjph8",
@@ -78274,54 +78322,6 @@
     }
   ],
   "HOU": [
-    {
-      "id": "3pg55nd7xm",
-      "ids": {
-        "prism": "3pg55nd7xm",
-        "bbref": "caratvi01",
-        "fangraphs": "14968",
-        "mlbam": "605170",
-        "nfbc": "9262",
-        "sfbb": "caratvi01",
-        "yahoo": "10748"
-      },
-      "names": {
-        "boxscore": "Caratini",
-        "givenFirst": "Victor",
-        "givenFirstMiddle": "Víctor Manuel",
-        "firstLast": "Victor Caratini",
-        "lastFirst": "Caratini, Victor",
-        "lastFirstInit": "Caratini, V",
-        "givenFull": "Victor Manuel Caratini",
-        "last": "Caratini",
-        "first": "Víctor",
-        "middle": "Manuel"
-      },
-      "profile": {
-        "birthDate": "1993-8-17",
-        "birthYear": "1993",
-        "birthMonth": "8",
-        "birthDay": "17",
-        "birthCity": "Ponce",
-        "birthState": null,
-        "birthCountry": "Puerto Rico",
-        "batHand": "S",
-        "fieldHand": "R",
-        "debutDate": "2017-06-28"
-      },
-      "position": {
-        "code": "2",
-        "abbreviation": "C"
-      },
-      "team": {
-        "mlb_id": "HOU",
-        "abbreviation": "HOU"
-      },
-      "status": {
-        "code": null,
-        "description": null
-      }
-    },
     {
       "id": "463kbvmppd",
       "ids": {
