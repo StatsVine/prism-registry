@@ -44107,8 +44107,8 @@
       "abbreviation": "SF"
     },
     "status": {
-      "code": "A",
-      "description": "Active"
+      "code": "D60",
+      "description": "Injured 60-Day"
     }
   },
   "12028": {
@@ -44493,6 +44493,54 @@
     "status": {
       "code": "A",
       "description": "Active"
+    }
+  },
+  "12040": {
+    "id": "3gvcxcnpl0",
+    "ids": {
+      "prism": "3gvcxcnpl0",
+      "bbref": "jenkiwa01",
+      "fangraphs": "sa3022894",
+      "mlbam": "805805",
+      "nfbc": "12040",
+      "sfbb": "jenkiwa01",
+      "yahoo": "62962"
+    },
+    "names": {
+      "boxscore": "Jenkins",
+      "givenFirst": "Walker",
+      "givenFirstMiddle": "Walker Clay",
+      "firstLast": "Walker Jenkins",
+      "lastFirst": "Jenkins, Walker",
+      "lastFirstInit": "Jenkins, W",
+      "givenFull": "Walker Clay Jenkins",
+      "last": "Jenkins",
+      "first": "Walker",
+      "middle": "Clay"
+    },
+    "profile": {
+      "birthDate": "2005-2-19",
+      "birthYear": "2005",
+      "birthMonth": "2",
+      "birthDay": "19",
+      "birthCity": "Wilmington",
+      "birthState": "NC",
+      "birthCountry": "USA",
+      "batHand": "L",
+      "fieldHand": "R",
+      "debutDate": null
+    },
+    "position": {
+      "code": "8",
+      "abbreviation": "CF"
+    },
+    "team": {
+      "mlb_id": 142,
+      "abbreviation": "MIN"
+    },
+    "status": {
+      "code": null,
+      "description": null
     }
   },
   "12042": {
@@ -59037,6 +59085,54 @@
     "status": {
       "code": "RM",
       "description": "Reassigned to Minors"
+    }
+  },
+  "12483": {
+    "id": "bqxpmr0zv0",
+    "ids": {
+      "prism": "bqxpmr0zv0",
+      "bbref": "anderka01",
+      "fangraphs": "sa3026056",
+      "mlbam": "807739",
+      "nfbc": "12483",
+      "sfbb": "anderka01",
+      "yahoo": "65729"
+    },
+    "names": {
+      "boxscore": "Anderson, K",
+      "givenFirst": "Kade",
+      "givenFirstMiddle": "Kade William",
+      "firstLast": null,
+      "lastFirst": "Anderson, Kade",
+      "lastFirstInit": "Anderson, K",
+      "givenFull": "Kade Anderson",
+      "last": "Anderson",
+      "first": "Kade",
+      "middle": null
+    },
+    "profile": {
+      "birthDate": "2004-7-6",
+      "birthYear": "2004",
+      "birthMonth": "7",
+      "birthDay": "6",
+      "birthCity": null,
+      "birthState": null,
+      "birthCountry": null,
+      "batHand": null,
+      "fieldHand": null,
+      "debutDate": null
+    },
+    "position": {
+      "code": null,
+      "abbreviation": null
+    },
+    "team": {
+      "mlb_id": null,
+      "abbreviation": null
+    },
+    "status": {
+      "code": null,
+      "description": null
     }
   },
   "12485": {
@@ -80391,12 +80487,12 @@
       "abbreviation": "P"
     },
     "team": {
-      "mlb_id": 134,
-      "abbreviation": "PIT"
+      "mlb_id": 137,
+      "abbreviation": "SF"
     },
     "status": {
-      "code": null,
-      "description": null
+      "code": "A",
+      "description": "Active"
     }
   },
   "9964": {
