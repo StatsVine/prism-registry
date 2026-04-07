@@ -1339,8 +1339,8 @@
       "abbreviation": "CLE"
     },
     "status": {
-      "code": "A",
-      "description": "Active"
+      "code": "RM",
+      "description": "Reassigned to Minors"
     }
   },
   "allenni02": {
@@ -3163,8 +3163,8 @@
       "abbreviation": "CHC"
     },
     "status": {
-      "code": "RM",
-      "description": "Reassigned to Minors"
+      "code": "A",
+      "description": "Active"
     }
   },
   "austity01": {
@@ -7291,8 +7291,8 @@
       "abbreviation": "CHC"
     },
     "status": {
-      "code": "A",
-      "description": "Active"
+      "code": "D15",
+      "description": "Injured 15-Day"
     }
   },
   "boylejo01": {
@@ -14731,8 +14731,8 @@
       "abbreviation": "HOU"
     },
     "status": {
-      "code": "D15",
-      "description": "Injured 15-Day"
+      "code": "A",
+      "description": "Active"
     }
   },
   "delosye01": {
@@ -17179,8 +17179,8 @@
       "abbreviation": "BAL"
     },
     "status": {
-      "code": "A",
-      "description": "Active"
+      "code": "D15",
+      "description": "Injured 15-Day"
     }
   },
   "enrigni01": {
@@ -17803,8 +17803,8 @@
       "abbreviation": "MIA"
     },
     "status": {
-      "code": "A",
-      "description": "Active"
+      "code": "PL",
+      "description": "Paternity List"
     }
   },
   "faircst01": {
@@ -17995,8 +17995,8 @@
       "abbreviation": "LAA"
     },
     "status": {
-      "code": "RM",
-      "description": "Reassigned to Minors"
+      "code": "A",
+      "description": "Active"
     }
   },
   "fauchca01": {
@@ -19811,8 +19811,8 @@
       "debutDate": "2025-07-30"
     },
     "position": {
-      "code": "6",
-      "abbreviation": "SS"
+      "code": "4",
+      "abbreviation": "2B"
     },
     "team": {
       "mlb_id": 119,
@@ -22123,8 +22123,8 @@
       "abbreviation": "DET"
     },
     "status": {
-      "code": "D15",
-      "description": "Injured 15-Day"
+      "code": "RM",
+      "description": "Reassigned to Minors"
     }
   },
   "glasnty01": {
@@ -23851,8 +23851,8 @@
       "abbreviation": "MIA"
     },
     "status": {
-      "code": "RM",
-      "description": "Reassigned to Minors"
+      "code": "A",
+      "description": "Active"
     }
   },
   "guzmade01": {
@@ -29803,8 +29803,8 @@
       "abbreviation": "LAA"
     },
     "status": {
-      "code": "A",
-      "description": "Active"
+      "code": "D15",
+      "description": "Injured 15-Day"
     }
   },
   "johnstr02": {
@@ -32260,7 +32260,7 @@
     "ids": {
       "prism": "z8ynjrp42m",
       "bbref": "klassge01",
-      "fangraphs": "sa3023440",
+      "fangraphs": "33464",
       "mlbam": "691946",
       "nfbc": "12220",
       "sfbb": "klassge01",
@@ -32491,8 +32491,8 @@
       "abbreviation": "MIL"
     },
     "status": {
-      "code": "A",
-      "description": "Active"
+      "code": "D15",
+      "description": "Injured 15-Day"
     }
   },
   "kolekst01": {
@@ -34843,8 +34843,8 @@
       "abbreviation": "KC"
     },
     "status": {
-      "code": "A",
-      "description": "Active"
+      "code": "RM",
+      "description": "Reassigned to Minors"
     }
   },
   "longsa01": {
@@ -37723,8 +37723,8 @@
       "abbreviation": "KC"
     },
     "status": {
-      "code": "D10",
-      "description": "Injured 10-Day"
+      "code": "A",
+      "description": "Active"
     }
   },
   "mastrmi01": {
@@ -38347,8 +38347,8 @@
       "abbreviation": "NYM"
     },
     "status": {
-      "code": "RM",
-      "description": "Reassigned to Minors"
+      "code": "A",
+      "description": "Active"
     }
   },
   "maxweza01": {
@@ -42523,8 +42523,8 @@
       "abbreviation": "ATH"
     },
     "status": {
-      "code": "A",
-      "description": "Active"
+      "code": "RM",
+      "description": "Reassigned to Minors"
     }
   },
   "moranjo01": {
@@ -43287,12 +43287,12 @@
       "abbreviation": "P"
     },
     "team": {
-      "mlb_id": 117,
+      "mlb_id": "HOU",
       "abbreviation": "HOU"
     },
     "status": {
-      "code": "A",
-      "description": "Active"
+      "code": null,
+      "description": null
     }
   },
   "murakmu01": {
@@ -46315,8 +46315,8 @@
       "abbreviation": "HOU"
     },
     "status": {
-      "code": "BRV",
-      "description": "Bereavement List"
+      "code": "A",
+      "description": "Active"
     }
   },
   "parisky01": {
@@ -51035,36 +51035,36 @@
       "yahoo": "10230"
     },
     "names": {
-      "boxscore": "Rodgers",
+      "boxscore": "Rodgers, B",
       "givenFirst": "Brendan",
       "givenFirstMiddle": "Brendan Austin",
-      "firstLast": "Brendan Rodgers",
+      "firstLast": null,
       "lastFirst": "Rodgers, Brendan",
       "lastFirstInit": "Rodgers, B",
-      "givenFull": "Brendan Austin Rodgers",
+      "givenFull": "Brendan Rodgers",
       "last": "Rodgers",
       "first": "Brendan",
-      "middle": "Austin"
+      "middle": null
     },
     "profile": {
       "birthDate": "1996-8-9",
       "birthYear": "1996",
       "birthMonth": "8",
       "birthDay": "9",
-      "birthCity": "Winter Park",
-      "birthState": "FL",
-      "birthCountry": "USA",
-      "batHand": "R",
-      "fieldHand": "R",
-      "debutDate": "2019-05-17"
+      "birthCity": null,
+      "birthState": null,
+      "birthCountry": null,
+      "batHand": null,
+      "fieldHand": null,
+      "debutDate": null
     },
     "position": {
-      "code": "4",
-      "abbreviation": "2B"
+      "code": null,
+      "abbreviation": null
     },
     "team": {
-      "mlb_id": 111,
-      "abbreviation": "BOS"
+      "mlb_id": null,
+      "abbreviation": null
     },
     "status": {
       "code": null,
@@ -52551,7 +52551,7 @@
       "abbreviation": "P"
     },
     "team": {
-      "mlb_id": 109,
+      "mlb_id": "AZ",
       "abbreviation": "AZ"
     },
     "status": {
@@ -57499,8 +57499,8 @@
       "abbreviation": "NYM"
     },
     "status": {
-      "code": "A",
-      "description": "Active"
+      "code": "D10",
+      "description": "Injured 10-Day"
     }
   },
   "sousabe01": {
@@ -64651,8 +64651,8 @@
       "abbreviation": "TOR"
     },
     "status": {
-      "code": "A",
-      "description": "Active"
+      "code": null,
+      "description": null
     }
   },
   "wachami01": {
@@ -65419,8 +65419,8 @@
       "abbreviation": "TB"
     },
     "status": {
-      "code": "D10",
-      "description": "Injured 10-Day"
+      "code": "A",
+      "description": "Active"
     }
   },
   "walstbl01": {
@@ -66523,8 +66523,8 @@
       "abbreviation": "HOU"
     },
     "status": {
-      "code": "A",
-      "description": "Active"
+      "code": "RM",
+      "description": "Reassigned to Minors"
     }
   },
   "whiteel04": {
@@ -66763,8 +66763,8 @@
       "abbreviation": "BOS"
     },
     "status": {
-      "code": "PL",
-      "description": "Paternity List"
+      "code": "A",
+      "description": "Active"
     }
   },
   "wickro01": {
@@ -67099,8 +67099,8 @@
       "abbreviation": "TB"
     },
     "status": {
-      "code": "A",
-      "description": "Active"
+      "code": "RM",
+      "description": "Reassigned to Minors"
     }
   },
   "willide03": {
@@ -68923,8 +68923,8 @@
       "abbreviation": "BAL"
     },
     "status": {
-      "code": "RM",
-      "description": "Reassigned to Minors"
+      "code": "A",
+      "description": "Active"
     }
   },
   "youngco01": {
