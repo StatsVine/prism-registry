@@ -619,8 +619,8 @@
       "abbreviation": "AZ"
     },
     "status": {
-      "code": "A",
-      "description": "Active"
+      "code": "D10",
+      "description": "Injured 10-Day"
     }
   },
   "471911": {
@@ -4507,8 +4507,8 @@
       "abbreviation": "TOR"
     },
     "status": {
-      "code": "RM",
-      "description": "Reassigned to Minors"
+      "code": "A",
+      "description": "Active"
     }
   },
   "571657": {
@@ -6107,36 +6107,36 @@
       "yahoo": "9653"
     },
     "names": {
-      "boxscore": "Kahnle, T",
-      "givenFirst": "Tommy",
+      "boxscore": "Kahnle",
+      "givenFirst": "Thomas",
       "givenFirstMiddle": "Thomas Robert",
-      "firstLast": null,
+      "firstLast": "Tommy Kahnle",
       "lastFirst": "Kahnle, Tommy",
       "lastFirstInit": "Kahnle, T",
-      "givenFull": "Tommy Kahnle",
+      "givenFull": "Thomas Robert Kahnle",
       "last": "Kahnle",
       "first": "Tommy",
-      "middle": null
+      "middle": "Robert"
     },
     "profile": {
       "birthDate": "1989-8-7",
       "birthYear": "1989",
       "birthMonth": "8",
       "birthDay": "7",
-      "birthCity": null,
-      "birthState": null,
-      "birthCountry": null,
-      "batHand": null,
-      "fieldHand": null,
-      "debutDate": null
+      "birthCity": "Latham",
+      "birthState": "NY",
+      "birthCountry": "USA",
+      "batHand": "R",
+      "fieldHand": "R",
+      "debutDate": "2014-04-03"
     },
     "position": {
-      "code": null,
-      "abbreviation": null
+      "code": "1",
+      "abbreviation": "P"
     },
     "team": {
-      "mlb_id": null,
-      "abbreviation": null
+      "mlb_id": 111,
+      "abbreviation": "BOS"
     },
     "status": {
       "code": null,
@@ -7307,36 +7307,36 @@
       "yahoo": "10799"
     },
     "names": {
-      "boxscore": "Wallach, C",
+      "boxscore": "Wallach",
       "givenFirst": "Chad",
       "givenFirstMiddle": "Chad Arthur",
-      "firstLast": null,
+      "firstLast": "Chad Wallach",
       "lastFirst": "Wallach, Chad",
       "lastFirstInit": "Wallach, C",
-      "givenFull": "Chad Wallach",
+      "givenFull": "Chad Arthur Wallach",
       "last": "Wallach",
       "first": "Chad",
-      "middle": null
+      "middle": "Arthur"
     },
     "profile": {
       "birthDate": "1991-11-4",
       "birthYear": "1991",
       "birthMonth": "11",
       "birthDay": "4",
-      "birthCity": null,
-      "birthState": null,
-      "birthCountry": null,
-      "batHand": null,
-      "fieldHand": null,
-      "debutDate": null
+      "birthCity": "Yorba Linda",
+      "birthState": "CA",
+      "birthCountry": "USA",
+      "batHand": "R",
+      "fieldHand": "R",
+      "debutDate": "2017-08-27"
     },
     "position": {
-      "code": null,
-      "abbreviation": null
+      "code": "2",
+      "abbreviation": "C"
     },
     "team": {
-      "mlb_id": null,
-      "abbreviation": null
+      "mlb_id": 133,
+      "abbreviation": "ATH"
     },
     "status": {
       "code": null,
@@ -9399,7 +9399,7 @@
       "abbreviation": "P"
     },
     "team": {
-      "mlb_id": "AZ",
+      "mlb_id": 109,
       "abbreviation": "AZ"
     },
     "status": {
@@ -12475,8 +12475,8 @@
       "abbreviation": "BAL"
     },
     "status": {
-      "code": "D15",
-      "description": "Injured 15-Day"
+      "code": "D60",
+      "description": "Injured 60-Day"
     }
   },
   "621111": {
@@ -26875,8 +26875,8 @@
       "abbreviation": "AZ"
     },
     "status": {
-      "code": null,
-      "description": null
+      "code": "A",
+      "description": "Active"
     }
   },
   "663611": {
@@ -32587,8 +32587,8 @@
       "abbreviation": "TOR"
     },
     "status": {
-      "code": "RM",
-      "description": "Reassigned to Minors"
+      "code": "A",
+      "description": "Active"
     }
   },
   "666150": {
@@ -37919,6 +37919,54 @@
       "description": null
     }
   },
+  "669270": {
+    "id": "hrfs9y570d",
+    "ids": {
+      "prism": "hrfs9y570d",
+      "bbref": "kuhnejo01",
+      "fangraphs": "19995",
+      "mlbam": "669270",
+      "nfbc": "10675",
+      "sfbb": "kuhnejo01",
+      "yahoo": "11639"
+    },
+    "names": {
+      "boxscore": "Kuhnel",
+      "givenFirst": "Joel",
+      "givenFirstMiddle": "Joel Kenneth",
+      "firstLast": "Joel Kuhnel",
+      "lastFirst": "Kuhnel, Joel",
+      "lastFirstInit": "Kuhnel, J",
+      "givenFull": "Joel Kenneth Kuhnel",
+      "last": "Kuhnel",
+      "first": "Joel",
+      "middle": "Kenneth"
+    },
+    "profile": {
+      "birthDate": "1995-2-19",
+      "birthYear": "1995",
+      "birthMonth": "2",
+      "birthDay": "19",
+      "birthCity": "Goldsboro",
+      "birthState": "NC",
+      "birthCountry": "USA",
+      "batHand": "R",
+      "fieldHand": "R",
+      "debutDate": "2019-08-16"
+    },
+    "position": {
+      "code": "1",
+      "abbreviation": "P"
+    },
+    "team": {
+      "mlb_id": 133,
+      "abbreviation": "ATH"
+    },
+    "status": {
+      "code": "A",
+      "description": "Active"
+    }
+  },
   "669276": {
     "id": "wm73lg9hnw",
     "ids": {
@@ -40075,8 +40123,8 @@
       "abbreviation": "CWS"
     },
     "status": {
-      "code": "A",
-      "description": "Active"
+      "code": "D10",
+      "description": "Injured 10-Day"
     }
   },
   "669721": {
@@ -43771,8 +43819,8 @@
       "abbreviation": "CLE"
     },
     "status": {
-      "code": "A",
-      "description": "Active"
+      "code": "D10",
+      "description": "Injured 10-Day"
     }
   },
   "672359": {
@@ -43790,33 +43838,33 @@
       "boxscore": "Ornelas, T",
       "givenFirst": "Tirso",
       "givenFirstMiddle": "Tirso Abraham",
-      "firstLast": null,
+      "firstLast": "Tirso Ornelas",
       "lastFirst": "Ornelas, Tirso",
       "lastFirstInit": "Ornelas, T",
-      "givenFull": "Tirso Ornelas",
+      "givenFull": "Tirso Abraham Ornelas",
       "last": "Ornelas",
       "first": "Tirso",
-      "middle": null
+      "middle": "Abraham"
     },
     "profile": {
       "birthDate": "2000-3-11",
       "birthYear": "2000",
       "birthMonth": "3",
       "birthDay": "11",
-      "birthCity": null,
-      "birthState": null,
-      "birthCountry": null,
-      "batHand": null,
-      "fieldHand": null,
-      "debutDate": null
+      "birthCity": "Tijuana",
+      "birthState": "BC",
+      "birthCountry": "Mexico",
+      "batHand": "L",
+      "fieldHand": "R",
+      "debutDate": "2025-04-19"
     },
     "position": {
-      "code": null,
-      "abbreviation": null
+      "code": "7",
+      "abbreviation": "LF"
     },
     "team": {
-      "mlb_id": null,
-      "abbreviation": null
+      "mlb_id": 135,
+      "abbreviation": "SD"
     },
     "status": {
       "code": null,
@@ -46359,12 +46407,12 @@
       "abbreviation": "P"
     },
     "team": {
-      "mlb_id": 138,
-      "abbreviation": "STL"
+      "mlb_id": 110,
+      "abbreviation": "BAL"
     },
     "status": {
-      "code": null,
-      "description": null
+      "code": "A",
+      "description": "Active"
     }
   },
   "675989": {
@@ -48043,8 +48091,8 @@
       "abbreviation": "TOR"
     },
     "status": {
-      "code": "A",
-      "description": "Active"
+      "code": null,
+      "description": null
     }
   },
   "676604": {
@@ -50971,8 +51019,8 @@
       "abbreviation": "CWS"
     },
     "status": {
-      "code": "D15",
-      "description": "Injured 15-Day"
+      "code": "D60",
+      "description": "Injured 60-Day"
     }
   },
   "678184": {
@@ -52363,8 +52411,8 @@
       "abbreviation": "PHI"
     },
     "status": {
-      "code": "A",
-      "description": "Active"
+      "code": "RM",
+      "description": "Reassigned to Minors"
     }
   },
   "679822": {
@@ -53083,8 +53131,8 @@
       "abbreviation": "ATH"
     },
     "status": {
-      "code": "D15",
-      "description": "Injured 15-Day"
+      "code": "D60",
+      "description": "Injured 60-Day"
     }
   },
   "680686": {
@@ -53515,8 +53563,8 @@
       "abbreviation": "TOR"
     },
     "status": {
-      "code": "A",
-      "description": "Active"
+      "code": "D10",
+      "description": "Injured 10-Day"
     }
   },
   "680728": {
@@ -58736,7 +58784,7 @@
       "birthCountry": "Dominican Republic",
       "batHand": "S",
       "fieldHand": "R",
-      "debutDate": null
+      "debutDate": "2026-04-07"
     },
     "position": {
       "code": "6",
@@ -58747,8 +58795,8 @@
       "abbreviation": "CLE"
     },
     "status": {
-      "code": "RM",
-      "description": "Reassigned to Minors"
+      "code": "A",
+      "description": "Active"
     }
   },
   "682927": {
@@ -63787,8 +63835,8 @@
       "abbreviation": "BAL"
     },
     "status": {
-      "code": "A",
-      "description": "Active"
+      "code": "RM",
+      "description": "Reassigned to Minors"
     }
   },
   "687074": {
@@ -65419,8 +65467,8 @@
       "abbreviation": "WSH"
     },
     "status": {
-      "code": "D15",
-      "description": "Injured 15-Day"
+      "code": "A",
+      "description": "Active"
     }
   },
   "687637": {
@@ -66187,8 +66235,8 @@
       "abbreviation": "CWS"
     },
     "status": {
-      "code": null,
-      "description": null
+      "code": "A",
+      "description": "Active"
     }
   },
   "687985": {
@@ -66811,8 +66859,8 @@
       "abbreviation": "PHI"
     },
     "status": {
-      "code": "D15",
-      "description": "Injured 15-Day"
+      "code": "A",
+      "description": "Active"
     }
   },
   "689172": {
@@ -70075,8 +70123,8 @@
       "abbreviation": "AZ"
     },
     "status": {
-      "code": "D10",
-      "description": "Injured 10-Day"
+      "code": "D60",
+      "description": "Injured 60-Day"
     }
   },
   "691785": {
@@ -76023,8 +76071,8 @@
       "abbreviation": "P"
     },
     "team": {
-      "mlb_id": "CWS",
-      "abbreviation": "CWS"
+      "mlb_id": 111,
+      "abbreviation": "BOS"
     },
     "status": {
       "code": null,
@@ -77659,8 +77707,8 @@
       "abbreviation": "WSH"
     },
     "status": {
-      "code": "A",
-      "description": "Active"
+      "code": "RM",
+      "description": "Reassigned to Minors"
     }
   },
   "701581": {
