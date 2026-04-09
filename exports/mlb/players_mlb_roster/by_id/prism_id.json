@@ -4459,8 +4459,8 @@
       "abbreviation": "CIN"
     },
     "status": {
-      "code": "RM",
-      "description": "Reassigned to Minors"
+      "code": null,
+      "description": null
     }
   },
   "1l622fmz8h": {
@@ -5035,8 +5035,8 @@
       "abbreviation": "BOS"
     },
     "status": {
-      "code": "A",
-      "description": "Active"
+      "code": "D15",
+      "description": "Injured 15-Day"
     }
   },
   "1z64zzr8xm": {
@@ -10943,6 +10943,54 @@
       "description": null
     }
   },
+  "4g4788cs9r": {
+    "id": "4g4788cs9r",
+    "ids": {
+      "prism": "4g4788cs9r",
+      "bbref": "schwety01",
+      "fangraphs": "31920",
+      "mlbam": "805326",
+      "nfbc": "12651",
+      "sfbb": null,
+      "yahoo": "60162"
+    },
+    "names": {
+      "boxscore": "Schweitzer",
+      "givenFirst": "Tyler",
+      "givenFirstMiddle": "Tyler Joseph",
+      "firstLast": "Tyler Schweitzer",
+      "lastFirst": "Schweitzer, Tyler",
+      "lastFirstInit": "Schweitzer, T",
+      "givenFull": "Tyler Joseph Schweitzer",
+      "last": "Schweitzer",
+      "first": "Tyler",
+      "middle": "Joseph"
+    },
+    "profile": {
+      "birthDate": "2000-9-19",
+      "birthYear": "2000",
+      "birthMonth": "9",
+      "birthDay": "19",
+      "birthCity": "Indianapolis",
+      "birthState": "IN",
+      "birthCountry": "USA",
+      "batHand": "L",
+      "fieldHand": "L",
+      "debutDate": "2026-04-08"
+    },
+    "position": {
+      "code": "1",
+      "abbreviation": "P"
+    },
+    "team": {
+      "mlb_id": 145,
+      "abbreviation": "CWS"
+    },
+    "status": {
+      "code": "A",
+      "description": "Active"
+    }
+  },
   "4h7y1x8q5w": {
     "id": "4h7y1x8q5w",
     "ids": {
@@ -15019,8 +15067,8 @@
       "abbreviation": "SEA"
     },
     "status": {
-      "code": "A",
-      "description": "Active"
+      "code": "D10",
+      "description": "Injured 10-Day"
     }
   },
   "6465n328e8": {
@@ -20819,16 +20867,16 @@
       "debutDate": "2019-03-28"
     },
     "position": {
-      "code": "9",
-      "abbreviation": "RF"
+      "code": "3",
+      "abbreviation": "1B"
     },
     "team": {
       "mlb_id": 136,
       "abbreviation": "SEA"
     },
     "status": {
-      "code": null,
-      "description": null
+      "code": "A",
+      "description": "Active"
     }
   },
   "89112lvv68": {
@@ -21259,8 +21307,8 @@
       "abbreviation": "ATH"
     },
     "status": {
-      "code": "A",
-      "description": "Active"
+      "code": "RM",
+      "description": "Reassigned to Minors"
     }
   },
   "8edzj03p1w": {
@@ -31867,8 +31915,8 @@
       "abbreviation": "MIA"
     },
     "status": {
-      "code": "A",
-      "description": "Active"
+      "code": "RM",
+      "description": "Reassigned to Minors"
     }
   },
   "dc15t7939w": {
@@ -38531,8 +38579,8 @@
       "debutDate": "2025-04-19"
     },
     "position": {
-      "code": "8",
-      "abbreviation": "CF"
+      "code": "7",
+      "abbreviation": "LF"
     },
     "team": {
       "mlb_id": 139,
@@ -45979,8 +46027,8 @@
       "abbreviation": "ATL"
     },
     "status": {
-      "code": "A",
-      "description": "Active"
+      "code": "SU",
+      "description": "Suspended # days"
     }
   },
   "jtwd90017w": {
@@ -46315,8 +46363,8 @@
       "abbreviation": "ATH"
     },
     "status": {
-      "code": "RM",
-      "description": "Reassigned to Minors"
+      "code": "A",
+      "description": "Active"
     }
   },
   "jzxfskxexm": {
@@ -47771,36 +47819,36 @@
       "yahoo": "8622"
     },
     "names": {
-      "boxscore": "Kimbrel, C",
+      "boxscore": "Kimbrel",
       "givenFirst": "Craig",
       "givenFirstMiddle": "Craig Michael",
-      "firstLast": null,
+      "firstLast": "Craig Kimbrel",
       "lastFirst": "Kimbrel, Craig",
       "lastFirstInit": "Kimbrel, C",
-      "givenFull": "Craig Kimbrel",
+      "givenFull": "Craig Michael Kimbrel",
       "last": "Kimbrel",
       "first": "Craig",
-      "middle": null
+      "middle": "Michael"
     },
     "profile": {
       "birthDate": "1988-5-28",
       "birthYear": "1988",
       "birthMonth": "5",
       "birthDay": "28",
-      "birthCity": null,
-      "birthState": null,
-      "birthCountry": null,
-      "batHand": null,
-      "fieldHand": null,
-      "debutDate": null
+      "birthCity": "Huntsville",
+      "birthState": "AL",
+      "birthCountry": "USA",
+      "batHand": "R",
+      "fieldHand": "R",
+      "debutDate": "2010-05-07"
     },
     "position": {
-      "code": null,
-      "abbreviation": null
+      "code": "1",
+      "abbreviation": "P"
     },
     "team": {
-      "mlb_id": null,
-      "abbreviation": null
+      "mlb_id": 121,
+      "abbreviation": "NYM"
     },
     "status": {
       "code": null,
@@ -48539,36 +48587,36 @@
       "yahoo": "61769"
     },
     "names": {
-      "boxscore": "Lavender, N",
-      "givenFirst": "Nate",
+      "boxscore": "Lavender",
+      "givenFirst": "Nathan",
       "givenFirstMiddle": "Nathan James",
-      "firstLast": null,
+      "firstLast": "Nate Lavender",
       "lastFirst": "Lavender, Nate",
       "lastFirstInit": "Lavender, N",
-      "givenFull": "Nate Lavender",
+      "givenFull": "Nathan James Lavender",
       "last": "Lavender",
       "first": "Nate",
-      "middle": null
+      "middle": "James"
     },
     "profile": {
       "birthDate": "2000-1-20",
       "birthYear": "2000",
       "birthMonth": "1",
       "birthDay": "20",
-      "birthCity": null,
-      "birthState": null,
-      "birthCountry": null,
-      "batHand": null,
-      "fieldHand": null,
+      "birthCity": "Hudson",
+      "birthState": "IL",
+      "birthCountry": "USA",
+      "batHand": "L",
+      "fieldHand": "L",
       "debutDate": null
     },
     "position": {
-      "code": null,
-      "abbreviation": null
+      "code": "1",
+      "abbreviation": "P"
     },
     "team": {
-      "mlb_id": null,
-      "abbreviation": null
+      "mlb_id": 121,
+      "abbreviation": "NYM"
     },
     "status": {
       "code": null,
@@ -48587,36 +48635,36 @@
       "yahoo": "9842"
     },
     "names": {
-      "boxscore": "Pham, T",
-      "givenFirst": "Tommy",
+      "boxscore": "Pham",
+      "givenFirst": "Thomas",
       "givenFirstMiddle": "Thomas James",
-      "firstLast": null,
+      "firstLast": "Tommy Pham",
       "lastFirst": "Pham, Tommy",
       "lastFirstInit": "Pham, T",
-      "givenFull": "Tommy Pham",
+      "givenFull": "Thomas James Pham",
       "last": "Pham",
       "first": "Tommy",
-      "middle": null
+      "middle": "James"
     },
     "profile": {
       "birthDate": "1988-3-8",
       "birthYear": "1988",
       "birthMonth": "3",
       "birthDay": "8",
-      "birthCity": null,
-      "birthState": null,
-      "birthCountry": null,
-      "batHand": null,
-      "fieldHand": null,
-      "debutDate": null
+      "birthCity": "Las Vegas",
+      "birthState": "NV",
+      "birthCountry": "USA",
+      "batHand": "R",
+      "fieldHand": "R",
+      "debutDate": "2014-09-09"
     },
     "position": {
-      "code": null,
-      "abbreviation": null
+      "code": "7",
+      "abbreviation": "LF"
     },
     "team": {
-      "mlb_id": null,
-      "abbreviation": null
+      "mlb_id": 121,
+      "abbreviation": "NYM"
     },
     "status": {
       "code": null,
@@ -54992,7 +55040,7 @@
       "birthCountry": "USA",
       "batHand": "L",
       "fieldHand": "L",
-      "debutDate": null
+      "debutDate": "2026-04-08"
     },
     "position": {
       "code": "1",
@@ -57499,8 +57547,8 @@
       "abbreviation": "CIN"
     },
     "status": {
-      "code": "A",
-      "description": "Active"
+      "code": "D10",
+      "description": "Injured 10-Day"
     }
   },
   "p7thkhev88": {
@@ -60139,8 +60187,8 @@
       "abbreviation": "TB"
     },
     "status": {
-      "code": "RM",
-      "description": "Reassigned to Minors"
+      "code": "A",
+      "description": "Active"
     }
   },
   "q61vhqk4zm": {
@@ -61579,8 +61627,8 @@
       "abbreviation": "SEA"
     },
     "status": {
-      "code": "D15",
-      "description": "Injured 15-Day"
+      "code": "D60",
+      "description": "Injured 60-Day"
     }
   },
   "qr7vfznrhr": {
@@ -64887,12 +64935,12 @@
       "abbreviation": "P"
     },
     "team": {
-      "mlb_id": 143,
-      "abbreviation": "PHI"
+      "mlb_id": 139,
+      "abbreviation": "TB"
     },
     "status": {
-      "code": "RM",
-      "description": "Reassigned to Minors"
+      "code": null,
+      "description": null
     }
   },
   "s6fjsmd344": {
@@ -69883,8 +69931,8 @@
       "abbreviation": "CWS"
     },
     "status": {
-      "code": "D10",
-      "description": "Injured 10-Day"
+      "code": "D60",
+      "description": "Injured 60-Day"
     }
   },
   "v5d20qhz4r": {
@@ -71275,8 +71323,8 @@
       "abbreviation": "CWS"
     },
     "status": {
-      "code": "A",
-      "description": "Active"
+      "code": "RM",
+      "description": "Reassigned to Minors"
     }
   },
   "vmwrwmehd0": {
@@ -73051,8 +73099,8 @@
       "abbreviation": "MIA"
     },
     "status": {
-      "code": "PL",
-      "description": "Paternity List"
+      "code": "A",
+      "description": "Active"
     }
   },
   "wd1pjg73zh": {
@@ -77175,12 +77223,12 @@
       "abbreviation": "RF"
     },
     "team": {
-      "mlb_id": 158,
-      "abbreviation": "MIL"
+      "mlb_id": 143,
+      "abbreviation": "PHI"
     },
     "status": {
-      "code": null,
-      "description": null
+      "code": "RM",
+      "description": "Reassigned to Minors"
     }
   },
   "xyp3npyz3h": {
@@ -77229,6 +77277,54 @@
     "status": {
       "code": null,
       "description": null
+    }
+  },
+  "xz3n8tlv3r": {
+    "id": "xz3n8tlv3r",
+    "ids": {
+      "prism": "xz3n8tlv3r",
+      "bbref": "higgipj01",
+      "fangraphs": "18433",
+      "mlbam": "664731",
+      "nfbc": "10917",
+      "sfbb": "higgipj01",
+      "yahoo": "11949"
+    },
+    "names": {
+      "boxscore": "Higgins, P",
+      "givenFirst": "Patrick",
+      "givenFirstMiddle": "Patrick James",
+      "firstLast": "P.J. Higgins",
+      "lastFirst": "Higgins, P.J.",
+      "lastFirstInit": "Higgins, P",
+      "givenFull": "Patrick James Higgins",
+      "last": "Higgins",
+      "first": "P. J.",
+      "middle": "James"
+    },
+    "profile": {
+      "birthDate": "1993-5-10",
+      "birthYear": "1993",
+      "birthMonth": "5",
+      "birthDay": "10",
+      "birthCity": "Bridgeport",
+      "birthState": "CT",
+      "birthCountry": "USA",
+      "batHand": "R",
+      "fieldHand": "R",
+      "debutDate": "2021-05-19"
+    },
+    "position": {
+      "code": "2",
+      "abbreviation": "C"
+    },
+    "team": {
+      "mlb_id": 113,
+      "abbreviation": "CIN"
+    },
+    "status": {
+      "code": "A",
+      "description": "Active"
     }
   },
   "y1mnd23nd4": {
@@ -78283,8 +78379,8 @@
       "abbreviation": "TB"
     },
     "status": {
-      "code": "A",
-      "description": "Active"
+      "code": "PL",
+      "description": "Paternity List"
     }
   },
   "yj0x72c9q0": {
@@ -79184,7 +79280,7 @@
       "birthCountry": "USA",
       "batHand": "R",
       "fieldHand": "L",
-      "debutDate": null
+      "debutDate": "2026-04-08"
     },
     "position": {
       "code": "1",
@@ -79195,8 +79291,8 @@
       "abbreviation": "BOS"
     },
     "status": {
-      "code": "RM",
-      "description": "Reassigned to Minors"
+      "code": "A",
+      "description": "Active"
     }
   },
   "yzqgs6pggr": {
