@@ -2686,8 +2686,8 @@
         "abbreviation": "ATL"
       },
       "status": {
-        "code": "A",
-        "description": "Active"
+        "code": "RM",
+        "description": "Reassigned to Minors"
       }
     },
     {
@@ -2926,8 +2926,8 @@
         "abbreviation": "ATL"
       },
       "status": {
-        "code": "RM",
-        "description": "Reassigned to Minors"
+        "code": "A",
+        "description": "Active"
       }
     },
     {
@@ -4030,8 +4030,8 @@
         "abbreviation": "ATL"
       },
       "status": {
-        "code": "PL",
-        "description": "Paternity List"
+        "code": "A",
+        "description": "Active"
       }
     },
     {
@@ -4558,8 +4558,8 @@
         "abbreviation": "ATL"
       },
       "status": {
-        "code": "A",
-        "description": "Active"
+        "code": null,
+        "description": null
       }
     },
     {
@@ -8263,6 +8263,54 @@
       }
     },
     {
+      "id": "1kz8fw8fpd",
+      "ids": {
+        "prism": "1kz8fw8fpd",
+        "bbref": "encarch01",
+        "fangraphs": "30011",
+        "mlbam": "687952",
+        "nfbc": "11736",
+        "sfbb": "encarch01",
+        "yahoo": "60131"
+      },
+      "names": {
+        "boxscore": "Encarnacion-Strand",
+        "givenFirst": "Christian",
+        "givenFirstMiddle": "Christian Lee",
+        "firstLast": "Christian Encarnacion-Strand",
+        "lastFirst": "Encarnacion-Strand, Christian",
+        "lastFirstInit": "Encarnacion-Strand, C",
+        "givenFull": "Christian Lee Encarnacion-Strand",
+        "last": "Encarnacion-Strand",
+        "first": "Christian",
+        "middle": "Lee"
+      },
+      "profile": {
+        "birthDate": "1999-12-1",
+        "birthYear": "1999",
+        "birthMonth": "12",
+        "birthDay": "1",
+        "birthCity": "Walnut Creek",
+        "birthState": "CA",
+        "birthCountry": "USA",
+        "batHand": "R",
+        "fieldHand": "R",
+        "debutDate": "2023-07-17"
+      },
+      "position": {
+        "code": "3",
+        "abbreviation": "1B"
+      },
+      "team": {
+        "mlb_id": 110,
+        "abbreviation": "BAL"
+      },
+      "status": {
+        "code": "RM",
+        "description": "Reassigned to Minors"
+      }
+    },
+    {
       "id": "294vkhwpbd",
       "ids": {
         "prism": "294vkhwpbd",
@@ -8450,8 +8498,8 @@
         "abbreviation": "BAL"
       },
       "status": {
-        "code": "RM",
-        "description": "Reassigned to Minors"
+        "code": "A",
+        "description": "Active"
       }
     },
     {
@@ -8546,8 +8594,8 @@
         "abbreviation": "BAL"
       },
       "status": {
-        "code": "D15",
-        "description": "Injured 15-Day"
+        "code": "D60",
+        "description": "Injured 60-Day"
       }
     },
     {
@@ -9314,8 +9362,8 @@
         "abbreviation": "BAL"
       },
       "status": {
-        "code": "A",
-        "description": "Active"
+        "code": "D60",
+        "description": "Injured 60-Day"
       }
     },
     {
@@ -10178,8 +10226,8 @@
         "abbreviation": "BAL"
       },
       "status": {
-        "code": "A",
-        "description": "Active"
+        "code": "RM",
+        "description": "Reassigned to Minors"
       }
     },
     {
@@ -10610,8 +10658,8 @@
         "abbreviation": "BAL"
       },
       "status": {
-        "code": null,
-        "description": null
+        "code": "A",
+        "description": "Active"
       }
     },
     {
@@ -13490,7 +13538,7 @@
         "abbreviation": "LF"
       },
       "team": {
-        "mlb_id": "CHC",
+        "mlb_id": 112,
         "abbreviation": "CHC"
       },
       "status": {
@@ -15613,54 +15661,6 @@
       }
     },
     {
-      "id": "1kz8fw8fpd",
-      "ids": {
-        "prism": "1kz8fw8fpd",
-        "bbref": "encarch01",
-        "fangraphs": "30011",
-        "mlbam": "687952",
-        "nfbc": "11736",
-        "sfbb": "encarch01",
-        "yahoo": "60131"
-      },
-      "names": {
-        "boxscore": "Encarnacion-Strand",
-        "givenFirst": "Christian",
-        "givenFirstMiddle": "Christian Lee",
-        "firstLast": "Christian Encarnacion-Strand",
-        "lastFirst": "Encarnacion-Strand, Christian",
-        "lastFirstInit": "Encarnacion-Strand, C",
-        "givenFull": "Christian Lee Encarnacion-Strand",
-        "last": "Encarnacion-Strand",
-        "first": "Christian",
-        "middle": "Lee"
-      },
-      "profile": {
-        "birthDate": "1999-12-1",
-        "birthYear": "1999",
-        "birthMonth": "12",
-        "birthDay": "1",
-        "birthCity": "Walnut Creek",
-        "birthState": "CA",
-        "birthCountry": "USA",
-        "batHand": "R",
-        "fieldHand": "R",
-        "debutDate": "2023-07-17"
-      },
-      "position": {
-        "code": "3",
-        "abbreviation": "1B"
-      },
-      "team": {
-        "mlb_id": 113,
-        "abbreviation": "CIN"
-      },
-      "status": {
-        "code": null,
-        "description": null
-      }
-    },
-    {
       "id": "2n7s42cqz8",
       "ids": {
         "prism": "2n7s42cqz8",
@@ -17048,8 +17048,8 @@
         "abbreviation": "CIN"
       },
       "status": {
-        "code": "A",
-        "description": "Active"
+        "code": "RM",
+        "description": "Reassigned to Minors"
       }
     },
     {
@@ -18058,8 +18058,8 @@
         "abbreviation": "CLE"
       },
       "status": {
-        "code": "D10",
-        "description": "Injured 10-Day"
+        "code": "A",
+        "description": "Active"
       }
     },
     {
@@ -18106,8 +18106,8 @@
         "abbreviation": "CLE"
       },
       "status": {
-        "code": "D15",
-        "description": "Injured 15-Day"
+        "code": "A",
+        "description": "Active"
       }
     },
     {
@@ -18922,8 +18922,8 @@
         "abbreviation": "CLE"
       },
       "status": {
-        "code": "A",
-        "description": "Active"
+        "code": "RM",
+        "description": "Reassigned to Minors"
       }
     },
     {
@@ -19638,12 +19638,12 @@
         "abbreviation": "P"
       },
       "team": {
-        "mlb_id": 114,
+        "mlb_id": "CLE",
         "abbreviation": "CLE"
       },
       "status": {
-        "code": "A",
-        "description": "Active"
+        "code": null,
+        "description": null
       }
     },
     {
@@ -21612,8 +21612,8 @@
         "abbreviation": "COL"
       },
       "status": {
-        "code": "A",
-        "description": "Active"
+        "code": "RM",
+        "description": "Reassigned to Minors"
       }
     },
     {
@@ -23576,54 +23576,6 @@
       "position": {
         "code": "6",
         "abbreviation": "SS"
-      },
-      "team": {
-        "mlb_id": 145,
-        "abbreviation": "CWS"
-      },
-      "status": {
-        "code": "A",
-        "description": "Active"
-      }
-    },
-    {
-      "id": "brt3mhm03w",
-      "ids": {
-        "prism": "brt3mhm03w",
-        "bbref": "sosale01",
-        "fangraphs": "22896",
-        "mlbam": "672820",
-        "nfbc": "11501",
-        "sfbb": "sosale01",
-        "yahoo": "12420"
-      },
-      "names": {
-        "boxscore": "Sosa, L",
-        "givenFirst": "Lenyn",
-        "givenFirstMiddle": "Lenyn Jose",
-        "firstLast": "Lenyn Sosa",
-        "lastFirst": "Sosa, Lenyn",
-        "lastFirstInit": "Sosa, L",
-        "givenFull": "Lenyn Jose Sosa",
-        "last": "Sosa",
-        "first": "Lenyn",
-        "middle": "Jose"
-      },
-      "profile": {
-        "birthDate": "2000-1-25",
-        "birthYear": "2000",
-        "birthMonth": "1",
-        "birthDay": "25",
-        "birthCity": "Puerto Ordaz",
-        "birthState": null,
-        "birthCountry": "Venezuela",
-        "batHand": "R",
-        "fieldHand": "R",
-        "debutDate": "2022-06-23"
-      },
-      "position": {
-        "code": "4",
-        "abbreviation": "2B"
       },
       "team": {
         "mlb_id": 145,
@@ -26416,8 +26368,8 @@
         "abbreviation": "DET"
       },
       "status": {
-        "code": "D10",
-        "description": "Injured 10-Day"
+        "code": "D60",
+        "description": "Injured 60-Day"
       }
     },
     {
@@ -27477,6 +27429,54 @@
       }
     },
     {
+      "id": "s6c7f2z5er",
+      "ids": {
+        "prism": "s6c7f2z5er",
+        "bbref": null,
+        "fangraphs": "sa3015446",
+        "mlbam": "692414",
+        "nfbc": "11991",
+        "sfbb": null,
+        "yahoo": "63481"
+      },
+      "names": {
+        "boxscore": "Curet",
+        "givenFirst": "Yoniel",
+        "givenFirstMiddle": "Yoniel",
+        "firstLast": "Yoniel Curet",
+        "lastFirst": "Curet, Yoniel",
+        "lastFirstInit": "Curet, Y",
+        "givenFull": "Yoniel  Curet",
+        "last": "Curet",
+        "first": "Yoniel",
+        "middle": null
+      },
+      "profile": {
+        "birthDate": "2002-11-3",
+        "birthYear": "2002",
+        "birthMonth": "11",
+        "birthDay": "3",
+        "birthCity": "San Pedro de Macoris",
+        "birthState": null,
+        "birthCountry": "Dominican Republic",
+        "batHand": "R",
+        "fieldHand": "R",
+        "debutDate": null
+      },
+      "position": {
+        "code": "1",
+        "abbreviation": "P"
+      },
+      "team": {
+        "mlb_id": 116,
+        "abbreviation": "DET"
+      },
+      "status": {
+        "code": "RM",
+        "description": "Reassigned to Minors"
+      }
+    },
+    {
       "id": "syz08wh7ed",
       "ids": {
         "prism": "syz08wh7ed",
@@ -28002,8 +28002,8 @@
         "abbreviation": "HOU"
       },
       "status": {
-        "code": "RM",
-        "description": "Reassigned to Minors"
+        "code": "A",
+        "description": "Active"
       }
     },
     {
@@ -28482,8 +28482,8 @@
         "abbreviation": "HOU"
       },
       "status": {
-        "code": "RM",
-        "description": "Reassigned to Minors"
+        "code": "A",
+        "description": "Active"
       }
     },
     {
@@ -28674,8 +28674,8 @@
         "abbreviation": "HOU"
       },
       "status": {
-        "code": "RM",
-        "description": "Reassigned to Minors"
+        "code": "A",
+        "description": "Active"
       }
     },
     {
@@ -29010,8 +29010,8 @@
         "abbreviation": "HOU"
       },
       "status": {
-        "code": "A",
-        "description": "Active"
+        "code": "RM",
+        "description": "Reassigned to Minors"
       }
     },
     {
@@ -29730,8 +29730,8 @@
         "abbreviation": "HOU"
       },
       "status": {
-        "code": "A",
-        "description": "Active"
+        "code": "D15",
+        "description": "Injured 15-Day"
       }
     },
     {
@@ -29874,8 +29874,8 @@
         "abbreviation": "HOU"
       },
       "status": {
-        "code": "A",
-        "description": "Active"
+        "code": "D10",
+        "description": "Injured 10-Day"
       }
     },
     {
@@ -35592,8 +35592,8 @@
         "abbreviation": "LAD"
       },
       "status": {
-        "code": "A",
-        "description": "Active"
+        "code": "D15",
+        "description": "Injured 15-Day"
       }
     },
     {
@@ -37080,8 +37080,8 @@
         "abbreviation": "LAD"
       },
       "status": {
-        "code": "RM",
-        "description": "Reassigned to Minors"
+        "code": "A",
+        "description": "Active"
       }
     },
     {
@@ -43047,7 +43047,7 @@
       "ids": {
         "prism": "6cdmsb5360",
         "bbref": "morrian01",
-        "fangraphs": "sa3020569",
+        "fangraphs": "31891",
         "mlbam": "702193",
         "nfbc": "12205",
         "sfbb": "morrian01",
@@ -45200,8 +45200,8 @@
         "abbreviation": "NYM"
       },
       "status": {
-        "code": "A",
-        "description": "Active"
+        "code": "RM",
+        "description": "Reassigned to Minors"
       }
     },
     {
@@ -46496,8 +46496,8 @@
         "abbreviation": "NYM"
       },
       "status": {
-        "code": null,
-        "description": null
+        "code": "A",
+        "description": "Active"
       }
     },
     {
@@ -51156,8 +51156,8 @@
         "abbreviation": "PHI"
       },
       "status": {
-        "code": "A",
-        "description": "Active"
+        "code": "D15",
+        "description": "Injured 15-Day"
       }
     },
     {
@@ -51732,8 +51732,8 @@
         "abbreviation": "PHI"
       },
       "status": {
-        "code": "RM",
-        "description": "Reassigned to Minors"
+        "code": "A",
+        "description": "Active"
       }
     },
     {
@@ -52262,8 +52262,8 @@
         "abbreviation": "PIT"
       },
       "status": {
-        "code": "A",
-        "description": "Active"
+        "code": "RM",
+        "description": "Reassigned to Minors"
       }
     },
     {
@@ -53702,8 +53702,8 @@
         "abbreviation": "PIT"
       },
       "status": {
-        "code": "RM",
-        "description": "Reassigned to Minors"
+        "code": "A",
+        "description": "Active"
       }
     },
     {
@@ -62062,8 +62062,8 @@
         "abbreviation": "STL"
       },
       "status": {
-        "code": "A",
-        "description": "Active"
+        "code": null,
+        "description": null
       }
     },
     {
@@ -62883,6 +62883,54 @@
       }
     },
     {
+      "id": "hebbs60ttd",
+      "ids": {
+        "prism": "hebbs60ttd",
+        "bbref": null,
+        "fangraphs": "sa3020805",
+        "mlbam": "685464",
+        "nfbc": "12602",
+        "sfbb": null,
+        "yahoo": "64220"
+      },
+      "names": {
+        "boxscore": "Winquest",
+        "givenFirst": "Cade",
+        "givenFirstMiddle": "Cade Ryan",
+        "firstLast": "Cade Winquest",
+        "lastFirst": "Winquest, Cade",
+        "lastFirstInit": "Winquest, C",
+        "givenFull": "Cade Ryan Winquest",
+        "last": "Winquest",
+        "first": "Cade",
+        "middle": "Ryan"
+      },
+      "profile": {
+        "birthDate": "2000-4-30",
+        "birthYear": "2000",
+        "birthMonth": "4",
+        "birthDay": "30",
+        "birthCity": "Fort Worth",
+        "birthState": "TX",
+        "birthCountry": "USA",
+        "batHand": "R",
+        "fieldHand": "R",
+        "debutDate": null
+      },
+      "position": {
+        "code": "1",
+        "abbreviation": "P"
+      },
+      "team": {
+        "mlb_id": 138,
+        "abbreviation": "STL"
+      },
+      "status": {
+        "code": null,
+        "description": null
+      }
+    },
+    {
       "id": "hk8n5xyl40",
       "ids": {
         "prism": "hk8n5xyl40",
@@ -63550,8 +63598,8 @@
         "abbreviation": "STL"
       },
       "status": {
-        "code": "RM",
-        "description": "Reassigned to Minors"
+        "code": "A",
+        "description": "Active"
       }
     },
     {
@@ -65810,54 +65858,6 @@
       "status": {
         "code": "A",
         "description": "Active"
-      }
-    },
-    {
-      "id": "s6c7f2z5er",
-      "ids": {
-        "prism": "s6c7f2z5er",
-        "bbref": null,
-        "fangraphs": "sa3015446",
-        "mlbam": "692414",
-        "nfbc": "11991",
-        "sfbb": null,
-        "yahoo": "63481"
-      },
-      "names": {
-        "boxscore": "Curet",
-        "givenFirst": "Yoniel",
-        "givenFirstMiddle": "Yoniel",
-        "firstLast": "Yoniel Curet",
-        "lastFirst": "Curet, Yoniel",
-        "lastFirstInit": "Curet, Y",
-        "givenFull": "Yoniel  Curet",
-        "last": "Curet",
-        "first": "Yoniel",
-        "middle": null
-      },
-      "profile": {
-        "birthDate": "2002-11-3",
-        "birthYear": "2002",
-        "birthMonth": "11",
-        "birthDay": "3",
-        "birthCity": "San Pedro de Macoris",
-        "birthState": null,
-        "birthCountry": "Dominican Republic",
-        "batHand": "R",
-        "fieldHand": "R",
-        "debutDate": null
-      },
-      "position": {
-        "code": "1",
-        "abbreviation": "P"
-      },
-      "team": {
-        "mlb_id": 139,
-        "abbreviation": "TB"
-      },
-      "status": {
-        "code": null,
-        "description": null
       }
     },
     {
@@ -69748,8 +69748,56 @@
         "abbreviation": "TOR"
       },
       "status": {
-        "code": "D15",
-        "description": "Injured 15-Day"
+        "code": "D60",
+        "description": "Injured 60-Day"
+      }
+    },
+    {
+      "id": "brt3mhm03w",
+      "ids": {
+        "prism": "brt3mhm03w",
+        "bbref": "sosale01",
+        "fangraphs": "22896",
+        "mlbam": "672820",
+        "nfbc": "11501",
+        "sfbb": "sosale01",
+        "yahoo": "12420"
+      },
+      "names": {
+        "boxscore": "Sosa, L",
+        "givenFirst": "Lenyn",
+        "givenFirstMiddle": "Lenyn Jose",
+        "firstLast": "Lenyn Sosa",
+        "lastFirst": "Sosa, Lenyn",
+        "lastFirstInit": "Sosa, L",
+        "givenFull": "Lenyn Jose Sosa",
+        "last": "Sosa",
+        "first": "Lenyn",
+        "middle": "Jose"
+      },
+      "profile": {
+        "birthDate": "2000-1-25",
+        "birthYear": "2000",
+        "birthMonth": "1",
+        "birthDay": "25",
+        "birthCity": "Puerto Ordaz",
+        "birthState": null,
+        "birthCountry": "Venezuela",
+        "batHand": "R",
+        "fieldHand": "R",
+        "debutDate": "2022-06-23"
+      },
+      "position": {
+        "code": "4",
+        "abbreviation": "2B"
+      },
+      "team": {
+        "mlb_id": 141,
+        "abbreviation": "TOR"
+      },
+      "status": {
+        "code": "NYR",
+        "description": "Not Yet Reported"
       }
     },
     {
@@ -72966,8 +73014,8 @@
         "abbreviation": "WSH"
       },
       "status": {
-        "code": "RM",
-        "description": "Reassigned to Minors"
+        "code": "A",
+        "description": "Active"
       }
     },
     {
@@ -73254,8 +73302,8 @@
         "abbreviation": "WSH"
       },
       "status": {
-        "code": "A",
-        "description": "Active"
+        "code": "D15",
+        "description": "Injured 15-Day"
       }
     },
     {
@@ -73302,8 +73350,8 @@
         "abbreviation": "WSH"
       },
       "status": {
-        "code": "A",
-        "description": "Active"
+        "code": "D15",
+        "description": "Injured 15-Day"
       }
     },
     {
@@ -73494,8 +73542,8 @@
         "abbreviation": "WSH"
       },
       "status": {
-        "code": "RM",
-        "description": "Reassigned to Minors"
+        "code": "A",
+        "description": "Active"
       }
     },
     {
