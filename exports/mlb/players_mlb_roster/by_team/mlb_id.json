@@ -2204,8 +2204,8 @@
         "abbreviation": "LAA"
       },
       "status": {
-        "code": "A",
-        "description": "Active"
+        "code": "SU",
+        "description": "Suspended # days"
       }
     },
     {
@@ -6144,8 +6144,8 @@
         "abbreviation": "BAL"
       },
       "status": {
-        "code": "A",
-        "description": "Active"
+        "code": "RM",
+        "description": "Reassigned to Minors"
       }
     },
     {
@@ -7440,8 +7440,8 @@
         "abbreviation": "BAL"
       },
       "status": {
-        "code": "RM",
-        "description": "Reassigned to Minors"
+        "code": null,
+        "description": null
       }
     },
     {
@@ -8018,6 +8018,54 @@
       "status": {
         "code": null,
         "description": null
+      }
+    },
+    {
+      "id": "ztj0rjng8r",
+      "ids": {
+        "prism": "ztj0rjng8r",
+        "bbref": "huffsa01",
+        "fangraphs": "22209",
+        "mlbam": "669087",
+        "nfbc": "10826",
+        "sfbb": "huffsa01",
+        "yahoo": "11849"
+      },
+      "names": {
+        "boxscore": "Huff",
+        "givenFirst": "Samuel",
+        "givenFirstMiddle": "Samuel Nicholas",
+        "firstLast": "Sam Huff",
+        "lastFirst": "Huff, Sam",
+        "lastFirstInit": "Huff, S",
+        "givenFull": "Samuel Nicholas Huff",
+        "last": "Huff",
+        "first": "Sam",
+        "middle": "Nicholas"
+      },
+      "profile": {
+        "birthDate": "1998-1-14",
+        "birthYear": "1998",
+        "birthMonth": "1",
+        "birthDay": "14",
+        "birthCity": "Phoenix",
+        "birthState": "AZ",
+        "birthCountry": "USA",
+        "batHand": "R",
+        "fieldHand": "R",
+        "debutDate": "2020-09-11"
+      },
+      "position": {
+        "code": "2",
+        "abbreviation": "C"
+      },
+      "team": {
+        "mlb_id": 110,
+        "abbreviation": "BAL"
+      },
+      "status": {
+        "code": "A",
+        "description": "Active"
       }
     }
   ],
@@ -9946,8 +9994,8 @@
       "id": "w7q6vfv91h",
       "ids": {
         "prism": "w7q6vfv91h",
-        "bbref": null,
-        "fangraphs": "sa3017872",
+        "bbref": "anderja02",
+        "fangraphs": "30086",
         "mlbam": "681252",
         "nfbc": "12652",
         "sfbb": null,
@@ -10854,54 +10902,6 @@
       "status": {
         "code": "A",
         "description": "Active"
-      }
-    },
-    {
-      "id": "5p45h8k8z0",
-      "ids": {
-        "prism": "5p45h8k8z0",
-        "bbref": "carlsdy01",
-        "fangraphs": "20126",
-        "mlbam": "666185",
-        "nfbc": "10190",
-        "sfbb": "carlsdy01",
-        "yahoo": "10643"
-      },
-      "names": {
-        "boxscore": "Carlson",
-        "givenFirst": "Dylan",
-        "givenFirstMiddle": "Dylan James",
-        "firstLast": "Dylan Carlson",
-        "lastFirst": "Carlson, Dylan",
-        "lastFirstInit": "Carlson, D",
-        "givenFull": "Dylan James Carlson",
-        "last": "Carlson",
-        "first": "Dylan",
-        "middle": "James"
-      },
-      "profile": {
-        "birthDate": "1998-10-23",
-        "birthYear": "1998",
-        "birthMonth": "10",
-        "birthDay": "23",
-        "birthCity": "Elk Grove",
-        "birthState": "CA",
-        "birthCountry": "USA",
-        "batHand": "S",
-        "fieldHand": "L",
-        "debutDate": "2020-08-15"
-      },
-      "position": {
-        "code": "7",
-        "abbreviation": "LF"
-      },
-      "team": {
-        "mlb_id": 112,
-        "abbreviation": "CHC"
-      },
-      "status": {
-        "code": null,
-        "description": null
       }
     },
     {
@@ -45872,8 +45872,8 @@
         "abbreviation": "SF"
       },
       "status": {
-        "code": "RM",
-        "description": "Reassigned to Minors"
+        "code": "A",
+        "description": "Active"
       }
     },
     {
@@ -45920,8 +45920,8 @@
         "abbreviation": "SF"
       },
       "status": {
-        "code": "A",
-        "description": "Active"
+        "code": "D10",
+        "description": "Injured 10-Day"
       }
     },
     {
@@ -46400,8 +46400,8 @@
         "abbreviation": "SF"
       },
       "status": {
-        "code": "A",
-        "description": "Active"
+        "code": "D10",
+        "description": "Injured 10-Day"
       }
     },
     {
@@ -46544,8 +46544,8 @@
         "abbreviation": "SF"
       },
       "status": {
-        "code": "RM",
-        "description": "Reassigned to Minors"
+        "code": "A",
+        "description": "Active"
       }
     },
     {
@@ -47266,54 +47266,6 @@
       "status": {
         "code": "RM",
         "description": "Reassigned to Minors"
-      }
-    },
-    {
-      "id": "ztj0rjng8r",
-      "ids": {
-        "prism": "ztj0rjng8r",
-        "bbref": "huffsa01",
-        "fangraphs": "22209",
-        "mlbam": "669087",
-        "nfbc": "10826",
-        "sfbb": "huffsa01",
-        "yahoo": "11849"
-      },
-      "names": {
-        "boxscore": "Huff",
-        "givenFirst": "Samuel",
-        "givenFirstMiddle": "Samuel Nicholas",
-        "firstLast": "Sam Huff",
-        "lastFirst": "Huff, Sam",
-        "lastFirstInit": "Huff, S",
-        "givenFull": "Samuel Nicholas Huff",
-        "last": "Huff",
-        "first": "Sam",
-        "middle": "Nicholas"
-      },
-      "profile": {
-        "birthDate": "1998-1-14",
-        "birthYear": "1998",
-        "birthMonth": "1",
-        "birthDay": "14",
-        "birthCity": "Phoenix",
-        "birthState": "AZ",
-        "birthCountry": "USA",
-        "batHand": "R",
-        "fieldHand": "R",
-        "debutDate": "2020-09-11"
-      },
-      "position": {
-        "code": "2",
-        "abbreviation": "C"
-      },
-      "team": {
-        "mlb_id": 137,
-        "abbreviation": "SF"
-      },
-      "status": {
-        "code": null,
-        "description": null
       }
     }
   ],
@@ -59420,8 +59372,8 @@
         "abbreviation": "PHI"
       },
       "status": {
-        "code": "A",
-        "description": "Active"
+        "code": "D15",
+        "description": "Injured 15-Day"
       }
     },
     {
@@ -61676,8 +61628,8 @@
         "abbreviation": "PHI"
       },
       "status": {
-        "code": "RM",
-        "description": "Reassigned to Minors"
+        "code": "A",
+        "description": "Active"
       }
     },
     {
@@ -62772,6 +62724,54 @@
         "batHand": "R",
         "fieldHand": "R",
         "debutDate": "2019-06-08"
+      },
+      "position": {
+        "code": "1",
+        "abbreviation": "P"
+      },
+      "team": {
+        "mlb_id": 144,
+        "abbreviation": "ATL"
+      },
+      "status": {
+        "code": null,
+        "description": null
+      }
+    },
+    {
+      "id": "bbq66s1gjh",
+      "ids": {
+        "prism": "bbq66s1gjh",
+        "bbref": "perezma02",
+        "fangraphs": "6902",
+        "mlbam": "527048",
+        "nfbc": "7791",
+        "sfbb": "perezma02",
+        "yahoo": "8652"
+      },
+      "names": {
+        "boxscore": "Pérez, M",
+        "givenFirst": "Martín",
+        "givenFirstMiddle": "Martín",
+        "firstLast": "Martín Pérez",
+        "lastFirst": "Pérez, Martín",
+        "lastFirstInit": "Pérez, M",
+        "givenFull": "Martín Pérez",
+        "last": "Pérez",
+        "first": "Martín",
+        "middle": null
+      },
+      "profile": {
+        "birthDate": "1991-4-4",
+        "birthYear": "1991",
+        "birthMonth": "4",
+        "birthDay": "4",
+        "birthCity": "Guanare",
+        "birthState": null,
+        "birthCountry": "Venezuela",
+        "batHand": "L",
+        "fieldHand": "L",
+        "debutDate": "2012-06-27"
       },
       "position": {
         "code": "1",
@@ -65704,16 +65704,16 @@
         "debutDate": null
       },
       "position": {
-        "code": "I",
-        "abbreviation": "IF"
+        "code": "6",
+        "abbreviation": "SS"
       },
       "team": {
         "mlb_id": 145,
         "abbreviation": "CWS"
       },
       "status": {
-        "code": null,
-        "description": null
+        "code": "A",
+        "description": "Active"
       }
     },
     {
@@ -65808,8 +65808,8 @@
         "abbreviation": "CWS"
       },
       "status": {
-        "code": "A",
-        "description": "Active"
+        "code": "RM",
+        "description": "Reassigned to Minors"
       }
     },
     {
@@ -66096,8 +66096,8 @@
         "abbreviation": "CWS"
       },
       "status": {
-        "code": "RM",
-        "description": "Reassigned to Minors"
+        "code": "A",
+        "description": "Active"
       }
     },
     {
@@ -66201,7 +66201,7 @@
       "ids": {
         "prism": "p2b2x8xg0d",
         "bbref": "schulno01",
-        "fangraphs": "sa3020949",
+        "fangraphs": "32056",
         "mlbam": "702273",
         "nfbc": "12197",
         "sfbb": "schulno01",
@@ -66672,8 +66672,8 @@
         "abbreviation": "CWS"
       },
       "status": {
-        "code": "A",
-        "description": "Active"
+        "code": null,
+        "description": null
       }
     },
     {
@@ -67866,8 +67866,8 @@
         "debutDate": "2021-08-17"
       },
       "position": {
-        "code": "4",
-        "abbreviation": "2B"
+        "code": "6",
+        "abbreviation": "SS"
       },
       "team": {
         "mlb_id": 146,
@@ -69940,8 +69940,8 @@
         "abbreviation": "NYY"
       },
       "status": {
-        "code": "RM",
-        "description": "Reassigned to Minors"
+        "code": "A",
+        "description": "Active"
       }
     },
     {
@@ -71380,8 +71380,8 @@
         "abbreviation": "NYY"
       },
       "status": {
-        "code": "A",
-        "description": "Active"
+        "code": "RM",
+        "description": "Reassigned to Minors"
       }
     },
     {
@@ -73979,49 +73979,49 @@
       }
     }
   ],
-  "ATL": [
+  "CHC": [
     {
-      "id": "bbq66s1gjh",
+      "id": "5p45h8k8z0",
       "ids": {
-        "prism": "bbq66s1gjh",
-        "bbref": "perezma02",
-        "fangraphs": "6902",
-        "mlbam": "527048",
-        "nfbc": "7791",
-        "sfbb": "perezma02",
-        "yahoo": "8652"
+        "prism": "5p45h8k8z0",
+        "bbref": "carlsdy01",
+        "fangraphs": "20126",
+        "mlbam": "666185",
+        "nfbc": "10190",
+        "sfbb": "carlsdy01",
+        "yahoo": "10643"
       },
       "names": {
-        "boxscore": "Pérez, M",
-        "givenFirst": "Martín",
-        "givenFirstMiddle": "Martín",
-        "firstLast": "Martín Pérez",
-        "lastFirst": "Pérez, Martín",
-        "lastFirstInit": "Pérez, M",
-        "givenFull": "Martín Pérez",
-        "last": "Pérez",
-        "first": "Martín",
-        "middle": null
+        "boxscore": "Carlson",
+        "givenFirst": "Dylan",
+        "givenFirstMiddle": "Dylan James",
+        "firstLast": "Dylan Carlson",
+        "lastFirst": "Carlson, Dylan",
+        "lastFirstInit": "Carlson, D",
+        "givenFull": "Dylan James Carlson",
+        "last": "Carlson",
+        "first": "Dylan",
+        "middle": "James"
       },
       "profile": {
-        "birthDate": "1991-4-4",
-        "birthYear": "1991",
-        "birthMonth": "4",
-        "birthDay": "4",
-        "birthCity": "Guanare",
-        "birthState": null,
-        "birthCountry": "Venezuela",
-        "batHand": "L",
+        "birthDate": "1998-10-23",
+        "birthYear": "1998",
+        "birthMonth": "10",
+        "birthDay": "23",
+        "birthCity": "Elk Grove",
+        "birthState": "CA",
+        "birthCountry": "USA",
+        "batHand": "S",
         "fieldHand": "L",
-        "debutDate": "2012-06-27"
+        "debutDate": "2020-08-15"
       },
       "position": {
-        "code": "1",
-        "abbreviation": "P"
+        "code": "7",
+        "abbreviation": "LF"
       },
       "team": {
-        "mlb_id": "ATL",
-        "abbreviation": "ATL"
+        "mlb_id": "CHC",
+        "abbreviation": "CHC"
       },
       "status": {
         "code": null,

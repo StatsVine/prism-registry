@@ -7147,8 +7147,8 @@
       "abbreviation": "LAA"
     },
     "status": {
-      "code": "A",
-      "description": "Active"
+      "code": "SU",
+      "description": "Suspended # days"
     }
   },
   "14274": {
@@ -16939,8 +16939,8 @@
       "abbreviation": "CWS"
     },
     "status": {
-      "code": "RM",
-      "description": "Reassigned to Minors"
+      "code": "A",
+      "description": "Active"
     }
   },
   "17968": {
@@ -17371,8 +17371,8 @@
       "abbreviation": "SF"
     },
     "status": {
-      "code": "A",
-      "description": "Active"
+      "code": "D10",
+      "description": "Injured 10-Day"
     }
   },
   "18036": {
@@ -23507,8 +23507,8 @@
       "debutDate": "2021-08-17"
     },
     "position": {
-      "code": "4",
-      "abbreviation": "2B"
+      "code": "6",
+      "abbreviation": "SS"
     },
     "team": {
       "mlb_id": 146,
@@ -26731,8 +26731,8 @@
       "abbreviation": "SF"
     },
     "status": {
-      "code": "A",
-      "description": "Active"
+      "code": "D10",
+      "description": "Injured 10-Day"
     }
   },
   "19976": {
@@ -27879,7 +27879,7 @@
       "abbreviation": "LF"
     },
     "team": {
-      "mlb_id": 112,
+      "mlb_id": "CHC",
       "abbreviation": "CHC"
     },
     "status": {
@@ -28027,8 +28027,8 @@
       "abbreviation": "PHI"
     },
     "status": {
-      "code": "A",
-      "description": "Active"
+      "code": "D15",
+      "description": "Injured 15-Day"
     }
   },
   "20191": {
@@ -28699,8 +28699,8 @@
       "abbreviation": "BAL"
     },
     "status": {
-      "code": "A",
-      "description": "Active"
+      "code": "RM",
+      "description": "Reassigned to Minors"
     }
   },
   "20348": {
@@ -32059,8 +32059,8 @@
       "abbreviation": "NYY"
     },
     "status": {
-      "code": "A",
-      "description": "Active"
+      "code": "RM",
+      "description": "Reassigned to Minors"
     }
   },
   "21446": {
@@ -36375,12 +36375,12 @@
       "abbreviation": "C"
     },
     "team": {
-      "mlb_id": 137,
-      "abbreviation": "SF"
+      "mlb_id": 110,
+      "abbreviation": "BAL"
     },
     "status": {
-      "code": null,
-      "description": null
+      "code": "A",
+      "description": "Active"
     }
   },
   "22210": {
@@ -45739,8 +45739,8 @@
       "abbreviation": "BAL"
     },
     "status": {
-      "code": "RM",
-      "description": "Reassigned to Minors"
+      "code": null,
+      "description": null
     }
   },
   "25178": {
@@ -48091,8 +48091,8 @@
       "abbreviation": "SF"
     },
     "status": {
-      "code": "RM",
-      "description": "Reassigned to Minors"
+      "code": "A",
+      "description": "Active"
     }
   },
   "25679": {
@@ -48331,8 +48331,8 @@
       "abbreviation": "CWS"
     },
     "status": {
-      "code": "A",
-      "description": "Active"
+      "code": null,
+      "description": null
     }
   },
   "25714": {
@@ -54043,8 +54043,8 @@
       "abbreviation": "NYY"
     },
     "status": {
-      "code": "RM",
-      "description": "Reassigned to Minors"
+      "code": "A",
+      "description": "Active"
     }
   },
   "26907": {
@@ -57211,8 +57211,8 @@
       "abbreviation": "CWS"
     },
     "status": {
-      "code": "A",
-      "description": "Active"
+      "code": "RM",
+      "description": "Reassigned to Minors"
     }
   },
   "27669": {
@@ -61819,8 +61819,8 @@
       "abbreviation": "PHI"
     },
     "status": {
-      "code": "RM",
-      "description": "Reassigned to Minors"
+      "code": "A",
+      "description": "Active"
     }
   },
   "29617": {
@@ -64941,6 +64941,54 @@
     "status": {
       "code": "D15",
       "description": "Injured 15-Day"
+    }
+  },
+  "30086": {
+    "id": "w7q6vfv91h",
+    "ids": {
+      "prism": "w7q6vfv91h",
+      "bbref": "anderja02",
+      "fangraphs": "30086",
+      "mlbam": "681252",
+      "nfbc": "12652",
+      "sfbb": null,
+      "yahoo": "62643"
+    },
+    "names": {
+      "boxscore": "Anderson",
+      "givenFirst": "Jack",
+      "givenFirstMiddle": "Jack Thomas",
+      "firstLast": "Jack Anderson",
+      "lastFirst": "Anderson, Jack",
+      "lastFirstInit": "Anderson, J",
+      "givenFull": "Jack Thomas Anderson",
+      "last": "Anderson",
+      "first": "Jack",
+      "middle": "Thomas"
+    },
+    "profile": {
+      "birthDate": "1999-11-23",
+      "birthYear": "1999",
+      "birthMonth": "11",
+      "birthDay": "23",
+      "birthCity": "Tampa",
+      "birthState": "FL",
+      "birthCountry": "USA",
+      "batHand": "R",
+      "fieldHand": "R",
+      "debutDate": "2026-04-14"
+    },
+    "position": {
+      "code": "1",
+      "abbreviation": "P"
+    },
+    "team": {
+      "mlb_id": 111,
+      "abbreviation": "BOS"
+    },
+    "status": {
+      "code": "A",
+      "description": "Active"
     }
   },
   "30091": {
@@ -68107,8 +68155,8 @@
       "abbreviation": "SF"
     },
     "status": {
-      "code": "RM",
-      "description": "Reassigned to Minors"
+      "code": "A",
+      "description": "Active"
     }
   },
   "31552": {
@@ -70989,6 +71037,54 @@
     "status": {
       "code": "RM",
       "description": "Reassigned to Minors"
+    }
+  },
+  "32056": {
+    "id": "p2b2x8xg0d",
+    "ids": {
+      "prism": "p2b2x8xg0d",
+      "bbref": "schulno01",
+      "fangraphs": "32056",
+      "mlbam": "702273",
+      "nfbc": "12197",
+      "sfbb": "schulno01",
+      "yahoo": "60156"
+    },
+    "names": {
+      "boxscore": "Schultz",
+      "givenFirst": "Noah",
+      "givenFirstMiddle": "Noah Chris",
+      "firstLast": "Noah Schultz",
+      "lastFirst": "Schultz, Noah",
+      "lastFirstInit": "Schultz, N",
+      "givenFull": "Noah Chris Schultz",
+      "last": "Schultz",
+      "first": "Noah",
+      "middle": "Chris"
+    },
+    "profile": {
+      "birthDate": "2003-8-5",
+      "birthYear": "2003",
+      "birthMonth": "8",
+      "birthDay": "5",
+      "birthCity": "Naperville",
+      "birthState": "IL",
+      "birthCountry": "USA",
+      "batHand": "L",
+      "fieldHand": "L",
+      "debutDate": "2026-04-14"
+    },
+    "position": {
+      "code": "1",
+      "abbreviation": "P"
+    },
+    "team": {
+      "mlb_id": 145,
+      "abbreviation": "CWS"
+    },
+    "status": {
+      "code": "A",
+      "description": "Active"
     }
   },
   "32095": {
@@ -75063,7 +75159,7 @@
       "abbreviation": "P"
     },
     "team": {
-      "mlb_id": "ATL",
+      "mlb_id": 144,
       "abbreviation": "ATL"
     },
     "status": {
@@ -79679,54 +79775,6 @@
       "description": "Reassigned to Minors"
     }
   },
-  "sa3017872": {
-    "id": "w7q6vfv91h",
-    "ids": {
-      "prism": "w7q6vfv91h",
-      "bbref": null,
-      "fangraphs": "sa3017872",
-      "mlbam": "681252",
-      "nfbc": "12652",
-      "sfbb": null,
-      "yahoo": "62643"
-    },
-    "names": {
-      "boxscore": "Anderson",
-      "givenFirst": "Jack",
-      "givenFirstMiddle": "Jack Thomas",
-      "firstLast": "Jack Anderson",
-      "lastFirst": "Anderson, Jack",
-      "lastFirstInit": "Anderson, J",
-      "givenFull": "Jack Thomas Anderson",
-      "last": "Anderson",
-      "first": "Jack",
-      "middle": "Thomas"
-    },
-    "profile": {
-      "birthDate": "1999-11-23",
-      "birthYear": "1999",
-      "birthMonth": "11",
-      "birthDay": "23",
-      "birthCity": "Tampa",
-      "birthState": "FL",
-      "birthCountry": "USA",
-      "batHand": "R",
-      "fieldHand": "R",
-      "debutDate": "2026-04-14"
-    },
-    "position": {
-      "code": "1",
-      "abbreviation": "P"
-    },
-    "team": {
-      "mlb_id": 111,
-      "abbreviation": "BOS"
-    },
-    "status": {
-      "code": "A",
-      "description": "Active"
-    }
-  },
   "sa3017914": {
     "id": "ydq67n1ehd",
     "ids": {
@@ -81503,54 +81551,6 @@
       "description": "Reassigned to Minors"
     }
   },
-  "sa3020949": {
-    "id": "p2b2x8xg0d",
-    "ids": {
-      "prism": "p2b2x8xg0d",
-      "bbref": "schulno01",
-      "fangraphs": "sa3020949",
-      "mlbam": "702273",
-      "nfbc": "12197",
-      "sfbb": "schulno01",
-      "yahoo": "60156"
-    },
-    "names": {
-      "boxscore": "Schultz",
-      "givenFirst": "Noah",
-      "givenFirstMiddle": "Noah Chris",
-      "firstLast": "Noah Schultz",
-      "lastFirst": "Schultz, Noah",
-      "lastFirstInit": "Schultz, N",
-      "givenFull": "Noah Chris Schultz",
-      "last": "Schultz",
-      "first": "Noah",
-      "middle": "Chris"
-    },
-    "profile": {
-      "birthDate": "2003-8-5",
-      "birthYear": "2003",
-      "birthMonth": "8",
-      "birthDay": "5",
-      "birthCity": "Naperville",
-      "birthState": "IL",
-      "birthCountry": "USA",
-      "batHand": "L",
-      "fieldHand": "L",
-      "debutDate": "2026-04-14"
-    },
-    "position": {
-      "code": "1",
-      "abbreviation": "P"
-    },
-    "team": {
-      "mlb_id": 145,
-      "abbreviation": "CWS"
-    },
-    "status": {
-      "code": "A",
-      "description": "Active"
-    }
-  },
   "sa3021723": {
     "id": "dwte93g4j8",
     "ids": {
@@ -81971,16 +81971,16 @@
       "debutDate": null
     },
     "position": {
-      "code": "I",
-      "abbreviation": "IF"
+      "code": "6",
+      "abbreviation": "SS"
     },
     "team": {
       "mlb_id": 145,
       "abbreviation": "CWS"
     },
     "status": {
-      "code": null,
-      "description": null
+      "code": "A",
+      "description": "Active"
     }
   },
   "sa3025659": {

@@ -2343,7 +2343,7 @@
       "abbreviation": "P"
     },
     "team": {
-      "mlb_id": "ATL",
+      "mlb_id": 144,
       "abbreviation": "ATL"
     },
     "status": {
@@ -15067,8 +15067,8 @@
       "abbreviation": "LAA"
     },
     "status": {
-      "code": "A",
-      "description": "Active"
+      "code": "SU",
+      "description": "Suspended # days"
     }
   },
   "624641": {
@@ -19867,8 +19867,8 @@
       "abbreviation": "PHI"
     },
     "status": {
-      "code": "A",
-      "description": "Active"
+      "code": "D15",
+      "description": "Injured 15-Day"
     }
   },
   "647336": {
@@ -21643,8 +21643,8 @@
       "abbreviation": "CWS"
     },
     "status": {
-      "code": "RM",
-      "description": "Reassigned to Minors"
+      "code": "A",
+      "description": "Active"
     }
   },
   "656458": {
@@ -24811,8 +24811,8 @@
       "abbreviation": "NYY"
     },
     "status": {
-      "code": "A",
-      "description": "Active"
+      "code": "RM",
+      "description": "Reassigned to Minors"
     }
   },
   "660813": {
@@ -29227,8 +29227,8 @@
       "abbreviation": "SF"
     },
     "status": {
-      "code": "A",
-      "description": "Active"
+      "code": "D10",
+      "description": "Injured 10-Day"
     }
   },
   "664059": {
@@ -33447,7 +33447,7 @@
       "abbreviation": "LF"
     },
     "team": {
-      "mlb_id": 112,
+      "mlb_id": "CHC",
       "abbreviation": "CHC"
     },
     "status": {
@@ -34411,8 +34411,8 @@
       "abbreviation": "SF"
     },
     "status": {
-      "code": "A",
-      "description": "Active"
+      "code": "D10",
+      "description": "Injured 10-Day"
     }
   },
   "666969": {
@@ -37047,12 +37047,12 @@
       "abbreviation": "C"
     },
     "team": {
-      "mlb_id": 137,
-      "abbreviation": "SF"
+      "mlb_id": 110,
+      "abbreviation": "BAL"
     },
     "status": {
-      "code": null,
-      "description": null
+      "code": "A",
+      "description": "Active"
     }
   },
   "669093": {
@@ -44531,8 +44531,8 @@
       "debutDate": "2021-08-17"
     },
     "position": {
-      "code": "4",
-      "abbreviation": "2B"
+      "code": "6",
+      "abbreviation": "SS"
     },
     "team": {
       "mlb_id": 146,
@@ -46603,8 +46603,8 @@
       "abbreviation": "BAL"
     },
     "status": {
-      "code": "A",
-      "description": "Active"
+      "code": "RM",
+      "description": "Reassigned to Minors"
     }
   },
   "675989": {
@@ -52603,8 +52603,8 @@
       "abbreviation": "PHI"
     },
     "status": {
-      "code": "RM",
-      "description": "Reassigned to Minors"
+      "code": "A",
+      "description": "Active"
     }
   },
   "679822": {
@@ -55683,8 +55683,8 @@
     "id": "w7q6vfv91h",
     "ids": {
       "prism": "w7q6vfv91h",
-      "bbref": null,
-      "fangraphs": "sa3017872",
+      "bbref": "anderja02",
+      "fangraphs": "30086",
       "mlbam": "681252",
       "nfbc": "12652",
       "sfbb": null,
@@ -57595,8 +57595,8 @@
       "abbreviation": "BAL"
     },
     "status": {
-      "code": "RM",
-      "description": "Reassigned to Minors"
+      "code": null,
+      "description": null
     }
   },
   "682175": {
@@ -60427,8 +60427,8 @@
       "abbreviation": "NYY"
     },
     "status": {
-      "code": "RM",
-      "description": "Reassigned to Minors"
+      "code": "A",
+      "description": "Active"
     }
   },
   "683522": {
@@ -61483,8 +61483,8 @@
       "abbreviation": "CWS"
     },
     "status": {
-      "code": "A",
-      "description": "Active"
+      "code": "RM",
+      "description": "Reassigned to Minors"
     }
   },
   "685133": {
@@ -63643,8 +63643,8 @@
       "abbreviation": "SF"
     },
     "status": {
-      "code": "RM",
-      "description": "Reassigned to Minors"
+      "code": "A",
+      "description": "Active"
     }
   },
   "686826": {
@@ -65467,8 +65467,8 @@
       "abbreviation": "SF"
     },
     "status": {
-      "code": "RM",
-      "description": "Reassigned to Minors"
+      "code": "A",
+      "description": "Active"
     }
   },
   "687562": {
@@ -66475,8 +66475,8 @@
       "abbreviation": "CWS"
     },
     "status": {
-      "code": "A",
-      "description": "Active"
+      "code": null,
+      "description": null
     }
   },
   "687985": {
@@ -78820,7 +78820,7 @@
     "ids": {
       "prism": "p2b2x8xg0d",
       "bbref": "schulno01",
-      "fangraphs": "sa3020949",
+      "fangraphs": "32056",
       "mlbam": "702273",
       "nfbc": "12197",
       "sfbb": "schulno01",
@@ -80099,16 +80099,16 @@
       "debutDate": null
     },
     "position": {
-      "code": "I",
-      "abbreviation": "IF"
+      "code": "6",
+      "abbreviation": "SS"
     },
     "team": {
       "mlb_id": 145,
       "abbreviation": "CWS"
     },
     "status": {
-      "code": null,
-      "description": null
+      "code": "A",
+      "description": "Active"
     }
   },
   "804556": {
