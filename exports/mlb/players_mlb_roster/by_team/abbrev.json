@@ -2878,8 +2878,8 @@
         "abbreviation": "ATL"
       },
       "status": {
-        "code": null,
-        "description": null
+        "code": "A",
+        "description": "Active"
       }
     },
     {
@@ -3022,8 +3022,8 @@
         "abbreviation": "ATL"
       },
       "status": {
-        "code": "A",
-        "description": "Active"
+        "code": "RM",
+        "description": "Reassigned to Minors"
       }
     },
     {
@@ -3210,12 +3210,12 @@
         "abbreviation": "P"
       },
       "team": {
-        "mlb_id": 144,
+        "mlb_id": "ATL",
         "abbreviation": "ATL"
       },
       "status": {
-        "code": "A",
-        "description": "Active"
+        "code": null,
+        "description": null
       }
     },
     {
@@ -23878,8 +23878,8 @@
       "id": "gt9ln5hp6d",
       "ids": {
         "prism": "gt9ln5hp6d",
-        "bbref": null,
-        "fangraphs": "sa3025363",
+        "bbref": "antonsa01",
+        "fangraphs": "35101",
         "mlbam": "803011",
         "nfbc": "12631",
         "sfbb": null,
@@ -46261,54 +46261,6 @@
       }
     },
     {
-      "id": "g1552tqjcd",
-      "ids": {
-        "prism": "g1552tqjcd",
-        "bbref": "lovelri01",
-        "fangraphs": "19337",
-        "mlbam": "663992",
-        "nfbc": "10525",
-        "sfbb": "lovelri01",
-        "yahoo": "10889"
-      },
-      "names": {
-        "boxscore": "Lovelady",
-        "givenFirst": "Richard",
-        "givenFirstMiddle": "Richard Tyler",
-        "firstLast": "Richard Lovelady",
-        "lastFirst": "Lovelady, Richard",
-        "lastFirstInit": "Lovelady, R",
-        "givenFull": "Richard Tyler Lovelady",
-        "last": "Lovelady",
-        "first": "Richard",
-        "middle": "Tyler"
-      },
-      "profile": {
-        "birthDate": "1995-7-7",
-        "birthYear": "1995",
-        "birthMonth": "7",
-        "birthDay": "7",
-        "birthCity": "Hinesville",
-        "birthState": "GA",
-        "birthCountry": "USA",
-        "batHand": "L",
-        "fieldHand": "L",
-        "debutDate": "2019-04-09"
-      },
-      "position": {
-        "code": "1",
-        "abbreviation": "P"
-      },
-      "team": {
-        "mlb_id": "NYM",
-        "abbreviation": "NYM"
-      },
-      "status": {
-        "code": null,
-        "description": null
-      }
-    },
-    {
       "id": "gwjngmh5cd",
       "ids": {
         "prism": "gwjngmh5cd",
@@ -68602,12 +68554,12 @@
       "id": "r6mrvbm8sm",
       "ids": {
         "prism": "r6mrvbm8sm",
-        "bbref": null,
-        "fangraphs": "sa3011742",
+        "bbref": "collyga01",
+        "fangraphs": "26349",
         "mlbam": "686560",
         "nfbc": "12653",
         "sfbb": null,
-        "yahoo": null
+        "yahoo": "67034"
       },
       "names": {
         "boxscore": "Collyer",
@@ -72923,6 +72875,54 @@
       }
     },
     {
+      "id": "g1552tqjcd",
+      "ids": {
+        "prism": "g1552tqjcd",
+        "bbref": "lovelri01",
+        "fangraphs": "19337",
+        "mlbam": "663992",
+        "nfbc": "10525",
+        "sfbb": "lovelri01",
+        "yahoo": "10889"
+      },
+      "names": {
+        "boxscore": "Lovelady",
+        "givenFirst": "Richard",
+        "givenFirstMiddle": "Richard Tyler",
+        "firstLast": "Richard Lovelady",
+        "lastFirst": "Lovelady, Richard",
+        "lastFirstInit": "Lovelady, R",
+        "givenFull": "Richard Tyler Lovelady",
+        "last": "Lovelady",
+        "first": "Richard",
+        "middle": "Tyler"
+      },
+      "profile": {
+        "birthDate": "1995-7-7",
+        "birthYear": "1995",
+        "birthMonth": "7",
+        "birthDay": "7",
+        "birthCity": "Hinesville",
+        "birthState": "GA",
+        "birthCountry": "USA",
+        "batHand": "L",
+        "fieldHand": "L",
+        "debutDate": "2019-04-09"
+      },
+      "position": {
+        "code": "1",
+        "abbreviation": "P"
+      },
+      "team": {
+        "mlb_id": 120,
+        "abbreviation": "WSH"
+      },
+      "status": {
+        "code": "NYR",
+        "description": "Not Yet Reported"
+      }
+    },
+    {
       "id": "g6hrhnhb2h",
       "ids": {
         "prism": "g6hrhnhb2h",
@@ -73734,8 +73734,8 @@
         "abbreviation": "WSH"
       },
       "status": {
-        "code": "D15",
-        "description": "Injured 15-Day"
+        "code": "D60",
+        "description": "Injured 60-Day"
       }
     },
     {

@@ -20491,8 +20491,8 @@
       "abbreviation": "ATL"
     },
     "status": {
-      "code": null,
-      "description": null
+      "code": "A",
+      "description": "Active"
     }
   },
   "19262": {
@@ -21399,12 +21399,12 @@
       "abbreviation": "P"
     },
     "team": {
-      "mlb_id": "NYM",
-      "abbreviation": "NYM"
+      "mlb_id": 120,
+      "abbreviation": "WSH"
     },
     "status": {
-      "code": null,
-      "description": null
+      "code": "NYR",
+      "description": "Not Yet Reported"
     }
   },
   "19339": {
@@ -39303,12 +39303,12 @@
       "abbreviation": "P"
     },
     "team": {
-      "mlb_id": 144,
+      "mlb_id": "ATL",
       "abbreviation": "ATL"
     },
     "status": {
-      "code": "A",
-      "description": "Active"
+      "code": null,
+      "description": null
     }
   },
   "23162": {
@@ -52559,6 +52559,54 @@
       "description": "Reassigned to Minors"
     }
   },
+  "26349": {
+    "id": "r6mrvbm8sm",
+    "ids": {
+      "prism": "r6mrvbm8sm",
+      "bbref": "collyga01",
+      "fangraphs": "26349",
+      "mlbam": "686560",
+      "nfbc": "12653",
+      "sfbb": null,
+      "yahoo": "67034"
+    },
+    "names": {
+      "boxscore": "Collyer",
+      "givenFirst": "Gavin",
+      "givenFirstMiddle": "Gavin Thomas",
+      "firstLast": "Gavin Collyer",
+      "lastFirst": "Collyer, Gavin",
+      "lastFirstInit": "Collyer, G",
+      "givenFull": "Gavin Thomas Collyer",
+      "last": "Collyer",
+      "first": "Gavin",
+      "middle": "Thomas"
+    },
+    "profile": {
+      "birthDate": "2001-5-12",
+      "birthYear": "2001",
+      "birthMonth": "5",
+      "birthDay": "12",
+      "birthCity": "Lawrenceville",
+      "birthState": "GA",
+      "birthCountry": "USA",
+      "batHand": "R",
+      "fieldHand": "R",
+      "debutDate": "2026-04-15"
+    },
+    "position": {
+      "code": "1",
+      "abbreviation": "P"
+    },
+    "team": {
+      "mlb_id": 140,
+      "abbreviation": "TEX"
+    },
+    "status": {
+      "code": "A",
+      "description": "Active"
+    }
+  },
   "26353": {
     "id": "9ph0nfhl60",
     "ids": {
@@ -57355,8 +57403,8 @@
       "abbreviation": "WSH"
     },
     "status": {
-      "code": "D15",
-      "description": "Injured 15-Day"
+      "code": "D60",
+      "description": "Injured 60-Day"
     }
   },
   "27684": {
@@ -70699,8 +70747,8 @@
       "abbreviation": "ATL"
     },
     "status": {
-      "code": "A",
-      "description": "Active"
+      "code": "RM",
+      "description": "Reassigned to Minors"
     }
   },
   "31920": {
@@ -73385,6 +73433,54 @@
     "team": {
       "mlb_id": 118,
       "abbreviation": "KC"
+    },
+    "status": {
+      "code": "A",
+      "description": "Active"
+    }
+  },
+  "35101": {
+    "id": "gt9ln5hp6d",
+    "ids": {
+      "prism": "gt9ln5hp6d",
+      "bbref": "antonsa01",
+      "fangraphs": "35101",
+      "mlbam": "803011",
+      "nfbc": "12631",
+      "sfbb": null,
+      "yahoo": "64533"
+    },
+    "names": {
+      "boxscore": "Antonacci",
+      "givenFirst": "Samuel",
+      "givenFirstMiddle": "Samuel Joseph",
+      "firstLast": "Sam Antonacci",
+      "lastFirst": "Antonacci, Sam",
+      "lastFirstInit": "Antonacci, S",
+      "givenFull": "Samuel Joseph Antonacci",
+      "last": "Antonacci",
+      "first": "Sam",
+      "middle": "Joseph"
+    },
+    "profile": {
+      "birthDate": "2003-2-6",
+      "birthYear": "2003",
+      "birthMonth": "2",
+      "birthDay": "6",
+      "birthCity": "Springfield",
+      "birthState": "IL",
+      "birthCountry": "USA",
+      "batHand": "L",
+      "fieldHand": "R",
+      "debutDate": "2026-04-15"
+    },
+    "position": {
+      "code": "6",
+      "abbreviation": "SS"
+    },
+    "team": {
+      "mlb_id": 145,
+      "abbreviation": "CWS"
     },
     "status": {
       "code": "A",
@@ -76989,54 +77085,6 @@
     "status": {
       "code": null,
       "description": null
-    }
-  },
-  "sa3011742": {
-    "id": "r6mrvbm8sm",
-    "ids": {
-      "prism": "r6mrvbm8sm",
-      "bbref": null,
-      "fangraphs": "sa3011742",
-      "mlbam": "686560",
-      "nfbc": "12653",
-      "sfbb": null,
-      "yahoo": null
-    },
-    "names": {
-      "boxscore": "Collyer",
-      "givenFirst": "Gavin",
-      "givenFirstMiddle": "Gavin Thomas",
-      "firstLast": "Gavin Collyer",
-      "lastFirst": "Collyer, Gavin",
-      "lastFirstInit": "Collyer, G",
-      "givenFull": "Gavin Thomas Collyer",
-      "last": "Collyer",
-      "first": "Gavin",
-      "middle": "Thomas"
-    },
-    "profile": {
-      "birthDate": "2001-5-12",
-      "birthYear": "2001",
-      "birthMonth": "5",
-      "birthDay": "12",
-      "birthCity": "Lawrenceville",
-      "birthState": "GA",
-      "birthCountry": "USA",
-      "batHand": "R",
-      "fieldHand": "R",
-      "debutDate": "2026-04-15"
-    },
-    "position": {
-      "code": "1",
-      "abbreviation": "P"
-    },
-    "team": {
-      "mlb_id": 140,
-      "abbreviation": "TEX"
-    },
-    "status": {
-      "code": "A",
-      "description": "Active"
     }
   },
   "sa3012529": {
@@ -81981,54 +82029,6 @@
     "status": {
       "code": null,
       "description": null
-    }
-  },
-  "sa3025363": {
-    "id": "gt9ln5hp6d",
-    "ids": {
-      "prism": "gt9ln5hp6d",
-      "bbref": null,
-      "fangraphs": "sa3025363",
-      "mlbam": "803011",
-      "nfbc": "12631",
-      "sfbb": null,
-      "yahoo": "64533"
-    },
-    "names": {
-      "boxscore": "Antonacci",
-      "givenFirst": "Samuel",
-      "givenFirstMiddle": "Samuel Joseph",
-      "firstLast": "Sam Antonacci",
-      "lastFirst": "Antonacci, Sam",
-      "lastFirstInit": "Antonacci, S",
-      "givenFull": "Samuel Joseph Antonacci",
-      "last": "Antonacci",
-      "first": "Sam",
-      "middle": "Joseph"
-    },
-    "profile": {
-      "birthDate": "2003-2-6",
-      "birthYear": "2003",
-      "birthMonth": "2",
-      "birthDay": "6",
-      "birthCity": "Springfield",
-      "birthState": "IL",
-      "birthCountry": "USA",
-      "batHand": "L",
-      "fieldHand": "R",
-      "debutDate": "2026-04-15"
-    },
-    "position": {
-      "code": "6",
-      "abbreviation": "SS"
-    },
-    "team": {
-      "mlb_id": 145,
-      "abbreviation": "CWS"
-    },
-    "status": {
-      "code": "A",
-      "description": "Active"
     }
   },
   "sa3025659": {
