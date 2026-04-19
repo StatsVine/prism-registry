@@ -1100,8 +1100,8 @@
         "abbreviation": "ATH"
       },
       "status": {
-        "code": "A",
-        "description": "Active"
+        "code": "RM",
+        "description": "Reassigned to Minors"
       }
     },
     {
@@ -1244,8 +1244,8 @@
         "abbreviation": "ATH"
       },
       "status": {
-        "code": "RM",
-        "description": "Reassigned to Minors"
+        "code": "A",
+        "description": "Active"
       }
     },
     {
@@ -3168,54 +3168,6 @@
       "status": {
         "code": "A",
         "description": "Active"
-      }
-    },
-    {
-      "id": "907ydx50yd",
-      "ids": {
-        "prism": "907ydx50yd",
-        "bbref": "bidoos01",
-        "fangraphs": "23150",
-        "mlbam": "674370",
-        "nfbc": "11808",
-        "sfbb": "bidoos01",
-        "yahoo": "62004"
-      },
-      "names": {
-        "boxscore": "Bido",
-        "givenFirst": "Osvaldo",
-        "givenFirstMiddle": "Osvaldo",
-        "firstLast": "Osvaldo Bido",
-        "lastFirst": "Bido, Osvaldo",
-        "lastFirstInit": "Bido, O",
-        "givenFull": "Osvaldo  Bido",
-        "last": "Bido",
-        "first": "Osvaldo",
-        "middle": null
-      },
-      "profile": {
-        "birthDate": "1995-10-18",
-        "birthYear": "1995",
-        "birthMonth": "10",
-        "birthDay": "18",
-        "birthCity": "Los Hidalgos",
-        "birthState": null,
-        "birthCountry": "Dominican Republic",
-        "batHand": "R",
-        "fieldHand": "R",
-        "debutDate": "2023-06-14"
-      },
-      "position": {
-        "code": "1",
-        "abbreviation": "P"
-      },
-      "team": {
-        "mlb_id": "ATL",
-        "abbreviation": "ATL"
-      },
-      "status": {
-        "code": null,
-        "description": null
       }
     },
     {
@@ -7104,8 +7056,8 @@
         "abbreviation": "AZ"
       },
       "status": {
-        "code": "A",
-        "description": "Active"
+        "code": null,
+        "description": null
       }
     },
     {
@@ -7488,8 +7440,8 @@
         "abbreviation": "AZ"
       },
       "status": {
-        "code": "D10",
-        "description": "Injured 10-Day"
+        "code": "A",
+        "description": "Active"
       }
     },
     {
@@ -13634,7 +13586,7 @@
         "abbreviation": "LF"
       },
       "team": {
-        "mlb_id": "CHC",
+        "mlb_id": 112,
         "abbreviation": "CHC"
       },
       "status": {
@@ -14214,8 +14166,8 @@
         "abbreviation": "CHC"
       },
       "status": {
-        "code": null,
-        "description": null
+        "code": "A",
+        "description": "Active"
       }
     },
     {
@@ -14262,8 +14214,8 @@
         "abbreviation": "CHC"
       },
       "status": {
-        "code": "D15",
-        "description": "Injured 15-Day"
+        "code": "D60",
+        "description": "Injured 60-Day"
       }
     },
     {
@@ -19734,7 +19686,7 @@
         "abbreviation": "P"
       },
       "team": {
-        "mlb_id": "CLE",
+        "mlb_id": 114,
         "abbreviation": "CLE"
       },
       "status": {
@@ -23539,6 +23491,54 @@
       }
     },
     {
+      "id": "907ydx50yd",
+      "ids": {
+        "prism": "907ydx50yd",
+        "bbref": "bidoos01",
+        "fangraphs": "23150",
+        "mlbam": "674370",
+        "nfbc": "11808",
+        "sfbb": "bidoos01",
+        "yahoo": "62004"
+      },
+      "names": {
+        "boxscore": "Bido",
+        "givenFirst": "Osvaldo",
+        "givenFirstMiddle": "Osvaldo",
+        "firstLast": "Osvaldo Bido",
+        "lastFirst": "Bido, Osvaldo",
+        "lastFirstInit": "Bido, O",
+        "givenFull": "Osvaldo  Bido",
+        "last": "Bido",
+        "first": "Osvaldo",
+        "middle": null
+      },
+      "profile": {
+        "birthDate": "1995-10-18",
+        "birthYear": "1995",
+        "birthMonth": "10",
+        "birthDay": "18",
+        "birthCity": "Los Hidalgos",
+        "birthState": null,
+        "birthCountry": "Dominican Republic",
+        "batHand": "R",
+        "fieldHand": "R",
+        "debutDate": "2023-06-14"
+      },
+      "position": {
+        "code": "1",
+        "abbreviation": "P"
+      },
+      "team": {
+        "mlb_id": 145,
+        "abbreviation": "CWS"
+      },
+      "status": {
+        "code": "RM",
+        "description": "Reassigned to Minors"
+      }
+    },
+    {
       "id": "9223m55310",
       "ids": {
         "prism": "9223m55310",
@@ -23726,8 +23726,8 @@
         "abbreviation": "CWS"
       },
       "status": {
-        "code": "D15",
-        "description": "Injured 15-Day"
+        "code": "D60",
+        "description": "Injured 60-Day"
       }
     },
     {
@@ -24832,54 +24832,6 @@
       "status": {
         "code": "A",
         "description": "Active"
-      }
-    },
-    {
-      "id": "tyt2rzbhww",
-      "ids": {
-        "prism": "tyt2rzbhww",
-        "bbref": "harridu01",
-        "fangraphs": "25705",
-        "mlbam": "687957",
-        "nfbc": "11589",
-        "sfbb": "harridu01",
-        "yahoo": "12567"
-      },
-      "names": {
-        "boxscore": "Harris, D",
-        "givenFirst": "Dustin",
-        "givenFirstMiddle": "Dustin Alexander",
-        "firstLast": "Dustin Harris",
-        "lastFirst": "Harris, Dustin",
-        "lastFirstInit": "Harris, D",
-        "givenFull": "Dustin Alexander Harris",
-        "last": "Harris",
-        "first": "Dustin",
-        "middle": "Alexander"
-      },
-      "profile": {
-        "birthDate": "1999-7-8",
-        "birthYear": "1999",
-        "birthMonth": "7",
-        "birthDay": "8",
-        "birthCity": "Tampa",
-        "birthState": "FL",
-        "birthCountry": "USA",
-        "batHand": "L",
-        "fieldHand": "R",
-        "debutDate": "2024-09-28"
-      },
-      "position": {
-        "code": "7",
-        "abbreviation": "LF"
-      },
-      "team": {
-        "mlb_id": 145,
-        "abbreviation": "CWS"
-      },
-      "status": {
-        "code": null,
-        "description": null
       }
     },
     {
@@ -26281,7 +26233,7 @@
       "ids": {
         "prism": "c59m34lcrd",
         "bbref": "leeha02",
-        "fangraphs": "sa3017863",
+        "fangraphs": "30080",
         "mlbam": "701678",
         "nfbc": "12353",
         "sfbb": "leeha02",
@@ -28391,6 +28343,54 @@
       }
     },
     {
+      "id": "2klktf9c80",
+      "ids": {
+        "prism": "2klktf9c80",
+        "bbref": "leonpe01",
+        "fangraphs": "27781",
+        "mlbam": "694175",
+        "nfbc": "11198",
+        "sfbb": "leonpe01",
+        "yahoo": "12226"
+      },
+      "names": {
+        "boxscore": "León",
+        "givenFirst": "Pedro",
+        "givenFirstMiddle": "Pedro Manuel",
+        "firstLast": "Pedro León",
+        "lastFirst": "León, Pedro",
+        "lastFirstInit": "León, P",
+        "givenFull": "Pedro Manuel León",
+        "last": "León",
+        "first": "Pedro",
+        "middle": "Manuel"
+      },
+      "profile": {
+        "birthDate": "1998-5-28",
+        "birthYear": "1998",
+        "birthMonth": "5",
+        "birthDay": "28",
+        "birthCity": "Havana",
+        "birthState": null,
+        "birthCountry": "Cuba",
+        "batHand": "R",
+        "fieldHand": "R",
+        "debutDate": "2024-08-03"
+      },
+      "position": {
+        "code": "9",
+        "abbreviation": "RF"
+      },
+      "team": {
+        "mlb_id": 117,
+        "abbreviation": "HOU"
+      },
+      "status": {
+        "code": null,
+        "description": null
+      }
+    },
+    {
       "id": "3qvdkkrclm",
       "ids": {
         "prism": "3qvdkkrclm",
@@ -28818,8 +28818,8 @@
         "abbreviation": "HOU"
       },
       "status": {
-        "code": "A",
-        "description": "Active"
+        "code": null,
+        "description": null
       }
     },
     {
@@ -30404,6 +30404,54 @@
       "status": {
         "code": "A",
         "description": "Active"
+      }
+    },
+    {
+      "id": "tyt2rzbhww",
+      "ids": {
+        "prism": "tyt2rzbhww",
+        "bbref": "harridu01",
+        "fangraphs": "25705",
+        "mlbam": "687957",
+        "nfbc": "11589",
+        "sfbb": "harridu01",
+        "yahoo": "12567"
+      },
+      "names": {
+        "boxscore": "Harris, D",
+        "givenFirst": "Dustin",
+        "givenFirstMiddle": "Dustin Alexander",
+        "firstLast": "Dustin Harris",
+        "lastFirst": "Harris, Dustin",
+        "lastFirstInit": "Harris, D",
+        "givenFull": "Dustin Alexander Harris",
+        "last": "Harris",
+        "first": "Dustin",
+        "middle": "Alexander"
+      },
+      "profile": {
+        "birthDate": "1999-7-8",
+        "birthYear": "1999",
+        "birthMonth": "7",
+        "birthDay": "8",
+        "birthCity": "Tampa",
+        "birthState": "FL",
+        "birthCountry": "USA",
+        "batHand": "L",
+        "fieldHand": "R",
+        "debutDate": "2024-09-28"
+      },
+      "position": {
+        "code": "7",
+        "abbreviation": "LF"
+      },
+      "team": {
+        "mlb_id": 117,
+        "abbreviation": "HOU"
+      },
+      "status": {
+        "code": "RM",
+        "description": "Reassigned to Minors"
       }
     },
     {
@@ -33094,8 +33142,8 @@
         "abbreviation": "LAA"
       },
       "status": {
-        "code": "A",
-        "description": "Active"
+        "code": "RM",
+        "description": "Reassigned to Minors"
       }
     },
     {
@@ -33430,8 +33478,8 @@
         "abbreviation": "LAA"
       },
       "status": {
-        "code": "RM",
-        "description": "Reassigned to Minors"
+        "code": "A",
+        "description": "Active"
       }
     },
     {
@@ -41068,8 +41116,8 @@
         "abbreviation": "MIL"
       },
       "status": {
-        "code": "RM",
-        "description": "Reassigned to Minors"
+        "code": "A",
+        "description": "Active"
       }
     },
     {
@@ -42229,7 +42277,7 @@
       "ids": {
         "prism": "r232dm09lr",
         "bbref": "crowco01",
-        "fangraphs": "sa3015142",
+        "fangraphs": "27926",
         "mlbam": "689441",
         "nfbc": "12519",
         "sfbb": "crowco01",
@@ -42268,8 +42316,8 @@
         "abbreviation": "MIL"
       },
       "status": {
-        "code": "A",
-        "description": "Active"
+        "code": "RM",
+        "description": "Reassigned to Minors"
       }
     },
     {
@@ -45344,8 +45392,8 @@
         "abbreviation": "NYM"
       },
       "status": {
-        "code": "A",
-        "description": "Active"
+        "code": "D10",
+        "description": "Injured 10-Day"
       }
     },
     {
@@ -45442,6 +45490,54 @@
       "status": {
         "code": "D10",
         "description": "Injured 10-Day"
+      }
+    },
+    {
+      "id": "4c7tmsylbm",
+      "ids": {
+        "prism": "4c7tmsylbm",
+        "bbref": "jackslu01",
+        "fangraphs": "11752",
+        "mlbam": "592426",
+        "nfbc": "8716",
+        "sfbb": "jackslu01",
+        "yahoo": "9632"
+      },
+      "names": {
+        "boxscore": "Jackson",
+        "givenFirst": "Luke",
+        "givenFirstMiddle": "Luke Ray",
+        "firstLast": "Luke Jackson",
+        "lastFirst": "Jackson, Luke",
+        "lastFirstInit": "Jackson, L",
+        "givenFull": "Luke Ray Jackson",
+        "last": "Jackson",
+        "first": "Luke",
+        "middle": "Ray"
+      },
+      "profile": {
+        "birthDate": "1991-8-24",
+        "birthYear": "1991",
+        "birthMonth": "8",
+        "birthDay": "24",
+        "birthCity": "Fort Lauderdale",
+        "birthState": "FL",
+        "birthCountry": "USA",
+        "batHand": "R",
+        "fieldHand": "R",
+        "debutDate": "2015-09-04"
+      },
+      "position": {
+        "code": "1",
+        "abbreviation": "P"
+      },
+      "team": {
+        "mlb_id": 121,
+        "abbreviation": "NYM"
+      },
+      "status": {
+        "code": null,
+        "description": null
       }
     },
     {
@@ -46640,8 +46736,8 @@
         "abbreviation": "NYM"
       },
       "status": {
-        "code": "RM",
-        "description": "Reassigned to Minors"
+        "code": "A",
+        "description": "Active"
       }
     },
     {
@@ -50249,54 +50345,6 @@
       }
     },
     {
-      "id": "2klktf9c80",
-      "ids": {
-        "prism": "2klktf9c80",
-        "bbref": "leonpe01",
-        "fangraphs": "27781",
-        "mlbam": "694175",
-        "nfbc": "11198",
-        "sfbb": "leonpe01",
-        "yahoo": "12226"
-      },
-      "names": {
-        "boxscore": "León",
-        "givenFirst": "Pedro",
-        "givenFirstMiddle": "Pedro Manuel",
-        "firstLast": "Pedro León",
-        "lastFirst": "León, Pedro",
-        "lastFirstInit": "León, P",
-        "givenFull": "Pedro Manuel León",
-        "last": "León",
-        "first": "Pedro",
-        "middle": "Manuel"
-      },
-      "profile": {
-        "birthDate": "1998-5-28",
-        "birthYear": "1998",
-        "birthMonth": "5",
-        "birthDay": "28",
-        "birthCity": "Havana",
-        "birthState": null,
-        "birthCountry": "Cuba",
-        "batHand": "R",
-        "fieldHand": "R",
-        "debutDate": "2024-08-03"
-      },
-      "position": {
-        "code": "9",
-        "abbreviation": "RF"
-      },
-      "team": {
-        "mlb_id": 143,
-        "abbreviation": "PHI"
-      },
-      "status": {
-        "code": "RM",
-        "description": "Reassigned to Minors"
-      }
-    },
-    {
       "id": "2m0ekqhq10",
       "ids": {
         "prism": "2m0ekqhq10",
@@ -50340,8 +50388,8 @@
         "abbreviation": "PHI"
       },
       "status": {
-        "code": "A",
-        "description": "Active"
+        "code": "RM",
+        "description": "Reassigned to Minors"
       }
     },
     {
@@ -50484,8 +50532,8 @@
         "abbreviation": "PHI"
       },
       "status": {
-        "code": "A",
-        "description": "Active"
+        "code": "D15",
+        "description": "Injured 15-Day"
       }
     },
     {
@@ -52068,8 +52116,8 @@
         "abbreviation": "PHI"
       },
       "status": {
-        "code": "RM",
-        "description": "Reassigned to Minors"
+        "code": "A",
+        "description": "Active"
       }
     },
     {
@@ -54184,6 +54232,54 @@
       "status": {
         "code": "A",
         "description": "Active"
+      }
+    },
+    {
+      "id": "q1nn7wwjxh",
+      "ids": {
+        "prism": "q1nn7wwjxh",
+        "bbref": "murdono01",
+        "fangraphs": "27908",
+        "mlbam": "668716",
+        "nfbc": "12315",
+        "sfbb": null,
+        "yahoo": "12448"
+      },
+      "names": {
+        "boxscore": "Murdock",
+        "givenFirst": "Noah",
+        "givenFirstMiddle": "Noah James",
+        "firstLast": "Noah Murdock",
+        "lastFirst": "Murdock, Noah",
+        "lastFirstInit": "Murdock, N",
+        "givenFull": "Noah James Murdock",
+        "last": "Murdock",
+        "first": "Noah",
+        "middle": "James"
+      },
+      "profile": {
+        "birthDate": "1998-8-20",
+        "birthYear": "1998",
+        "birthMonth": "8",
+        "birthDay": "20",
+        "birthCity": "Richmond",
+        "birthState": "VA",
+        "birthCountry": "USA",
+        "batHand": "R",
+        "fieldHand": "R",
+        "debutDate": "2025-03-29"
+      },
+      "position": {
+        "code": "1",
+        "abbreviation": "P"
+      },
+      "team": {
+        "mlb_id": 134,
+        "abbreviation": "PIT"
+      },
+      "status": {
+        "code": null,
+        "description": null
       }
     },
     {
