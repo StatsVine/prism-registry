@@ -1867,8 +1867,8 @@
       "abbreviation": "WSH"
     },
     "status": {
-      "code": "RM",
-      "description": "Reassigned to Minors"
+      "code": "A",
+      "description": "Active"
     }
   },
   "alvarel01": {
@@ -2839,7 +2839,7 @@
       "fangraphs": "35101",
       "mlbam": "803011",
       "nfbc": "12631",
-      "sfbb": null,
+      "sfbb": "antonsa01",
       "yahoo": "64533"
     },
     "names": {
@@ -6859,8 +6859,8 @@
       "abbreviation": "CWS"
     },
     "status": {
-      "code": "RM",
-      "description": "Reassigned to Minors"
+      "code": "A",
+      "description": "Active"
     }
   },
   "biebesh01": {
@@ -7195,8 +7195,8 @@
       "abbreviation": "KC"
     },
     "status": {
-      "code": "RM",
-      "description": "Reassigned to Minors"
+      "code": "A",
+      "description": "Active"
     }
   },
   "blackpa01": {
@@ -16843,8 +16843,8 @@
       "abbreviation": "MIA"
     },
     "status": {
-      "code": "A",
-      "description": "Active"
+      "code": "RM",
+      "description": "Reassigned to Minors"
     }
   },
   "delosen01": {
@@ -17419,8 +17419,8 @@
       "abbreviation": "KC"
     },
     "status": {
-      "code": null,
-      "description": null
+      "code": "A",
+      "description": "Active"
     }
   },
   "diazjh01": {
@@ -22795,8 +22795,8 @@
       "abbreviation": "LAD"
     },
     "status": {
-      "code": "A",
-      "description": "Active"
+      "code": "PL",
+      "description": "Paternity List"
     }
   },
   "freemty01": {
@@ -28267,8 +28267,8 @@
       "abbreviation": "HOU"
     },
     "status": {
-      "code": "RM",
-      "description": "Reassigned to Minors"
+      "code": "A",
+      "description": "Active"
     }
   },
   "harriha01": {
@@ -39883,8 +39883,8 @@
       "abbreviation": "HOU"
     },
     "status": {
-      "code": "A",
-      "description": "Active"
+      "code": "D10",
+      "description": "Injured 10-Day"
     }
   },
   "lopezja04": {
@@ -43819,8 +43819,8 @@
       "abbreviation": "KC"
     },
     "status": {
-      "code": "D15",
-      "description": "Injured 15-Day"
+      "code": "D60",
+      "description": "Injured 60-Day"
     }
   },
   "mccanja02": {
@@ -49147,8 +49147,8 @@
       "abbreviation": "HOU"
     },
     "status": {
-      "code": "RM",
-      "description": "Reassigned to Minors"
+      "code": "A",
+      "description": "Active"
     }
   },
   "murrata01": {
@@ -50155,8 +50155,8 @@
       "abbreviation": "CWS"
     },
     "status": {
-      "code": "A",
-      "description": "Active"
+      "code": "RM",
+      "description": "Reassigned to Minors"
     }
   },
   "nimmobr01": {
@@ -57167,6 +57167,54 @@
       "description": "Active"
     }
   },
+  "reyesfe01": {
+    "id": "yq2szxz0gh",
+    "ids": {
+      "prism": "yq2szxz0gh",
+      "bbref": "reyesfe01",
+      "fangraphs": "28763",
+      "mlbam": "694025",
+      "nfbc": "12654",
+      "sfbb": null,
+      "yahoo": "60025"
+    },
+    "names": {
+      "boxscore": "Reyes, F",
+      "givenFirst": "Felix",
+      "givenFirstMiddle": "Felix Yomael",
+      "firstLast": "Felix Reyes",
+      "lastFirst": "Reyes, Felix",
+      "lastFirstInit": "Reyes, F",
+      "givenFull": "Felix Yomael Reyes",
+      "last": "Reyes",
+      "first": "Felix",
+      "middle": "Yomael"
+    },
+    "profile": {
+      "birthDate": "2001-3-26",
+      "birthYear": "2001",
+      "birthMonth": "3",
+      "birthDay": "26",
+      "birthCity": "Bani",
+      "birthState": null,
+      "birthCountry": "Dominican Republic",
+      "batHand": "R",
+      "fieldHand": "R",
+      "debutDate": "2026-04-18"
+    },
+    "position": {
+      "code": "O",
+      "abbreviation": "OF"
+    },
+    "team": {
+      "mlb_id": 143,
+      "abbreviation": "PHI"
+    },
+    "status": {
+      "code": "A",
+      "description": "Active"
+    }
+  },
   "reyespa01": {
     "id": "r7zd3dkgym",
     "ids": {
@@ -61339,8 +61387,8 @@
       "abbreviation": "PIT"
     },
     "status": {
-      "code": "A",
-      "description": "Active"
+      "code": "RM",
+      "description": "Reassigned to Minors"
     }
   },
   "sandlni01": {
@@ -62683,8 +62731,8 @@
       "abbreviation": "WSH"
     },
     "status": {
-      "code": "A",
-      "description": "Active"
+      "code": "RM",
+      "description": "Reassigned to Minors"
     }
   },
   "schunaa01": {
@@ -65611,8 +65659,8 @@
       "abbreviation": "LAA"
     },
     "status": {
-      "code": "SU",
-      "description": "Suspended # days"
+      "code": "A",
+      "description": "Active"
     }
   },
   "sommedr01": {
@@ -66187,8 +66235,8 @@
       "abbreviation": "KC"
     },
     "status": {
-      "code": "A",
-      "description": "Active"
+      "code": "RM",
+      "description": "Reassigned to Minors"
     }
   },
   "spierca01": {
@@ -67291,8 +67339,8 @@
       "abbreviation": "MIA"
     },
     "status": {
-      "code": "D10",
-      "description": "Injured 10-Day"
+      "code": "A",
+      "description": "Active"
     }
   },
   "strahma01": {
@@ -70507,8 +70555,8 @@
       "abbreviation": "KC"
     },
     "status": {
-      "code": "A",
-      "description": "Active"
+      "code": "RM",
+      "description": "Reassigned to Minors"
     }
   },
   "tollepa01": {
@@ -74875,8 +74923,8 @@
       "abbreviation": "LAD"
     },
     "status": {
-      "code": "RM",
-      "description": "Reassigned to Minors"
+      "code": "A",
+      "description": "Active"
     }
   },
   "wardta01": {
