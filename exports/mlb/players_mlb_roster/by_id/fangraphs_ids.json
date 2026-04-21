@@ -7819,8 +7819,8 @@
       "abbreviation": "LAD"
     },
     "status": {
-      "code": "A",
-      "description": "Active"
+      "code": "D15",
+      "description": "Injured 15-Day"
     }
   },
   "14739": {
@@ -15595,8 +15595,8 @@
       "abbreviation": "HOU"
     },
     "status": {
-      "code": "D15",
-      "description": "Injured 15-Day"
+      "code": "D60",
+      "description": "Injured 60-Day"
     }
   },
   "17610": {
@@ -18283,8 +18283,8 @@
       "abbreviation": "WSH"
     },
     "status": {
-      "code": "RM",
-      "description": "Reassigned to Minors"
+      "code": "A",
+      "description": "Active"
     }
   },
   "18345": {
@@ -27211,8 +27211,8 @@
       "abbreviation": "SEA"
     },
     "status": {
-      "code": "D10",
-      "description": "Injured 10-Day"
+      "code": "D60",
+      "description": "Injured 60-Day"
     }
   },
   "20020": {
@@ -32923,8 +32923,8 @@
       "abbreviation": "KC"
     },
     "status": {
-      "code": "A",
-      "description": "Active"
+      "code": "D10",
+      "description": "Injured 10-Day"
     }
   },
   "21524": {
@@ -37147,8 +37147,8 @@
       "abbreviation": "HOU"
     },
     "status": {
-      "code": "A",
-      "description": "Active"
+      "code": "D10",
+      "description": "Injured 10-Day"
     }
   },
   "22284": {
@@ -37291,8 +37291,8 @@
       "abbreviation": "TB"
     },
     "status": {
-      "code": "A",
-      "description": "Active"
+      "code": "D15",
+      "description": "Injured 15-Day"
     }
   },
   "22294": {
@@ -39499,8 +39499,8 @@
       "abbreviation": "TB"
     },
     "status": {
-      "code": "D15",
-      "description": "Injured 15-Day"
+      "code": "D60",
+      "description": "Injured 60-Day"
     }
   },
   "23223": {
@@ -44299,8 +44299,8 @@
       "abbreviation": "SEA"
     },
     "status": {
-      "code": "A",
-      "description": "Active"
+      "code": "D10",
+      "description": "Injured 10-Day"
     }
   },
   "24703": {
@@ -46747,8 +46747,8 @@
       "abbreviation": "SEA"
     },
     "status": {
-      "code": null,
-      "description": null
+      "code": "A",
+      "description": "Active"
     }
   },
   "25436": {
@@ -47611,8 +47611,8 @@
       "abbreviation": "ATH"
     },
     "status": {
-      "code": "RM",
-      "description": "Reassigned to Minors"
+      "code": "A",
+      "description": "Active"
     }
   },
   "25589": {
@@ -48951,12 +48951,12 @@
       "abbreviation": "SS"
     },
     "team": {
-      "mlb_id": 147,
-      "abbreviation": "NYY"
+      "mlb_id": 117,
+      "abbreviation": "HOU"
     },
     "status": {
-      "code": null,
-      "description": null
+      "code": "A",
+      "description": "Active"
     }
   },
   "25839": {
@@ -54431,6 +54431,54 @@
       "description": "Reassigned to Minors"
     }
   },
+  "27449": {
+    "id": "c2cddtbckm",
+    "ids": {
+      "prism": "c2cddtbckm",
+      "bbref": "wardry01",
+      "fangraphs": "27449",
+      "mlbam": "669899",
+      "nfbc": "12307",
+      "sfbb": "wardry01",
+      "yahoo": "60243"
+    },
+    "names": {
+      "boxscore": "Ward",
+      "givenFirst": "Ryan",
+      "givenFirstMiddle": "Ryan Joseph",
+      "firstLast": "Ryan Ward",
+      "lastFirst": "Ward, Ryan",
+      "lastFirstInit": "Ward, R",
+      "givenFull": "Ryan Joseph Ward",
+      "last": "Ward",
+      "first": "Ryan",
+      "middle": "Joseph"
+    },
+    "profile": {
+      "birthDate": "1998-2-23",
+      "birthYear": "1998",
+      "birthMonth": "2",
+      "birthDay": "23",
+      "birthCity": "Worcester",
+      "birthState": "MA",
+      "birthCountry": "USA",
+      "batHand": "L",
+      "fieldHand": "R",
+      "debutDate": "2026-04-19"
+    },
+    "position": {
+      "code": "7",
+      "abbreviation": "LF"
+    },
+    "team": {
+      "mlb_id": 119,
+      "abbreviation": "LAD"
+    },
+    "status": {
+      "code": "A",
+      "description": "Active"
+    }
+  },
   "27451": {
     "id": "kegg0fde08",
     "ids": {
@@ -56683,8 +56731,8 @@
       "abbreviation": "LAD"
     },
     "status": {
-      "code": "RM",
-      "description": "Reassigned to Minors"
+      "code": "A",
+      "description": "Active"
     }
   },
   "27597": {
@@ -56971,8 +57019,8 @@
       "abbreviation": "KC"
     },
     "status": {
-      "code": "RM",
-      "description": "Reassigned to Minors"
+      "code": "A",
+      "description": "Active"
     }
   },
   "27636": {
@@ -58027,8 +58075,8 @@
       "abbreviation": "MIN"
     },
     "status": {
-      "code": "A",
-      "description": "Active"
+      "code": "D15",
+      "description": "Injured 15-Day"
     }
   },
   "27758": {
@@ -59707,8 +59755,8 @@
       "abbreviation": "MIA"
     },
     "status": {
-      "code": "D10",
-      "description": "Injured 10-Day"
+      "code": "RM",
+      "description": "Reassigned to Minors"
     }
   },
   "27967": {
@@ -60713,6 +60761,54 @@
     "team": {
       "mlb_id": 145,
       "abbreviation": "CWS"
+    },
+    "status": {
+      "code": "A",
+      "description": "Active"
+    }
+  },
+  "28901": {
+    "id": "r2m19s1m64",
+    "ids": {
+      "prism": "r2m19s1m64",
+      "bbref": "dotelwi01",
+      "fangraphs": "28901",
+      "mlbam": "696062",
+      "nfbc": "12549",
+      "sfbb": null,
+      "yahoo": "66381"
+    },
+    "names": {
+      "boxscore": "Dotel",
+      "givenFirst": "Wilber",
+      "givenFirstMiddle": "Wilber Bladimir",
+      "firstLast": "Wilber Dotel",
+      "lastFirst": "Dotel, Wilber",
+      "lastFirstInit": "Dotel, W",
+      "givenFull": "Wilber Bladimir Dotel",
+      "last": "Dotel",
+      "first": "Wilber",
+      "middle": "Bladimir"
+    },
+    "profile": {
+      "birthDate": "2002-9-25",
+      "birthYear": "2002",
+      "birthMonth": "9",
+      "birthDay": "25",
+      "birthCity": "Santo Domingo",
+      "birthState": null,
+      "birthCountry": "Dominican Republic",
+      "batHand": "R",
+      "fieldHand": "R",
+      "debutDate": "2026-04-19"
+    },
+    "position": {
+      "code": "1",
+      "abbreviation": "P"
+    },
+    "team": {
+      "mlb_id": 134,
+      "abbreviation": "PIT"
     },
     "status": {
       "code": "A",
@@ -69595,8 +69691,8 @@
       "abbreviation": "ATH"
     },
     "status": {
-      "code": "A",
-      "description": "Active"
+      "code": "RM",
+      "description": "Reassigned to Minors"
     }
   },
   "31751": {
@@ -76559,54 +76655,6 @@
       "description": null
     }
   },
-  "sa1169792": {
-    "id": "c2cddtbckm",
-    "ids": {
-      "prism": "c2cddtbckm",
-      "bbref": "wardry01",
-      "fangraphs": "sa1169792",
-      "mlbam": "669899",
-      "nfbc": "12307",
-      "sfbb": "wardry01",
-      "yahoo": "60243"
-    },
-    "names": {
-      "boxscore": "Ward",
-      "givenFirst": "Ryan",
-      "givenFirstMiddle": "Ryan Joseph",
-      "firstLast": "Ryan Ward",
-      "lastFirst": "Ward, Ryan",
-      "lastFirstInit": "Ward, R",
-      "givenFull": "Ryan Joseph Ward",
-      "last": "Ward",
-      "first": "Ryan",
-      "middle": "Joseph"
-    },
-    "profile": {
-      "birthDate": "1998-2-23",
-      "birthYear": "1998",
-      "birthMonth": "2",
-      "birthDay": "23",
-      "birthCity": "Worcester",
-      "birthState": "MA",
-      "birthCountry": "USA",
-      "batHand": "L",
-      "fieldHand": "R",
-      "debutDate": "2026-04-19"
-    },
-    "position": {
-      "code": "7",
-      "abbreviation": "LF"
-    },
-    "team": {
-      "mlb_id": 119,
-      "abbreviation": "LAD"
-    },
-    "status": {
-      "code": "A",
-      "description": "Active"
-    }
-  },
   "sa3003219": {
     "id": "k3v81g3jl0",
     "ids": {
@@ -77901,54 +77949,6 @@
     "status": {
       "code": "RM",
       "description": "Reassigned to Minors"
-    }
-  },
-  "sa3015163": {
-    "id": "r2m19s1m64",
-    "ids": {
-      "prism": "r2m19s1m64",
-      "bbref": null,
-      "fangraphs": "sa3015163",
-      "mlbam": "696062",
-      "nfbc": "12549",
-      "sfbb": null,
-      "yahoo": "66381"
-    },
-    "names": {
-      "boxscore": "Dotel",
-      "givenFirst": "Wilber",
-      "givenFirstMiddle": "Wilber Bladimir",
-      "firstLast": "Wilber Dotel",
-      "lastFirst": "Dotel, Wilber",
-      "lastFirstInit": "Dotel, W",
-      "givenFull": "Wilber Bladimir Dotel",
-      "last": "Dotel",
-      "first": "Wilber",
-      "middle": "Bladimir"
-    },
-    "profile": {
-      "birthDate": "2002-9-25",
-      "birthYear": "2002",
-      "birthMonth": "9",
-      "birthDay": "25",
-      "birthCity": "Santo Domingo",
-      "birthState": null,
-      "birthCountry": "Dominican Republic",
-      "batHand": "R",
-      "fieldHand": "R",
-      "debutDate": "2026-04-19"
-    },
-    "position": {
-      "code": "1",
-      "abbreviation": "P"
-    },
-    "team": {
-      "mlb_id": 134,
-      "abbreviation": "PIT"
-    },
-    "status": {
-      "code": "A",
-      "description": "Active"
     }
   },
   "sa3015277": {
@@ -81069,6 +81069,54 @@
     "status": {
       "code": "RM",
       "description": "Reassigned to Minors"
+    }
+  },
+  "sa3020608": {
+    "id": "b6r7xy7clh",
+    "ids": {
+      "prism": "b6r7xy7clh",
+      "bbref": null,
+      "fangraphs": "sa3020608",
+      "mlbam": "694680",
+      "nfbc": "12655",
+      "sfbb": null,
+      "yahoo": "60425"
+    },
+    "names": {
+      "boxscore": "Martin",
+      "givenFirst": "Trevor",
+      "givenFirstMiddle": "Trevor Zane",
+      "firstLast": "Trevor Martin",
+      "lastFirst": "Martin, Trevor",
+      "lastFirstInit": "Martin, T",
+      "givenFull": "Trevor Zane Martin",
+      "last": "Martin",
+      "first": "Trevor",
+      "middle": "Zane"
+    },
+    "profile": {
+      "birthDate": "2000-12-15",
+      "birthYear": "2000",
+      "birthMonth": "12",
+      "birthDay": "15",
+      "birthCity": "Poteau",
+      "birthState": "OK",
+      "birthCountry": "USA",
+      "batHand": "R",
+      "fieldHand": "R",
+      "debutDate": "2026-04-20"
+    },
+    "position": {
+      "code": "1",
+      "abbreviation": "P"
+    },
+    "team": {
+      "mlb_id": 139,
+      "abbreviation": "TB"
+    },
+    "status": {
+      "code": "A",
+      "description": "Active"
     }
   },
   "sa3020633": {

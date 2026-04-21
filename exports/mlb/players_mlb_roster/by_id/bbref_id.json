@@ -91,8 +91,8 @@
       "abbreviation": "MIN"
     },
     "status": {
-      "code": "A",
-      "description": "Active"
+      "code": "D15",
+      "description": "Injured 15-Day"
     }
   },
   "abnerph01": {
@@ -331,8 +331,8 @@
       "abbreviation": "MIA"
     },
     "status": {
-      "code": "D10",
-      "description": "Injured 10-Day"
+      "code": "RM",
+      "description": "Reassigned to Minors"
     }
   },
   "actonga01": {
@@ -1675,8 +1675,8 @@
       "abbreviation": "HOU"
     },
     "status": {
-      "code": "A",
-      "description": "Active"
+      "code": "D10",
+      "description": "Injured 10-Day"
     }
   },
   "alonspe01": {
@@ -4987,8 +4987,8 @@
       "abbreviation": "ATH"
     },
     "status": {
-      "code": "A",
-      "description": "Active"
+      "code": "RM",
+      "description": "Reassigned to Minors"
     }
   },
   "barnhtu01": {
@@ -5323,8 +5323,8 @@
       "abbreviation": "ATH"
     },
     "status": {
-      "code": "RM",
-      "description": "Reassigned to Minors"
+      "code": "A",
+      "description": "Active"
     }
   },
   "batybr01": {
@@ -17371,8 +17371,8 @@
       "abbreviation": "LAD"
     },
     "status": {
-      "code": "A",
-      "description": "Active"
+      "code": "D15",
+      "description": "Injured 15-Day"
     }
   },
   "diazel01": {
@@ -17945,6 +17945,54 @@
     "team": {
       "mlb_id": 136,
       "abbreviation": "SEA"
+    },
+    "status": {
+      "code": "D10",
+      "description": "Injured 10-Day"
+    }
+  },
+  "dotelwi01": {
+    "id": "r2m19s1m64",
+    "ids": {
+      "prism": "r2m19s1m64",
+      "bbref": "dotelwi01",
+      "fangraphs": "28901",
+      "mlbam": "696062",
+      "nfbc": "12549",
+      "sfbb": null,
+      "yahoo": "66381"
+    },
+    "names": {
+      "boxscore": "Dotel",
+      "givenFirst": "Wilber",
+      "givenFirstMiddle": "Wilber Bladimir",
+      "firstLast": "Wilber Dotel",
+      "lastFirst": "Dotel, Wilber",
+      "lastFirstInit": "Dotel, W",
+      "givenFull": "Wilber Bladimir Dotel",
+      "last": "Dotel",
+      "first": "Wilber",
+      "middle": "Bladimir"
+    },
+    "profile": {
+      "birthDate": "2002-9-25",
+      "birthYear": "2002",
+      "birthMonth": "9",
+      "birthDay": "25",
+      "birthCity": "Santo Domingo",
+      "birthState": null,
+      "birthCountry": "Dominican Republic",
+      "batHand": "R",
+      "fieldHand": "R",
+      "debutDate": "2026-04-19"
+    },
+    "position": {
+      "code": "1",
+      "abbreviation": "P"
+    },
+    "team": {
+      "mlb_id": 134,
+      "abbreviation": "PIT"
     },
     "status": {
       "code": "A",
@@ -18859,8 +18907,8 @@
       "abbreviation": "LAD"
     },
     "status": {
-      "code": "RM",
-      "description": "Reassigned to Minors"
+      "code": "A",
+      "description": "Active"
     }
   },
   "edmanto01": {
@@ -19531,8 +19579,8 @@
       "abbreviation": "TB"
     },
     "status": {
-      "code": "A",
-      "description": "Active"
+      "code": "D15",
+      "description": "Injured 15-Day"
     }
   },
   "englitr01": {
@@ -21067,8 +21115,8 @@
       "abbreviation": "WSH"
     },
     "status": {
-      "code": "RM",
-      "description": "Reassigned to Minors"
+      "code": "A",
+      "description": "Active"
     }
   },
   "fernary01": {
@@ -26923,8 +26971,8 @@
       "abbreviation": "TB"
     },
     "status": {
-      "code": "D15",
-      "description": "Injured 15-Day"
+      "code": "D60",
+      "description": "Injured 60-Day"
     }
   },
   "guentse01": {
@@ -32635,8 +32683,8 @@
       "abbreviation": "KC"
     },
     "status": {
-      "code": "A",
-      "description": "Active"
+      "code": "D10",
+      "description": "Injured 10-Day"
     }
   },
   "iriarja01": {
@@ -33307,8 +33355,8 @@
       "abbreviation": "HOU"
     },
     "status": {
-      "code": "D15",
-      "description": "Injured 15-Day"
+      "code": "D60",
+      "description": "Injured 60-Day"
     }
   },
   "jaxgr01": {
@@ -39787,8 +39835,8 @@
       "abbreviation": "KC"
     },
     "status": {
-      "code": "RM",
-      "description": "Reassigned to Minors"
+      "code": "A",
+      "description": "Active"
     }
   },
   "longsa01": {
@@ -42907,8 +42955,8 @@
       "abbreviation": "SEA"
     },
     "status": {
-      "code": "D10",
-      "description": "Injured 10-Day"
+      "code": "D60",
+      "description": "Injured 60-Day"
     }
   },
   "mateojo01": {
@@ -64023,12 +64071,12 @@
       "abbreviation": "SS"
     },
     "team": {
-      "mlb_id": 147,
-      "abbreviation": "NYY"
+      "mlb_id": 117,
+      "abbreviation": "HOU"
     },
     "status": {
-      "code": null,
-      "description": null
+      "code": "A",
+      "description": "Active"
     }
   },
   "shortza01": {
@@ -74932,7 +74980,7 @@
     "ids": {
       "prism": "c2cddtbckm",
       "bbref": "wardry01",
-      "fangraphs": "sa1169792",
+      "fangraphs": "27449",
       "mlbam": "669899",
       "nfbc": "12307",
       "sfbb": "wardry01",
@@ -77131,8 +77179,8 @@
       "abbreviation": "SEA"
     },
     "status": {
-      "code": null,
-      "description": null
+      "code": "A",
+      "description": "Active"
     }
   },
   "winanal01": {
