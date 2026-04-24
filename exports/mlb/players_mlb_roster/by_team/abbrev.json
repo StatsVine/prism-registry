@@ -4471,7 +4471,7 @@
       "ids": {
         "prism": "lve2d6fjkw",
         "bbref": "ritchjr01",
-        "fangraphs": "sa3020395",
+        "fangraphs": "31760",
         "mlbam": "702275",
         "nfbc": "12473",
         "sfbb": "ritchjr01",
@@ -8258,8 +8258,8 @@
         "abbreviation": "BAL"
       },
       "status": {
-        "code": "A",
-        "description": "Active"
+        "code": "RM",
+        "description": "Reassigned to Minors"
       }
     },
     {
@@ -8690,8 +8690,8 @@
         "abbreviation": "BAL"
       },
       "status": {
-        "code": "D7",
-        "description": "Injured 7-Day"
+        "code": "A",
+        "description": "Active"
       }
     },
     {
@@ -9122,8 +9122,8 @@
         "abbreviation": "BAL"
       },
       "status": {
-        "code": "A",
-        "description": "Active"
+        "code": "RM",
+        "description": "Reassigned to Minors"
       }
     },
     {
@@ -10514,8 +10514,8 @@
         "abbreviation": "BAL"
       },
       "status": {
-        "code": "D15",
-        "description": "Injured 15-Day"
+        "code": "A",
+        "description": "Active"
       }
     },
     {
@@ -13448,6 +13448,54 @@
       "status": {
         "code": "A",
         "description": "Active"
+      }
+    },
+    {
+      "id": "2e24phvw2w",
+      "ids": {
+        "prism": "2e24phvw2w",
+        "bbref": "lopezni01",
+        "fangraphs": "19339",
+        "mlbam": "670032",
+        "nfbc": "10301",
+        "sfbb": "lopezni01",
+        "yahoo": "11321"
+      },
+      "names": {
+        "boxscore": "Lopez, N",
+        "givenFirst": "Nicholas",
+        "givenFirstMiddle": "Nicholas",
+        "firstLast": "Nicky Lopez",
+        "lastFirst": "Lopez, Nicky",
+        "lastFirstInit": "Lopez, N",
+        "givenFull": "Nicholas Lopez",
+        "last": "Lopez",
+        "first": "Nicky",
+        "middle": null
+      },
+      "profile": {
+        "birthDate": "1995-3-13",
+        "birthYear": "1995",
+        "birthMonth": "3",
+        "birthDay": "13",
+        "birthCity": "Naperville",
+        "birthState": "IL",
+        "birthCountry": "USA",
+        "batHand": "L",
+        "fieldHand": "R",
+        "debutDate": "2019-05-14"
+      },
+      "position": {
+        "code": "6",
+        "abbreviation": "SS"
+      },
+      "team": {
+        "mlb_id": 112,
+        "abbreviation": "CHC"
+      },
+      "status": {
+        "code": null,
+        "description": null
       }
     },
     {
@@ -20273,54 +20321,6 @@
   ],
   "COL": [
     {
-      "id": "2e24phvw2w",
-      "ids": {
-        "prism": "2e24phvw2w",
-        "bbref": "lopezni01",
-        "fangraphs": "19339",
-        "mlbam": "670032",
-        "nfbc": "10301",
-        "sfbb": "lopezni01",
-        "yahoo": "11321"
-      },
-      "names": {
-        "boxscore": "Lopez, N",
-        "givenFirst": "Nicholas",
-        "givenFirstMiddle": "Nicholas",
-        "firstLast": "Nicky Lopez",
-        "lastFirst": "Lopez, Nicky",
-        "lastFirstInit": "Lopez, N",
-        "givenFull": "Nicholas Lopez",
-        "last": "Lopez",
-        "first": "Nicky",
-        "middle": null
-      },
-      "profile": {
-        "birthDate": "1995-3-13",
-        "birthYear": "1995",
-        "birthMonth": "3",
-        "birthDay": "13",
-        "birthCity": "Naperville",
-        "birthState": "IL",
-        "birthCountry": "USA",
-        "batHand": "L",
-        "fieldHand": "R",
-        "debutDate": "2019-05-14"
-      },
-      "position": {
-        "code": "5",
-        "abbreviation": "3B"
-      },
-      "team": {
-        "mlb_id": 115,
-        "abbreviation": "COL"
-      },
-      "status": {
-        "code": null,
-        "description": null
-      }
-    },
-    {
       "id": "3cgx0c7yy4",
       "ids": {
         "prism": "3cgx0c7yy4",
@@ -20940,8 +20940,8 @@
         "abbreviation": "COL"
       },
       "status": {
-        "code": "A",
-        "description": "Active"
+        "code": "D15",
+        "description": "Injured 15-Day"
       }
     },
     {
@@ -21660,8 +21660,8 @@
         "abbreviation": "COL"
       },
       "status": {
-        "code": "RM",
-        "description": "Reassigned to Minors"
+        "code": "A",
+        "description": "Active"
       }
     },
     {
@@ -41500,8 +41500,8 @@
         "abbreviation": "MIL"
       },
       "status": {
-        "code": "A",
-        "description": "Active"
+        "code": "RM",
+        "description": "Reassigned to Minors"
       }
     },
     {
@@ -42072,12 +42072,12 @@
         "abbreviation": "RF"
       },
       "team": {
-        "mlb_id": 158,
+        "mlb_id": "MIL",
         "abbreviation": "MIL"
       },
       "status": {
-        "code": "A",
-        "description": "Active"
+        "code": null,
+        "description": null
       }
     },
     {
@@ -42508,8 +42508,8 @@
         "abbreviation": "MIL"
       },
       "status": {
-        "code": "RM",
-        "description": "Reassigned to Minors"
+        "code": "A",
+        "description": "Active"
       }
     },
     {
@@ -42604,8 +42604,8 @@
         "abbreviation": "MIL"
       },
       "status": {
-        "code": "RM",
-        "description": "Reassigned to Minors"
+        "code": "A",
+        "description": "Active"
       }
     },
     {
@@ -45342,8 +45342,8 @@
         "abbreviation": "MIN"
       },
       "status": {
-        "code": "PL",
-        "description": "Paternity List"
+        "code": "A",
+        "description": "Active"
       }
     },
     {
@@ -45630,8 +45630,8 @@
         "abbreviation": "MIN"
       },
       "status": {
-        "code": "A",
-        "description": "Active"
+        "code": "RM",
+        "description": "Reassigned to Minors"
       }
     },
     {
@@ -46304,8 +46304,8 @@
         "abbreviation": "NYM"
       },
       "status": {
-        "code": null,
-        "description": null
+        "code": "A",
+        "description": "Active"
       }
     },
     {
@@ -47984,8 +47984,8 @@
         "abbreviation": "NYM"
       },
       "status": {
-        "code": "A",
-        "description": "Active"
+        "code": "RM",
+        "description": "Reassigned to Minors"
       }
     },
     {
@@ -50199,6 +50199,54 @@
       }
     },
     {
+      "id": "t3lrfzwzpr",
+      "ids": {
+        "prism": "t3lrfzwzpr",
+        "bbref": "montera01",
+        "fangraphs": "12760",
+        "mlbam": "606160",
+        "nfbc": "8682",
+        "sfbb": "montera01",
+        "yahoo": "9598"
+      },
+      "names": {
+        "boxscore": "Montero, R",
+        "givenFirst": "Rafael",
+        "givenFirstMiddle": "Rafael",
+        "firstLast": "Rafael Montero",
+        "lastFirst": "Montero, Rafael",
+        "lastFirstInit": "Montero, R",
+        "givenFull": "Rafael Montero",
+        "last": "Montero",
+        "first": "Rafael",
+        "middle": null
+      },
+      "profile": {
+        "birthDate": "1990-10-17",
+        "birthYear": "1990",
+        "birthMonth": "10",
+        "birthDay": "17",
+        "birthCity": "Higuerito",
+        "birthState": null,
+        "birthCountry": "Dominican Republic",
+        "batHand": "R",
+        "fieldHand": "R",
+        "debutDate": "2014-05-14"
+      },
+      "position": {
+        "code": "1",
+        "abbreviation": "P"
+      },
+      "team": {
+        "mlb_id": 147,
+        "abbreviation": "NYY"
+      },
+      "status": {
+        "code": null,
+        "description": null
+      }
+    },
+    {
       "id": "thdk6ee42d",
       "ids": {
         "prism": "thdk6ee42d",
@@ -51012,8 +51060,8 @@
         "abbreviation": "PHI"
       },
       "status": {
-        "code": "RM",
-        "description": "Reassigned to Minors"
+        "code": "A",
+        "description": "Active"
       }
     },
     {
@@ -54438,7 +54486,7 @@
         "yahoo": "11713"
       },
       "names": {
-        "boxscore": "Ramírez, Y",
+        "boxscore": "Ramírez",
         "givenFirst": "Yohan",
         "givenFirstMiddle": "Yohan Manuel",
         "firstLast": "Yohan Ramírez",
@@ -72726,8 +72774,8 @@
         "abbreviation": "WSH"
       },
       "status": {
-        "code": "RM",
-        "description": "Reassigned to Minors"
+        "code": "A",
+        "description": "Active"
       }
     },
     {
