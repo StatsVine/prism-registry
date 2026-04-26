@@ -3211,8 +3211,8 @@
       "abbreviation": "CLE"
     },
     "status": {
-      "code": "A",
-      "description": "Active"
+      "code": "D15",
+      "description": "Injured 15-Day"
     }
   },
   "arozara01": {
@@ -5899,8 +5899,8 @@
       "abbreviation": "WSH"
     },
     "status": {
-      "code": "A",
-      "description": "Active"
+      "code": "D15",
+      "description": "Injured 15-Day"
     }
   },
   "bellico01": {
@@ -12091,8 +12091,8 @@
       "abbreviation": "COL"
     },
     "status": {
-      "code": "RM",
-      "description": "Reassigned to Minors"
+      "code": "A",
+      "description": "Active"
     }
   },
   "casteni01": {
@@ -12763,8 +12763,8 @@
       "abbreviation": "WSH"
     },
     "status": {
-      "code": "A",
-      "description": "Active"
+      "code": "RM",
+      "description": "Reassigned to Minors"
     }
   },
   "chapmar01": {
@@ -26299,8 +26299,8 @@
       "abbreviation": "WSH"
     },
     "status": {
-      "code": "RM",
-      "description": "Reassigned to Minors"
+      "code": "A",
+      "description": "Active"
     }
   },
   "gratebr01": {
@@ -28171,8 +28171,8 @@
       "abbreviation": "DET"
     },
     "status": {
-      "code": "RM",
-      "description": "Reassigned to Minors"
+      "code": "A",
+      "description": "Active"
     }
   },
   "hanigmi01": {
@@ -29323,8 +29323,8 @@
       "abbreviation": "BAL"
     },
     "status": {
-      "code": "BRV",
-      "description": "Bereavement List"
+      "code": "A",
+      "description": "Active"
     }
   },
   "henceti01": {
@@ -30763,8 +30763,8 @@
       "abbreviation": "CIN"
     },
     "status": {
-      "code": "A",
-      "description": "Active"
+      "code": "RM",
+      "description": "Reassigned to Minors"
     }
   },
   "hillde01": {
@@ -31579,8 +31579,8 @@
       "abbreviation": "CLE"
     },
     "status": {
-      "code": "RM",
-      "description": "Reassigned to Minors"
+      "code": "A",
+      "description": "Active"
     }
   },
   "hollija01": {
@@ -32535,12 +32535,12 @@
       "abbreviation": "3B"
     },
     "team": {
-      "mlb_id": 133,
+      "mlb_id": "ATH",
       "abbreviation": "ATH"
     },
     "status": {
-      "code": "A",
-      "description": "Active"
+      "code": null,
+      "description": null
     }
   },
   "iglesjo01": {
@@ -38923,8 +38923,8 @@
       "abbreviation": "TB"
     },
     "status": {
-      "code": "NYR",
-      "description": "Not Yet Reported"
+      "code": "A",
+      "description": "Active"
     }
   },
   "leiteja01": {
@@ -43003,8 +43003,8 @@
       "abbreviation": "TB"
     },
     "status": {
-      "code": "A",
-      "description": "Active"
+      "code": "RM",
+      "description": "Reassigned to Minors"
     }
   },
   "massemi02": {
@@ -60283,8 +60283,8 @@
       "abbreviation": "ATH"
     },
     "status": {
-      "code": "D10",
-      "description": "Injured 10-Day"
+      "code": "A",
+      "description": "Active"
     }
   },
   "roonejo01": {
@@ -63019,8 +63019,8 @@
       "abbreviation": "WSH"
     },
     "status": {
-      "code": "RM",
-      "description": "Reassigned to Minors"
+      "code": "A",
+      "description": "Active"
     }
   },
   "schunaa01": {
@@ -63451,8 +63451,8 @@
       "abbreviation": "DET"
     },
     "status": {
-      "code": "A",
-      "description": "Active"
+      "code": "D15",
+      "description": "Injured 15-Day"
     }
   },
   "seageco01": {
@@ -68247,12 +68247,12 @@
       "abbreviation": "P"
     },
     "team": {
-      "mlb_id": 110,
+      "mlb_id": "BAL",
       "abbreviation": "BAL"
     },
     "status": {
-      "code": "A",
-      "description": "Active"
+      "code": null,
+      "description": null
     }
   },
   "suareeu01": {
@@ -71611,8 +71611,8 @@
       "abbreviation": "CIN"
     },
     "status": {
-      "code": "D10",
-      "description": "Injured 10-Day"
+      "code": "A",
+      "description": "Active"
     }
   },
   "trianja01": {
@@ -73583,6 +73583,54 @@
       "description": "Reassigned to Minors"
     }
   },
+  "velasvi01": {
+    "id": "wlcc1kqp7r",
+    "ids": {
+      "prism": "wlcc1kqp7r",
+      "bbref": "velasvi01",
+      "fangraphs": "11189",
+      "mlbam": "592826",
+      "nfbc": "9070",
+      "sfbb": "velasvi01",
+      "yahoo": "9992"
+    },
+    "names": {
+      "boxscore": "Velasquez",
+      "givenFirst": "Vincent",
+      "givenFirstMiddle": "Vincent John",
+      "firstLast": "Vince Velasquez",
+      "lastFirst": "Velasquez, Vince",
+      "lastFirstInit": "Velasquez, V",
+      "givenFull": "Vincent John Velasquez",
+      "last": "Velasquez",
+      "first": "Vince",
+      "middle": "John"
+    },
+    "profile": {
+      "birthDate": "1992-6-7",
+      "birthYear": "1992",
+      "birthMonth": "6",
+      "birthDay": "7",
+      "birthCity": "Montclair",
+      "birthState": "CA",
+      "birthCountry": "USA",
+      "batHand": "R",
+      "fieldHand": "R",
+      "debutDate": "2015-06-10"
+    },
+    "position": {
+      "code": "1",
+      "abbreviation": "P"
+    },
+    "team": {
+      "mlb_id": 112,
+      "abbreviation": "CHC"
+    },
+    "status": {
+      "code": "A",
+      "description": "Active"
+    }
+  },
   "venezan01": {
     "id": "x6mv361y7d",
     "ids": {
@@ -75403,8 +75451,8 @@
       "abbreviation": "NYM"
     },
     "status": {
-      "code": "RM",
-      "description": "Reassigned to Minors"
+      "code": "A",
+      "description": "Active"
     }
   },
   "warrewi01": {

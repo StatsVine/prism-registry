@@ -6816,8 +6816,8 @@
         "abbreviation": "BAL"
       },
       "status": {
-        "code": "BRV",
-        "description": "Bereavement List"
+        "code": "A",
+        "description": "Active"
       }
     },
     {
@@ -7050,54 +7050,6 @@
       "position": {
         "code": "2",
         "abbreviation": "C"
-      },
-      "team": {
-        "mlb_id": 110,
-        "abbreviation": "BAL"
-      },
-      "status": {
-        "code": "A",
-        "description": "Active"
-      }
-    },
-    {
-      "id": "j2j4k56zf4",
-      "ids": {
-        "prism": "j2j4k56zf4",
-        "bbref": "suareal01",
-        "fangraphs": "6175",
-        "mlbam": "544150",
-        "nfbc": "9358",
-        "sfbb": "suareal01",
-        "yahoo": "10285"
-      },
-      "names": {
-        "boxscore": "Suárez, A",
-        "givenFirst": "Albert",
-        "givenFirstMiddle": "Albert Joe",
-        "firstLast": "Albert Suárez",
-        "lastFirst": "Suárez, Albert",
-        "lastFirstInit": "Suárez, A",
-        "givenFull": "Albert Joe Suárez",
-        "last": "Suárez",
-        "first": "Albert",
-        "middle": "Joe"
-      },
-      "profile": {
-        "birthDate": "1989-10-8",
-        "birthYear": "1989",
-        "birthMonth": "10",
-        "birthDay": "8",
-        "birthCity": "San Felix",
-        "birthState": null,
-        "birthCountry": "Venezuela",
-        "batHand": "R",
-        "fieldHand": "R",
-        "debutDate": "2016-05-08"
-      },
-      "position": {
-        "code": "1",
-        "abbreviation": "P"
       },
       "team": {
         "mlb_id": 110,
@@ -12777,6 +12729,54 @@
       }
     },
     {
+      "id": "wlcc1kqp7r",
+      "ids": {
+        "prism": "wlcc1kqp7r",
+        "bbref": "velasvi01",
+        "fangraphs": "11189",
+        "mlbam": "592826",
+        "nfbc": "9070",
+        "sfbb": "velasvi01",
+        "yahoo": "9992"
+      },
+      "names": {
+        "boxscore": "Velasquez",
+        "givenFirst": "Vincent",
+        "givenFirstMiddle": "Vincent John",
+        "firstLast": "Vince Velasquez",
+        "lastFirst": "Velasquez, Vince",
+        "lastFirstInit": "Velasquez, V",
+        "givenFull": "Vincent John Velasquez",
+        "last": "Velasquez",
+        "first": "Vince",
+        "middle": "John"
+      },
+      "profile": {
+        "birthDate": "1992-6-7",
+        "birthYear": "1992",
+        "birthMonth": "6",
+        "birthDay": "7",
+        "birthCity": "Montclair",
+        "birthState": "CA",
+        "birthCountry": "USA",
+        "batHand": "R",
+        "fieldHand": "R",
+        "debutDate": "2015-06-10"
+      },
+      "position": {
+        "code": "1",
+        "abbreviation": "P"
+      },
+      "team": {
+        "mlb_id": 112,
+        "abbreviation": "CHC"
+      },
+      "status": {
+        "code": "A",
+        "description": "Active"
+      }
+    },
+    {
       "id": "xkdps6ldmw",
       "ids": {
         "prism": "xkdps6ldmw",
@@ -14838,8 +14838,8 @@
         "abbreviation": "CIN"
       },
       "status": {
-        "code": "D10",
-        "description": "Injured 10-Day"
+        "code": "A",
+        "description": "Active"
       }
     },
     {
@@ -15366,8 +15366,8 @@
         "abbreviation": "CIN"
       },
       "status": {
-        "code": "A",
-        "description": "Active"
+        "code": "RM",
+        "description": "Reassigned to Minors"
       }
     },
     {
@@ -16424,8 +16424,8 @@
         "abbreviation": "CLE"
       },
       "status": {
-        "code": "A",
-        "description": "Active"
+        "code": "D15",
+        "description": "Injured 15-Day"
       }
     },
     {
@@ -17288,8 +17288,8 @@
         "abbreviation": "CLE"
       },
       "status": {
-        "code": "RM",
-        "description": "Reassigned to Minors"
+        "code": "A",
+        "description": "Active"
       }
     },
     {
@@ -18250,8 +18250,8 @@
         "abbreviation": "COL"
       },
       "status": {
-        "code": "RM",
-        "description": "Reassigned to Minors"
+        "code": "A",
+        "description": "Active"
       }
     },
     {
@@ -21324,8 +21324,8 @@
         "abbreviation": "DET"
       },
       "status": {
-        "code": "RM",
-        "description": "Reassigned to Minors"
+        "code": "A",
+        "description": "Active"
       }
     },
     {
@@ -21852,8 +21852,8 @@
         "abbreviation": "DET"
       },
       "status": {
-        "code": "A",
-        "description": "Active"
+        "code": "D15",
+        "description": "Injured 15-Day"
       }
     },
     {
@@ -31220,8 +31220,8 @@
         "abbreviation": "WSH"
       },
       "status": {
-        "code": "A",
-        "description": "Active"
+        "code": "D15",
+        "description": "Injured 15-Day"
       }
     },
     {
@@ -32036,8 +32036,8 @@
         "abbreviation": "WSH"
       },
       "status": {
-        "code": "RM",
-        "description": "Reassigned to Minors"
+        "code": "A",
+        "description": "Active"
       }
     },
     {
@@ -32660,8 +32660,8 @@
         "abbreviation": "WSH"
       },
       "status": {
-        "code": "A",
-        "description": "Active"
+        "code": "RM",
+        "description": "Reassigned to Minors"
       }
     },
     {
@@ -33236,8 +33236,8 @@
         "abbreviation": "WSH"
       },
       "status": {
-        "code": "RM",
-        "description": "Reassigned to Minors"
+        "code": "A",
+        "description": "Active"
       }
     },
     {
@@ -34486,8 +34486,8 @@
         "abbreviation": "NYM"
       },
       "status": {
-        "code": "RM",
-        "description": "Reassigned to Minors"
+        "code": "A",
+        "description": "Active"
       }
     },
     {
@@ -36557,54 +36557,6 @@
       }
     },
     {
-      "id": "blqpyfwwyr",
-      "ids": {
-        "prism": "blqpyfwwyr",
-        "bbref": "ibanean01",
-        "fangraphs": "18819",
-        "mlbam": "628451",
-        "nfbc": "10979",
-        "sfbb": "ibanean01",
-        "yahoo": "10607"
-      },
-      "names": {
-        "boxscore": "Ibáñez",
-        "givenFirst": "Andy",
-        "givenFirstMiddle": "Andy",
-        "firstLast": "Andy Ibáñez",
-        "lastFirst": "Ibáñez, Andy",
-        "lastFirstInit": "Ibáñez, A",
-        "givenFull": "Andy Ibáñez",
-        "last": "Ibáñez",
-        "first": "Andy",
-        "middle": null
-      },
-      "profile": {
-        "birthDate": "1993-4-3",
-        "birthYear": "1993",
-        "birthMonth": "4",
-        "birthDay": "3",
-        "birthCity": "Havana",
-        "birthState": null,
-        "birthCountry": "Cuba",
-        "batHand": "R",
-        "fieldHand": "R",
-        "debutDate": "2021-05-04"
-      },
-      "position": {
-        "code": "5",
-        "abbreviation": "3B"
-      },
-      "team": {
-        "mlb_id": 133,
-        "abbreviation": "ATH"
-      },
-      "status": {
-        "code": "A",
-        "description": "Active"
-      }
-    },
-    {
       "id": "c121jwen0m",
       "ids": {
         "prism": "c121jwen0m",
@@ -38136,8 +38088,8 @@
         "abbreviation": "ATH"
       },
       "status": {
-        "code": "D10",
-        "description": "Injured 10-Day"
+        "code": "A",
+        "description": "Active"
       }
     },
     {
@@ -51060,8 +51012,8 @@
         "abbreviation": "TB"
       },
       "status": {
-        "code": "A",
-        "description": "Active"
+        "code": "RM",
+        "description": "Reassigned to Minors"
       }
     },
     {
@@ -52404,8 +52356,8 @@
         "abbreviation": "TB"
       },
       "status": {
-        "code": "NYR",
-        "description": "Not Yet Reported"
+        "code": "A",
+        "description": "Active"
       }
     },
     {
@@ -56394,6 +56346,54 @@
       "status": {
         "code": null,
         "description": null
+      }
+    },
+    {
+      "id": "d0fnkkd9em",
+      "ids": {
+        "prism": "d0fnkkd9em",
+        "bbref": null,
+        "fangraphs": "sa3009539",
+        "mlbam": "682818",
+        "nfbc": "12133",
+        "sfbb": null,
+        "yahoo": "12389"
+      },
+      "names": {
+        "boxscore": "Pinango",
+        "givenFirst": "Yohendrick",
+        "givenFirstMiddle": "Yohendrick Alexander",
+        "firstLast": "Yohendrick Pinango",
+        "lastFirst": "Pinango, Yohendrick",
+        "lastFirstInit": "Pinango, Y",
+        "givenFull": "Yohendrick Alexander Pinango",
+        "last": "Pinango",
+        "first": "Yohendrick",
+        "middle": "Alexander"
+      },
+      "profile": {
+        "birthDate": "2002-5-7",
+        "birthYear": "2002",
+        "birthMonth": "5",
+        "birthDay": "7",
+        "birthCity": "Carora",
+        "birthState": null,
+        "birthCountry": "Venezuela",
+        "batHand": "L",
+        "fieldHand": "L",
+        "debutDate": null
+      },
+      "position": {
+        "code": "7",
+        "abbreviation": "LF"
+      },
+      "team": {
+        "mlb_id": 141,
+        "abbreviation": "TOR"
+      },
+      "status": {
+        "code": "A",
+        "description": "Active"
       }
     },
     {
@@ -75032,6 +75032,106 @@
       "status": {
         "code": "A",
         "description": "Active"
+      }
+    }
+  ],
+  "ATH": [
+    {
+      "id": "blqpyfwwyr",
+      "ids": {
+        "prism": "blqpyfwwyr",
+        "bbref": "ibanean01",
+        "fangraphs": "18819",
+        "mlbam": "628451",
+        "nfbc": "10979",
+        "sfbb": "ibanean01",
+        "yahoo": "10607"
+      },
+      "names": {
+        "boxscore": "Ibáñez",
+        "givenFirst": "Andy",
+        "givenFirstMiddle": "Andy",
+        "firstLast": "Andy Ibáñez",
+        "lastFirst": "Ibáñez, Andy",
+        "lastFirstInit": "Ibáñez, A",
+        "givenFull": "Andy Ibáñez",
+        "last": "Ibáñez",
+        "first": "Andy",
+        "middle": null
+      },
+      "profile": {
+        "birthDate": "1993-4-3",
+        "birthYear": "1993",
+        "birthMonth": "4",
+        "birthDay": "3",
+        "birthCity": "Havana",
+        "birthState": null,
+        "birthCountry": "Cuba",
+        "batHand": "R",
+        "fieldHand": "R",
+        "debutDate": "2021-05-04"
+      },
+      "position": {
+        "code": "5",
+        "abbreviation": "3B"
+      },
+      "team": {
+        "mlb_id": "ATH",
+        "abbreviation": "ATH"
+      },
+      "status": {
+        "code": null,
+        "description": null
+      }
+    }
+  ],
+  "BAL": [
+    {
+      "id": "j2j4k56zf4",
+      "ids": {
+        "prism": "j2j4k56zf4",
+        "bbref": "suareal01",
+        "fangraphs": "6175",
+        "mlbam": "544150",
+        "nfbc": "9358",
+        "sfbb": "suareal01",
+        "yahoo": "10285"
+      },
+      "names": {
+        "boxscore": "Suárez, A",
+        "givenFirst": "Albert",
+        "givenFirstMiddle": "Albert Joe",
+        "firstLast": "Albert Suárez",
+        "lastFirst": "Suárez, Albert",
+        "lastFirstInit": "Suárez, A",
+        "givenFull": "Albert Joe Suárez",
+        "last": "Suárez",
+        "first": "Albert",
+        "middle": "Joe"
+      },
+      "profile": {
+        "birthDate": "1989-10-8",
+        "birthYear": "1989",
+        "birthMonth": "10",
+        "birthDay": "8",
+        "birthCity": "San Felix",
+        "birthState": null,
+        "birthCountry": "Venezuela",
+        "batHand": "R",
+        "fieldHand": "R",
+        "debutDate": "2016-05-08"
+      },
+      "position": {
+        "code": "1",
+        "abbreviation": "P"
+      },
+      "team": {
+        "mlb_id": "BAL",
+        "abbreviation": "BAL"
+      },
+      "status": {
+        "code": null,
+        "description": null
       }
     }
   ],
