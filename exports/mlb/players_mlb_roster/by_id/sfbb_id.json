@@ -331,8 +331,8 @@
       "abbreviation": "MIN"
     },
     "status": {
-      "code": "A",
-      "description": "Active"
+      "code": "D15",
+      "description": "Injured 15-Day"
     }
   },
   "acunalu01": {
@@ -3115,8 +3115,8 @@
       "abbreviation": "PIT"
     },
     "status": {
-      "code": "BRV",
-      "description": "Bereavement List"
+      "code": "A",
+      "description": "Active"
     }
   },
   "ashcrgr01": {
@@ -3355,8 +3355,8 @@
       "abbreviation": "KC"
     },
     "status": {
-      "code": "RM",
-      "description": "Reassigned to Minors"
+      "code": "A",
+      "description": "Active"
     }
   },
   "azocajo01": {
@@ -4219,8 +4219,8 @@
       "abbreviation": "PIT"
     },
     "status": {
-      "code": "RM",
-      "description": "Reassigned to Minors"
+      "code": "A",
+      "description": "Active"
     }
   },
   "bargead01": {
@@ -4937,6 +4937,54 @@
     "team": {
       "mlb_id": 110,
       "abbreviation": "BAL"
+    },
+    "status": {
+      "code": "A",
+      "description": "Active"
+    }
+  },
+  "bazzatr01": {
+    "id": "qx6tzv22kh",
+    "ids": {
+      "prism": "qx6tzv22kh",
+      "bbref": "bazzatr01",
+      "fangraphs": "sa3025129",
+      "mlbam": "683953",
+      "nfbc": "12216",
+      "sfbb": "bazzatr01",
+      "yahoo": "64311"
+    },
+    "names": {
+      "boxscore": "Bazzana",
+      "givenFirst": "Travis",
+      "givenFirstMiddle": "Travis William",
+      "firstLast": "Travis Bazzana",
+      "lastFirst": "Bazzana, Travis",
+      "lastFirstInit": "Bazzana, T",
+      "givenFull": "Travis  Bazzana",
+      "last": "Bazzana",
+      "first": "Travis",
+      "middle": "William"
+    },
+    "profile": {
+      "birthDate": "2002-8-28",
+      "birthYear": "2002",
+      "birthMonth": "8",
+      "birthDay": "28",
+      "birthCity": "Hornsby",
+      "birthState": "NSW",
+      "birthCountry": "Australia",
+      "batHand": "L",
+      "fieldHand": "R",
+      "debutDate": "2026-04-28"
+    },
+    "position": {
+      "code": "4",
+      "abbreviation": "2B"
+    },
+    "team": {
+      "mlb_id": 114,
+      "abbreviation": "CLE"
     },
     "status": {
       "code": "A",
@@ -7243,8 +7291,8 @@
       "abbreviation": "PHI"
     },
     "status": {
-      "code": "D15",
-      "description": "Injured 15-Day"
+      "code": "A",
+      "description": "Active"
     }
   },
   "bowmama01": {
@@ -8155,8 +8203,8 @@
       "abbreviation": "CLE"
     },
     "status": {
-      "code": "A",
-      "description": "Active"
+      "code": "RM",
+      "description": "Reassigned to Minors"
     }
   },
   "brogdco01": {
@@ -17899,8 +17947,8 @@
       "abbreviation": "MIA"
     },
     "status": {
-      "code": "A",
-      "description": "Active"
+      "code": "D15",
+      "description": "Injured 15-Day"
     }
   },
   "faircst01": {
@@ -19095,12 +19143,12 @@
       "abbreviation": "2B"
     },
     "team": {
-      "mlb_id": 141,
-      "abbreviation": "TOR"
+      "mlb_id": 119,
+      "abbreviation": "LAD"
     },
     "status": {
-      "code": null,
-      "description": null
+      "code": "NYR",
+      "description": "Not Yet Reported"
     }
   },
   "flaheja01": {
@@ -20011,8 +20059,8 @@
       "abbreviation": "COL"
     },
     "status": {
-      "code": "D15",
-      "description": "Injured 15-Day"
+      "code": "A",
+      "description": "Active"
     }
   },
   "freemco01": {
@@ -20395,8 +20443,8 @@
       "abbreviation": "ATL"
     },
     "status": {
-      "code": "RM",
-      "description": "Reassigned to Minors"
+      "code": "A",
+      "description": "Active"
     }
   },
   "fulfobr01": {
@@ -20971,8 +21019,8 @@
       "abbreviation": "MIN"
     },
     "status": {
-      "code": null,
-      "description": null
+      "code": "A",
+      "description": "Active"
     }
   },
   "garcilu04": {
@@ -21739,8 +21787,8 @@
       "abbreviation": "MIA"
     },
     "status": {
-      "code": "RM",
-      "description": "Reassigned to Minors"
+      "code": "A",
+      "description": "Active"
     }
   },
   "gibsoky01": {
@@ -24811,8 +24859,8 @@
       "abbreviation": "ATH"
     },
     "status": {
-      "code": "RM",
-      "description": "Reassigned to Minors"
+      "code": "A",
+      "description": "Active"
     }
   },
   "harridu01": {
@@ -32587,8 +32635,8 @@
       "abbreviation": "LAD"
     },
     "status": {
-      "code": "D15",
-      "description": "Injured 15-Day"
+      "code": "D60",
+      "description": "Injured 60-Day"
     }
   },
   "kniznan01": {
@@ -34075,8 +34123,8 @@
       "abbreviation": "ATL"
     },
     "status": {
-      "code": "A",
-      "description": "Active"
+      "code": "PL",
+      "description": "Paternity List"
     }
   },
   "leeha02": {
@@ -43531,8 +43579,8 @@
       "abbreviation": "ATH"
     },
     "status": {
-      "code": "A",
-      "description": "Active"
+      "code": "D10",
+      "description": "Injured 10-Day"
     }
   },
   "munozan01": {
@@ -55003,8 +55051,8 @@
       "abbreviation": "NYY"
     },
     "status": {
-      "code": "RM",
-      "description": "Reassigned to Minors"
+      "code": "A",
+      "description": "Active"
     }
   },
   "schulno01": {
@@ -55243,8 +55291,8 @@
       "abbreviation": "NYM"
     },
     "status": {
-      "code": "RM",
-      "description": "Reassigned to Minors"
+      "code": "A",
+      "description": "Active"
     }
   },
   "scottta01": {
@@ -55579,8 +55627,8 @@
       "abbreviation": "NYM"
     },
     "status": {
-      "code": "A",
-      "description": "Active"
+      "code": "D15",
+      "description": "Injured 15-Day"
     }
   },
   "senzaan01": {
@@ -58507,8 +58555,8 @@
       "abbreviation": "NYY"
     },
     "status": {
-      "code": "A",
-      "description": "Active"
+      "code": "D10",
+      "description": "Injured 10-Day"
     }
   },
   "steelju01": {
@@ -69403,8 +69451,8 @@
       "abbreviation": "TOR"
     },
     "status": {
-      "code": "D15",
-      "description": "Injured 15-Day"
+      "code": "A",
+      "description": "Active"
     }
   },
   "yohocr01": {
