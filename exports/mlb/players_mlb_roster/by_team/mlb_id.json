@@ -10418,8 +10418,8 @@
         "abbreviation": "BOS"
       },
       "status": {
-        "code": "A",
-        "description": "Active"
+        "code": "RM",
+        "description": "Reassigned to Minors"
       }
     },
     {
@@ -14358,8 +14358,8 @@
         "abbreviation": "CIN"
       },
       "status": {
-        "code": "RM",
-        "description": "Reassigned to Minors"
+        "code": "A",
+        "description": "Active"
       }
     },
     {
@@ -14646,8 +14646,8 @@
         "abbreviation": "CIN"
       },
       "status": {
-        "code": "A",
-        "description": "Active"
+        "code": "D15",
+        "description": "Injured 15-Day"
       }
     },
     {
@@ -15704,8 +15704,8 @@
         "abbreviation": "CLE"
       },
       "status": {
-        "code": "A",
-        "description": "Active"
+        "code": "RM",
+        "description": "Reassigned to Minors"
       }
     },
     {
@@ -24494,8 +24494,8 @@
         "abbreviation": "HOU"
       },
       "status": {
-        "code": "D15",
-        "description": "Injured 15-Day"
+        "code": "A",
+        "description": "Active"
       }
     },
     {
@@ -24734,8 +24734,8 @@
         "abbreviation": "HOU"
       },
       "status": {
-        "code": "RM",
-        "description": "Reassigned to Minors"
+        "code": "A",
+        "description": "Active"
       }
     },
     {
@@ -24830,8 +24830,8 @@
         "abbreviation": "HOU"
       },
       "status": {
-        "code": "A",
-        "description": "Active"
+        "code": "PL",
+        "description": "Paternity List"
       }
     },
     {
@@ -34102,8 +34102,8 @@
         "abbreviation": "NYM"
       },
       "status": {
-        "code": "A",
-        "description": "Active"
+        "code": null,
+        "description": null
       }
     },
     {
@@ -34248,6 +34248,54 @@
       "status": {
         "code": null,
         "description": null
+      }
+    },
+    {
+      "id": "blqpyfwwyr",
+      "ids": {
+        "prism": "blqpyfwwyr",
+        "bbref": "ibanean01",
+        "fangraphs": "18819",
+        "mlbam": "628451",
+        "nfbc": "10979",
+        "sfbb": "ibanean01",
+        "yahoo": "10607"
+      },
+      "names": {
+        "boxscore": "Ibáñez",
+        "givenFirst": "Andy",
+        "givenFirstMiddle": "Andy",
+        "firstLast": "Andy Ibáñez",
+        "lastFirst": "Ibáñez, Andy",
+        "lastFirstInit": "Ibáñez, A",
+        "givenFull": "Andy Ibáñez",
+        "last": "Ibáñez",
+        "first": "Andy",
+        "middle": null
+      },
+      "profile": {
+        "birthDate": "1993-4-3",
+        "birthYear": "1993",
+        "birthMonth": "4",
+        "birthDay": "3",
+        "birthCity": "Havana",
+        "birthState": null,
+        "birthCountry": "Cuba",
+        "batHand": "R",
+        "fieldHand": "R",
+        "debutDate": "2021-05-04"
+      },
+      "position": {
+        "code": "4",
+        "abbreviation": "2B"
+      },
+      "team": {
+        "mlb_id": 121,
+        "abbreviation": "NYM"
+      },
+      "status": {
+        "code": "NYR",
+        "description": "Not Yet Reported"
       }
     },
     {
@@ -34486,8 +34534,8 @@
         "abbreviation": "NYM"
       },
       "status": {
-        "code": "RM",
-        "description": "Reassigned to Minors"
+        "code": "A",
+        "description": "Active"
       }
     },
     {
@@ -34726,8 +34774,8 @@
         "abbreviation": "NYM"
       },
       "status": {
-        "code": "RM",
-        "description": "Reassigned to Minors"
+        "code": "A",
+        "description": "Active"
       }
     },
     {
@@ -35830,8 +35878,8 @@
         "abbreviation": "NYM"
       },
       "status": {
-        "code": "A",
-        "description": "Active"
+        "code": "D10",
+        "description": "Injured 10-Day"
       }
     },
     {
@@ -41164,8 +41212,8 @@
         "abbreviation": "SD"
       },
       "status": {
-        "code": "A",
-        "description": "Active"
+        "code": "RM",
+        "description": "Reassigned to Minors"
       }
     },
     {
@@ -46016,8 +46064,8 @@
         "abbreviation": "SF"
       },
       "status": {
-        "code": "RM",
-        "description": "Reassigned to Minors"
+        "code": "A",
+        "description": "Active"
       }
     },
     {
@@ -48946,8 +48994,8 @@
         "abbreviation": "STL"
       },
       "status": {
-        "code": "D15",
-        "description": "Injured 15-Day"
+        "code": "RM",
+        "description": "Reassigned to Minors"
       }
     },
     {
@@ -49954,8 +50002,8 @@
         "abbreviation": "STL"
       },
       "status": {
-        "code": "A",
-        "description": "Active"
+        "code": "RM",
+        "description": "Reassigned to Minors"
       }
     },
     {
@@ -59370,8 +59418,8 @@
         "abbreviation": "MIN"
       },
       "status": {
-        "code": "D15",
-        "description": "Injured 15-Day"
+        "code": "RM",
+        "description": "Reassigned to Minors"
       }
     },
     {
@@ -60716,8 +60764,8 @@
         "abbreviation": "PHI"
       },
       "status": {
-        "code": null,
-        "description": null
+        "code": "A",
+        "description": "Active"
       }
     },
     {
@@ -62588,8 +62636,8 @@
         "abbreviation": "PHI"
       },
       "status": {
-        "code": "RM",
-        "description": "Reassigned to Minors"
+        "code": "A",
+        "description": "Active"
       }
     },
     {
@@ -62828,8 +62876,8 @@
         "abbreviation": "PHI"
       },
       "status": {
-        "code": "A",
-        "description": "Active"
+        "code": "D15",
+        "description": "Injured 15-Day"
       }
     },
     {
@@ -71965,7 +72013,7 @@
       "ids": {
         "prism": "mfqfcg5myd",
         "bbref": "rodriel03",
-        "fangraphs": "sa3019459",
+        "fangraphs": "31811",
         "mlbam": "695684",
         "nfbc": "12329",
         "sfbb": "rodriel03",
@@ -74462,8 +74510,8 @@
       "id": "lzwlsg8e6w",
       "ids": {
         "prism": "lzwlsg8e6w",
-        "bbref": null,
-        "fangraphs": "sa3020265",
+        "bbref": "fitzpbr01",
+        "fangraphs": "31624",
         "mlbam": "702153",
         "nfbc": "12661",
         "sfbb": null,
@@ -75224,56 +75272,6 @@
       "status": {
         "code": "A",
         "description": "Active"
-      }
-    }
-  ],
-  "ATH": [
-    {
-      "id": "blqpyfwwyr",
-      "ids": {
-        "prism": "blqpyfwwyr",
-        "bbref": "ibanean01",
-        "fangraphs": "18819",
-        "mlbam": "628451",
-        "nfbc": "10979",
-        "sfbb": "ibanean01",
-        "yahoo": "10607"
-      },
-      "names": {
-        "boxscore": "Ibáñez",
-        "givenFirst": "Andy",
-        "givenFirstMiddle": "Andy",
-        "firstLast": "Andy Ibáñez",
-        "lastFirst": "Ibáñez, Andy",
-        "lastFirstInit": "Ibáñez, A",
-        "givenFull": "Andy Ibáñez",
-        "last": "Ibáñez",
-        "first": "Andy",
-        "middle": null
-      },
-      "profile": {
-        "birthDate": "1993-4-3",
-        "birthYear": "1993",
-        "birthMonth": "4",
-        "birthDay": "3",
-        "birthCity": "Havana",
-        "birthState": null,
-        "birthCountry": "Cuba",
-        "batHand": "R",
-        "fieldHand": "R",
-        "debutDate": "2021-05-04"
-      },
-      "position": {
-        "code": "4",
-        "abbreviation": "2B"
-      },
-      "team": {
-        "mlb_id": "ATH",
-        "abbreviation": "ATH"
-      },
-      "status": {
-        "code": null,
-        "description": null
       }
     }
   ],

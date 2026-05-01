@@ -715,8 +715,8 @@
       "abbreviation": "MIN"
     },
     "status": {
-      "code": "D15",
-      "description": "Injured 15-Day"
+      "code": "RM",
+      "description": "Reassigned to Minors"
     }
   },
   "adcocty01": {
@@ -1339,8 +1339,8 @@
       "abbreviation": "HOU"
     },
     "status": {
-      "code": "RM",
-      "description": "Reassigned to Minors"
+      "code": "A",
+      "description": "Active"
     }
   },
   "alexasc02": {
@@ -3931,8 +3931,8 @@
       "abbreviation": "PHI"
     },
     "status": {
-      "code": "A",
-      "description": "Active"
+      "code": "D15",
+      "description": "Injured 15-Day"
     }
   },
   "baddoak01": {
@@ -7867,8 +7867,8 @@
       "abbreviation": "HOU"
     },
     "status": {
-      "code": "D15",
-      "description": "Injured 15-Day"
+      "code": "A",
+      "description": "Active"
     }
   },
   "booseca01": {
@@ -17851,8 +17851,8 @@
       "abbreviation": "STL"
     },
     "status": {
-      "code": "D15",
-      "description": "Injured 15-Day"
+      "code": "RM",
+      "description": "Reassigned to Minors"
     }
   },
   "dodddy01": {
@@ -19003,8 +19003,8 @@
       "abbreviation": "BOS"
     },
     "status": {
-      "code": "A",
-      "description": "Active"
+      "code": "RM",
+      "description": "Reassigned to Minors"
     }
   },
   "ederja01": {
@@ -19147,8 +19147,8 @@
       "abbreviation": "NYM"
     },
     "status": {
-      "code": "A",
-      "description": "Active"
+      "code": null,
+      "description": null
     }
   },
   "edwarxa01": {
@@ -21307,8 +21307,8 @@
       "abbreviation": "STL"
     },
     "status": {
-      "code": "A",
-      "description": "Active"
+      "code": "RM",
+      "description": "Reassigned to Minors"
     }
   },
   "fernaya01": {
@@ -21789,6 +21789,54 @@
     "status": {
       "code": "RM",
       "description": "Reassigned to Minors"
+    }
+  },
+  "fitzpbr01": {
+    "id": "lzwlsg8e6w",
+    "ids": {
+      "prism": "lzwlsg8e6w",
+      "bbref": "fitzpbr01",
+      "fangraphs": "31624",
+      "mlbam": "702153",
+      "nfbc": "12661",
+      "sfbb": null,
+      "yahoo": "66796"
+    },
+    "names": {
+      "boxscore": "Fitzpatrick",
+      "givenFirst": "Brian",
+      "givenFirstMiddle": "Brian Paul",
+      "firstLast": "Brian Fitzpatrick",
+      "lastFirst": "Fitzpatrick, Brian",
+      "lastFirstInit": "Fitzpatrick, B",
+      "givenFull": "Brian Paul Fitzpatrick",
+      "last": "Fitzpatrick",
+      "first": "Brian",
+      "middle": "Paul"
+    },
+    "profile": {
+      "birthDate": "2000-6-1",
+      "birthYear": "2000",
+      "birthMonth": "6",
+      "birthDay": "1",
+      "birthCity": "Smithtown",
+      "birthState": "NY",
+      "birthCountry": "USA",
+      "batHand": "S",
+      "fieldHand": "L",
+      "debutDate": "2026-04-29"
+    },
+    "position": {
+      "code": "1",
+      "abbreviation": "P"
+    },
+    "team": {
+      "mlb_id": 158,
+      "abbreviation": "MIL"
+    },
+    "status": {
+      "code": "A",
+      "description": "Active"
     }
   },
   "flaheja01": {
@@ -31579,8 +31627,8 @@
       "abbreviation": "PHI"
     },
     "status": {
-      "code": "RM",
-      "description": "Reassigned to Minors"
+      "code": "A",
+      "description": "Active"
     }
   },
   "hoglugu01": {
@@ -32679,12 +32727,12 @@
       "abbreviation": "2B"
     },
     "team": {
-      "mlb_id": "ATH",
-      "abbreviation": "ATH"
+      "mlb_id": 121,
+      "abbreviation": "NYM"
     },
     "status": {
-      "code": null,
-      "description": null
+      "code": "NYR",
+      "description": "Not Yet Reported"
     }
   },
   "iglesjo01": {
@@ -43867,8 +43915,8 @@
       "abbreviation": "CIN"
     },
     "status": {
-      "code": "RM",
-      "description": "Reassigned to Minors"
+      "code": "A",
+      "description": "Active"
     }
   },
   "maydu01": {
@@ -44779,8 +44827,8 @@
       "abbreviation": "SF"
     },
     "status": {
-      "code": "RM",
-      "description": "Reassigned to Minors"
+      "code": "A",
+      "description": "Active"
     }
   },
   "mcdouta01": {
@@ -48667,8 +48715,8 @@
       "abbreviation": "SD"
     },
     "status": {
-      "code": "A",
-      "description": "Active"
+      "code": "RM",
+      "description": "Reassigned to Minors"
     }
   },
   "morgael01": {
@@ -57931,8 +57979,8 @@
       "abbreviation": "PHI"
     },
     "status": {
-      "code": null,
-      "description": null
+      "code": "A",
+      "description": "Active"
     }
   },
   "rileyau01": {
@@ -58651,8 +58699,8 @@
       "abbreviation": "NYM"
     },
     "status": {
-      "code": "A",
-      "description": "Active"
+      "code": "D10",
+      "description": "Injured 10-Day"
     }
   },
   "roberni01": {
@@ -59380,7 +59428,7 @@
     "ids": {
       "prism": "mfqfcg5myd",
       "bbref": "rodriel03",
-      "fangraphs": "sa3019459",
+      "fangraphs": "31811",
       "mlbam": "695684",
       "nfbc": "12329",
       "sfbb": "rodriel03",
@@ -73099,8 +73147,8 @@
       "abbreviation": "CLE"
     },
     "status": {
-      "code": "A",
-      "description": "Active"
+      "code": "RM",
+      "description": "Reassigned to Minors"
     }
   },
   "vanbebr01": {
@@ -74731,8 +74779,8 @@
       "abbreviation": "NYM"
     },
     "status": {
-      "code": "RM",
-      "description": "Reassigned to Minors"
+      "code": "A",
+      "description": "Active"
     }
   },
   "wagnewi01": {
@@ -75691,8 +75739,8 @@
       "abbreviation": "NYM"
     },
     "status": {
-      "code": "RM",
-      "description": "Reassigned to Minors"
+      "code": "A",
+      "description": "Active"
     }
   },
   "warrewi01": {
@@ -76171,8 +76219,8 @@
       "abbreviation": "HOU"
     },
     "status": {
-      "code": "A",
-      "description": "Active"
+      "code": "PL",
+      "description": "Paternity List"
     }
   },
   "wellsau01": {
@@ -77227,8 +77275,8 @@
       "abbreviation": "CIN"
     },
     "status": {
-      "code": "A",
-      "description": "Active"
+      "code": "D15",
+      "description": "Injured 15-Day"
     }
   },
   "willica02": {
