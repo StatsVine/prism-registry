@@ -8587,8 +8587,8 @@
       "abbreviation": "SD"
     },
     "status": {
-      "code": "A",
-      "description": "Active"
+      "code": "D15",
+      "description": "Injured 15-Day"
     }
   },
   "15042": {
@@ -72335,6 +72335,54 @@
       "description": "Active"
     }
   },
+  "32155": {
+    "id": "1l622fmz8h",
+    "ids": {
+      "prism": "1l622fmz8h",
+      "bbref": "kleinjo01",
+      "fangraphs": "32155",
+      "mlbam": "804619",
+      "nfbc": "12580",
+      "sfbb": null,
+      "yahoo": "66386"
+    },
+    "names": {
+      "boxscore": "Klein",
+      "givenFirst": "John",
+      "givenFirstMiddle": "John Joseph",
+      "firstLast": "John Klein",
+      "lastFirst": "Klein, John",
+      "lastFirstInit": "Klein, J",
+      "givenFull": "John Joseph Klein",
+      "last": "Klein",
+      "first": "John",
+      "middle": "Joseph"
+    },
+    "profile": {
+      "birthDate": "2002-4-22",
+      "birthYear": "2002",
+      "birthMonth": "4",
+      "birthDay": "22",
+      "birthCity": "Brooklyn Park",
+      "birthState": "MN",
+      "birthCountry": "USA",
+      "batHand": "R",
+      "fieldHand": "R",
+      "debutDate": "2026-05-02"
+    },
+    "position": {
+      "code": "1",
+      "abbreviation": "P"
+    },
+    "team": {
+      "mlb_id": 142,
+      "abbreviation": "MIN"
+    },
+    "status": {
+      "code": "A",
+      "description": "Active"
+    }
+  },
   "32157": {
     "id": "e34kxtx4xr",
     "ids": {
@@ -81645,54 +81693,6 @@
     "status": {
       "code": "RM",
       "description": "Reassigned to Minors"
-    }
-  },
-  "sa3020405": {
-    "id": "1l622fmz8h",
-    "ids": {
-      "prism": "1l622fmz8h",
-      "bbref": null,
-      "fangraphs": "sa3020405",
-      "mlbam": "804619",
-      "nfbc": "12580",
-      "sfbb": null,
-      "yahoo": "66386"
-    },
-    "names": {
-      "boxscore": "Klein",
-      "givenFirst": "John",
-      "givenFirstMiddle": "John Joseph",
-      "firstLast": "John Klein",
-      "lastFirst": "Klein, John",
-      "lastFirstInit": "Klein, J",
-      "givenFull": "John Joseph Klein",
-      "last": "Klein",
-      "first": "John",
-      "middle": "Joseph"
-    },
-    "profile": {
-      "birthDate": "2002-4-22",
-      "birthYear": "2002",
-      "birthMonth": "4",
-      "birthDay": "22",
-      "birthCity": "Brooklyn Park",
-      "birthState": "MN",
-      "birthCountry": "USA",
-      "batHand": "R",
-      "fieldHand": "R",
-      "debutDate": "2026-05-02"
-    },
-    "position": {
-      "code": "1",
-      "abbreviation": "P"
-    },
-    "team": {
-      "mlb_id": 142,
-      "abbreviation": "MIN"
-    },
-    "status": {
-      "code": "A",
-      "description": "Active"
     }
   },
   "sa3020408": {

@@ -43869,8 +43869,8 @@
         "id": "1l622fmz8h",
         "ids": {
           "prism": "1l622fmz8h",
-          "bbref": null,
-          "fangraphs": "sa3020405",
+          "bbref": "kleinjo01",
+          "fangraphs": "32155",
           "mlbam": "804619",
           "nfbc": "12580",
           "sfbb": null,
@@ -55972,54 +55972,6 @@
         }
       },
       {
-        "id": "bytw5fggvr",
-        "ids": {
-          "prism": "bytw5fggvr",
-          "bbref": "marquge01",
-          "fangraphs": "15038",
-          "mlbam": "608566",
-          "nfbc": "9295",
-          "sfbb": "marquge01",
-          "yahoo": "10402"
-        },
-        "names": {
-          "boxscore": "Márquez",
-          "givenFirst": "Germán",
-          "givenFirstMiddle": "Germán Andres",
-          "firstLast": "Germán Márquez",
-          "lastFirst": "Márquez, Germán",
-          "lastFirstInit": "Márquez, G",
-          "givenFull": "Germán Andres Márquez",
-          "last": "Márquez",
-          "first": "Germán",
-          "middle": "Andres"
-        },
-        "profile": {
-          "birthDate": "1995-2-22",
-          "birthYear": "1995",
-          "birthMonth": "2",
-          "birthDay": "22",
-          "birthCity": "San Felix",
-          "birthState": null,
-          "birthCountry": "Venezuela",
-          "batHand": "R",
-          "fieldHand": "R",
-          "debutDate": "2016-09-08"
-        },
-        "position": {
-          "code": "1",
-          "abbreviation": "P"
-        },
-        "team": {
-          "mlb_id": 135,
-          "abbreviation": "SD"
-        },
-        "status": {
-          "code": "A",
-          "description": "Active"
-        }
-      },
-      {
         "id": "cdl92wptgm",
         "ids": {
           "prism": "cdl92wptgm",
@@ -57449,6 +57401,54 @@
           "batHand": "R",
           "fieldHand": "R",
           "debutDate": "2017-04-30"
+        },
+        "position": {
+          "code": "1",
+          "abbreviation": "P"
+        },
+        "team": {
+          "mlb_id": 135,
+          "abbreviation": "SD"
+        },
+        "status": {
+          "code": "D15",
+          "description": "Injured 15-Day"
+        }
+      },
+      {
+        "id": "bytw5fggvr",
+        "ids": {
+          "prism": "bytw5fggvr",
+          "bbref": "marquge01",
+          "fangraphs": "15038",
+          "mlbam": "608566",
+          "nfbc": "9295",
+          "sfbb": "marquge01",
+          "yahoo": "10402"
+        },
+        "names": {
+          "boxscore": "Márquez",
+          "givenFirst": "Germán",
+          "givenFirstMiddle": "Germán Andres",
+          "firstLast": "Germán Márquez",
+          "lastFirst": "Márquez, Germán",
+          "lastFirstInit": "Márquez, G",
+          "givenFull": "Germán Andres Márquez",
+          "last": "Márquez",
+          "first": "Germán",
+          "middle": "Andres"
+        },
+        "profile": {
+          "birthDate": "1995-2-22",
+          "birthYear": "1995",
+          "birthMonth": "2",
+          "birthDay": "22",
+          "birthCity": "San Felix",
+          "birthState": null,
+          "birthCountry": "Venezuela",
+          "batHand": "R",
+          "fieldHand": "R",
+          "debutDate": "2016-09-08"
         },
         "position": {
           "code": "1",
