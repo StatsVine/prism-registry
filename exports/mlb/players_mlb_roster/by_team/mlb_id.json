@@ -188,8 +188,8 @@
         "abbreviation": "LAA"
       },
       "status": {
-        "code": null,
-        "description": null
+        "code": "A",
+        "description": "Active"
       }
     },
     {
@@ -524,8 +524,8 @@
         "abbreviation": "LAA"
       },
       "status": {
-        "code": "A",
-        "description": "Active"
+        "code": "D15",
+        "description": "Injured 15-Day"
       }
     },
     {
@@ -4078,8 +4078,8 @@
         "abbreviation": "AZ"
       },
       "status": {
-        "code": "RM",
-        "description": "Reassigned to Minors"
+        "code": null,
+        "description": null
       }
     },
     {
@@ -5762,6 +5762,54 @@
       "status": {
         "code": "D60",
         "description": "Injured 60-Day"
+      }
+    },
+    {
+      "id": "8yd517qkc4",
+      "ids": {
+        "prism": "8yd517qkc4",
+        "bbref": "gibsotr01",
+        "fangraphs": "sa3023250",
+        "mlbam": "694346",
+        "nfbc": "12486",
+        "sfbb": "gibsotr01",
+        "yahoo": "62806"
+      },
+      "names": {
+        "boxscore": "Gibson",
+        "givenFirst": "Richard",
+        "givenFirstMiddle": "Richard Russell",
+        "firstLast": "Trey Gibson",
+        "lastFirst": "Gibson, Trey",
+        "lastFirstInit": "Gibson, T",
+        "givenFull": "Richard Russell Gibson",
+        "last": "Gibson",
+        "first": "Trey",
+        "middle": "Russell"
+      },
+      "profile": {
+        "birthDate": "2002-5-18",
+        "birthYear": "2002",
+        "birthMonth": "5",
+        "birthDay": "18",
+        "birthCity": "Newport News",
+        "birthState": "VA",
+        "birthCountry": "USA",
+        "batHand": "R",
+        "fieldHand": "R",
+        "debutDate": "2026-05-03"
+      },
+      "position": {
+        "code": "1",
+        "abbreviation": "P"
+      },
+      "team": {
+        "mlb_id": 110,
+        "abbreviation": "BAL"
+      },
+      "status": {
+        "code": "A",
+        "description": "Active"
       }
     },
     {
@@ -12190,6 +12238,54 @@
       "position": {
         "code": "9",
         "abbreviation": "RF"
+      },
+      "team": {
+        "mlb_id": 112,
+        "abbreviation": "CHC"
+      },
+      "status": {
+        "code": "RM",
+        "description": "Reassigned to Minors"
+      }
+    },
+    {
+      "id": "p1m7kldmcr",
+      "ids": {
+        "prism": "p1m7kldmcr",
+        "bbref": "perallu01",
+        "fangraphs": "24203",
+        "mlbam": "678821",
+        "nfbc": "12163",
+        "sfbb": null,
+        "yahoo": "64787"
+      },
+      "names": {
+        "boxscore": "Peralta, L",
+        "givenFirst": "Luis",
+        "givenFirstMiddle": "Luis David",
+        "firstLast": "Luis Peralta",
+        "lastFirst": "Peralta, Luis",
+        "lastFirstInit": "Peralta, L",
+        "givenFull": "Luis David Peralta",
+        "last": "Peralta",
+        "first": "Luis",
+        "middle": "David"
+      },
+      "profile": {
+        "birthDate": "2001-1-6",
+        "birthYear": "2001",
+        "birthMonth": "1",
+        "birthDay": "6",
+        "birthCity": "Moca",
+        "birthState": null,
+        "birthCountry": "Dominican Republic",
+        "batHand": "L",
+        "fieldHand": "L",
+        "debutDate": "2024-08-24"
+      },
+      "position": {
+        "code": "1",
+        "abbreviation": "P"
       },
       "team": {
         "mlb_id": 112,
@@ -19359,54 +19455,6 @@
       }
     },
     {
-      "id": "p1m7kldmcr",
-      "ids": {
-        "prism": "p1m7kldmcr",
-        "bbref": "perallu01",
-        "fangraphs": "24203",
-        "mlbam": "678821",
-        "nfbc": "12163",
-        "sfbb": null,
-        "yahoo": "64787"
-      },
-      "names": {
-        "boxscore": "Peralta, L",
-        "givenFirst": "Luis",
-        "givenFirstMiddle": "Luis David",
-        "firstLast": "Luis Peralta",
-        "lastFirst": "Peralta, Luis",
-        "lastFirstInit": "Peralta, L",
-        "givenFull": "Luis David Peralta",
-        "last": "Peralta",
-        "first": "Luis",
-        "middle": "David"
-      },
-      "profile": {
-        "birthDate": "2001-1-6",
-        "birthYear": "2001",
-        "birthMonth": "1",
-        "birthDay": "6",
-        "birthCity": "Moca",
-        "birthState": null,
-        "birthCountry": "Dominican Republic",
-        "batHand": "L",
-        "fieldHand": "L",
-        "debutDate": "2024-08-24"
-      },
-      "position": {
-        "code": "1",
-        "abbreviation": "P"
-      },
-      "team": {
-        "mlb_id": 115,
-        "abbreviation": "COL"
-      },
-      "status": {
-        "code": null,
-        "description": null
-      }
-    },
-    {
       "id": "p8xj72z5vh",
       "ids": {
         "prism": "p8xj72z5vh",
@@ -20980,16 +21028,16 @@
         "debutDate": "2021-04-21"
       },
       "position": {
-        "code": "6",
-        "abbreviation": "SS"
+        "code": "5",
+        "abbreviation": "3B"
       },
       "team": {
         "mlb_id": 116,
         "abbreviation": "DET"
       },
       "status": {
-        "code": null,
-        "description": null
+        "code": "A",
+        "description": "Active"
       }
     },
     {
@@ -21036,8 +21084,8 @@
         "abbreviation": "DET"
       },
       "status": {
-        "code": "RM",
-        "description": "Reassigned to Minors"
+        "code": null,
+        "description": null
       }
     },
     {
@@ -21516,8 +21564,8 @@
         "abbreviation": "DET"
       },
       "status": {
-        "code": "A",
-        "description": "Active"
+        "code": "RM",
+        "description": "Reassigned to Minors"
       }
     },
     {
@@ -32905,6 +32953,54 @@
       }
     },
     {
+      "id": "wnp1zzbh5d",
+      "ids": {
+        "prism": "wnp1zzbh5d",
+        "bbref": "kentza01",
+        "fangraphs": "25703",
+        "mlbam": "687849",
+        "nfbc": "11714",
+        "sfbb": null,
+        "yahoo": "12724"
+      },
+      "names": {
+        "boxscore": "Kent",
+        "givenFirst": "Zachary",
+        "givenFirstMiddle": "Zachary Allen",
+        "firstLast": "Zak Kent",
+        "lastFirst": "Kent, Zak",
+        "lastFirstInit": "Kent, Z",
+        "givenFull": "Zachary Allen Kent",
+        "last": "Kent",
+        "first": "Zak",
+        "middle": "Allen"
+      },
+      "profile": {
+        "birthDate": "1998-2-24",
+        "birthYear": "1998",
+        "birthMonth": "2",
+        "birthDay": "24",
+        "birthCity": "Henrico",
+        "birthState": "VA",
+        "birthCountry": "USA",
+        "batHand": "R",
+        "fieldHand": "R",
+        "debutDate": "2025-04-23"
+      },
+      "position": {
+        "code": "1",
+        "abbreviation": "P"
+      },
+      "team": {
+        "mlb_id": 120,
+        "abbreviation": "WSH"
+      },
+      "status": {
+        "code": "RM",
+        "description": "Reassigned to Minors"
+      }
+    },
+    {
       "id": "wphtzfkekh",
       "ids": {
         "prism": "wphtzfkekh",
@@ -33478,8 +33574,8 @@
         "abbreviation": "NYM"
       },
       "status": {
-        "code": "A",
-        "description": "Active"
+        "code": "D10",
+        "description": "Injured 10-Day"
       }
     },
     {
@@ -34102,8 +34198,8 @@
         "abbreviation": "NYM"
       },
       "status": {
-        "code": "RM",
-        "description": "Reassigned to Minors"
+        "code": null,
+        "description": null
       }
     },
     {
@@ -35686,8 +35782,8 @@
         "abbreviation": "NYM"
       },
       "status": {
-        "code": null,
-        "description": null
+        "code": "A",
+        "description": "Active"
       }
     }
   ],
@@ -41740,8 +41836,8 @@
         "abbreviation": "SD"
       },
       "status": {
-        "code": "D15",
-        "description": "Injured 15-Day"
+        "code": "A",
+        "description": "Active"
       }
     },
     {
@@ -43475,6 +43571,54 @@
       }
     },
     {
+      "id": "9l2cx4dsd0",
+      "ids": {
+        "prism": "9l2cx4dsd0",
+        "bbref": "suarejo01",
+        "fangraphs": "19911",
+        "mlbam": "660761",
+        "nfbc": "10470",
+        "sfbb": "suarejo01",
+        "yahoo": "11211"
+      },
+      "names": {
+        "boxscore": "Suarez, J",
+        "givenFirst": "José",
+        "givenFirstMiddle": "José Rances",
+        "firstLast": "José Suarez",
+        "lastFirst": "Suarez, José",
+        "lastFirstInit": "Suarez, J",
+        "givenFull": "José Rances Suarez",
+        "last": "Suarez",
+        "first": "José",
+        "middle": "Rances"
+      },
+      "profile": {
+        "birthDate": "1998-1-3",
+        "birthYear": "1998",
+        "birthMonth": "1",
+        "birthDay": "3",
+        "birthCity": "Naguanagua",
+        "birthState": null,
+        "birthCountry": "Venezuela",
+        "batHand": "L",
+        "fieldHand": "L",
+        "debutDate": "2019-06-02"
+      },
+      "position": {
+        "code": "1",
+        "abbreviation": "P"
+      },
+      "team": {
+        "mlb_id": 136,
+        "abbreviation": "SEA"
+      },
+      "status": {
+        "code": "NYR",
+        "description": "Not Yet Reported"
+      }
+    },
+    {
       "id": "bkqgxtmpp0",
       "ids": {
         "prism": "bkqgxtmpp0",
@@ -43806,8 +43950,8 @@
         "abbreviation": "SEA"
       },
       "status": {
-        "code": "RM",
-        "description": "Reassigned to Minors"
+        "code": null,
+        "description": null
       }
     },
     {
@@ -44275,7 +44419,7 @@
         "birthCountry": "USA",
         "batHand": "R",
         "fieldHand": "R",
-        "debutDate": null
+        "debutDate": "2026-05-03"
       },
       "position": {
         "code": "1",
@@ -59663,54 +59807,6 @@
       }
     },
     {
-      "id": "wnp1zzbh5d",
-      "ids": {
-        "prism": "wnp1zzbh5d",
-        "bbref": "kentza01",
-        "fangraphs": "25703",
-        "mlbam": "687849",
-        "nfbc": "11714",
-        "sfbb": null,
-        "yahoo": "12724"
-      },
-      "names": {
-        "boxscore": "Kent",
-        "givenFirst": "Zachary",
-        "givenFirstMiddle": "Zachary Allen",
-        "firstLast": "Zak Kent",
-        "lastFirst": "Kent, Zak",
-        "lastFirstInit": "Kent, Z",
-        "givenFull": "Zachary Allen Kent",
-        "last": "Kent",
-        "first": "Zak",
-        "middle": "Allen"
-      },
-      "profile": {
-        "birthDate": "1998-2-24",
-        "birthYear": "1998",
-        "birthMonth": "2",
-        "birthDay": "24",
-        "birthCity": "Henrico",
-        "birthState": "VA",
-        "birthCountry": "USA",
-        "batHand": "R",
-        "fieldHand": "R",
-        "debutDate": "2025-04-23"
-      },
-      "position": {
-        "code": "1",
-        "abbreviation": "P"
-      },
-      "team": {
-        "mlb_id": 142,
-        "abbreviation": "MIN"
-      },
-      "status": {
-        "code": null,
-        "description": null
-      }
-    },
-    {
       "id": "wz8m2tjgkw",
       "ids": {
         "prism": "wz8m2tjgkw",
@@ -64272,6 +64368,54 @@
       "status": {
         "code": "D10",
         "description": "Injured 10-Day"
+      }
+    },
+    {
+      "id": "lemv3k277d",
+      "ids": {
+        "prism": "lemv3k277d",
+        "bbref": "payamjo01",
+        "fangraphs": "14332",
+        "mlbam": "606303",
+        "nfbc": "10496",
+        "sfbb": "payamjo01",
+        "yahoo": "11193"
+      },
+      "names": {
+        "boxscore": "Payamps",
+        "givenFirst": "Joel",
+        "givenFirstMiddle": "Joel Elias",
+        "firstLast": "Joel Payamps",
+        "lastFirst": "Payamps, Joel",
+        "lastFirstInit": "Payamps, J",
+        "givenFull": "Joel Elias Payamps",
+        "last": "Payamps",
+        "first": "Joel",
+        "middle": "Elias"
+      },
+      "profile": {
+        "birthDate": "1994-4-7",
+        "birthYear": "1994",
+        "birthMonth": "4",
+        "birthDay": "7",
+        "birthCity": "Santiago",
+        "birthState": null,
+        "birthCountry": "Dominican Republic",
+        "batHand": "R",
+        "fieldHand": "R",
+        "debutDate": "2019-08-21"
+      },
+      "position": {
+        "code": "1",
+        "abbreviation": "P"
+      },
+      "team": {
+        "mlb_id": 144,
+        "abbreviation": "ATL"
+      },
+      "status": {
+        "code": null,
+        "description": null
       }
     },
     {
@@ -69735,7 +69879,7 @@
         "birthCountry": "USA",
         "batHand": "R",
         "fieldHand": "R",
-        "debutDate": null
+        "debutDate": "2026-05-03"
       },
       "position": {
         "code": "1",
@@ -72244,8 +72388,8 @@
         "abbreviation": "NYY"
       },
       "status": {
-        "code": "D10",
-        "description": "Injured 10-Day"
+        "code": "RM",
+        "description": "Reassigned to Minors"
       }
     }
   ],
@@ -74456,104 +74600,6 @@
       "status": {
         "code": "A",
         "description": "Active"
-      }
-    }
-  ],
-  "ATL": [
-    {
-      "id": "9l2cx4dsd0",
-      "ids": {
-        "prism": "9l2cx4dsd0",
-        "bbref": "suarejo01",
-        "fangraphs": "19911",
-        "mlbam": "660761",
-        "nfbc": "10470",
-        "sfbb": "suarejo01",
-        "yahoo": "11211"
-      },
-      "names": {
-        "boxscore": "Suarez, J",
-        "givenFirst": "José",
-        "givenFirstMiddle": "José Rances",
-        "firstLast": "José Suarez",
-        "lastFirst": "Suarez, José",
-        "lastFirstInit": "Suarez, J",
-        "givenFull": "José Rances Suarez",
-        "last": "Suarez",
-        "first": "José",
-        "middle": "Rances"
-      },
-      "profile": {
-        "birthDate": "1998-1-3",
-        "birthYear": "1998",
-        "birthMonth": "1",
-        "birthDay": "3",
-        "birthCity": "Naguanagua",
-        "birthState": null,
-        "birthCountry": "Venezuela",
-        "batHand": "L",
-        "fieldHand": "L",
-        "debutDate": "2019-06-02"
-      },
-      "position": {
-        "code": "1",
-        "abbreviation": "P"
-      },
-      "team": {
-        "mlb_id": "ATL",
-        "abbreviation": "ATL"
-      },
-      "status": {
-        "code": null,
-        "description": null
-      }
-    },
-    {
-      "id": "lemv3k277d",
-      "ids": {
-        "prism": "lemv3k277d",
-        "bbref": "payamjo01",
-        "fangraphs": "14332",
-        "mlbam": "606303",
-        "nfbc": "10496",
-        "sfbb": "payamjo01",
-        "yahoo": "11193"
-      },
-      "names": {
-        "boxscore": "Payamps",
-        "givenFirst": "Joel",
-        "givenFirstMiddle": "Joel Elias",
-        "firstLast": "Joel Payamps",
-        "lastFirst": "Payamps, Joel",
-        "lastFirstInit": "Payamps, J",
-        "givenFull": "Joel Elias Payamps",
-        "last": "Payamps",
-        "first": "Joel",
-        "middle": "Elias"
-      },
-      "profile": {
-        "birthDate": "1994-4-7",
-        "birthYear": "1994",
-        "birthMonth": "4",
-        "birthDay": "7",
-        "birthCity": "Santiago",
-        "birthState": null,
-        "birthCountry": "Dominican Republic",
-        "batHand": "R",
-        "fieldHand": "R",
-        "debutDate": "2019-08-21"
-      },
-      "position": {
-        "code": "1",
-        "abbreviation": "P"
-      },
-      "team": {
-        "mlb_id": "ATL",
-        "abbreviation": "ATL"
-      },
-      "status": {
-        "code": null,
-        "description": null
       }
     }
   ],

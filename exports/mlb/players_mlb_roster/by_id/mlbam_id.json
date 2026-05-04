@@ -5659,8 +5659,8 @@
       "abbreviation": "LAA"
     },
     "status": {
-      "code": "A",
-      "description": "Active"
+      "code": "D15",
+      "description": "Injured 15-Day"
     }
   },
   "592094": {
@@ -9975,7 +9975,7 @@
       "abbreviation": "P"
     },
     "team": {
-      "mlb_id": "ATL",
+      "mlb_id": 144,
       "abbreviation": "ATL"
     },
     "status": {
@@ -17755,8 +17755,8 @@
       "abbreviation": "LAA"
     },
     "status": {
-      "code": null,
-      "description": null
+      "code": "A",
+      "description": "Active"
     }
   },
   "642086": {
@@ -21451,8 +21451,8 @@
       "abbreviation": "SD"
     },
     "status": {
-      "code": "D15",
-      "description": "Injured 15-Day"
+      "code": "A",
+      "description": "Active"
     }
   },
   "656302": {
@@ -24619,8 +24619,8 @@
       "abbreviation": "NYM"
     },
     "status": {
-      "code": null,
-      "description": null
+      "code": "A",
+      "description": "Active"
     }
   },
   "660670": {
@@ -24855,12 +24855,12 @@
       "abbreviation": "P"
     },
     "team": {
-      "mlb_id": "ATL",
-      "abbreviation": "ATL"
+      "mlb_id": 136,
+      "abbreviation": "SEA"
     },
     "status": {
-      "code": null,
-      "description": null
+      "code": "NYR",
+      "description": "Not Yet Reported"
     }
   },
   "660766": {
@@ -41267,16 +41267,16 @@
       "debutDate": "2021-04-21"
     },
     "position": {
-      "code": "6",
-      "abbreviation": "SS"
+      "code": "5",
+      "abbreviation": "3B"
     },
     "team": {
       "mlb_id": 116,
       "abbreviation": "DET"
     },
     "status": {
-      "code": null,
-      "description": null
+      "code": "A",
+      "description": "Active"
     }
   },
   "670102": {
@@ -48475,8 +48475,8 @@
       "abbreviation": "NYM"
     },
     "status": {
-      "code": "RM",
-      "description": "Reassigned to Minors"
+      "code": null,
+      "description": null
     }
   },
   "676596": {
@@ -50395,8 +50395,8 @@
       "abbreviation": "NYM"
     },
     "status": {
-      "code": "A",
-      "description": "Active"
+      "code": "D10",
+      "description": "Injured 10-Day"
     }
   },
   "677649": {
@@ -51739,8 +51739,8 @@
       "abbreviation": "AZ"
     },
     "status": {
-      "code": "RM",
-      "description": "Reassigned to Minors"
+      "code": null,
+      "description": null
     }
   },
   "678246": {
@@ -52407,12 +52407,12 @@
       "abbreviation": "P"
     },
     "team": {
-      "mlb_id": 115,
-      "abbreviation": "COL"
+      "mlb_id": 112,
+      "abbreviation": "CHC"
     },
     "status": {
-      "code": null,
-      "description": null
+      "code": "RM",
+      "description": "Reassigned to Minors"
     }
   },
   "678877": {
@@ -55099,8 +55099,8 @@
       "abbreviation": "DET"
     },
     "status": {
-      "code": "RM",
-      "description": "Reassigned to Minors"
+      "code": null,
+      "description": null
     }
   },
   "680885": {
@@ -60235,8 +60235,8 @@
       "abbreviation": "NYY"
     },
     "status": {
-      "code": "D10",
-      "description": "Injured 10-Day"
+      "code": "RM",
+      "description": "Reassigned to Minors"
     }
   },
   "683021": {
@@ -66519,12 +66519,12 @@
       "abbreviation": "P"
     },
     "team": {
-      "mlb_id": 142,
-      "abbreviation": "MIN"
+      "mlb_id": 120,
+      "abbreviation": "WSH"
     },
     "status": {
-      "code": null,
-      "description": null
+      "code": "RM",
+      "description": "Reassigned to Minors"
     }
   },
   "687859": {
@@ -67531,8 +67531,8 @@
       "abbreviation": "SEA"
     },
     "status": {
-      "code": "RM",
-      "description": "Reassigned to Minors"
+      "code": null,
+      "description": null
     }
   },
   "689147": {
@@ -68096,7 +68096,7 @@
       "birthCountry": "USA",
       "batHand": "R",
       "fieldHand": "R",
-      "debutDate": null
+      "debutDate": "2026-05-03"
     },
     "position": {
       "code": "1",
@@ -68539,8 +68539,8 @@
       "abbreviation": "DET"
     },
     "status": {
-      "code": "A",
-      "description": "Active"
+      "code": "RM",
+      "description": "Reassigned to Minors"
     }
   },
   "690382": {
@@ -73199,6 +73199,54 @@
       "description": "Active"
     }
   },
+  "694346": {
+    "id": "8yd517qkc4",
+    "ids": {
+      "prism": "8yd517qkc4",
+      "bbref": "gibsotr01",
+      "fangraphs": "sa3023250",
+      "mlbam": "694346",
+      "nfbc": "12486",
+      "sfbb": "gibsotr01",
+      "yahoo": "62806"
+    },
+    "names": {
+      "boxscore": "Gibson",
+      "givenFirst": "Richard",
+      "givenFirstMiddle": "Richard Russell",
+      "firstLast": "Trey Gibson",
+      "lastFirst": "Gibson, Trey",
+      "lastFirstInit": "Gibson, T",
+      "givenFull": "Richard Russell Gibson",
+      "last": "Gibson",
+      "first": "Trey",
+      "middle": "Russell"
+    },
+    "profile": {
+      "birthDate": "2002-5-18",
+      "birthYear": "2002",
+      "birthMonth": "5",
+      "birthDay": "18",
+      "birthCity": "Newport News",
+      "birthState": "VA",
+      "birthCountry": "USA",
+      "batHand": "R",
+      "fieldHand": "R",
+      "debutDate": "2026-05-03"
+    },
+    "position": {
+      "code": "1",
+      "abbreviation": "P"
+    },
+    "team": {
+      "mlb_id": 110,
+      "abbreviation": "BAL"
+    },
+    "status": {
+      "code": "A",
+      "description": "Active"
+    }
+  },
   "694350": {
     "id": "v82ppqgz8h",
     "ids": {
@@ -74480,7 +74528,7 @@
       "birthCountry": "USA",
       "batHand": "R",
       "fieldHand": "R",
-      "debutDate": null
+      "debutDate": "2026-05-03"
     },
     "position": {
       "code": "1",
