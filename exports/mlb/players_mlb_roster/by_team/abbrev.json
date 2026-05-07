@@ -236,8 +236,8 @@
         "abbreviation": "ATH"
       },
       "status": {
-        "code": null,
-        "description": null
+        "code": "A",
+        "description": "Active"
       }
     },
     {
@@ -2156,8 +2156,8 @@
         "abbreviation": "ATH"
       },
       "status": {
-        "code": "A",
-        "description": "Active"
+        "code": "RM",
+        "description": "Reassigned to Minors"
       }
     },
     {
@@ -5230,8 +5230,8 @@
         "abbreviation": "ATL"
       },
       "status": {
-        "code": "A",
-        "description": "Active"
+        "code": null,
+        "description": null
       }
     },
     {
@@ -11668,8 +11668,8 @@
         "abbreviation": "BOS"
       },
       "status": {
-        "code": "A",
-        "description": "Active"
+        "code": "RM",
+        "description": "Reassigned to Minors"
       }
     },
     {
@@ -12388,8 +12388,8 @@
         "abbreviation": "BOS"
       },
       "status": {
-        "code": "D15",
-        "description": "Injured 15-Day"
+        "code": "A",
+        "description": "Active"
       }
     },
     {
@@ -13302,8 +13302,8 @@
         "abbreviation": "CHC"
       },
       "status": {
-        "code": null,
-        "description": null
+        "code": "A",
+        "description": "Active"
       }
     },
     {
@@ -15174,8 +15174,8 @@
         "abbreviation": "CHC"
       },
       "status": {
-        "code": "A",
-        "description": "Active"
+        "code": "D15",
+        "description": "Injured 15-Day"
       }
     },
     {
@@ -15366,8 +15366,8 @@
         "abbreviation": "CHC"
       },
       "status": {
-        "code": "RM",
-        "description": "Reassigned to Minors"
+        "code": null,
+        "description": null
       }
     },
     {
@@ -17336,8 +17336,8 @@
         "abbreviation": "CIN"
       },
       "status": {
-        "code": "D15",
-        "description": "Injured 15-Day"
+        "code": "D60",
+        "description": "Injured 60-Day"
       }
     },
     {
@@ -17528,8 +17528,8 @@
         "abbreviation": "CIN"
       },
       "status": {
-        "code": "BRV",
-        "description": "Bereavement List"
+        "code": "A",
+        "description": "Active"
       }
     },
     {
@@ -18056,8 +18056,8 @@
         "abbreviation": "CIN"
       },
       "status": {
-        "code": "A",
-        "description": "Active"
+        "code": "RM",
+        "description": "Reassigned to Minors"
       }
     },
     {
@@ -18200,8 +18200,8 @@
         "abbreviation": "CIN"
       },
       "status": {
-        "code": "A",
-        "description": "Active"
+        "code": "D15",
+        "description": "Injured 15-Day"
       }
     },
     {
@@ -22817,6 +22817,54 @@
       }
     },
     {
+      "id": "xyp3npyz3h",
+      "ids": {
+        "prism": "xyp3npyz3h",
+        "bbref": "ramirer02",
+        "fangraphs": "10314",
+        "mlbam": "541640",
+        "nfbc": "8242",
+        "sfbb": "ramirer02",
+        "yahoo": "9135"
+      },
+      "names": {
+        "boxscore": "Ramírez, E",
+        "givenFirst": "Erasmo",
+        "givenFirstMiddle": "Erasmo Jose",
+        "firstLast": "Erasmo Ramírez",
+        "lastFirst": "Ramírez, Erasmo",
+        "lastFirstInit": "Ramírez, E",
+        "givenFull": "Erasmo Jose Ramírez",
+        "last": "Ramírez",
+        "first": "Erasmo",
+        "middle": "Jose"
+      },
+      "profile": {
+        "birthDate": "1990-5-2",
+        "birthYear": "1990",
+        "birthMonth": "5",
+        "birthDay": "2",
+        "birthCity": "Rivas",
+        "birthState": null,
+        "birthCountry": "Nicaragua",
+        "batHand": "R",
+        "fieldHand": "R",
+        "debutDate": "2012-04-09"
+      },
+      "position": {
+        "code": "1",
+        "abbreviation": "P"
+      },
+      "team": {
+        "mlb_id": 115,
+        "abbreviation": "COL"
+      },
+      "status": {
+        "code": null,
+        "description": null
+      }
+    },
+    {
       "id": "yj0x72c9q0",
       "ids": {
         "prism": "yj0x72c9q0",
@@ -24926,8 +24974,8 @@
         "abbreviation": "CWS"
       },
       "status": {
-        "code": "D15",
-        "description": "Injured 15-Day"
+        "code": "RM",
+        "description": "Reassigned to Minors"
       }
     },
     {
@@ -25262,8 +25310,8 @@
         "abbreviation": "CWS"
       },
       "status": {
-        "code": "D15",
-        "description": "Injured 15-Day"
+        "code": "RM",
+        "description": "Reassigned to Minors"
       }
     },
     {
@@ -26032,8 +26080,8 @@
         "abbreviation": "DET"
       },
       "status": {
-        "code": "A",
-        "description": "Active"
+        "code": "SU",
+        "description": "Suspended # days"
       }
     },
     {
@@ -27088,8 +27136,8 @@
         "abbreviation": "DET"
       },
       "status": {
-        "code": "RM",
-        "description": "Reassigned to Minors"
+        "code": "A",
+        "description": "Active"
       }
     },
     {
@@ -28096,8 +28144,8 @@
         "abbreviation": "DET"
       },
       "status": {
-        "code": "A",
-        "description": "Active"
+        "code": "D10",
+        "description": "Injured 10-Day"
       }
     },
     {
@@ -28578,8 +28626,8 @@
         "abbreviation": "HOU"
       },
       "status": {
-        "code": "RM",
-        "description": "Reassigned to Minors"
+        "code": "A",
+        "description": "Active"
       }
     },
     {
@@ -28722,8 +28770,8 @@
         "abbreviation": "HOU"
       },
       "status": {
-        "code": "A",
-        "description": "Active"
+        "code": "D10",
+        "description": "Injured 10-Day"
       }
     },
     {
@@ -30066,8 +30114,8 @@
         "abbreviation": "HOU"
       },
       "status": {
-        "code": "A",
-        "description": "Active"
+        "code": "RM",
+        "description": "Reassigned to Minors"
       }
     },
     {
@@ -31940,8 +31988,8 @@
         "abbreviation": "KC"
       },
       "status": {
-        "code": "A",
-        "description": "Active"
+        "code": "RM",
+        "description": "Reassigned to Minors"
       }
     },
     {
@@ -33321,7 +33369,7 @@
         "birthCountry": "Canada",
         "batHand": "R",
         "fieldHand": "R",
-        "debutDate": null
+        "debutDate": "2026-05-06"
       },
       "position": {
         "code": "1",
@@ -33332,8 +33380,8 @@
         "abbreviation": "KC"
       },
       "status": {
-        "code": "RM",
-        "description": "Reassigned to Minors"
+        "code": "A",
+        "description": "Active"
       }
     },
     {
@@ -33478,8 +33526,8 @@
         "abbreviation": "LAA"
       },
       "status": {
-        "code": "A",
-        "description": "Active"
+        "code": "RM",
+        "description": "Reassigned to Minors"
       }
     },
     {
@@ -35350,8 +35398,8 @@
         "abbreviation": "LAA"
       },
       "status": {
-        "code": "D15",
-        "description": "Injured 15-Day"
+        "code": "A",
+        "description": "Active"
       }
     },
     {
@@ -37032,8 +37080,8 @@
         "abbreviation": "LAD"
       },
       "status": {
-        "code": "A",
-        "description": "Active"
+        "code": "RM",
+        "description": "Reassigned to Minors"
       }
     },
     {
@@ -37464,8 +37512,8 @@
         "abbreviation": "LAD"
       },
       "status": {
-        "code": "D15",
-        "description": "Injured 15-Day"
+        "code": "A",
+        "description": "Active"
       }
     },
     {
@@ -38906,8 +38954,8 @@
         "abbreviation": "MIA"
       },
       "status": {
-        "code": "A",
-        "description": "Active"
+        "code": "RM",
+        "description": "Reassigned to Minors"
       }
     },
     {
@@ -39999,7 +40047,7 @@
         "birthCountry": "USA",
         "batHand": "L",
         "fieldHand": "L",
-        "debutDate": null
+        "debutDate": "2026-05-06"
       },
       "position": {
         "code": "1",
@@ -40010,8 +40058,8 @@
         "abbreviation": "MIA"
       },
       "status": {
-        "code": "RM",
-        "description": "Reassigned to Minors"
+        "code": "A",
+        "description": "Active"
       }
     },
     {
@@ -44243,6 +44291,54 @@
       }
     },
     {
+      "id": "f536t9vjq4",
+      "ids": {
+        "prism": "f536t9vjq4",
+        "bbref": "gomezyo01",
+        "fangraphs": "22872",
+        "mlbam": "672782",
+        "nfbc": "11157",
+        "sfbb": "gomezyo01",
+        "yahoo": "11806"
+      },
+      "names": {
+        "boxscore": "Gómez, Y",
+        "givenFirst": "Yoendrys",
+        "givenFirstMiddle": "Yoendrys Adrian",
+        "firstLast": "Yoendrys Gómez",
+        "lastFirst": "Gómez, Yoendrys",
+        "lastFirstInit": "Gómez, Y",
+        "givenFull": "Yoendrys Adrian Gómez",
+        "last": "Gómez",
+        "first": "Yoendrys",
+        "middle": "Adrian"
+      },
+      "profile": {
+        "birthDate": "1999-10-15",
+        "birthYear": "1999",
+        "birthMonth": "10",
+        "birthDay": "15",
+        "birthCity": "Nirgua",
+        "birthState": null,
+        "birthCountry": "Venezuela",
+        "batHand": "R",
+        "fieldHand": "R",
+        "debutDate": "2023-09-28"
+      },
+      "position": {
+        "code": "1",
+        "abbreviation": "P"
+      },
+      "team": {
+        "mlb_id": 142,
+        "abbreviation": "MIN"
+      },
+      "status": {
+        "code": "RM",
+        "description": "Reassigned to Minors"
+      }
+    },
+    {
       "id": "fcse1d3wx4",
       "ids": {
         "prism": "fcse1d3wx4",
@@ -45054,8 +45150,8 @@
         "abbreviation": "MIN"
       },
       "status": {
-        "code": "RM",
-        "description": "Reassigned to Minors"
+        "code": null,
+        "description": null
       }
     },
     {
@@ -50194,8 +50290,8 @@
         "abbreviation": "NYY"
       },
       "status": {
-        "code": "RM",
-        "description": "Reassigned to Minors"
+        "code": "A",
+        "description": "Active"
       }
     },
     {
@@ -66101,54 +66197,6 @@
       }
     },
     {
-      "id": "f536t9vjq4",
-      "ids": {
-        "prism": "f536t9vjq4",
-        "bbref": "gomezyo01",
-        "fangraphs": "22872",
-        "mlbam": "672782",
-        "nfbc": "11157",
-        "sfbb": "gomezyo01",
-        "yahoo": "11806"
-      },
-      "names": {
-        "boxscore": "Gómez, Y",
-        "givenFirst": "Yoendrys",
-        "givenFirstMiddle": "Yoendrys Adrian",
-        "firstLast": "Yoendrys Gómez",
-        "lastFirst": "Gómez, Yoendrys",
-        "lastFirstInit": "Gómez, Y",
-        "givenFull": "Yoendrys Adrian Gómez",
-        "last": "Gómez",
-        "first": "Yoendrys",
-        "middle": "Adrian"
-      },
-      "profile": {
-        "birthDate": "1999-10-15",
-        "birthYear": "1999",
-        "birthMonth": "10",
-        "birthDay": "15",
-        "birthCity": "Nirgua",
-        "birthState": null,
-        "birthCountry": "Venezuela",
-        "batHand": "R",
-        "fieldHand": "R",
-        "debutDate": "2023-09-28"
-      },
-      "position": {
-        "code": "1",
-        "abbreviation": "P"
-      },
-      "team": {
-        "mlb_id": "TB",
-        "abbreviation": "TB"
-      },
-      "status": {
-        "code": null,
-        "description": null
-      }
-    },
-    {
       "id": "f8wh4p8mg4",
       "ids": {
         "prism": "f8wh4p8mg4",
@@ -73686,8 +73734,8 @@
         "abbreviation": "WSH"
       },
       "status": {
-        "code": "A",
-        "description": "Active"
+        "code": "RM",
+        "description": "Reassigned to Minors"
       }
     },
     {
@@ -74838,8 +74886,8 @@
         "abbreviation": "WSH"
       },
       "status": {
-        "code": "RM",
-        "description": "Reassigned to Minors"
+        "code": "A",
+        "description": "Active"
       }
     },
     {
