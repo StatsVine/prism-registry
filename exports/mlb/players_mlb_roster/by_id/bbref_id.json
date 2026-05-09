@@ -28411,8 +28411,8 @@
       "abbreviation": "COL"
     },
     "status": {
-      "code": "RM",
-      "description": "Reassigned to Minors"
+      "code": "A",
+      "description": "Active"
     }
   },
   "hameldo01": {
@@ -30475,8 +30475,8 @@
       "abbreviation": "COL"
     },
     "status": {
-      "code": "A",
-      "description": "Active"
+      "code": "BRV",
+      "description": "Bereavement List"
     }
   },
   "hergeke01": {
@@ -43677,6 +43677,54 @@
     "status": {
       "code": null,
       "description": null
+    }
+  },
+  "martiom01": {
+    "id": "74jq37vkmd",
+    "ids": {
+      "prism": "74jq37vkmd",
+      "bbref": "martiom01",
+      "fangraphs": "25369",
+      "mlbam": "683079",
+      "nfbc": "12670",
+      "sfbb": null,
+      "yahoo": "64132"
+    },
+    "names": {
+      "boxscore": "Martinez, O",
+      "givenFirst": "Omar",
+      "givenFirstMiddle": "Omar Andres",
+      "firstLast": "Omar Martinez",
+      "lastFirst": "Martinez, Omar",
+      "lastFirstInit": "Martinez, O",
+      "givenFull": "Omar Andres Martinez",
+      "last": "Martinez",
+      "first": "Omar",
+      "middle": "Andres"
+    },
+    "profile": {
+      "birthDate": "2001-7-5",
+      "birthYear": "2001",
+      "birthMonth": "7",
+      "birthDay": "5",
+      "birthCity": "San Felix",
+      "birthState": null,
+      "birthCountry": "Venezuela",
+      "batHand": "L",
+      "fieldHand": "R",
+      "debutDate": "2026-05-08"
+    },
+    "position": {
+      "code": "2",
+      "abbreviation": "C"
+    },
+    "team": {
+      "mlb_id": 108,
+      "abbreviation": "LAA"
+    },
+    "status": {
+      "code": "A",
+      "description": "Active"
     }
   },
   "martior01": {
@@ -75737,6 +75785,54 @@
     "team": {
       "mlb_id": 135,
       "abbreviation": "SD"
+    },
+    "status": {
+      "code": "A",
+      "description": "Active"
+    }
+  },
+  "waldsry01": {
+    "id": "nnyvh0nw6w",
+    "ids": {
+      "prism": "nnyvh0nw6w",
+      "bbref": "waldsry01",
+      "fangraphs": "35061",
+      "mlbam": "814439",
+      "nfbc": "12477",
+      "sfbb": "waldsry01",
+      "yahoo": "64479"
+    },
+    "names": {
+      "boxscore": "Waldschmidt",
+      "givenFirst": "Ryan",
+      "givenFirstMiddle": "Ryan Jeffery",
+      "firstLast": "Ryan Waldschmidt",
+      "lastFirst": "Waldschmidt, Ryan",
+      "lastFirstInit": "Waldschmidt, R",
+      "givenFull": "Ryan Waldschmidt",
+      "last": "Waldschmidt",
+      "first": "Ryan",
+      "middle": "Jeffery"
+    },
+    "profile": {
+      "birthDate": "2002-10-7",
+      "birthYear": "2002",
+      "birthMonth": "10",
+      "birthDay": "7",
+      "birthCity": "Sarasota",
+      "birthState": "FL",
+      "birthCountry": "USA",
+      "batHand": "R",
+      "fieldHand": "R",
+      "debutDate": "2026-05-08"
+    },
+    "position": {
+      "code": "8",
+      "abbreviation": "CF"
+    },
+    "team": {
+      "mlb_id": 109,
+      "abbreviation": "AZ"
     },
     "status": {
       "code": "A",
