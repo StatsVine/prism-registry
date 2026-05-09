@@ -5760,8 +5760,8 @@
         "abbreviation": "AZ"
       },
       "status": {
-        "code": "D10",
-        "description": "Injured 10-Day"
+        "code": "RM",
+        "description": "Reassigned to Minors"
       }
     },
     {
@@ -7436,12 +7436,12 @@
         "abbreviation": "CF"
       },
       "team": {
-        "mlb_id": 109,
+        "mlb_id": "AZ",
         "abbreviation": "AZ"
       },
       "status": {
-        "code": "A",
-        "description": "Active"
+        "code": null,
+        "description": null
       }
     },
     {
@@ -8498,8 +8498,8 @@
         "abbreviation": "BAL"
       },
       "status": {
-        "code": "RM",
-        "description": "Reassigned to Minors"
+        "code": "A",
+        "description": "Active"
       }
     },
     {
@@ -10178,8 +10178,8 @@
         "abbreviation": "BAL"
       },
       "status": {
-        "code": "A",
-        "description": "Active"
+        "code": "D15",
+        "description": "Injured 15-Day"
       }
     },
     {
@@ -11476,8 +11476,8 @@
         "abbreviation": "BOS"
       },
       "status": {
-        "code": "A",
-        "description": "Active"
+        "code": "RM",
+        "description": "Reassigned to Minors"
       }
     },
     {
@@ -12772,8 +12772,8 @@
         "abbreviation": "BOS"
       },
       "status": {
-        "code": "RM",
-        "description": "Reassigned to Minors"
+        "code": "A",
+        "description": "Active"
       }
     },
     {
@@ -13590,8 +13590,8 @@
         "abbreviation": "CHC"
       },
       "status": {
-        "code": "A",
-        "description": "Active"
+        "code": "RM",
+        "description": "Reassigned to Minors"
       }
     },
     {
@@ -14790,8 +14790,8 @@
         "abbreviation": "CHC"
       },
       "status": {
-        "code": "D15",
-        "description": "Injured 15-Day"
+        "code": "A",
+        "description": "Active"
       }
     },
     {
@@ -16040,8 +16040,8 @@
         "abbreviation": "CIN"
       },
       "status": {
-        "code": "D15",
-        "description": "Injured 15-Day"
+        "code": "A",
+        "description": "Active"
       }
     },
     {
@@ -16424,8 +16424,8 @@
         "abbreviation": "CIN"
       },
       "status": {
-        "code": "A",
-        "description": "Active"
+        "code": "RM",
+        "description": "Reassigned to Minors"
       }
     },
     {
@@ -18678,12 +18678,12 @@
         "abbreviation": "P"
       },
       "team": {
-        "mlb_id": 114,
+        "mlb_id": "CLE",
         "abbreviation": "CLE"
       },
       "status": {
-        "code": "A",
-        "description": "Active"
+        "code": null,
+        "description": null
       }
     },
     {
@@ -19546,8 +19546,8 @@
         "abbreviation": "CLE"
       },
       "status": {
-        "code": "RM",
-        "description": "Reassigned to Minors"
+        "code": "A",
+        "description": "Active"
       }
     },
     {
@@ -23438,8 +23438,8 @@
         "abbreviation": "CWS"
       },
       "status": {
-        "code": "RM",
-        "description": "Reassigned to Minors"
+        "code": "A",
+        "description": "Active"
       }
     },
     {
@@ -23914,12 +23914,12 @@
         "abbreviation": "P"
       },
       "team": {
-        "mlb_id": 145,
+        "mlb_id": "CWS",
         "abbreviation": "CWS"
       },
       "status": {
-        "code": "A",
-        "description": "Active"
+        "code": null,
+        "description": null
       }
     },
     {
@@ -26757,6 +26757,54 @@
       }
     },
     {
+      "id": "8gcgr6elc4",
+      "ids": {
+        "prism": "8gcgr6elc4",
+        "bbref": "edwarca01",
+        "fangraphs": "13607",
+        "mlbam": "605218",
+        "nfbc": "9329",
+        "sfbb": "edwarca01",
+        "yahoo": "9555"
+      },
+      "names": {
+        "boxscore": "Edwards Jr.",
+        "givenFirst": "Carl",
+        "givenFirstMiddle": "Carl Fleming",
+        "firstLast": "Carl Edwards Jr.",
+        "lastFirst": "Edwards Jr., Carl",
+        "lastFirstInit": "Edwards Jr., C",
+        "givenFull": "Carl Fleming Edwards Jr.",
+        "last": "Edwards",
+        "first": "Carl",
+        "middle": "Fleming"
+      },
+      "profile": {
+        "birthDate": "1991-9-3",
+        "birthYear": "1991",
+        "birthMonth": "9",
+        "birthDay": "3",
+        "birthCity": "Newberry",
+        "birthState": "SC",
+        "birthCountry": "USA",
+        "batHand": "R",
+        "fieldHand": "R",
+        "debutDate": "2015-09-07"
+      },
+      "position": {
+        "code": "1",
+        "abbreviation": "P"
+      },
+      "team": {
+        "mlb_id": 116,
+        "abbreviation": "DET"
+      },
+      "status": {
+        "code": null,
+        "description": null
+      }
+    },
+    {
       "id": "9y8e89cwmd",
       "ids": {
         "prism": "9y8e89cwmd",
@@ -26800,8 +26848,8 @@
         "abbreviation": "DET"
       },
       "status": {
-        "code": null,
-        "description": null
+        "code": "A",
+        "description": "Active"
       }
     },
     {
@@ -27280,8 +27328,8 @@
         "abbreviation": "DET"
       },
       "status": {
-        "code": "A",
-        "description": "Active"
+        "code": "RM",
+        "description": "Reassigned to Minors"
       }
     },
     {
@@ -29442,8 +29490,8 @@
         "abbreviation": "HOU"
       },
       "status": {
-        "code": null,
-        "description": null
+        "code": "A",
+        "description": "Active"
       }
     },
     {
@@ -31316,8 +31364,8 @@
         "abbreviation": "KC"
       },
       "status": {
-        "code": "RM",
-        "description": "Reassigned to Minors"
+        "code": "A",
+        "description": "Active"
       }
     },
     {
@@ -31364,8 +31412,8 @@
         "abbreviation": "KC"
       },
       "status": {
-        "code": "A",
-        "description": "Active"
+        "code": "D15",
+        "description": "Injured 15-Day"
       }
     },
     {
@@ -32132,8 +32180,8 @@
         "abbreviation": "KC"
       },
       "status": {
-        "code": "RM",
-        "description": "Reassigned to Minors"
+        "code": "A",
+        "description": "Active"
       }
     },
     {
@@ -33524,8 +33572,8 @@
         "abbreviation": "KC"
       },
       "status": {
-        "code": "A",
-        "description": "Active"
+        "code": "RM",
+        "description": "Reassigned to Minors"
       }
     },
     {
@@ -33958,8 +34006,8 @@
         "abbreviation": "LAA"
       },
       "status": {
-        "code": "A",
-        "description": "Active"
+        "code": "D10",
+        "description": "Injured 10-Day"
       }
     },
     {
@@ -36264,8 +36312,8 @@
         "abbreviation": "LAD"
       },
       "status": {
-        "code": "A",
-        "description": "Active"
+        "code": "D15",
+        "description": "Injured 15-Day"
       }
     },
     {
@@ -38760,8 +38808,8 @@
         "abbreviation": "LAD"
       },
       "status": {
-        "code": "RM",
-        "description": "Reassigned to Minors"
+        "code": "A",
+        "description": "Active"
       }
     },
     {
@@ -40778,8 +40826,8 @@
         "abbreviation": "MIA"
       },
       "status": {
-        "code": null,
-        "description": null
+        "code": "A",
+        "description": "Active"
       }
     },
     {
@@ -41162,8 +41210,8 @@
         "abbreviation": "MIA"
       },
       "status": {
-        "code": "A",
-        "description": "Active"
+        "code": null,
+        "description": null
       }
     },
     {
@@ -44478,8 +44526,8 @@
         "abbreviation": "MIN"
       },
       "status": {
-        "code": "RM",
-        "description": "Reassigned to Minors"
+        "code": "A",
+        "description": "Active"
       }
     },
     {
@@ -46546,54 +46594,6 @@
       "status": {
         "code": "A",
         "description": "Active"
-      }
-    },
-    {
-      "id": "8gcgr6elc4",
-      "ids": {
-        "prism": "8gcgr6elc4",
-        "bbref": "edwarca01",
-        "fangraphs": "13607",
-        "mlbam": "605218",
-        "nfbc": "9329",
-        "sfbb": "edwarca01",
-        "yahoo": "9555"
-      },
-      "names": {
-        "boxscore": "Edwards Jr.",
-        "givenFirst": "Carl",
-        "givenFirstMiddle": "Carl Fleming",
-        "firstLast": "Carl Edwards Jr.",
-        "lastFirst": "Edwards Jr., Carl",
-        "lastFirstInit": "Edwards Jr., C",
-        "givenFull": "Carl Fleming Edwards Jr.",
-        "last": "Edwards",
-        "first": "Carl",
-        "middle": "Fleming"
-      },
-      "profile": {
-        "birthDate": "1991-9-3",
-        "birthYear": "1991",
-        "birthMonth": "9",
-        "birthDay": "3",
-        "birthCity": "Newberry",
-        "birthState": "SC",
-        "birthCountry": "USA",
-        "batHand": "R",
-        "fieldHand": "R",
-        "debutDate": "2015-09-07"
-      },
-      "position": {
-        "code": "1",
-        "abbreviation": "P"
-      },
-      "team": {
-        "mlb_id": 121,
-        "abbreviation": "NYM"
-      },
-      "status": {
-        "code": null,
-        "description": null
       }
     },
     {
@@ -48946,8 +48946,8 @@
         "abbreviation": "NYY"
       },
       "status": {
-        "code": "A",
-        "description": "Active"
+        "code": "D10",
+        "description": "Injured 10-Day"
       }
     },
     {
@@ -49090,8 +49090,8 @@
         "abbreviation": "NYY"
       },
       "status": {
-        "code": "RM",
-        "description": "Reassigned to Minors"
+        "code": "A",
+        "description": "Active"
       }
     },
     {
@@ -49570,8 +49570,8 @@
         "abbreviation": "NYY"
       },
       "status": {
-        "code": "RM",
-        "description": "Reassigned to Minors"
+        "code": "A",
+        "description": "Active"
       }
     },
     {
@@ -50634,8 +50634,8 @@
       "id": "v0sfn0qhkd",
       "ids": {
         "prism": "v0sfn0qhkd",
-        "bbref": null,
-        "fangraphs": "sa3020680",
+        "bbref": "beckbr01",
+        "fangraphs": "33043",
         "mlbam": "694341",
         "nfbc": "12667",
         "sfbb": null,
@@ -52736,7 +52736,7 @@
         "abbreviation": "CF"
       },
       "team": {
-        "mlb_id": "PHI",
+        "mlb_id": 143,
         "abbreviation": "PHI"
       },
       "status": {
@@ -54374,8 +54374,8 @@
         "abbreviation": "PIT"
       },
       "status": {
-        "code": "A",
-        "description": "Active"
+        "code": "D10",
+        "description": "Injured 10-Day"
       }
     },
     {
@@ -55286,8 +55286,8 @@
         "abbreviation": "PIT"
       },
       "status": {
-        "code": "RM",
-        "description": "Reassigned to Minors"
+        "code": "A",
+        "description": "Active"
       }
     },
     {
@@ -56976,8 +56976,8 @@
       "id": "jektejh834",
       "ids": {
         "prism": "jektejh834",
-        "bbref": null,
-        "fangraphs": "sa877500",
+        "bbref": "duranro02",
+        "fangraphs": "20958",
         "mlbam": "660710",
         "nfbc": "12669",
         "sfbb": null,
@@ -59082,8 +59082,8 @@
         "abbreviation": "SEA"
       },
       "status": {
-        "code": "A",
-        "description": "Active"
+        "code": "RM",
+        "description": "Reassigned to Minors"
       }
     },
     {
@@ -59130,8 +59130,8 @@
         "abbreviation": "SEA"
       },
       "status": {
-        "code": "D10",
-        "description": "Injured 10-Day"
+        "code": "A",
+        "description": "Active"
       }
     },
     {
@@ -65424,8 +65424,8 @@
         "abbreviation": "TB"
       },
       "status": {
-        "code": "A",
-        "description": "Active"
+        "code": "RM",
+        "description": "Reassigned to Minors"
       }
     },
     {
@@ -66768,8 +66768,8 @@
         "abbreviation": "TB"
       },
       "status": {
-        "code": "D15",
-        "description": "Injured 15-Day"
+        "code": "A",
+        "description": "Active"
       }
     },
     {
