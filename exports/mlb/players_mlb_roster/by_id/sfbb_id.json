@@ -5371,8 +5371,8 @@
       "abbreviation": "WSH"
     },
     "status": {
-      "code": "D15",
-      "description": "Injured 15-Day"
+      "code": "A",
+      "description": "Active"
     }
   },
   "bellico01": {
@@ -10891,8 +10891,8 @@
       "abbreviation": "ATL"
     },
     "status": {
-      "code": null,
-      "description": null
+      "code": "A",
+      "description": "Active"
     }
   },
   "carrico01": {
@@ -16267,8 +16267,8 @@
       "abbreviation": "COL"
     },
     "status": {
-      "code": "A",
-      "description": "Active"
+      "code": "D10",
+      "description": "Injured 10-Day"
     }
   },
   "drakeko01": {
@@ -27927,12 +27927,12 @@
       "abbreviation": "RF"
     },
     "team": {
-      "mlb_id": 113,
-      "abbreviation": "CIN"
+      "mlb_id": 146,
+      "abbreviation": "MIA"
     },
     "status": {
-      "code": null,
-      "description": null
+      "code": "RM",
+      "description": "Reassigned to Minors"
     }
   },
   "hiralya01": {
@@ -30379,8 +30379,8 @@
       "abbreviation": "MIA"
     },
     "status": {
-      "code": "A",
-      "description": "Active"
+      "code": "D7",
+      "description": "Injured 7-Day"
     }
   },
   "jobeja01": {
@@ -30907,8 +30907,8 @@
       "abbreviation": "NYY"
     },
     "status": {
-      "code": "A",
-      "description": "Active"
+      "code": "RM",
+      "description": "Reassigned to Minors"
     }
   },
   "joycebe01": {
@@ -41131,8 +41131,8 @@
       "abbreviation": "ATL"
     },
     "status": {
-      "code": "A",
-      "description": "Active"
+      "code": "RM",
+      "description": "Reassigned to Minors"
     }
   },
   "medinlu02": {
@@ -44491,8 +44491,8 @@
       "abbreviation": "HOU"
     },
     "status": {
-      "code": "A",
-      "description": "Active"
+      "code": "RM",
+      "description": "Reassigned to Minors"
     }
   },
   "musgrjo01": {
@@ -47515,8 +47515,8 @@
       "abbreviation": "MIA"
     },
     "status": {
-      "code": "RM",
-      "description": "Reassigned to Minors"
+      "code": "A",
+      "description": "Active"
     }
   },
   "payamjo01": {
@@ -49339,8 +49339,8 @@
       "abbreviation": "WSH"
     },
     "status": {
-      "code": "A",
-      "description": "Active"
+      "code": "RM",
+      "description": "Reassigned to Minors"
     }
   },
   "povicca01": {
@@ -58027,8 +58027,8 @@
       "abbreviation": "MIA"
     },
     "status": {
-      "code": "D15",
-      "description": "Injured 15-Day"
+      "code": "D60",
+      "description": "Injured 60-Day"
     }
   },
   "soderty01": {
@@ -66331,8 +66331,8 @@
       "abbreviation": "ATL"
     },
     "status": {
-      "code": "D15",
-      "description": "Injured 15-Day"
+      "code": "D60",
+      "description": "Injured 60-Day"
     }
   },
   "waldrma01": {
@@ -68009,6 +68009,54 @@
     "team": {
       "mlb_id": null,
       "abbreviation": null
+    },
+    "status": {
+      "code": null,
+      "description": null
+    }
+  },
+  "whiteth01": {
+    "id": "gcn9s5km1h",
+    "ids": {
+      "prism": "gcn9s5km1h",
+      "bbref": "whiteth01",
+      "fangraphs": "sa3023268",
+      "mlbam": "806258",
+      "nfbc": "12478",
+      "sfbb": "whiteth01",
+      "yahoo": "62986"
+    },
+    "names": {
+      "boxscore": "White, T",
+      "givenFirst": "Thomas",
+      "givenFirstMiddle": "Thomas Michael",
+      "firstLast": "Thomas White",
+      "lastFirst": "White, Thomas",
+      "lastFirstInit": "White, T",
+      "givenFull": "Thomas Michael White",
+      "last": "White",
+      "first": "Thomas",
+      "middle": "Michael"
+    },
+    "profile": {
+      "birthDate": "2004-9-29",
+      "birthYear": "2004",
+      "birthMonth": "9",
+      "birthDay": "29",
+      "birthCity": "Rowley",
+      "birthState": "MA",
+      "birthCountry": "USA",
+      "batHand": "L",
+      "fieldHand": "L",
+      "debutDate": null
+    },
+    "position": {
+      "code": "1",
+      "abbreviation": "P"
+    },
+    "team": {
+      "mlb_id": 146,
+      "abbreviation": "MIA"
     },
     "status": {
       "code": null,
