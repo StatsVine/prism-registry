@@ -1291,8 +1291,8 @@
       "abbreviation": "COL"
     },
     "status": {
-      "code": "D10",
-      "description": "Injured 10-Day"
+      "code": "D15",
+      "description": "Injured 15-Day"
     }
   },
   "11426": {
@@ -6235,8 +6235,8 @@
       "abbreviation": "NYM"
     },
     "status": {
-      "code": "A",
-      "description": "Active"
+      "code": "D10",
+      "description": "Injured 10-Day"
     }
   },
   "13723": {
@@ -6859,8 +6859,8 @@
       "abbreviation": "BAL"
     },
     "status": {
-      "code": "A",
-      "description": "Active"
+      "code": null,
+      "description": null
     }
   },
   "13942": {
@@ -14779,8 +14779,8 @@
       "abbreviation": "SEA"
     },
     "status": {
-      "code": "D15",
-      "description": "Injured 15-Day"
+      "code": "A",
+      "description": "Active"
     }
   },
   "17192": {
@@ -15687,8 +15687,8 @@
       "abbreviation": "P"
     },
     "team": {
-      "mlb_id": 143,
-      "abbreviation": "PHI"
+      "mlb_id": 118,
+      "abbreviation": "KC"
     },
     "status": {
       "code": null,
@@ -19819,8 +19819,8 @@
       "abbreviation": "NYM"
     },
     "status": {
-      "code": "D60",
-      "description": "Injured 60-Day"
+      "code": "A",
+      "description": "Active"
     }
   },
   "18674": {
@@ -20635,8 +20635,8 @@
       "abbreviation": "TB"
     },
     "status": {
-      "code": "A",
-      "description": "Active"
+      "code": "D15",
+      "description": "Injured 15-Day"
     }
   },
   "19222": {
@@ -21927,8 +21927,8 @@
       "abbreviation": "2B"
     },
     "team": {
-      "mlb_id": 112,
-      "abbreviation": "CHC"
+      "mlb_id": 115,
+      "abbreviation": "COL"
     },
     "status": {
       "code": null,
@@ -23275,8 +23275,8 @@
       "abbreviation": "ATH"
     },
     "status": {
-      "code": "A",
-      "description": "Active"
+      "code": "D15",
+      "description": "Injured 15-Day"
     }
   },
   "19481": {
@@ -27067,8 +27067,8 @@
       "abbreviation": "HOU"
     },
     "status": {
-      "code": "D10",
-      "description": "Injured 10-Day"
+      "code": "A",
+      "description": "Active"
     }
   },
   "19962": {
@@ -27979,8 +27979,8 @@
       "abbreviation": "NYM"
     },
     "status": {
-      "code": "D10",
-      "description": "Injured 10-Day"
+      "code": "D60",
+      "description": "Injured 60-Day"
     }
   },
   "20045": {
@@ -29227,8 +29227,8 @@
       "abbreviation": "BAL"
     },
     "status": {
-      "code": "RM",
-      "description": "Reassigned to Minors"
+      "code": "A",
+      "description": "Active"
     }
   },
   "20348": {
@@ -29947,8 +29947,8 @@
       "abbreviation": "NYM"
     },
     "status": {
-      "code": "D10",
-      "description": "Injured 10-Day"
+      "code": "A",
+      "description": "Active"
     }
   },
   "20418": {
@@ -41131,8 +41131,8 @@
       "abbreviation": "NYM"
     },
     "status": {
-      "code": null,
-      "description": null
+      "code": "A",
+      "description": "Active"
     }
   },
   "23401": {
@@ -45643,8 +45643,8 @@
       "abbreviation": "STL"
     },
     "status": {
-      "code": "RM",
-      "description": "Reassigned to Minors"
+      "code": "A",
+      "description": "Active"
     }
   },
   "24878": {
@@ -57883,8 +57883,8 @@
       "abbreviation": "CLE"
     },
     "status": {
-      "code": "A",
-      "description": "Active"
+      "code": "RM",
+      "description": "Reassigned to Minors"
     }
   },
   "27590": {
@@ -59275,8 +59275,8 @@
       "abbreviation": "SEA"
     },
     "status": {
-      "code": "A",
-      "description": "Active"
+      "code": "RM",
+      "description": "Reassigned to Minors"
     }
   },
   "27753": {
@@ -60907,8 +60907,8 @@
       "abbreviation": "MIL"
     },
     "status": {
-      "code": "RM",
-      "description": "Reassigned to Minors"
+      "code": "A",
+      "description": "Active"
     }
   },
   "27931": {
@@ -62159,6 +62159,54 @@
       "description": "Reassigned to Minors"
     }
   },
+  "28846": {
+    "id": "dj934rps50",
+    "ids": {
+      "prism": "dj934rps50",
+      "bbref": "santaal01",
+      "fangraphs": "28846",
+      "mlbam": "695001",
+      "nfbc": "12673",
+      "sfbb": null,
+      "yahoo": "60196"
+    },
+    "names": {
+      "boxscore": "Santa",
+      "givenFirst": "Alimber",
+      "givenFirstMiddle": "Alimber Daviel",
+      "firstLast": "Alimber Santa",
+      "lastFirst": "Santa, Alimber",
+      "lastFirstInit": "Santa, A",
+      "givenFull": "Alimber Daviel Santa",
+      "last": "Santa",
+      "first": "Alimber",
+      "middle": "Daviel"
+    },
+    "profile": {
+      "birthDate": "2003-5-3",
+      "birthYear": "2003",
+      "birthMonth": "5",
+      "birthDay": "3",
+      "birthCity": "Azua",
+      "birthState": null,
+      "birthCountry": "Dominican Republic",
+      "batHand": "R",
+      "fieldHand": "R",
+      "debutDate": "2026-05-25"
+    },
+    "position": {
+      "code": "1",
+      "abbreviation": "P"
+    },
+    "team": {
+      "mlb_id": 117,
+      "abbreviation": "HOU"
+    },
+    "status": {
+      "code": "A",
+      "description": "Active"
+    }
+  },
   "28848": {
     "id": "d9r4c0564h",
     "ids": {
@@ -62267,12 +62315,12 @@
       "yahoo": "64150"
     },
     "names": {
-      "boxscore": "Valdez, Es",
+      "boxscore": "Valdez, E",
       "givenFirst": "Esmerlyn",
       "givenFirstMiddle": "Esmerlyn",
       "firstLast": "Esmerlyn Valdez",
       "lastFirst": "Valdez, Esmerlyn",
-      "lastFirstInit": "Valdez, Es",
+      "lastFirstInit": "Valdez, E",
       "givenFull": "Esmerlyn Valdez",
       "last": "Valdez",
       "first": "Esmerlyn",
@@ -62493,6 +62541,54 @@
     "status": {
       "code": "RM",
       "description": "Reassigned to Minors"
+    }
+  },
+  "29318": {
+    "id": "732j1h6tnw",
+    "ids": {
+      "prism": "732j1h6tnw",
+      "bbref": "herrewe01",
+      "fangraphs": "29318",
+      "mlbam": "700327",
+      "nfbc": "12573",
+      "sfbb": null,
+      "yahoo": "65156"
+    },
+    "names": {
+      "boxscore": "Herrera, W",
+      "givenFirst": "Welinton",
+      "givenFirstMiddle": "Welinton",
+      "firstLast": "Welinton Herrera",
+      "lastFirst": "Herrera, Welinton",
+      "lastFirstInit": "Herrera, W",
+      "givenFull": "Welinton Herrera",
+      "last": "Herrera",
+      "first": "Welinton",
+      "middle": null
+    },
+    "profile": {
+      "birthDate": "2004-4-3",
+      "birthYear": "2004",
+      "birthMonth": "4",
+      "birthDay": "3",
+      "birthCity": "Fantino",
+      "birthState": null,
+      "birthCountry": "Dominican Republic",
+      "batHand": "L",
+      "fieldHand": "L",
+      "debutDate": "2026-05-25"
+    },
+    "position": {
+      "code": "1",
+      "abbreviation": "P"
+    },
+    "team": {
+      "mlb_id": 115,
+      "abbreviation": "COL"
+    },
+    "status": {
+      "code": "A",
+      "description": "Active"
     }
   },
   "29357": {
@@ -65179,8 +65275,8 @@
       "abbreviation": "ATH"
     },
     "status": {
-      "code": "D10",
-      "description": "Injured 10-Day"
+      "code": "D60",
+      "description": "Injured 60-Day"
     }
   },
   "29863": {
@@ -69931,8 +70027,8 @@
       "abbreviation": "MIL"
     },
     "status": {
-      "code": "A",
-      "description": "Active"
+      "code": "D15",
+      "description": "Injured 15-Day"
     }
   },
   "31490": {
@@ -70795,8 +70891,8 @@
       "abbreviation": "HOU"
     },
     "status": {
-      "code": "A",
-      "description": "Active"
+      "code": "RM",
+      "description": "Reassigned to Minors"
     }
   },
   "31595": {
@@ -73247,6 +73343,54 @@
       "description": "Injured 60-Day"
     }
   },
+  "31910": {
+    "id": "qxq79l4wjd",
+    "ids": {
+      "prism": "qxq79l4wjd",
+      "bbref": "mautzbr01",
+      "fangraphs": "31910",
+      "mlbam": "802408",
+      "nfbc": "12587",
+      "sfbb": null,
+      "yahoo": "60397"
+    },
+    "names": {
+      "boxscore": "Mautz",
+      "givenFirst": "Brycen",
+      "givenFirstMiddle": "Brycen Alexander",
+      "firstLast": "Brycen Mautz",
+      "lastFirst": "Mautz, Brycen",
+      "lastFirstInit": "Mautz, B",
+      "givenFull": "Brycen Alexander Mautz",
+      "last": "Mautz",
+      "first": "Brycen",
+      "middle": "Alexander"
+    },
+    "profile": {
+      "birthDate": "2001-7-17",
+      "birthYear": "2001",
+      "birthMonth": "7",
+      "birthDay": "17",
+      "birthCity": "San Diego",
+      "birthState": "CA",
+      "birthCountry": "USA",
+      "batHand": "L",
+      "fieldHand": "L",
+      "debutDate": "2026-05-25"
+    },
+    "position": {
+      "code": "1",
+      "abbreviation": "P"
+    },
+    "team": {
+      "mlb_id": 138,
+      "abbreviation": "STL"
+    },
+    "status": {
+      "code": "RM",
+      "description": "Reassigned to Minors"
+    }
+  },
   "31912": {
     "id": "g153xrl8mm",
     "ids": {
@@ -73867,8 +74011,8 @@
       "abbreviation": "CWS"
     },
     "status": {
-      "code": "A",
-      "description": "Active"
+      "code": "D15",
+      "description": "Injured 15-Day"
     }
   },
   "32095": {
@@ -73963,8 +74107,8 @@
       "abbreviation": "NYM"
     },
     "status": {
-      "code": "A",
-      "description": "Active"
+      "code": "RM",
+      "description": "Reassigned to Minors"
     }
   },
   "32127": {
@@ -76507,8 +76651,8 @@
       "abbreviation": "NYM"
     },
     "status": {
-      "code": "A",
-      "description": "Active"
+      "code": "RM",
+      "description": "Reassigned to Minors"
     }
   },
   "34847": {
@@ -78567,12 +78711,12 @@
       "abbreviation": "P"
     },
     "team": {
-      "mlb_id": 121,
-      "abbreviation": "NYM"
+      "mlb_id": 139,
+      "abbreviation": "TB"
     },
     "status": {
-      "code": null,
-      "description": null
+      "code": "A",
+      "description": "Active"
     }
   },
   "6887": {
@@ -81071,54 +81215,6 @@
       "description": null
     }
   },
-  "sa3015478": {
-    "id": "dj934rps50",
-    "ids": {
-      "prism": "dj934rps50",
-      "bbref": null,
-      "fangraphs": "sa3015478",
-      "mlbam": "695001",
-      "nfbc": "12673",
-      "sfbb": null,
-      "yahoo": "60196"
-    },
-    "names": {
-      "boxscore": "Santa",
-      "givenFirst": "Alimber",
-      "givenFirstMiddle": "Alimber Daviel",
-      "firstLast": "Alimber Santa",
-      "lastFirst": "Santa, Alimber",
-      "lastFirstInit": "Santa, A",
-      "givenFull": "Alimber Daviel Santa",
-      "last": "Santa",
-      "first": "Alimber",
-      "middle": "Daviel"
-    },
-    "profile": {
-      "birthDate": "2003-5-3",
-      "birthYear": "2003",
-      "birthMonth": "5",
-      "birthDay": "3",
-      "birthCity": "Azua",
-      "birthState": null,
-      "birthCountry": "Dominican Republic",
-      "batHand": "R",
-      "fieldHand": "R",
-      "debutDate": null
-    },
-    "position": {
-      "code": "1",
-      "abbreviation": "P"
-    },
-    "team": {
-      "mlb_id": 117,
-      "abbreviation": "HOU"
-    },
-    "status": {
-      "code": "A",
-      "description": "Active"
-    }
-  },
   "sa3015489": {
     "id": "qqzqvq805h",
     "ids": {
@@ -81741,54 +81837,6 @@
     "status": {
       "code": null,
       "description": null
-    }
-  },
-  "sa3016061": {
-    "id": "732j1h6tnw",
-    "ids": {
-      "prism": "732j1h6tnw",
-      "bbref": null,
-      "fangraphs": "sa3016061",
-      "mlbam": "700327",
-      "nfbc": "12573",
-      "sfbb": null,
-      "yahoo": "65156"
-    },
-    "names": {
-      "boxscore": "Herrera, W",
-      "givenFirst": "Welinton",
-      "givenFirstMiddle": "Welinton",
-      "firstLast": "Welinton Herrera",
-      "lastFirst": "Herrera, Welinton",
-      "lastFirstInit": "Herrera, W",
-      "givenFull": "Welinton Herrera",
-      "last": "Herrera",
-      "first": "Welinton",
-      "middle": null
-    },
-    "profile": {
-      "birthDate": "2004-4-3",
-      "birthYear": "2004",
-      "birthMonth": "4",
-      "birthDay": "3",
-      "birthCity": "Fantino",
-      "birthState": null,
-      "birthCountry": "Dominican Republic",
-      "batHand": "L",
-      "fieldHand": "L",
-      "debutDate": null
-    },
-    "position": {
-      "code": "1",
-      "abbreviation": "P"
-    },
-    "team": {
-      "mlb_id": 115,
-      "abbreviation": "COL"
-    },
-    "status": {
-      "code": "A",
-      "description": "Active"
     }
   },
   "sa3016504": {
@@ -83419,8 +83467,8 @@
       "abbreviation": "CWS"
     },
     "status": {
-      "code": "RM",
-      "description": "Reassigned to Minors"
+      "code": "A",
+      "description": "Active"
     }
   },
   "sa3020633": {
@@ -83561,54 +83609,6 @@
     "team": {
       "mlb_id": 147,
       "abbreviation": "NYY"
-    },
-    "status": {
-      "code": "RM",
-      "description": "Reassigned to Minors"
-    }
-  },
-  "sa3020710": {
-    "id": "qxq79l4wjd",
-    "ids": {
-      "prism": "qxq79l4wjd",
-      "bbref": null,
-      "fangraphs": "sa3020710",
-      "mlbam": "802408",
-      "nfbc": "12587",
-      "sfbb": null,
-      "yahoo": "60397"
-    },
-    "names": {
-      "boxscore": "Mautz",
-      "givenFirst": "Brycen",
-      "givenFirstMiddle": "Brycen Alexander",
-      "firstLast": "Brycen Mautz",
-      "lastFirst": "Mautz, Brycen",
-      "lastFirstInit": "Mautz, B",
-      "givenFull": "Brycen Alexander Mautz",
-      "last": "Mautz",
-      "first": "Brycen",
-      "middle": "Alexander"
-    },
-    "profile": {
-      "birthDate": "2001-7-17",
-      "birthYear": "2001",
-      "birthMonth": "7",
-      "birthDay": "17",
-      "birthCity": "San Diego",
-      "birthState": "CA",
-      "birthCountry": "USA",
-      "batHand": "L",
-      "fieldHand": "L",
-      "debutDate": "2026-05-25"
-    },
-    "position": {
-      "code": "1",
-      "abbreviation": "P"
-    },
-    "team": {
-      "mlb_id": 138,
-      "abbreviation": "STL"
     },
     "status": {
       "code": "RM",
