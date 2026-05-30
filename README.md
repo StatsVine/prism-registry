@@ -1,125 +1,101 @@
 # PRISM Registry
 
-**PRISM (Player Record Identity Standard Mapping)** provides a registry of player identity mappings across major sports data providers. It aims to standardize the messy, inconsistent world of player identity across sports and data providers. By maintaining a clean core dataset and a richer registry dataset, we enable better interoperability for developers, researchers, and sports data enthusiasts. By using automation and strict validation, we can provide timely updates to player data.
+**PRISM Registry** provides enriched player metadata — names, birth dates, MLB roster affiliations, and more — built on top of the core identity mappings from [PRISM Crosswalk](https://github.com/StatsVine/prism-crosswalk). While Crosswalk is the authoritative source of player IDs across data providers, Registry adds the human-readable context needed to use those IDs in applications, APIs, and research.
 
-prism-registry is an enriched roster dataset that provides stable identifiers and metadata aggregated from multiple data sources. It's intented as a primary data source for player metadata and identifiers.
+This repository contains the **build artifacts and schemas** — the generated JSON, CSV, and NDJSON files that most consumers should use directly. Raw player metadata is derived from Crosswalk's ID mappings and multiple upstream sources, then processed into clean, consistent datasets.
 
-Learn more about the full PRISM ecosystem (including the richer roster dataset and tooling for the data repos) at [prism-tools](https://github.com/statsvine/prism-tools).
+## Using the Data
 
-## Overview
-This repository builds on the core [prism-crosswalk](https://github.com/statsvine/prism-crosswalk) dataset, enriching the core dataset from external data sources, and remixes it into a variety of consumable data formats.
+| What you want | Where to go |
+|---|---|
+| Browse or query player metadata via JSON API | [registry.prism.statsvine.com](https://registry.prism.statsvine.com) |
+| Consume the data in CSV, JSON, or NDJSON | [github.com/StatsVine/prism-registry](https://github.com/StatsVine/prism-registry) (this repo — build artifacts) |
+| Source player identity mappings (IDs only) | [github.com/StatsVine/prism-crosswalk](https://github.com/StatsVine/prism-crosswalk) |
 
-### Philosophy
-- **Flexible** – Produces JSON, CSV, NDJSON, minified variants, and others for flexible consumption.
-- **Stable schema**: The schema (including file and directory structure) should remain stable over time, with changes only made when absolutely necessary. This ensures consistent mappings and minimal disruption to downstream systems.
-- **Downstream Friendly** – Designed for integration into tools, pipelines, and workflows that require stable player metadata.
-- **Automated Builds** – Uses scripts and GitHub Actions to generate exports reliably and consistently.
-- **Separation of Concerns** – Keeps raw data and build artifacts in distinct repos to simplify maintenance.
+## Philosophy
+- **Enrichment, not source**: Registry is a derived dataset. It enriches Crosswalk's stable ID mappings with additional metadata. It does not define player identities.
+- **Consistent schemas**: Each dataset follows a predictable schema, versioned for stability. Schema changes are rare and clearly communicated.
+- **Build artifacts only**: The primary output is pre-generated files in multiple formats. We do not host live databases or APIs (though a JSON API is available at registry.prism.statsvine.com).
+- **Open and reproducible**: All datasets are generated from public upstream sources and Crosswalk. Anyone can replicate the build.
 
-### Who this is for
-If you already have detailed player metadata and are dealing with player identity mismatches across sources:
+## Why This Exists
+- **Crosswalk gives you IDs, but not context**: Crosswalk focuses on player identity mappings. To use those IDs you often need names, birth dates, team rosters, and other metadata — that's what Registry provides.
+- **Consistent metadata across sources**: Merging metadata from MLB, FanGraphs, and other providers is error-prone. Registry normalizes it into a single, reliable set.
+- **Ready-to-use artifacts**: Instead of wiring up your own enrichment pipeline, you can download or query these pre-built datasets.
 
-- **Data Engineers** needing consistent player IDs for their pipelines.
-- **Sports Data Enthusiasts** cross-referencing player data.
-- **API Builders** integrating player identity mappings into their APIs.
-- **Researchers** analyzing player data across sources.
-- **App Developers** building sports apps that require consistent player identifiers.
+## Who this is for
+If you already use Crosswalk and need player metadata to build applications, power databases, or run analysis:
 
-### Who this isn't for
-- This registry is a somewhat opinionated dataset, with a curated set of metadata. While it's perfectly useable for merging purposes, if you just need identifier mapping with minimal metadata, [prism-crosswalk](https://github.com/statsvine/prism-crosswalk) might be a better fit.
-- Historical data is limited: As of now, PRISM primarily focuses on active players and does not provide extensive historical player data.
+- **Data Engineers** who need enriched player records for their pipelines.
+- **API Builders** who want to serve player metadata alongside ID mappings.
+- **Researchers** who need complete player profiles with name, birth date, and team context.
+- **App Developers** building sports tools that require display-ready player information.
 
-## Repo Structure
-This repository provides both comprehensive and minimal datasets to support a variety of downstream use cases.
-### `exports/`
-- Contains the various datasets.
-### `schema/`
-- Contains the schema files used to generate the export files.
+## Who this isn't for
+- **Need only IDs?** Use Crosswalk directly — this dataset includes metadata that may be redundant for identity-only workflows.
+- **Need real-time roster updates?** Registry is updated daily but is not a live API. For near-real-time roster data, use the [MLB API](https://statsapi.mlb.com/) or other official feeds.
+- **Need historical season-level statistics?** This dataset is limited to current and recent roster information. For full stat histories, use sources like [FanGraphs](https://fangraphs.com/) or [Baseball-Reference](https://baseball-reference.com/).
+
+## Scope
+
+Currently **MLB only**. Registry provides four product datasets covering ~1,700+ players who appeared on a 40-man roster during the 2025 or 2026 seasons, with ongoing coverage as rosters change.
 
 ## Datasets
-### Shared
-#### player_ids
-- **Description**: Very minimal metadata, just prism-crosswalk with authoritative names from a primary datasource.
-- **Use Case**: Just want identifiers with basic name metadata.
 
-#### player_profile
-- **Description**: Sightly richer metadata, but still fairly minimal. Suitable for cross-sport use.
-- **Use Case**: Building a cross-sport player registry without additional sport-specific metadata.
+### player_ids
+All known IDs plus basic names (last, first, middle). A thin wrapper around Crosswalk with authoritative name data.
 
-### MLB
-#### players_mlb_profile
-- **Description**: Builds on player_profile, including MLB specific profile info.
-- **Use Case**: Stable player data, including handedness and primary position. Excludes status and team info.
+### players_profile
+All IDs plus full names and birth data. Cross-sport friendly.
 
-#### players_mlb_roster
-- **Description**: Builds on mlb_profile, but includes status and team info.
-- **Use Case**: Player metadata with team and status info.
+### players_mlb_profile
+Builds on `players_profile` with MLB-specific data: primary position, batting/throwing hand, and MLB debut date. Excludes team and roster status.
 
-### by_id JSON Files
-For each dataset, we also provide **`by_id`** variants in JSON format:
-
-- **Description**: Instead of a list of player objects, these files are JSON key-value maps where the key is an identifier from a specific source (e.g., MLBAM ID), and the value is the full player object.
-- **Use Case**: Ideal for consumers needing to map a single identifier (like an MLB ID) to all available identifiers or metadata.
-
-#### Example:
-- `by_id/bbref_id.json`  
-  - Keyed by **Baseball Reference ID** → maps to the player's metadata.
-
-This structure enables simple and performant lookups from any known identifier namespace.
+### players_mlb_roster
+The richest dataset. Full profile plus current team and roster status. Also provides `by_team` and `by_team_status` groupings for team-centric lookups.
 
 ## File Formats
-The `prism-registry` repository provides several output formats tailored for different use cases and consumers. All formats are automatically generated from the canonical `prism-crosswalk` dataset.
 
-### `.csv`
-- **Description**: Flat CSV file with one row per player and columns for each supported metadata field.
-- **Use Case**: Ideal for Google Sheets/Excel users, manual inspection, and systems expecting tabular data.
+| Format | Extension | Notes |
+|---|---|---|
+| JSON (human-readable) | `.json` | Standard indented JSON |
+| JSON (minified) | `.min.json` | Compressed for production use |
+| CSV | `.csv` | Comma-delimited, header row |
+| NDJSON | `.ndjson` | Newline-delimited JSON for streaming |
+| by_id | `by_id/<pivot>.json` | Keyed by a specific ID for O(1) lookups |
 
-### `.json`
-- **Description**: Full JSON array containing one object per player.
-- **Use Case**: Suitable for both human use and applications expecting structured, readable JSON with full context.
+All four formats are available for each product. `by_id` lookups are also available for each product. `players_mlb_roster` additionally provides `by_team` and `by_team_status` groupings.
 
-### `.min.json`
-- **Description**: Minified version of `.json` with whitespace removed.
-- **Use Case**: Optimized for bandwidth-sensitive environments, deployments, or client-side usage.
-
-### `.ndjson`
-- **Description**: Newline-delimited JSON, where each line is a standalone player record.
-- **Use Case**: Useful for streaming pipelines, command-line tools (`jq`, etc.), and systems ingesting JSON line-by-line.
-
-All formats are rebuilt automatically and are guaranteed to reflect the latest `main` branch of the source data repository.
+## Repository Structure
+- `/exports/` — generated dataset files, organized by product and format
+- `/schema/` — schema definition driving all builds (`schema/leagues/mlb/players.yaml`)
 
 ## Attribution
-The contents of this repository are built on top of the canonical dataset in [`prism-crosswalk`](https://github.com/StatsVine/prism-crosswalk). That repository serves as the source of truth for player ID mappings.
 
-All identifier data originates from public or open-access sources and is compiled manually or through automation into a consistent cross-reference structure. We aim to attribute individual data sources where possible within the [`prism-crosswalk-data`](https://github.com/StatsVine/prism-crosswalk) README and accompanying documentation.
-
-If you use this data, we encourage you to credit the original sources listed and cite [`prism-crosswalk`](https://github.com/StatsVine/prism-registry).
-
-PRISM Registry stands on the shoulders of giants and builds on open community data projects, including:
-
-- MLB: 
-    - [Chadwick Bureau / Register](https://github.com/chadwickbureau/register) (Open Data Commons Attribution License)
-    - [SmartFantasyBaseball's Player ID Map](https://www.smartfantasybaseball.com/tools/)
-
-We thank these projects for providing foundational sports research resources.
+PRISM Registry builds on data from:
+- [PRISM Crosswalk](https://github.com/StatsVine/prism-crosswalk) (Open Data Commons Attribution License)
+- MLB official data (publicly available via MLB.com and the MLB Stats API)
+- [Chadwick Bureau / Register](https://github.com/chadwickbureau/register) (Open Data Commons Attribution License)
+- [SmartFantasyBaseball's Player ID Map](https://www.smartfantasybaseball.com/tools/)
 
 ## License
 - Data and schemas in this repo are licensed under the [Open Data Commons Attribution License (ODC-By 1.0)](https://opendatacommons.org/licenses/by/1-0/).
+- Any code (build scripts, utilities) is licensed under MIT.
 
 ## Contributing
 
-Pull requests are welcome!
+Pull requests are welcome. However, because this dataset is derived from Crosswalk and upstream sources, most improvements to player identity should be made in the Crosswalk repository.
 
-### We especially welcome:
+### Contributions welcome:
 - Validation improvements.
 - Improvements to build process.
 - Suggestions for new output formats.
 - Schema additions.
 
-### Pull Requests Likely to Be Rejected:
-- **Schema changes**: Changing existing schemas, including file paths and names, is disruptive to downstream consumers and changes are very carefully considered for impact.
-- **exports/ changes**: exports is dynamically built. Any changes should be made to the schema file or the primary data sources in prism-crosswalk-data.
-- **Data changes**: This repo uses [prism-crosswalk](https://github.com/statsvine/prism-crosswalk) as a primary data source. Any errors, corrections, or data changes should be made in that repository.
-- **Tooling changes**: This repo uses [prism-tools](https://github.com/statsvine/prism-tools) to generate output. Any issues, bugs or improvements to code should likely be made in that repository.
+### Pull requests likely to be rejected:
+- **Adding new ID fields**: Player identity fields are sourced from Crosswalk. Add them there first.
+- **Adding performance statistics**: This is metadata only; stats (batting, pitching, etc.) are out of scope.
+- **Changing file format schemas**: Schema changes require cross-team discussion to avoid breaking downstream consumers. Propose via issue before coding.
+- **Adding new datasets** without prior discussion. Open an issue to propose the scope and format first.
 
 When in doubt, open an issue to discuss your proposed change before submitting a PR.
