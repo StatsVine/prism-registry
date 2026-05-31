@@ -1,16 +1,188 @@
 ---
-
+const BASE = 'https://registry.prism.statsvine.com'
 ---
 
 <html lang="en">
-	<head>
-		<meta charset="utf-8" />
-		<link rel="icon" type="image/svg+xml" href="/favicon.svg" />
-		<meta name="viewport" content="width=device-width" />
-		<meta name="generator" content={Astro.generator} />
-		<title>Astro</title>
-	</head>
-	<body>
-		<h1>Astro</h1>
-	</body>
+  <head>
+    <meta charset="utf-8" />
+    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+    <meta name="viewport" content="width=device-width" />
+    <meta name="generator" content={Astro.generator} />
+    <title>registry.prism.statsvine.com</title>
+    <style>
+      body { font-family: monospace; max-width: 720px; margin: 3rem auto; padding: 0 1rem; color: #222; }
+      h1 { font-size: 1.2rem; margin-bottom: 0.25rem; }
+      p { margin: 0.5rem 0; }
+      h2 { font-size: 1rem; margin-top: 2rem; margin-bottom: 0.5rem; }
+      h3 { font-size: 0.95rem; margin-top: 1.5rem; margin-bottom: 0.25rem; color: #444; }
+      code { background: #f4f4f4; padding: 0.1em 0.3em; border-radius: 3px; font-size: 0.95em; }
+      pre { background: #f4f4f4; padding: 1rem; border-radius: 4px; overflow-x: auto; }
+      a { color: #0066cc; }
+      .muted { color: #666; }
+    </style>
+  </head>
+  <body>
+    <h1>registry.prism.statsvine.com</h1>
+    <p>A static JSON API serving enriched player metadata — names, birth dates, MLB roster affiliations, and more — built on top of the stable identifier mappings from <a href="https://crosswalk.prism.statsvine.com">PRISM Crosswalk</a>. Where Crosswalk gives you IDs, Registry gives you the context to use them.</p>
+    <p>
+      Build artifacts (exports in multiple formats): <a href="https://github.com/StatsVine/prism-registry">statsvine/prism-registry</a><br />
+      Part of the <a href="https://prism.statsvine.com">PRISM ecosystem</a> for sports player identity and data.
+    </p>
+    <p>Currently covers MLB (~1,700+ players who appeared on a 40-man roster in 2025 or 2026, updated daily). NFL and NBA planned.</p>
+
+    <h2>Products</h2>
+    <p>Registry provides four datasets, each a superset of the previous:</p>
+    <pre><code>player_ids          IDs + basic names (last, first, middle)
+players_profile     Adds full names and birth data
+players_mlb_profile Adds position, bat/throw hand, MLB debut date
+players_mlb_roster  Adds current team and roster status</code></pre>
+
+    <h2>Endpoints</h2>
+
+    <h3>Look up by PRISM ID</h3>
+    <pre><code>{BASE}/&#123;sport&#125;/&#123;product&#125;/&#123;prism_id&#125;.json</code></pre>
+
+    <h3>Look up by external ID</h3>
+    <pre><code>{BASE}/&#123;sport&#125;/&#123;product&#125;/by_id/&#123;source&#125;/&#123;source_id&#125;.json</code></pre>
+    <p>Supported <code>source</code> values: <code>mlbam_id</code>, <code>bbref_id</code>, <code>fangraphs_ids</code>, <code>nfbc_id</code>, <code>sfbb_id</code>, <code>yahoo_id</code></p>
+
+    <h3>Look up by team (players_mlb_roster only)</h3>
+    <p>All players on a team:</p>
+    <pre><code>{BASE}/mlb/players_mlb_roster/by_team/&#123;pivot&#125;/&#123;team&#125;.json</code></pre>
+    <p>All players on a team, grouped by roster status:</p>
+    <pre><code>{BASE}/mlb/players_mlb_roster/by_team_status/&#123;pivot&#125;/&#123;team&#125;.json</code></pre>
+    <p>Supported <code>pivot</code> values: <code>abbrev</code> (e.g. <code>LAD</code>), <code>mlb_id</code> (e.g. <code>119</code>)</p>
+
+    <h2>Examples</h2>
+
+    <h3>Shohei Ohtani</h3>
+    <pre><code><a href="/mlb/player_ids/pr2r5vzrqm.json">{BASE}/mlb/player_ids/pr2r5vzrqm.json</a>
+<a href="/mlb/players_mlb_roster/by_id/mlbam_id/660271.json">{BASE}/mlb/players_mlb_roster/by_id/mlbam_id/660271.json</a></code></pre>
+    <pre>{JSON.stringify({
+      id: "pr2r5vzrqm",
+      ids: {
+        prism: "pr2r5vzrqm",
+        bbref: "ohtansh01",
+        fangraphs: "19755",
+        mlbam: "660271",
+        nfbc: "9810",
+        sfbb: "ohtansh01",
+        yahoo: "10835"
+      },
+      names: {
+        firstLast: "Shohei Ohtani",
+        last: "Ohtani",
+        first: "Shohei"
+      },
+      profile: {
+        birthDate: "1994-7-5",
+        birthCity: "Oshu",
+        birthCountry: "Japan",
+        batHand: "L",
+        fieldHand: "R",
+        debutDate: "2018-03-29"
+      },
+      position: { code: "Y", abbreviation: "TWP" },
+      team: { mlb_id: 119, abbreviation: "LAD" },
+      status: { code: "A", description: "Active" }
+    }, null, 2)}</pre>
+
+    <h3>LA Dodgers roster</h3>
+    <pre><code><a href="/mlb/players_mlb_roster/by_team/abbrev/LAD.json">{BASE}/mlb/players_mlb_roster/by_team/abbrev/LAD.json</a>
+<a href="/mlb/players_mlb_roster/by_team_status/abbrev/LAD.json">{BASE}/mlb/players_mlb_roster/by_team_status/abbrev/LAD.json</a></code></pre>
+
+    <h2>Bulk downloads</h2>
+    <p>Exports follow the pattern <code>/exports/mlb/&#123;product&#125;/</code>.</p>
+    <p>All four products are available in JSON, minified JSON, CSV, and NDJSON, plus <code>by_id</code> pivot files keyed by source.</p>
+
+    <h3>player_ids</h3>
+    <pre><code>
+<a href="/exports/mlb/player_ids/player_ids.json">{BASE}/exports/mlb/player_ids/player_ids.json</a>
+<a href="/exports/mlb/player_ids/player_ids.csv">{BASE}/exports/mlb/player_ids/player_ids.csv</a>
+<a href="/exports/mlb/player_ids/player_ids.ndjson">{BASE}/exports/mlb/player_ids/player_ids.ndjson</a>
+<a href="/exports/mlb/player_ids/by_id/mlbam_id.json">{BASE}/exports/mlb/player_ids/by_id/mlbam_id.json</a></code></pre>
+
+    <h3>players_profile</h3>
+    <pre><code>
+<a href="/exports/mlb/players_profile/players_profile.json">{BASE}/exports/mlb/players_profile/players_profile.json</a>
+<a href="/exports/mlb/players_profile/players_profile.csv">{BASE}/exports/mlb/players_profile/players_profile.csv</a>
+<a href="/exports/mlb/players_profile/players_profile.ndjson">{BASE}/exports/mlb/players_profile/players_profile.ndjson</a>
+<a href="/exports/mlb/players_profile/by_id/mlbam_id.json">{BASE}/exports/mlb/players_profile/by_id/mlbam_id.json</a></code></pre>
+
+    <h3>players_mlb_profile</h3>
+    <pre><code>
+<a href="/exports/mlb/players_mlb_profile/players_mlb_profile.json">{BASE}/exports/mlb/players_mlb_profile/players_mlb_profile.json</a>
+<a href="/exports/mlb/players_mlb_profile/players_mlb_profile.csv">{BASE}/exports/mlb/players_mlb_profile/players_mlb_profile.csv</a>
+<a href="/exports/mlb/players_mlb_profile/players_mlb_profile.ndjson">{BASE}/exports/mlb/players_mlb_profile/players_mlb_profile.ndjson</a>
+<a href="/exports/mlb/players_mlb_profile/by_id/mlbam_id.json">{BASE}/exports/mlb/players_mlb_profile/by_id/mlbam_id.json</a></code></pre>
+
+    <h3>players_mlb_roster</h3>
+    <pre><code>
+<a href="/exports/mlb/players_mlb_roster/players_mlb_roster.json">{BASE}/exports/mlb/players_mlb_roster/players_mlb_roster.json</a>
+<a href="/exports/mlb/players_mlb_roster/players_mlb_roster.csv">{BASE}/exports/mlb/players_mlb_roster/players_mlb_roster.csv</a>
+<a href="/exports/mlb/players_mlb_roster/players_mlb_roster.ndjson">{BASE}/exports/mlb/players_mlb_roster/players_mlb_roster.ndjson</a>
+<a href="/exports/mlb/players_mlb_roster/by_id/mlbam_id.json">{BASE}/exports/mlb/players_mlb_roster/by_id/mlbam_id.json</a>
+<a href="/exports/mlb/players_mlb_roster/by_team/abbrev.json">{BASE}/exports/mlb/players_mlb_roster/by_team/abbrev.json</a>
+<a href="/exports/mlb/players_mlb_roster/by_team/mlb_id.json">{BASE}/exports/mlb/players_mlb_roster/by_team/mlb_id.json</a>
+<a href="/exports/mlb/players_mlb_roster/by_team_status/abbrev.json">{BASE}/exports/mlb/players_mlb_roster/by_team_status/abbrev.json</a>
+<a href="/exports/mlb/players_mlb_roster/by_team_status/mlb_id.json">{BASE}/exports/mlb/players_mlb_roster/by_team_status/mlb_id.json</a></code></pre>
+    <p>All formats also available as <code>.min.json</code>.</p>
+
+    <h2>Response shape</h2>
+
+    <h3>player_ids</h3>
+    <pre><code>
+id                   PRISM ID (always present)
+
+ids.prism            PRISM ID (always present)
+ids.mlbam            MLB Advanced Media ID (always present; most stable)
+ids.bbref            Baseball Reference ID (always present)
+ids.fangraphs        FanGraphs ID (always present; unstable for minor leaguers)
+ids.nfbc             NFBC ID (may be absent)
+ids.sfbb             SmartFantasyBaseball ID (may be absent)
+ids.yahoo            Yahoo Fantasy ID (may be absent)
+
+names.last           last name
+names.first          first name
+names.middle         middle name (may be absent)
+</code></pre>
+
+    <h3>players_profile <span class="muted">(adds full names and birth data)</span></h3>
+    <pre><code>
+names.boxscore       boxscore display name
+names.givenFirst     given first name
+names.givenFirstMiddle given first + middle name
+names.firstLast      "First Last"
+names.lastFirst      "Last, First"
+names.lastFirstInit  "Last, F"
+names.givenFull      full given name
+
+profile.birthDate    "YYYY-M-D" (may be absent)
+profile.birthYear    birth year (may be absent)
+profile.birthMonth   birth month (may be absent)
+profile.birthDay     birth day (may be absent)
+profile.birthCity    city (may be absent)
+profile.birthState   state/province (may be absent)
+profile.birthCountry country (may be absent)
+</code></pre>
+
+    <h3>players_mlb_profile <span class="muted">(adds MLB-specific attributes)</span></h3>
+    <pre><code>
+profile.batHand      batting hand: L, R, or S (may be absent)
+profile.fieldHand    throwing hand: L or R (may be absent)
+profile.debutDate    MLB debut date "YYYY-MM-DD" (may be absent)
+
+position.code        position code (e.g. "1" for pitcher, "Y" for two-way player)
+position.abbreviation position abbreviation (e.g. "P", "CF", "TWP")
+</code></pre>
+
+    <h3>players_mlb_roster <span class="muted">(adds team and roster status)</span></h3>
+    <pre><code>
+team.mlb_id          MLB team ID
+team.abbreviation    team abbreviation (e.g. "LAD")
+
+status.code          roster status code (A, D10, D15, D60, RM, null, ...)
+status.description   human-readable status (e.g. "Active", "Injured 15-Day")
+</code></pre>
+  </body>
 </html>
