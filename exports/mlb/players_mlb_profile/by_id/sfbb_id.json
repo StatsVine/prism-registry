@@ -2592,7 +2592,7 @@
       "birthCountry": "Puerto Rico",
       "batHand": "S",
       "fieldHand": "R",
-      "debutDate": null
+      "debutDate": "2026-06-01"
     },
     "position": {
       "code": "6",
@@ -2898,7 +2898,7 @@
       "lastFirst": "Azócar, José",
       "lastFirstInit": "Azócar, J",
       "givenFull": "José Enrique Azócar",
-      "last": "Azocar",
+      "last": "Azócar",
       "first": "José",
       "middle": "Enrique"
     },
@@ -10635,8 +10635,8 @@
       "debutDate": "2015-07-24"
     },
     "position": {
-      "code": "9",
-      "abbreviation": "RF"
+      "code": "10",
+      "abbreviation": "DH"
     }
   },
   "coningr01": {
@@ -11155,8 +11155,8 @@
       "debutDate": "2023-07-05"
     },
     "position": {
-      "code": "8",
-      "abbreviation": "CF"
+      "code": "9",
+      "abbreviation": "RF"
     }
   },
   "coxau01": {
@@ -11355,8 +11355,8 @@
       "debutDate": "2024-08-26"
     },
     "position": {
-      "code": "8",
-      "abbreviation": "CF"
+      "code": "9",
+      "abbreviation": "RF"
     }
   },
   "crimbl01": {
@@ -15211,32 +15211,32 @@
       "yahoo": "10880"
     },
     "names": {
-      "boxscore": "Faedo, A",
-      "givenFirst": "Alex",
+      "boxscore": "Faedo",
+      "givenFirst": "Alexander",
       "givenFirstMiddle": "Alexander Michael",
-      "firstLast": null,
+      "firstLast": "Alex Faedo",
       "lastFirst": "Faedo, Alex",
       "lastFirstInit": "Faedo, A",
-      "givenFull": "Alex Faedo",
+      "givenFull": "Alexander Michael Faedo",
       "last": "Faedo",
       "first": "Alex",
-      "middle": null
+      "middle": "Michael"
     },
     "profile": {
       "birthDate": "1995-11-12",
       "birthYear": "1995",
       "birthMonth": "11",
       "birthDay": "12",
-      "birthCity": null,
-      "birthState": null,
-      "birthCountry": null,
-      "batHand": null,
-      "fieldHand": null,
-      "debutDate": null
+      "birthCity": "Tampa",
+      "birthState": "FL",
+      "birthCountry": "USA",
+      "batHand": "R",
+      "fieldHand": "R",
+      "debutDate": "2022-05-04"
     },
     "position": {
-      "code": null,
-      "abbreviation": null
+      "code": "1",
+      "abbreviation": "P"
     }
   },
   "fairbpe01": {
@@ -15933,13 +15933,13 @@
     "names": {
       "boxscore": "Ferrer",
       "givenFirst": "José",
-      "givenFirstMiddle": "Jose Alexander",
+      "givenFirstMiddle": "José Alexander",
       "firstLast": "José A. Ferrer",
       "lastFirst": "Ferrer, José A.",
       "lastFirstInit": "Ferrer, J",
       "givenFull": "José Alexander Ferrer",
       "last": "Ferrer",
-      "first": "Jose",
+      "first": "José",
       "middle": "Alexander"
     },
     "profile": {
@@ -16211,7 +16211,7 @@
       "yahoo": "60890"
     },
     "names": {
-      "boxscore": "Fitzgerald",
+      "boxscore": "Fitzgerald, R",
       "givenFirst": "Ryan",
       "givenFirstMiddle": "Ryan",
       "firstLast": "Ryan Fitzgerald",
@@ -16251,7 +16251,7 @@
       "yahoo": "61346"
     },
     "names": {
-      "boxscore": "Fitzgerald",
+      "boxscore": "Fitzgerald, T",
       "givenFirst": "Tyler",
       "givenFirstMiddle": "Tyler Joseph",
       "firstLast": "Tyler Fitzgerald",
@@ -18613,13 +18613,13 @@
     "names": {
       "boxscore": "Guerrero",
       "givenFirst": "Tayron",
-      "givenFirstMiddle": "Tayron Luis",
+      "givenFirstMiddle": "Tyron Luis",
       "firstLast": "Tyron Guerrero",
       "lastFirst": "Guerrero, Tyron",
       "lastFirstInit": "Guerrero, T",
       "givenFull": "Tayron Luis Guerrero",
       "last": "Guerrero",
-      "first": "Tayron",
+      "first": "Tyron",
       "middle": "Luis"
     },
     "profile": {
@@ -20317,6 +20317,46 @@
     "position": {
       "code": "4",
       "abbreviation": "2B"
+    }
+  },
+  "groovlu01": {
+    "id": "kd4dzx6mvm",
+    "ids": {
+      "prism": "kd4dzx6mvm",
+      "bbref": "groovlu01",
+      "fangraphs": "33552",
+      "mlbam": "694410",
+      "nfbc": "12533",
+      "sfbb": "groovlu01",
+      "yahoo": "62945"
+    },
+    "names": {
+      "boxscore": "Groover",
+      "givenFirst": "LuJames",
+      "givenFirstMiddle": "LuJames",
+      "firstLast": "LuJames Groover",
+      "lastFirst": "Groover, LuJames",
+      "lastFirstInit": "Groover, L",
+      "givenFull": "LuJames Groover",
+      "last": "Groover",
+      "first": "LuJames",
+      "middle": null
+    },
+    "profile": {
+      "birthDate": "2002-4-16",
+      "birthYear": "2002",
+      "birthMonth": "4",
+      "birthDay": "16",
+      "birthCity": "East Point",
+      "birthState": "GA",
+      "birthCountry": "USA",
+      "batHand": "R",
+      "fieldHand": "R",
+      "debutDate": "2026-06-05"
+    },
+    "position": {
+      "code": "5",
+      "abbreviation": "3B"
     }
   },
   "grovemi01": {
@@ -32035,8 +32075,8 @@
       "debutDate": "2024-03-30"
     },
     "position": {
-      "code": "7",
-      "abbreviation": "LF"
+      "code": "9",
+      "abbreviation": "RF"
     }
   },
   "martich02": {
@@ -33235,8 +33275,8 @@
       "debutDate": "2021-08-27"
     },
     "position": {
-      "code": "7",
-      "abbreviation": "LF"
+      "code": "8",
+      "abbreviation": "CF"
     }
   },
   "mcclash01": {
@@ -33253,7 +33293,7 @@
     "names": {
       "boxscore": "McClanahan",
       "givenFirst": "Shane",
-      "givenFirstMiddle": "Shane",
+      "givenFirstMiddle": "Shane Peter",
       "firstLast": "Shane McClanahan",
       "lastFirst": "McClanahan, Shane",
       "lastFirstInit": "McClanahan, S",
@@ -34355,8 +34395,8 @@
       "debutDate": "2023-08-14"
     },
     "position": {
-      "code": "O",
-      "abbreviation": "OF"
+      "code": "7",
+      "abbreviation": "LF"
     }
   },
   "medervi01": {
@@ -46776,7 +46816,7 @@
       "givenFirstMiddle": "Tanner Alexander",
       "firstLast": "Tanner Scott",
       "lastFirst": "Scott, Tanner",
-      "lastFirstInit": "Scott, Tan",
+      "lastFirstInit": "Scott, T",
       "givenFull": "Tanner Alexander Scott",
       "last": "Scott",
       "first": "Tanner",
@@ -52915,8 +52955,8 @@
       "debutDate": "2026-05-23"
     },
     "position": {
-      "code": "O",
-      "abbreviation": "OF"
+      "code": "7",
+      "abbreviation": "LF"
     }
   },
   "torregl01": {
@@ -53275,8 +53315,8 @@
       "debutDate": "2023-06-28"
     },
     "position": {
-      "code": "5",
-      "abbreviation": "3B"
+      "code": "6",
+      "abbreviation": "SS"
     }
   },
   "trivilo01": {
@@ -53435,8 +53475,8 @@
       "debutDate": "2026-05-24"
     },
     "position": {
-      "code": "O",
-      "abbreviation": "OF"
+      "code": "7",
+      "abbreviation": "LF"
     }
   },
   "tuckeky01": {
@@ -53818,7 +53858,7 @@
       "lastFirst": "Ureña, Walbert",
       "lastFirstInit": "Ureña, W",
       "givenFull": "Walbert Jhoel Ureña",
-      "last": "Urena",
+      "last": "Ureña",
       "first": "Walbert",
       "middle": "Jhoel"
     },
@@ -55395,8 +55435,8 @@
       "debutDate": "2019-06-28"
     },
     "position": {
-      "code": "8",
-      "abbreviation": "CF"
+      "code": "3",
+      "abbreviation": "1B"
     }
   },
   "wadety01": {
@@ -56992,7 +57032,7 @@
       "birthCountry": "USA",
       "batHand": "R",
       "fieldHand": "R",
-      "debutDate": null
+      "debutDate": "2026-05-31"
     },
     "position": {
       "code": "1",
