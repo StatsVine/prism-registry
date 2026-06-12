@@ -2499,54 +2499,6 @@
       }
     },
     {
-      "id": "0xl8qzyn1h",
-      "ids": {
-        "prism": "0xl8qzyn1h",
-        "bbref": "trompch01",
-        "fangraphs": "16953",
-        "mlbam": "644433",
-        "nfbc": "11085",
-        "sfbb": "trompch01",
-        "yahoo": "12009"
-      },
-      "names": {
-        "boxscore": "Tromp",
-        "givenFirst": "Chadwick",
-        "givenFirstMiddle": "Chadwick Chandler",
-        "firstLast": "Chadwick Tromp",
-        "lastFirst": "Tromp, Chadwick",
-        "lastFirstInit": "Tromp, C",
-        "givenFull": "Chadwick Chandler Tromp",
-        "last": "Tromp",
-        "first": "Chadwick",
-        "middle": "Chandler"
-      },
-      "profile": {
-        "birthDate": "1995-3-21",
-        "birthYear": "1995",
-        "birthMonth": "3",
-        "birthDay": "21",
-        "birthCity": "Oranjestad",
-        "birthState": null,
-        "birthCountry": "Aruba",
-        "batHand": "R",
-        "fieldHand": "R",
-        "debutDate": "2020-07-29"
-      },
-      "position": {
-        "code": "2",
-        "abbreviation": "C"
-      },
-      "team": {
-        "mlb_id": 144,
-        "abbreviation": "ATL"
-      },
-      "status": {
-        "code": null,
-        "description": null
-      }
-    },
-    {
       "id": "1z788n9k5h",
       "ids": {
         "prism": "1z788n9k5h",
@@ -3550,8 +3502,8 @@
         "abbreviation": "ATL"
       },
       "status": {
-        "code": "A",
-        "description": "Active"
+        "code": "D10",
+        "description": "Injured 10-Day"
       }
     },
     {
@@ -4318,8 +4270,8 @@
         "abbreviation": "ATL"
       },
       "status": {
-        "code": "A",
-        "description": "Active"
+        "code": null,
+        "description": null
       }
     },
     {
@@ -4558,8 +4510,8 @@
         "abbreviation": "ATL"
       },
       "status": {
-        "code": "RM",
-        "description": "Reassigned to Minors"
+        "code": "A",
+        "description": "Active"
       }
     },
     {
@@ -4702,8 +4654,8 @@
         "abbreviation": "ATL"
       },
       "status": {
-        "code": "RM",
-        "description": "Reassigned to Minors"
+        "code": null,
+        "description": null
       }
     },
     {
@@ -4798,8 +4750,8 @@
         "abbreviation": "ATL"
       },
       "status": {
-        "code": null,
-        "description": null
+        "code": "A",
+        "description": "Active"
       }
     },
     {
@@ -5134,8 +5086,8 @@
         "abbreviation": "ATL"
       },
       "status": {
-        "code": "A",
-        "description": "Active"
+        "code": "D15",
+        "description": "Injured 15-Day"
       }
     },
     {
@@ -6626,6 +6578,54 @@
       "status": {
         "code": "RM",
         "description": "Reassigned to Minors"
+      }
+    },
+    {
+      "id": "ef1ltv3nb4",
+      "ids": {
+        "prism": "ef1ltv3nb4",
+        "bbref": "keplema01",
+        "fangraphs": "12144",
+        "mlbam": "596146",
+        "nfbc": "9172",
+        "sfbb": "keplema01",
+        "yahoo": "10095"
+      },
+      "names": {
+        "boxscore": "Kepler",
+        "givenFirst": "Maximilian",
+        "givenFirstMiddle": "Maximilian",
+        "firstLast": "Max Kepler",
+        "lastFirst": "Kepler, Max",
+        "lastFirstInit": "Kepler, M",
+        "givenFull": "Maximilian Kepler",
+        "last": "Kepler",
+        "first": "Max",
+        "middle": null
+      },
+      "profile": {
+        "birthDate": "1993-2-10",
+        "birthYear": "1993",
+        "birthMonth": "2",
+        "birthDay": "10",
+        "birthCity": "Berlin",
+        "birthState": null,
+        "birthCountry": "Germany",
+        "batHand": "L",
+        "fieldHand": "L",
+        "debutDate": "2015-09-27"
+      },
+      "position": {
+        "code": "7",
+        "abbreviation": "LF"
+      },
+      "team": {
+        "mlb_id": 109,
+        "abbreviation": "AZ"
+      },
+      "status": {
+        "code": null,
+        "description": null
       }
     },
     {
@@ -8396,6 +8396,54 @@
       "position": {
         "code": "1",
         "abbreviation": "P"
+      },
+      "team": {
+        "mlb_id": 110,
+        "abbreviation": "BAL"
+      },
+      "status": {
+        "code": null,
+        "description": null
+      }
+    },
+    {
+      "id": "0xl8qzyn1h",
+      "ids": {
+        "prism": "0xl8qzyn1h",
+        "bbref": "trompch01",
+        "fangraphs": "16953",
+        "mlbam": "644433",
+        "nfbc": "11085",
+        "sfbb": "trompch01",
+        "yahoo": "12009"
+      },
+      "names": {
+        "boxscore": "Tromp",
+        "givenFirst": "Chadwick",
+        "givenFirstMiddle": "Chadwick Chandler",
+        "firstLast": "Chadwick Tromp",
+        "lastFirst": "Tromp, Chadwick",
+        "lastFirstInit": "Tromp, C",
+        "givenFull": "Chadwick Chandler Tromp",
+        "last": "Tromp",
+        "first": "Chadwick",
+        "middle": "Chandler"
+      },
+      "profile": {
+        "birthDate": "1995-3-21",
+        "birthYear": "1995",
+        "birthMonth": "3",
+        "birthDay": "21",
+        "birthCity": "Oranjestad",
+        "birthState": null,
+        "birthCountry": "Aruba",
+        "batHand": "R",
+        "fieldHand": "R",
+        "debutDate": "2020-07-29"
+      },
+      "position": {
+        "code": "2",
+        "abbreviation": "C"
       },
       "team": {
         "mlb_id": 110,
@@ -11860,8 +11908,8 @@
         "abbreviation": "BOS"
       },
       "status": {
-        "code": "RM",
-        "description": "Reassigned to Minors"
+        "code": "A",
+        "description": "Active"
       }
     },
     {
@@ -12052,8 +12100,8 @@
         "abbreviation": "BOS"
       },
       "status": {
-        "code": "A",
-        "description": "Active"
+        "code": "RM",
+        "description": "Reassigned to Minors"
       }
     },
     {
@@ -18109,54 +18157,6 @@
       }
     },
     {
-      "id": "mydvrp54mr",
-      "ids": {
-        "prism": "mydvrp54mr",
-        "bbref": "richaly01",
-        "fangraphs": "24581",
-        "mlbam": "680689",
-        "nfbc": "11143",
-        "sfbb": "richaly01",
-        "yahoo": "11444"
-      },
-      "names": {
-        "boxscore": "Richardson",
-        "givenFirst": "Lyon",
-        "givenFirstMiddle": "Lyon",
-        "firstLast": "Lyon Richardson",
-        "lastFirst": "Richardson, Lyon",
-        "lastFirstInit": "Richardson, L",
-        "givenFull": "Lyon  Richardson",
-        "last": "Richardson",
-        "first": "Lyon",
-        "middle": null
-      },
-      "profile": {
-        "birthDate": "2000-1-18",
-        "birthYear": "2000",
-        "birthMonth": "1",
-        "birthDay": "18",
-        "birthCity": "Jensen Beach",
-        "birthState": "FL",
-        "birthCountry": "USA",
-        "batHand": "S",
-        "fieldHand": "R",
-        "debutDate": "2023-08-06"
-      },
-      "position": {
-        "code": "1",
-        "abbreviation": "P"
-      },
-      "team": {
-        "mlb_id": 113,
-        "abbreviation": "CIN"
-      },
-      "status": {
-        "code": null,
-        "description": null
-      }
-    },
-    {
       "id": "mz04w003kh",
       "ids": {
         "prism": "mz04w003kh",
@@ -18728,8 +18728,8 @@
         "abbreviation": "CIN"
       },
       "status": {
-        "code": "RM",
-        "description": "Reassigned to Minors"
+        "code": "A",
+        "description": "Active"
       }
     },
     {
@@ -18968,8 +18968,8 @@
         "abbreviation": "CIN"
       },
       "status": {
-        "code": "A",
-        "description": "Active"
+        "code": "RM",
+        "description": "Reassigned to Minors"
       }
     },
     {
@@ -20506,8 +20506,8 @@
         "abbreviation": "CLE"
       },
       "status": {
-        "code": "A",
-        "description": "Active"
+        "code": "RM",
+        "description": "Reassigned to Minors"
       }
     },
     {
@@ -21861,7 +21861,7 @@
       "ids": {
         "prism": "8gy36jpmw4",
         "bbref": "carrico01",
-        "fangraphs": "sa3022596",
+        "fangraphs": "33253",
         "mlbam": "694249",
         "nfbc": "12523",
         "sfbb": "carrico01",
@@ -24503,7 +24503,7 @@
       "ids": {
         "prism": "7q2hhkwg0h",
         "bbref": "montgbr01",
-        "fangraphs": "sa3038253",
+        "fangraphs": "35423",
         "mlbam": "695731",
         "nfbc": "12521",
         "sfbb": "montgbr01",
@@ -24584,54 +24584,6 @@
       "position": {
         "code": "1",
         "abbreviation": "P"
-      },
-      "team": {
-        "mlb_id": 145,
-        "abbreviation": "CWS"
-      },
-      "status": {
-        "code": "A",
-        "description": "Active"
-      }
-    },
-    {
-      "id": "8edzj03p1w",
-      "ids": {
-        "prism": "8edzj03p1w",
-        "bbref": "hillde01",
-        "fangraphs": "16947",
-        "mlbam": "656537",
-        "nfbc": "10714",
-        "sfbb": "hillde01",
-        "yahoo": "9866"
-      },
-      "names": {
-        "boxscore": "Hill, D",
-        "givenFirst": "Derek",
-        "givenFirstMiddle": "Derek Jerome",
-        "firstLast": "Derek Hill",
-        "lastFirst": "Hill, Derek",
-        "lastFirstInit": "Hill, D",
-        "givenFull": "Derek Jerome Hill",
-        "last": "Hill",
-        "first": "Derek",
-        "middle": "Jerome"
-      },
-      "profile": {
-        "birthDate": "1995-12-30",
-        "birthYear": "1995",
-        "birthMonth": "12",
-        "birthDay": "30",
-        "birthCity": "Des Moines",
-        "birthState": "IA",
-        "birthCountry": "USA",
-        "batHand": "R",
-        "fieldHand": "R",
-        "debutDate": "2020-09-04"
-      },
-      "position": {
-        "code": "9",
-        "abbreviation": "RF"
       },
       "team": {
         "mlb_id": 145,
@@ -25262,8 +25214,8 @@
         "abbreviation": "CWS"
       },
       "status": {
-        "code": "D10",
-        "description": "Injured 10-Day"
+        "code": "A",
+        "description": "Active"
       }
     },
     {
@@ -25550,8 +25502,8 @@
         "abbreviation": "CWS"
       },
       "status": {
-        "code": "A",
-        "description": "Active"
+        "code": "D15",
+        "description": "Injured 15-Day"
       }
     },
     {
@@ -26030,8 +25982,8 @@
         "abbreviation": "CWS"
       },
       "status": {
-        "code": "RM",
-        "description": "Reassigned to Minors"
+        "code": "A",
+        "description": "Active"
       }
     },
     {
@@ -28389,6 +28341,54 @@
       }
     },
     {
+      "id": "hy9qbcgpr4",
+      "ids": {
+        "prism": "hy9qbcgpr4",
+        "bbref": "seaboco01",
+        "fangraphs": "19695",
+        "mlbam": "657756",
+        "nfbc": "11023",
+        "sfbb": "seaboco01",
+        "yahoo": "11518"
+      },
+      "names": {
+        "boxscore": "Seabold",
+        "givenFirst": "Connor",
+        "givenFirstMiddle": "Connor",
+        "firstLast": "Connor Seabold",
+        "lastFirst": "Seabold, Connor",
+        "lastFirstInit": "Seabold, C",
+        "givenFull": "Connor Seabold",
+        "last": "Seabold",
+        "first": "Connor",
+        "middle": null
+      },
+      "profile": {
+        "birthDate": "1996-1-24",
+        "birthYear": "1996",
+        "birthMonth": "1",
+        "birthDay": "24",
+        "birthCity": "Laguna Hills",
+        "birthState": "CA",
+        "birthCountry": "USA",
+        "batHand": "R",
+        "fieldHand": "R",
+        "debutDate": "2021-09-11"
+      },
+      "position": {
+        "code": "1",
+        "abbreviation": "P"
+      },
+      "team": {
+        "mlb_id": 116,
+        "abbreviation": "DET"
+      },
+      "status": {
+        "code": null,
+        "description": null
+      }
+    },
+    {
       "id": "jelse45xfr",
       "ids": {
         "prism": "jelse45xfr",
@@ -28434,6 +28434,54 @@
       "status": {
         "code": "RM",
         "description": "Reassigned to Minors"
+      }
+    },
+    {
+      "id": "jjhy663y0m",
+      "ids": {
+        "prism": "jjhy663y0m",
+        "bbref": "outmaja01",
+        "fangraphs": "24770",
+        "mlbam": "681546",
+        "nfbc": "11399",
+        "sfbb": "outmaja01",
+        "yahoo": "12339"
+      },
+      "names": {
+        "boxscore": "Outman",
+        "givenFirst": "James",
+        "givenFirstMiddle": "James Matthew",
+        "firstLast": "James Outman",
+        "lastFirst": "Outman, James",
+        "lastFirstInit": "Outman, J",
+        "givenFull": "James  Outman",
+        "last": "Outman",
+        "first": "James",
+        "middle": null
+      },
+      "profile": {
+        "birthDate": "1997-5-14",
+        "birthYear": "1997",
+        "birthMonth": "5",
+        "birthDay": "14",
+        "birthCity": "Redwood City",
+        "birthState": "CA",
+        "birthCountry": "USA",
+        "batHand": "L",
+        "fieldHand": "R",
+        "debutDate": "2022-07-31"
+      },
+      "position": {
+        "code": "8",
+        "abbreviation": "CF"
+      },
+      "team": {
+        "mlb_id": 116,
+        "abbreviation": "DET"
+      },
+      "status": {
+        "code": "NYR",
+        "description": "Not Yet Reported"
       }
     },
     {
@@ -29056,8 +29104,8 @@
         "abbreviation": "DET"
       },
       "status": {
-        "code": "D10",
-        "description": "Injured 10-Day"
+        "code": "D60",
+        "description": "Injured 60-Day"
       }
     },
     {
@@ -29682,8 +29730,8 @@
         "abbreviation": "HOU"
       },
       "status": {
-        "code": "A",
-        "description": "Active"
+        "code": "RM",
+        "description": "Reassigned to Minors"
       }
     },
     {
@@ -32756,8 +32804,8 @@
         "abbreviation": "KC"
       },
       "status": {
-        "code": "A",
-        "description": "Active"
+        "code": "D10",
+        "description": "Injured 10-Day"
       }
     },
     {
@@ -33572,8 +33620,8 @@
         "abbreviation": "KC"
       },
       "status": {
-        "code": "RM",
-        "description": "Reassigned to Minors"
+        "code": "A",
+        "description": "Active"
       }
     },
     {
@@ -36310,8 +36358,8 @@
         "abbreviation": "LAA"
       },
       "status": {
-        "code": "A",
-        "description": "Active"
+        "code": "D10",
+        "description": "Injured 10-Day"
       }
     },
     {
@@ -36598,8 +36646,8 @@
         "abbreviation": "LAA"
       },
       "status": {
-        "code": null,
-        "description": null
+        "code": "A",
+        "description": "Active"
       }
     },
     {
@@ -36982,8 +37030,8 @@
         "abbreviation": "LAA"
       },
       "status": {
-        "code": "D15",
-        "description": "Injured 15-Day"
+        "code": "D60",
+        "description": "Injured 60-Day"
       }
     },
     {
@@ -39576,8 +39624,8 @@
         "abbreviation": "LAD"
       },
       "status": {
-        "code": "RM",
-        "description": "Reassigned to Minors"
+        "code": null,
+        "description": null
       }
     },
     {
@@ -40440,8 +40488,8 @@
         "abbreviation": "LAD"
       },
       "status": {
-        "code": null,
-        "description": null
+        "code": "A",
+        "description": "Active"
       }
     },
     {
@@ -40536,8 +40584,8 @@
         "abbreviation": "LAD"
       },
       "status": {
-        "code": "A",
-        "description": "Active"
+        "code": "D10",
+        "description": "Injured 10-Day"
       }
     },
     {
@@ -43320,7 +43368,7 @@
         "abbreviation": "P"
       },
       "team": {
-        "mlb_id": "MIL",
+        "mlb_id": 158,
         "abbreviation": "MIL"
       },
       "status": {
@@ -44718,6 +44766,54 @@
       "status": {
         "code": "A",
         "description": "Active"
+      }
+    },
+    {
+      "id": "mydvrp54mr",
+      "ids": {
+        "prism": "mydvrp54mr",
+        "bbref": "richaly01",
+        "fangraphs": "24581",
+        "mlbam": "680689",
+        "nfbc": "11143",
+        "sfbb": "richaly01",
+        "yahoo": "11444"
+      },
+      "names": {
+        "boxscore": "Richardson",
+        "givenFirst": "Lyon",
+        "givenFirstMiddle": "Lyon",
+        "firstLast": "Lyon Richardson",
+        "lastFirst": "Richardson, Lyon",
+        "lastFirstInit": "Richardson, L",
+        "givenFull": "Lyon  Richardson",
+        "last": "Richardson",
+        "first": "Lyon",
+        "middle": null
+      },
+      "profile": {
+        "birthDate": "2000-1-18",
+        "birthYear": "2000",
+        "birthMonth": "1",
+        "birthDay": "18",
+        "birthCity": "Jensen Beach",
+        "birthState": "FL",
+        "birthCountry": "USA",
+        "batHand": "S",
+        "fieldHand": "R",
+        "debutDate": "2023-08-06"
+      },
+      "position": {
+        "code": "1",
+        "abbreviation": "P"
+      },
+      "team": {
+        "mlb_id": 158,
+        "abbreviation": "MIL"
+      },
+      "status": {
+        "code": null,
+        "description": null
       }
     },
     {
@@ -46640,54 +46736,6 @@
       "status": {
         "code": "A",
         "description": "Active"
-      }
-    },
-    {
-      "id": "jjhy663y0m",
-      "ids": {
-        "prism": "jjhy663y0m",
-        "bbref": "outmaja01",
-        "fangraphs": "24770",
-        "mlbam": "681546",
-        "nfbc": "11399",
-        "sfbb": "outmaja01",
-        "yahoo": "12339"
-      },
-      "names": {
-        "boxscore": "Outman",
-        "givenFirst": "James",
-        "givenFirstMiddle": "James Matthew",
-        "firstLast": "James Outman",
-        "lastFirst": "Outman, James",
-        "lastFirstInit": "Outman, J",
-        "givenFull": "James  Outman",
-        "last": "Outman",
-        "first": "James",
-        "middle": null
-      },
-      "profile": {
-        "birthDate": "1997-5-14",
-        "birthYear": "1997",
-        "birthMonth": "5",
-        "birthDay": "14",
-        "birthCity": "Redwood City",
-        "birthState": "CA",
-        "birthCountry": "USA",
-        "batHand": "L",
-        "fieldHand": "R",
-        "debutDate": "2022-07-31"
-      },
-      "position": {
-        "code": "8",
-        "abbreviation": "CF"
-      },
-      "team": {
-        "mlb_id": "MIN",
-        "abbreviation": "MIN"
-      },
-      "status": {
-        "code": null,
-        "description": null
       }
     },
     {
@@ -49328,8 +49376,8 @@
         "abbreviation": "NYM"
       },
       "status": {
-        "code": "A",
-        "description": "Active"
+        "code": "RM",
+        "description": "Reassigned to Minors"
       }
     },
     {
@@ -49616,8 +49664,8 @@
         "abbreviation": "NYM"
       },
       "status": {
-        "code": "RM",
-        "description": "Reassigned to Minors"
+        "code": "A",
+        "description": "Active"
       }
     },
     {
@@ -51058,8 +51106,8 @@
         "abbreviation": "NYY"
       },
       "status": {
-        "code": "D15",
-        "description": "Injured 15-Day"
+        "code": "RM",
+        "description": "Reassigned to Minors"
       }
     },
     {
@@ -53513,6 +53561,54 @@
       }
     },
     {
+      "id": "8edzj03p1w",
+      "ids": {
+        "prism": "8edzj03p1w",
+        "bbref": "hillde01",
+        "fangraphs": "16947",
+        "mlbam": "656537",
+        "nfbc": "10714",
+        "sfbb": "hillde01",
+        "yahoo": "9866"
+      },
+      "names": {
+        "boxscore": "Hill, D",
+        "givenFirst": "Derek",
+        "givenFirstMiddle": "Derek Jerome",
+        "firstLast": "Derek Hill",
+        "lastFirst": "Hill, Derek",
+        "lastFirstInit": "Hill, D",
+        "givenFull": "Derek Jerome Hill",
+        "last": "Hill",
+        "first": "Derek",
+        "middle": "Jerome"
+      },
+      "profile": {
+        "birthDate": "1995-12-30",
+        "birthYear": "1995",
+        "birthMonth": "12",
+        "birthDay": "30",
+        "birthCity": "Des Moines",
+        "birthState": "IA",
+        "birthCountry": "USA",
+        "batHand": "R",
+        "fieldHand": "R",
+        "debutDate": "2020-09-04"
+      },
+      "position": {
+        "code": "9",
+        "abbreviation": "RF"
+      },
+      "team": {
+        "mlb_id": 143,
+        "abbreviation": "PHI"
+      },
+      "status": {
+        "code": "NYR",
+        "description": "Not Yet Reported"
+      }
+    },
+    {
       "id": "8mk1wg68d8",
       "ids": {
         "prism": "8mk1wg68d8",
@@ -54372,8 +54468,8 @@
         "abbreviation": "PHI"
       },
       "status": {
-        "code": "RM",
-        "description": "Reassigned to Minors"
+        "code": null,
+        "description": null
       }
     },
     {
@@ -55622,8 +55718,8 @@
         "abbreviation": "PIT"
       },
       "status": {
-        "code": "A",
-        "description": "Active"
+        "code": "RM",
+        "description": "Reassigned to Minors"
       }
     },
     {
@@ -55814,8 +55910,8 @@
         "abbreviation": "PIT"
       },
       "status": {
-        "code": "A",
-        "description": "Active"
+        "code": "D10",
+        "description": "Injured 10-Day"
       }
     },
     {
@@ -56150,8 +56246,8 @@
         "abbreviation": "PIT"
       },
       "status": {
-        "code": "A",
-        "description": "Active"
+        "code": "PL",
+        "description": "Paternity List"
       }
     },
     {
@@ -56198,8 +56294,8 @@
         "abbreviation": "PIT"
       },
       "status": {
-        "code": "RM",
-        "description": "Reassigned to Minors"
+        "code": "A",
+        "description": "Active"
       }
     },
     {
@@ -56390,8 +56486,8 @@
         "abbreviation": "PIT"
       },
       "status": {
-        "code": "RM",
-        "description": "Reassigned to Minors"
+        "code": "A",
+        "description": "Active"
       }
     },
     {
@@ -56768,54 +56864,6 @@
       "position": {
         "code": "9",
         "abbreviation": "RF"
-      },
-      "team": {
-        "mlb_id": 134,
-        "abbreviation": "PIT"
-      },
-      "status": {
-        "code": null,
-        "description": null
-      }
-    },
-    {
-      "id": "g0f0x1zdhd",
-      "ids": {
-        "prism": "g0f0x1zdhd",
-        "bbref": "fulmeca01",
-        "fangraphs": "18311",
-        "mlbam": "608334",
-        "nfbc": "9404",
-        "sfbb": "fulmeca01",
-        "yahoo": "10168"
-      },
-      "names": {
-        "boxscore": "Fulmer, C",
-        "givenFirst": "Carson",
-        "givenFirstMiddle": "Carson Springer",
-        "firstLast": "Carson Fulmer",
-        "lastFirst": "Fulmer, Carson",
-        "lastFirstInit": "Fulmer, C",
-        "givenFull": "Carson Springer Fulmer",
-        "last": "Fulmer",
-        "first": "Carson",
-        "middle": "Springer"
-      },
-      "profile": {
-        "birthDate": "1993-12-13",
-        "birthYear": "1993",
-        "birthMonth": "12",
-        "birthDay": "13",
-        "birthCity": "Lakeland",
-        "birthState": "FL",
-        "birthCountry": "USA",
-        "batHand": "R",
-        "fieldHand": "R",
-        "debutDate": "2016-07-17"
-      },
-      "position": {
-        "code": "1",
-        "abbreviation": "P"
       },
       "team": {
         "mlb_id": 134,
@@ -57350,8 +57398,8 @@
         "abbreviation": "PIT"
       },
       "status": {
-        "code": "RM",
-        "description": "Reassigned to Minors"
+        "code": "A",
+        "description": "Active"
       }
     },
     {
@@ -61146,8 +61194,8 @@
         "abbreviation": "SEA"
       },
       "status": {
-        "code": "A",
-        "description": "Active"
+        "code": "D15",
+        "description": "Injured 15-Day"
       }
     },
     {
@@ -61242,8 +61290,8 @@
         "abbreviation": "SEA"
       },
       "status": {
-        "code": "RM",
-        "description": "Reassigned to Minors"
+        "code": null,
+        "description": null
       }
     },
     {
@@ -61386,8 +61434,56 @@
         "abbreviation": "SEA"
       },
       "status": {
-        "code": "RM",
-        "description": "Reassigned to Minors"
+        "code": null,
+        "description": null
+      }
+    },
+    {
+      "id": "g0f0x1zdhd",
+      "ids": {
+        "prism": "g0f0x1zdhd",
+        "bbref": "fulmeca01",
+        "fangraphs": "18311",
+        "mlbam": "608334",
+        "nfbc": "9404",
+        "sfbb": "fulmeca01",
+        "yahoo": "10168"
+      },
+      "names": {
+        "boxscore": "Fulmer, C",
+        "givenFirst": "Carson",
+        "givenFirstMiddle": "Carson Springer",
+        "firstLast": "Carson Fulmer",
+        "lastFirst": "Fulmer, Carson",
+        "lastFirstInit": "Fulmer, C",
+        "givenFull": "Carson Springer Fulmer",
+        "last": "Fulmer",
+        "first": "Carson",
+        "middle": "Springer"
+      },
+      "profile": {
+        "birthDate": "1993-12-13",
+        "birthYear": "1993",
+        "birthMonth": "12",
+        "birthDay": "13",
+        "birthCity": "Lakeland",
+        "birthState": "FL",
+        "birthCountry": "USA",
+        "batHand": "R",
+        "fieldHand": "R",
+        "debutDate": "2016-07-17"
+      },
+      "position": {
+        "code": "1",
+        "abbreviation": "P"
+      },
+      "team": {
+        "mlb_id": 136,
+        "abbreviation": "SEA"
+      },
+      "status": {
+        "code": null,
+        "description": null
       }
     },
     {
@@ -62298,8 +62394,8 @@
         "abbreviation": "SEA"
       },
       "status": {
-        "code": "A",
-        "description": "Active"
+        "code": "RM",
+        "description": "Reassigned to Minors"
       }
     },
     {
@@ -62394,8 +62490,8 @@
         "abbreviation": "SEA"
       },
       "status": {
-        "code": "D60",
-        "description": "Injured 60-Day"
+        "code": "A",
+        "description": "Active"
       }
     },
     {
@@ -63212,8 +63308,8 @@
         "abbreviation": "SF"
       },
       "status": {
-        "code": "A",
-        "description": "Active"
+        "code": "RM",
+        "description": "Reassigned to Minors"
       }
     },
     {
@@ -63356,8 +63452,8 @@
         "abbreviation": "SF"
       },
       "status": {
-        "code": "D60",
-        "description": "Injured 60-Day"
+        "code": "A",
+        "description": "Active"
       }
     },
     {
@@ -64316,8 +64412,8 @@
         "abbreviation": "SF"
       },
       "status": {
-        "code": "A",
-        "description": "Active"
+        "code": "RM",
+        "description": "Reassigned to Minors"
       }
     },
     {
@@ -64652,8 +64748,8 @@
         "abbreviation": "SF"
       },
       "status": {
-        "code": "RM",
-        "description": "Reassigned to Minors"
+        "code": null,
+        "description": null
       }
     },
     {
@@ -70658,8 +70754,8 @@
         "abbreviation": "TEX"
       },
       "status": {
-        "code": "A",
-        "description": "Active"
+        "code": "D10",
+        "description": "Injured 10-Day"
       }
     },
     {
@@ -70754,8 +70850,8 @@
         "abbreviation": "TEX"
       },
       "status": {
-        "code": "RM",
-        "description": "Reassigned to Minors"
+        "code": "A",
+        "description": "Active"
       }
     },
     {
@@ -74553,54 +74649,6 @@
       }
     },
     {
-      "id": "hy9qbcgpr4",
-      "ids": {
-        "prism": "hy9qbcgpr4",
-        "bbref": "seaboco01",
-        "fangraphs": "19695",
-        "mlbam": "657756",
-        "nfbc": "11023",
-        "sfbb": "seaboco01",
-        "yahoo": "11518"
-      },
-      "names": {
-        "boxscore": "Seabold",
-        "givenFirst": "Connor",
-        "givenFirstMiddle": "Connor",
-        "firstLast": "Connor Seabold",
-        "lastFirst": "Seabold, Connor",
-        "lastFirstInit": "Seabold, C",
-        "givenFull": "Connor Seabold",
-        "last": "Seabold",
-        "first": "Connor",
-        "middle": null
-      },
-      "profile": {
-        "birthDate": "1996-1-24",
-        "birthYear": "1996",
-        "birthMonth": "1",
-        "birthDay": "24",
-        "birthCity": "Laguna Hills",
-        "birthState": "CA",
-        "birthCountry": "USA",
-        "batHand": "R",
-        "fieldHand": "R",
-        "debutDate": "2021-09-11"
-      },
-      "position": {
-        "code": "1",
-        "abbreviation": "P"
-      },
-      "team": {
-        "mlb_id": 141,
-        "abbreviation": "TOR"
-      },
-      "status": {
-        "code": "A",
-        "description": "Active"
-      }
-    },
-    {
       "id": "k3v81g3jl0",
       "ids": {
         "prism": "k3v81g3jl0",
@@ -75076,8 +75124,8 @@
         "abbreviation": "TOR"
       },
       "status": {
-        "code": "D15",
-        "description": "Injured 15-Day"
+        "code": "A",
+        "description": "Active"
       }
     },
     {
