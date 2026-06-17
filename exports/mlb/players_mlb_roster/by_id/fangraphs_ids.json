@@ -10027,8 +10027,8 @@
       "abbreviation": "SEA"
     },
     "status": {
-      "code": "D10",
-      "description": "Injured 10-Day"
+      "code": "A",
+      "description": "Active"
     }
   },
   "15507": {
@@ -10795,8 +10795,8 @@
       "abbreviation": "PHI"
     },
     "status": {
-      "code": "A",
-      "description": "Active"
+      "code": "D15",
+      "description": "Injured 15-Day"
     }
   },
   "15761": {
@@ -18331,8 +18331,8 @@
       "abbreviation": "BAL"
     },
     "status": {
-      "code": "D15",
-      "description": "Injured 15-Day"
+      "code": "A",
+      "description": "Active"
     }
   },
   "18152": {
@@ -21355,8 +21355,8 @@
       "abbreviation": "SEA"
     },
     "status": {
-      "code": "A",
-      "description": "Active"
+      "code": "D10",
+      "description": "Injured 10-Day"
     }
   },
   "19291": {
@@ -22359,8 +22359,8 @@
       "abbreviation": "3B"
     },
     "team": {
-      "mlb_id": 110,
-      "abbreviation": "BAL"
+      "mlb_id": 136,
+      "abbreviation": "SEA"
     },
     "status": {
       "code": null,
@@ -23371,8 +23371,8 @@
       "abbreviation": "LAD"
     },
     "status": {
-      "code": "D60",
-      "description": "Injured 60-Day"
+      "code": "A",
+      "description": "Active"
     }
   },
   "19479": {
@@ -23803,8 +23803,8 @@
       "abbreviation": "NYM"
     },
     "status": {
-      "code": "NYR",
-      "description": "Not Yet Reported"
+      "code": "A",
+      "description": "Active"
     }
   },
   "19566": {
@@ -24715,8 +24715,8 @@
       "abbreviation": "KC"
     },
     "status": {
-      "code": "NYR",
-      "description": "Not Yet Reported"
+      "code": "A",
+      "description": "Active"
     }
   },
   "19709": {
@@ -25387,8 +25387,8 @@
       "abbreviation": "SEA"
     },
     "status": {
-      "code": "A",
-      "description": "Active"
+      "code": "RM",
+      "description": "Reassigned to Minors"
     }
   },
   "19804": {
@@ -25767,12 +25767,12 @@
       "abbreviation": "3B"
     },
     "team": {
-      "mlb_id": 158,
+      "mlb_id": "MIL",
       "abbreviation": "MIL"
     },
     "status": {
-      "code": "A",
-      "description": "Active"
+      "code": null,
+      "description": null
     }
   },
   "19864": {
@@ -27591,12 +27591,12 @@
       "abbreviation": "3B"
     },
     "team": {
-      "mlb_id": 119,
+      "mlb_id": "LAD",
       "abbreviation": "LAD"
     },
     "status": {
-      "code": "A",
-      "description": "Active"
+      "code": null,
+      "description": null
     }
   },
   "20000": {
@@ -27687,7 +27687,7 @@
       "abbreviation": "RF"
     },
     "team": {
-      "mlb_id": "SD",
+      "mlb_id": 135,
       "abbreviation": "SD"
     },
     "status": {
@@ -30371,16 +30371,16 @@
       "debutDate": "2022-05-26"
     },
     "position": {
-      "code": "O",
-      "abbreviation": "OF"
+      "code": "8",
+      "abbreviation": "CF"
     },
     "team": {
       "mlb_id": 144,
       "abbreviation": "ATL"
     },
     "status": {
-      "code": null,
-      "description": null
+      "code": "RM",
+      "description": "Reassigned to Minors"
     }
   },
   "20454": {
@@ -30859,8 +30859,8 @@
       "abbreviation": "NYM"
     },
     "status": {
-      "code": "A",
-      "description": "Active"
+      "code": null,
+      "description": null
     }
   },
   "20538": {
@@ -33931,8 +33931,8 @@
       "abbreviation": "SEA"
     },
     "status": {
-      "code": "D10",
-      "description": "Injured 10-Day"
+      "code": "A",
+      "description": "Active"
     }
   },
   "21535": {
@@ -37871,6 +37871,54 @@
       "description": "Active"
     }
   },
+  "22272": {
+    "id": "zhm8xjzder",
+    "ids": {
+      "prism": "zhm8xjzder",
+      "bbref": "delgara02",
+      "fangraphs": "22272",
+      "mlbam": "669384",
+      "nfbc": "10314",
+      "sfbb": null,
+      "yahoo": "11446"
+    },
+    "names": {
+      "boxscore": "Delgado",
+      "givenFirst": "Raynel",
+      "givenFirstMiddle": "Raynel",
+      "firstLast": "Raynel Delgado",
+      "lastFirst": "Delgado, Raynel",
+      "lastFirstInit": "Delgado, R",
+      "givenFull": "Raynel Delgado",
+      "last": "Delgado",
+      "first": "Raynel",
+      "middle": null
+    },
+    "profile": {
+      "birthDate": "2000-4-4",
+      "birthYear": "2000",
+      "birthMonth": "4",
+      "birthDay": "4",
+      "birthCity": "Havana",
+      "birthState": null,
+      "birthCountry": "Cuba",
+      "batHand": "L",
+      "fieldHand": "R",
+      "debutDate": "2026-06-14"
+    },
+    "position": {
+      "code": "4",
+      "abbreviation": "2B"
+    },
+    "team": {
+      "mlb_id": 117,
+      "abbreviation": "HOU"
+    },
+    "status": {
+      "code": "A",
+      "description": "Active"
+    }
+  },
   "22273": {
     "id": "6p9y4xwl4h",
     "ids": {
@@ -40123,8 +40171,8 @@
       "abbreviation": "HOU"
     },
     "status": {
-      "code": "D10",
-      "description": "Injured 10-Day"
+      "code": "A",
+      "description": "Active"
     }
   },
   "23055": {
@@ -41515,8 +41563,8 @@
       "abbreviation": "PHI"
     },
     "status": {
-      "code": "RM",
-      "description": "Reassigned to Minors"
+      "code": "A",
+      "description": "Active"
     }
   },
   "23429": {
@@ -42942,7 +42990,7 @@
       "birthCity": "Fort Defiance",
       "birthState": "AZ",
       "birthCountry": "USA",
-      "batHand": "L",
+      "batHand": "S",
       "fieldHand": "S",
       "debutDate": "2025-07-02"
     },
@@ -48091,8 +48139,8 @@
       "abbreviation": "CHC"
     },
     "status": {
-      "code": "RM",
-      "description": "Reassigned to Minors"
+      "code": "A",
+      "description": "Active"
     }
   },
   "25434": {
@@ -48139,8 +48187,8 @@
       "abbreviation": "SEA"
     },
     "status": {
-      "code": "D10",
-      "description": "Injured 10-Day"
+      "code": "D60",
+      "description": "Injured 60-Day"
     }
   },
   "25436": {
@@ -50203,8 +50251,8 @@
       "abbreviation": "BAL"
     },
     "status": {
-      "code": "A",
-      "description": "Active"
+      "code": "RM",
+      "description": "Reassigned to Minors"
     }
   },
   "25805": {
@@ -50875,8 +50923,8 @@
       "abbreviation": "HOU"
     },
     "status": {
-      "code": "D60",
-      "description": "Injured 60-Day"
+      "code": "A",
+      "description": "Active"
     }
   },
   "25890": {
@@ -51827,8 +51875,8 @@
       "debutDate": "2026-06-02"
     },
     "position": {
-      "code": "8",
-      "abbreviation": "CF"
+      "code": "9",
+      "abbreviation": "RF"
     },
     "team": {
       "mlb_id": 135,
@@ -55339,8 +55387,8 @@
       "abbreviation": "HOU"
     },
     "status": {
-      "code": "A",
-      "description": "Active"
+      "code": null,
+      "description": null
     }
   },
   "26517": {
@@ -55483,8 +55531,8 @@
       "abbreviation": "CLE"
     },
     "status": {
-      "code": "A",
-      "description": "Active"
+      "code": "D10",
+      "description": "Injured 10-Day"
     }
   },
   "26546": {
@@ -59851,8 +59899,8 @@
       "abbreviation": "KC"
     },
     "status": {
-      "code": "A",
-      "description": "Active"
+      "code": "RM",
+      "description": "Reassigned to Minors"
     }
   },
   "27735": {
@@ -60091,8 +60139,8 @@
       "abbreviation": "MIA"
     },
     "status": {
-      "code": "RM",
-      "description": "Reassigned to Minors"
+      "code": "A",
+      "description": "Active"
     }
   },
   "27758": {
@@ -61531,8 +61579,8 @@
       "abbreviation": "CHC"
     },
     "status": {
-      "code": "A",
-      "description": "Active"
+      "code": "D15",
+      "description": "Injured 15-Day"
     }
   },
   "27915": {
@@ -61675,8 +61723,8 @@
       "abbreviation": "CLE"
     },
     "status": {
-      "code": "RM",
-      "description": "Reassigned to Minors"
+      "code": "A",
+      "description": "Active"
     }
   },
   "27932": {
@@ -62159,6 +62207,54 @@
       "description": "Reassigned to Minors"
     }
   },
+  "28040": {
+    "id": "dg921zjy9w",
+    "ids": {
+      "prism": "dg921zjy9w",
+      "bbref": "casteei01",
+      "fangraphs": "28040",
+      "mlbam": "682769",
+      "nfbc": "12253",
+      "sfbb": null,
+      "yahoo": "64866"
+    },
+    "names": {
+      "boxscore": "Castellano",
+      "givenFirst": "Eiberson",
+      "givenFirstMiddle": "Eiberson Jose",
+      "firstLast": "Eiberson Castellano",
+      "lastFirst": "Castellano, Eiberson",
+      "lastFirstInit": "Castellano, E",
+      "givenFull": "Eiberson Jose Castellano",
+      "last": "Castellano",
+      "first": "Eiberson",
+      "middle": "Jose"
+    },
+    "profile": {
+      "birthDate": "2001-5-9",
+      "birthYear": "2001",
+      "birthMonth": "5",
+      "birthDay": "9",
+      "birthCity": "Maracaibo",
+      "birthState": null,
+      "birthCountry": "Venezuela",
+      "batHand": "R",
+      "fieldHand": "R",
+      "debutDate": "2026-06-14"
+    },
+    "position": {
+      "code": "1",
+      "abbreviation": "P"
+    },
+    "team": {
+      "mlb_id": 115,
+      "abbreviation": "COL"
+    },
+    "status": {
+      "code": "RM",
+      "description": "Reassigned to Minors"
+    }
+  },
   "28052": {
     "id": "drgzpv8lzd",
     "ids": {
@@ -62243,8 +62339,8 @@
       "debutDate": "2023-09-01"
     },
     "position": {
-      "code": "7",
-      "abbreviation": "LF"
+      "code": "10",
+      "abbreviation": "DH"
     },
     "team": {
       "mlb_id": 147,
@@ -62771,8 +62867,8 @@
       "debutDate": "2025-09-13"
     },
     "position": {
-      "code": "6",
-      "abbreviation": "SS"
+      "code": "5",
+      "abbreviation": "3B"
     },
     "team": {
       "mlb_id": 108,
@@ -66851,8 +66947,8 @@
       "debutDate": "2026-06-01"
     },
     "position": {
-      "code": "6",
-      "abbreviation": "SS"
+      "code": "4",
+      "abbreviation": "2B"
     },
     "team": {
       "mlb_id": 113,
@@ -70795,8 +70891,8 @@
       "abbreviation": "HOU"
     },
     "status": {
-      "code": "A",
-      "description": "Active"
+      "code": "RM",
+      "description": "Reassigned to Minors"
     }
   },
   "31431": {
@@ -72283,8 +72379,8 @@
       "abbreviation": "MIA"
     },
     "status": {
-      "code": "A",
-      "description": "Active"
+      "code": "RM",
+      "description": "Reassigned to Minors"
     }
   },
   "31616": {
@@ -73915,8 +74011,8 @@
       "abbreviation": "NYM"
     },
     "status": {
-      "code": "D15",
-      "description": "Injured 15-Day"
+      "code": "A",
+      "description": "Active"
     }
   },
   "31843": {
@@ -76211,8 +76307,8 @@
       "debutDate": "2026-06-09"
     },
     "position": {
-      "code": "O",
-      "abbreviation": "OF"
+      "code": "8",
+      "abbreviation": "CF"
     },
     "team": {
       "mlb_id": 115,
@@ -78427,8 +78523,8 @@
       "abbreviation": "NYM"
     },
     "status": {
-      "code": "A",
-      "description": "Active"
+      "code": "RM",
+      "description": "Reassigned to Minors"
     }
   },
   "34847": {
@@ -79331,8 +79427,8 @@
       "debutDate": "2026-06-09"
     },
     "position": {
-      "code": "O",
-      "abbreviation": "OF"
+      "code": "9",
+      "abbreviation": "RF"
     },
     "team": {
       "mlb_id": 145,
@@ -82079,54 +82175,6 @@
       "description": "Reassigned to Minors"
     }
   },
-  "sa3007288": {
-    "id": "zhm8xjzder",
-    "ids": {
-      "prism": "zhm8xjzder",
-      "bbref": null,
-      "fangraphs": "sa3007288",
-      "mlbam": "669384",
-      "nfbc": "10314",
-      "sfbb": null,
-      "yahoo": "11446"
-    },
-    "names": {
-      "boxscore": "Delgado",
-      "givenFirst": "Raynel",
-      "givenFirstMiddle": "Raynel",
-      "firstLast": "Raynel Delgado",
-      "lastFirst": "Delgado, Raynel",
-      "lastFirstInit": "Delgado, R",
-      "givenFull": "Raynel Delgado",
-      "last": "Delgado",
-      "first": "Raynel",
-      "middle": null
-    },
-    "profile": {
-      "birthDate": "2000-4-4",
-      "birthYear": "2000",
-      "birthMonth": "4",
-      "birthDay": "4",
-      "birthCity": "Havana",
-      "birthState": null,
-      "birthCountry": "Cuba",
-      "batHand": "L",
-      "fieldHand": "R",
-      "debutDate": "2026-06-14"
-    },
-    "position": {
-      "code": "4",
-      "abbreviation": "2B"
-    },
-    "team": {
-      "mlb_id": 117,
-      "abbreviation": "HOU"
-    },
-    "status": {
-      "code": "A",
-      "description": "Active"
-    }
-  },
   "sa3007876": {
     "id": "1wlmlsbp60",
     "ids": {
@@ -82523,13 +82571,13 @@
       "yahoo": "12571"
     },
     "names": {
-      "boxscore": "Robberse, S",
+      "boxscore": "Robberse",
       "givenFirst": "Sem",
       "givenFirstMiddle": "Sem",
-      "firstLast": null,
+      "firstLast": "Sem Robberse",
       "lastFirst": "Robberse, Sem",
       "lastFirstInit": "Robberse, S",
-      "givenFull": "Sem Robberse",
+      "givenFull": "Sem  Robberse",
       "last": "Robberse",
       "first": "Sem",
       "middle": null
@@ -82539,20 +82587,20 @@
       "birthYear": "2001",
       "birthMonth": "10",
       "birthDay": "12",
-      "birthCity": null,
+      "birthCity": "Zeist",
       "birthState": null,
-      "birthCountry": null,
-      "batHand": null,
-      "fieldHand": null,
+      "birthCountry": "Netherlands",
+      "batHand": "R",
+      "fieldHand": "R",
       "debutDate": null
     },
     "position": {
-      "code": null,
-      "abbreviation": null
+      "code": "1",
+      "abbreviation": "P"
     },
     "team": {
-      "mlb_id": null,
-      "abbreviation": null
+      "mlb_id": 138,
+      "abbreviation": "STL"
     },
     "status": {
       "code": null,
@@ -83033,54 +83081,6 @@
     "team": {
       "mlb_id": 143,
       "abbreviation": "PHI"
-    },
-    "status": {
-      "code": "RM",
-      "description": "Reassigned to Minors"
-    }
-  },
-  "sa3015414": {
-    "id": "dg921zjy9w",
-    "ids": {
-      "prism": "dg921zjy9w",
-      "bbref": null,
-      "fangraphs": "sa3015414",
-      "mlbam": "682769",
-      "nfbc": "12253",
-      "sfbb": null,
-      "yahoo": "64866"
-    },
-    "names": {
-      "boxscore": "Castellano",
-      "givenFirst": "Eiberson",
-      "givenFirstMiddle": "Eiberson Jose",
-      "firstLast": "Eiberson Castellano",
-      "lastFirst": "Castellano, Eiberson",
-      "lastFirstInit": "Castellano, E",
-      "givenFull": "Eiberson Jose Castellano",
-      "last": "Castellano",
-      "first": "Eiberson",
-      "middle": "Jose"
-    },
-    "profile": {
-      "birthDate": "2001-5-9",
-      "birthYear": "2001",
-      "birthMonth": "5",
-      "birthDay": "9",
-      "birthCity": "Maracaibo",
-      "birthState": null,
-      "birthCountry": "Venezuela",
-      "batHand": "R",
-      "fieldHand": "R",
-      "debutDate": "2026-06-14"
-    },
-    "position": {
-      "code": "1",
-      "abbreviation": "P"
-    },
-    "team": {
-      "mlb_id": 115,
-      "abbreviation": "COL"
     },
     "status": {
       "code": "RM",
@@ -85856,7 +85856,7 @@
       "birthCountry": "USA",
       "batHand": "R",
       "fieldHand": "R",
-      "debutDate": null
+      "debutDate": "2026-06-16"
     },
     "position": {
       "code": "6",
@@ -85867,8 +85867,8 @@
       "abbreviation": "MIL"
     },
     "status": {
-      "code": "RM",
-      "description": "Reassigned to Minors"
+      "code": "A",
+      "description": "Active"
     }
   },
   "sa3022894": {
