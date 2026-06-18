@@ -2539,8 +2539,8 @@
       "abbreviation": "KC"
     },
     "status": {
-      "code": "D15",
-      "description": "Injured 15-Day"
+      "code": "D60",
+      "description": "Injured 60-Day"
     }
   },
   "0yt7k2d5th": {
@@ -11600,7 +11600,7 @@
       "birthCountry": "USA",
       "batHand": "R",
       "fieldHand": "R",
-      "debutDate": null
+      "debutDate": "2026-06-17"
     },
     "position": {
       "code": "1",
@@ -11611,8 +11611,8 @@
       "abbreviation": "LAA"
     },
     "status": {
-      "code": "A",
-      "description": "Active"
+      "code": "RM",
+      "description": "Reassigned to Minors"
     }
   },
   "4h7y1x8q5w": {
@@ -13771,8 +13771,8 @@
       "abbreviation": "ATL"
     },
     "status": {
-      "code": "RM",
-      "description": "Reassigned to Minors"
+      "code": null,
+      "description": null
     }
   },
   "58p4fkx89m": {
@@ -16891,8 +16891,8 @@
       "abbreviation": "SF"
     },
     "status": {
-      "code": "A",
-      "description": "Active"
+      "code": "RM",
+      "description": "Reassigned to Minors"
     }
   },
   "6lr1094zzm": {
@@ -19771,8 +19771,8 @@
       "abbreviation": "ATL"
     },
     "status": {
-      "code": null,
-      "description": null
+      "code": "RM",
+      "description": "Reassigned to Minors"
     }
   },
   "7j41wb5gl0": {
@@ -21931,8 +21931,8 @@
       "abbreviation": "SEA"
     },
     "status": {
-      "code": "RM",
-      "description": "Reassigned to Minors"
+      "code": "A",
+      "description": "Active"
     }
   },
   "89112lvv68": {
@@ -25579,8 +25579,8 @@
       "abbreviation": "STL"
     },
     "status": {
-      "code": "A",
-      "description": "Active"
+      "code": "RM",
+      "description": "Reassigned to Minors"
     }
   },
   "9h91wd7vph": {
@@ -25627,8 +25627,8 @@
       "abbreviation": "CLE"
     },
     "status": {
-      "code": "A",
-      "description": "Active"
+      "code": "D10",
+      "description": "Injured 10-Day"
     }
   },
   "9hjsxnzc9w": {
@@ -28171,8 +28171,8 @@
       "abbreviation": "ATL"
     },
     "status": {
-      "code": "D15",
-      "description": "Injured 15-Day"
+      "code": "D60",
+      "description": "Injured 60-Day"
     }
   },
   "bc33d2fh0h": {
@@ -29611,8 +29611,8 @@
       "abbreviation": "SF"
     },
     "status": {
-      "code": "D15",
-      "description": "Injured 15-Day"
+      "code": "A",
+      "description": "Active"
     }
   },
   "bsfcxsnw2d": {
@@ -31291,8 +31291,8 @@
       "abbreviation": "SD"
     },
     "status": {
-      "code": "A",
-      "description": "Active"
+      "code": "SU",
+      "description": "Suspended # days"
     }
   },
   "cdzskwf8kr": {
@@ -33835,8 +33835,8 @@
       "abbreviation": "CLE"
     },
     "status": {
-      "code": "RM",
-      "description": "Reassigned to Minors"
+      "code": "A",
+      "description": "Active"
     }
   },
   "ddtk845fnh": {
@@ -33933,6 +33933,54 @@
     "status": {
       "code": "D60",
       "description": "Injured 60-Day"
+    }
+  },
+  "detc1n10wd": {
+    "id": "detc1n10wd",
+    "ids": {
+      "prism": "detc1n10wd",
+      "bbref": null,
+      "fangraphs": "sa3019803",
+      "mlbam": "690944",
+      "nfbc": "12696",
+      "sfbb": null,
+      "yahoo": "65573"
+    },
+    "names": {
+      "boxscore": "Washington Jr.",
+      "givenFirst": "Curtis",
+      "givenFirstMiddle": "Curtis",
+      "firstLast": "Curtis Washington Jr.",
+      "lastFirst": "Washington Jr., Curtis",
+      "lastFirstInit": "Washington Jr., C",
+      "givenFull": "Curtis Washington Jr.",
+      "last": "Washington",
+      "first": "Curtis",
+      "middle": null
+    },
+    "profile": {
+      "birthDate": "2000-5-22",
+      "birthYear": "2000",
+      "birthMonth": "5",
+      "birthDay": "22",
+      "birthCity": "West Memphis",
+      "birthState": "AR",
+      "birthCountry": "USA",
+      "batHand": "R",
+      "fieldHand": "R",
+      "debutDate": null
+    },
+    "position": {
+      "code": "8",
+      "abbreviation": "CF"
+    },
+    "team": {
+      "mlb_id": 136,
+      "abbreviation": "SEA"
+    },
+    "status": {
+      "code": "RM",
+      "description": "Reassigned to Minors"
     }
   },
   "dfht0xptq0": {
@@ -37771,8 +37819,8 @@
       "abbreviation": "ATH"
     },
     "status": {
-      "code": "A",
-      "description": "Active"
+      "code": "RM",
+      "description": "Reassigned to Minors"
     }
   },
   "erej4rbyv4": {
@@ -38395,8 +38443,8 @@
       "abbreviation": "ATH"
     },
     "status": {
-      "code": "D15",
-      "description": "Injured 15-Day"
+      "code": "A",
+      "description": "Active"
     }
   },
   "f2stwjz9jm": {
@@ -42951,12 +42999,12 @@
       "abbreviation": "C"
     },
     "team": {
-      "mlb_id": "TOR",
-      "abbreviation": "TOR"
+      "mlb_id": 108,
+      "abbreviation": "LAA"
     },
     "status": {
-      "code": null,
-      "description": null
+      "code": "NYR",
+      "description": "Not Yet Reported"
     }
   },
   "gqkqwzygmm": {
@@ -49291,8 +49339,8 @@
       "abbreviation": "ATL"
     },
     "status": {
-      "code": null,
-      "description": null
+      "code": "A",
+      "description": "Active"
     }
   },
   "k386070qyh": {
@@ -49979,7 +50027,7 @@
       "yahoo": "11833"
     },
     "names": {
-      "boxscore": "Wilson, W",
+      "boxscore": "Wilson, Wi",
       "givenFirst": "Will",
       "givenFirstMiddle": "Will Bradley",
       "firstLast": "Will Wilson",
@@ -51200,7 +51248,7 @@
       "birthCountry": "Panama",
       "batHand": "R",
       "fieldHand": "R",
-      "debutDate": null
+      "debutDate": "2026-06-17"
     },
     "position": {
       "code": "1",
@@ -53227,8 +53275,8 @@
       "abbreviation": "LAA"
     },
     "status": {
-      "code": "A",
-      "description": "Active"
+      "code": "RM",
+      "description": "Reassigned to Minors"
     }
   },
   "lhy8zjhbs0": {
@@ -57499,8 +57547,8 @@
       "abbreviation": "TOR"
     },
     "status": {
-      "code": "A",
-      "description": "Active"
+      "code": "D15",
+      "description": "Injured 15-Day"
     }
   },
   "mznyw2vkm8": {
@@ -68683,8 +68731,8 @@
       "abbreviation": "ATL"
     },
     "status": {
-      "code": "A",
-      "description": "Active"
+      "code": "RM",
+      "description": "Reassigned to Minors"
     }
   },
   "s6lm39htnd": {
@@ -70603,8 +70651,8 @@
       "abbreviation": "DET"
     },
     "status": {
-      "code": "A",
-      "description": "Active"
+      "code": "D10",
+      "description": "Injured 10-Day"
     }
   },
   "sz0l0lq6bw": {
@@ -72763,8 +72811,8 @@
       "abbreviation": "LAA"
     },
     "status": {
-      "code": "A",
-      "description": "Active"
+      "code": null,
+      "description": null
     }
   },
   "tsggrwtw34": {
@@ -75307,8 +75355,8 @@
       "abbreviation": "PHI"
     },
     "status": {
-      "code": "A",
-      "description": "Active"
+      "code": "RM",
+      "description": "Reassigned to Minors"
     }
   },
   "vpw0mfppym": {
@@ -77803,8 +77851,8 @@
       "abbreviation": "DET"
     },
     "status": {
-      "code": "D15",
-      "description": "Injured 15-Day"
+      "code": "A",
+      "description": "Active"
     }
   },
   "wlgqz6yz50": {
@@ -78619,8 +78667,8 @@
       "abbreviation": "TOR"
     },
     "status": {
-      "code": "RM",
-      "description": "Reassigned to Minors"
+      "code": "A",
+      "description": "Active"
     }
   },
   "wv0556ts1w": {
@@ -78859,8 +78907,8 @@
       "abbreviation": "LAA"
     },
     "status": {
-      "code": "D10",
-      "description": "Injured 10-Day"
+      "code": "A",
+      "description": "Active"
     }
   },
   "wxw4hqwrv4": {
@@ -80491,8 +80539,8 @@
       "abbreviation": "COL"
     },
     "status": {
-      "code": "A",
-      "description": "Active"
+      "code": "RM",
+      "description": "Reassigned to Minors"
     }
   },
   "xk0n6xr3bm": {
@@ -80579,8 +80627,8 @@
       "debutDate": "2024-06-26"
     },
     "position": {
-      "code": "5",
-      "abbreviation": "3B"
+      "code": "10",
+      "abbreviation": "DH"
     },
     "team": {
       "mlb_id": 135,
@@ -81163,8 +81211,8 @@
       "abbreviation": "COL"
     },
     "status": {
-      "code": "D15",
-      "description": "Injured 15-Day"
+      "code": "A",
+      "description": "Active"
     }
   },
   "xt783zt154": {
