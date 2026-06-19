@@ -1623,8 +1623,8 @@
       "abbreviation": "P"
     },
     "team": {
-      "mlb_id": 114,
-      "abbreviation": "CLE"
+      "mlb_id": 143,
+      "abbreviation": "PHI"
     },
     "status": {
       "code": null,
@@ -4747,8 +4747,8 @@
       "abbreviation": "CHC"
     },
     "status": {
-      "code": "A",
-      "description": "Active"
+      "code": "RM",
+      "description": "Reassigned to Minors"
     }
   },
   "bandaan01": {
@@ -4843,8 +4843,8 @@
       "abbreviation": "CIN"
     },
     "status": {
-      "code": null,
-      "description": null
+      "code": "RM",
+      "description": "Reassigned to Minors"
     }
   },
   "banksta01": {
@@ -4891,8 +4891,8 @@
       "abbreviation": "PHI"
     },
     "status": {
-      "code": "A",
-      "description": "Active"
+      "code": "RM",
+      "description": "Reassigned to Minors"
     }
   },
   "banueda01": {
@@ -5367,12 +5367,12 @@
       "abbreviation": "C"
     },
     "team": {
-      "mlb_id": 134,
-      "abbreviation": "PIT"
+      "mlb_id": 144,
+      "abbreviation": "ATL"
     },
     "status": {
-      "code": "D10",
-      "description": "Injured 10-Day"
+      "code": "NYR",
+      "description": "Not Yet Reported"
     }
   },
   "basabos01": {
@@ -21364,7 +21364,7 @@
     "ids": {
       "prism": "krtbb96b24",
       "bbref": "espinda02",
-      "fangraphs": "sa3011495",
+      "fangraphs": "25625",
       "mlbam": "682982",
       "nfbc": "10926",
       "sfbb": "espinda02",
@@ -28835,8 +28835,8 @@
       "debutDate": "2026-06-05"
     },
     "position": {
-      "code": "5",
-      "abbreviation": "3B"
+      "code": "3",
+      "abbreviation": "1B"
     },
     "team": {
       "mlb_id": 109,
@@ -31147,8 +31147,8 @@
       "abbreviation": "LAA"
     },
     "status": {
-      "code": "NYR",
-      "description": "Not Yet Reported"
+      "code": "A",
+      "description": "Active"
     }
   },
   "helmami01": {
@@ -32827,8 +32827,8 @@
       "abbreviation": "CIN"
     },
     "status": {
-      "code": "RM",
-      "description": "Reassigned to Minors"
+      "code": null,
+      "description": null
     }
   },
   "hillde01": {
@@ -36235,8 +36235,8 @@
       "abbreviation": "LAA"
     },
     "status": {
-      "code": "RM",
-      "description": "Reassigned to Minors"
+      "code": "A",
+      "description": "Active"
     }
   },
   "johnsse01": {
@@ -36283,8 +36283,8 @@
       "abbreviation": "PHI"
     },
     "status": {
-      "code": "RM",
-      "description": "Reassigned to Minors"
+      "code": "A",
+      "description": "Active"
     }
   },
   "johnstr02": {
@@ -38397,6 +38397,54 @@
     "status": {
       "code": "A",
       "description": "Active"
+    }
+  },
+  "kerrybr01": {
+    "id": "4ghx6txt2r",
+    "ids": {
+      "prism": "4ghx6txt2r",
+      "bbref": "kerrybr01",
+      "fangraphs": "29826",
+      "mlbam": "695049",
+      "nfbc": "12695",
+      "sfbb": null,
+      "yahoo": "67447"
+    },
+    "names": {
+      "boxscore": "Kerry",
+      "givenFirst": "Brett",
+      "givenFirstMiddle": "Brett Dustin",
+      "firstLast": "Brett Kerry",
+      "lastFirst": "Kerry, Brett",
+      "lastFirstInit": "Kerry, B",
+      "givenFull": "Brett Dustin Kerry",
+      "last": "Kerry",
+      "first": "Brett",
+      "middle": "Dustin"
+    },
+    "profile": {
+      "birthDate": "1999-4-12",
+      "birthYear": "1999",
+      "birthMonth": "4",
+      "birthDay": "12",
+      "birthCity": "Clemmons",
+      "birthState": "NC",
+      "birthCountry": "USA",
+      "batHand": "R",
+      "fieldHand": "R",
+      "debutDate": "2026-06-17"
+    },
+    "position": {
+      "code": "1",
+      "abbreviation": "P"
+    },
+    "team": {
+      "mlb_id": 108,
+      "abbreviation": "LAA"
+    },
+    "status": {
+      "code": "RM",
+      "description": "Reassigned to Minors"
     }
   },
   "kershcl01": {
@@ -41659,8 +41707,8 @@
       "abbreviation": "ATL"
     },
     "status": {
-      "code": "A",
-      "description": "Active"
+      "code": null,
+      "description": null
     }
   },
   "lewisro02": {
@@ -51067,8 +51115,8 @@
       "abbreviation": "LAA"
     },
     "status": {
-      "code": "RM",
-      "description": "Reassigned to Minors"
+      "code": "A",
+      "description": "Active"
     }
   },
   "mooredy01": {
@@ -57115,8 +57163,8 @@
       "abbreviation": "CWS"
     },
     "status": {
-      "code": "A",
-      "description": "Active"
+      "code": "D7",
+      "description": "Injured 7-Day"
     }
   },
   "perezci01": {
@@ -57248,7 +57296,7 @@
       "birthCountry": "Dominican Republic",
       "batHand": "R",
       "fieldHand": "R",
-      "debutDate": null
+      "debutDate": "2026-06-18"
     },
     "position": {
       "code": "8",
@@ -57259,8 +57307,8 @@
       "abbreviation": "CWS"
     },
     "status": {
-      "code": "RM",
-      "description": "Reassigned to Minors"
+      "code": "A",
+      "description": "Active"
     }
   },
   "perezma02": {
@@ -64075,8 +64123,8 @@
       "abbreviation": "STL"
     },
     "status": {
-      "code": "RM",
-      "description": "Reassigned to Minors"
+      "code": null,
+      "description": null
     }
   },
   "ruckemi01": {
@@ -71655,12 +71703,12 @@
       "abbreviation": "P"
     },
     "team": {
-      "mlb_id": 144,
-      "abbreviation": "ATL"
+      "mlb_id": 134,
+      "abbreviation": "PIT"
     },
     "status": {
-      "code": null,
-      "description": null
+      "code": "RM",
+      "description": "Reassigned to Minors"
     }
   },
   "strawmy01": {
@@ -75787,8 +75835,8 @@
       "abbreviation": "LAA"
     },
     "status": {
-      "code": "A",
-      "description": "Active"
+      "code": "D10",
+      "description": "Injured 10-Day"
     }
   },
   "troyto01": {
@@ -76691,8 +76739,8 @@
       "debutDate": "2026-05-22"
     },
     "position": {
-      "code": "O",
-      "abbreviation": "OF"
+      "code": "9",
+      "abbreviation": "RF"
     },
     "team": {
       "mlb_id": 134,
@@ -81691,8 +81739,8 @@
       "abbreviation": "PHI"
     },
     "status": {
-      "code": null,
-      "description": null
+      "code": "A",
+      "description": "Active"
     }
   },
   "wilsoja05": {
