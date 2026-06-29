@@ -7531,8 +7531,8 @@
       "abbreviation": "CIN"
     },
     "status": {
-      "code": "A",
-      "description": "Active"
+      "code": "D10",
+      "description": "Injured 10-Day"
     }
   },
   "2tvqvmze6r": {
@@ -8971,8 +8971,8 @@
       "abbreviation": "CIN"
     },
     "status": {
-      "code": "RM",
-      "description": "Reassigned to Minors"
+      "code": "A",
+      "description": "Active"
     }
   },
   "3dml3kdtpw": {
@@ -10939,8 +10939,8 @@
       "abbreviation": "BOS"
     },
     "status": {
-      "code": "A",
-      "description": "Active"
+      "code": "RM",
+      "description": "Reassigned to Minors"
     }
   },
   "490qx876fw": {
@@ -17131,8 +17131,8 @@
       "abbreviation": "COL"
     },
     "status": {
-      "code": "D10",
-      "description": "Injured 10-Day"
+      "code": "RM",
+      "description": "Reassigned to Minors"
     }
   },
   "6p9y4xwl4h": {
@@ -17419,8 +17419,8 @@
       "abbreviation": "DET"
     },
     "status": {
-      "code": "D15",
-      "description": "Injured 15-Day"
+      "code": "A",
+      "description": "Active"
     }
   },
   "6syz087mtm": {
@@ -18859,8 +18859,8 @@
       "abbreviation": "ATH"
     },
     "status": {
-      "code": "NYR",
-      "description": "Not Yet Reported"
+      "code": "RM",
+      "description": "Reassigned to Minors"
     }
   },
   "77em3twsg8": {
@@ -22939,8 +22939,8 @@
       "abbreviation": "HOU"
     },
     "status": {
-      "code": "RM",
-      "description": "Reassigned to Minors"
+      "code": "A",
+      "description": "Active"
     }
   },
   "8kgzmz3kvh": {
@@ -25295,6 +25295,54 @@
       "description": "Active"
     }
   },
+  "9bszkp9cdm": {
+    "id": "9bszkp9cdm",
+    "ids": {
+      "prism": "9bszkp9cdm",
+      "bbref": "keysse01",
+      "fangraphs": "35094",
+      "mlbam": "815873",
+      "nfbc": "12702",
+      "sfbb": null,
+      "yahoo": "64542"
+    },
+    "names": {
+      "boxscore": "Keys",
+      "givenFirst": "Sean",
+      "givenFirstMiddle": "Sean Thomas",
+      "firstLast": "Sean Keys",
+      "lastFirst": "Keys, Sean",
+      "lastFirstInit": "Keys, S",
+      "givenFull": "Sean Thomas Keys",
+      "last": "Keys",
+      "first": "Sean",
+      "middle": "Thomas"
+    },
+    "profile": {
+      "birthDate": "2003-5-26",
+      "birthYear": "2003",
+      "birthMonth": "5",
+      "birthDay": "26",
+      "birthCity": "Huntington",
+      "birthState": "NY",
+      "birthCountry": "USA",
+      "batHand": "L",
+      "fieldHand": "R",
+      "debutDate": "2026-06-27"
+    },
+    "position": {
+      "code": "5",
+      "abbreviation": "3B"
+    },
+    "team": {
+      "mlb_id": 141,
+      "abbreviation": "TOR"
+    },
+    "status": {
+      "code": "A",
+      "description": "Active"
+    }
+  },
   "9cdtg7r05h": {
     "id": "9cdtg7r05h",
     "ids": {
@@ -25675,8 +25723,8 @@
       "abbreviation": "CLE"
     },
     "status": {
-      "code": "D10",
-      "description": "Injured 10-Day"
+      "code": "A",
+      "description": "Active"
     }
   },
   "9hjsxnzc9w": {
@@ -26967,8 +27015,8 @@
       "abbreviation": "SS"
     },
     "team": {
-      "mlb_id": 121,
-      "abbreviation": "NYM"
+      "mlb_id": 120,
+      "abbreviation": "WSH"
     },
     "status": {
       "code": null,
@@ -27303,8 +27351,8 @@
       "abbreviation": "3B"
     },
     "team": {
-      "mlb_id": 108,
-      "abbreviation": "LAA"
+      "mlb_id": 139,
+      "abbreviation": "TB"
     },
     "status": {
       "code": null,
@@ -27595,8 +27643,8 @@
       "abbreviation": "TB"
     },
     "status": {
-      "code": "RM",
-      "description": "Reassigned to Minors"
+      "code": "A",
+      "description": "Active"
     }
   },
   "b71pppg7zm": {
@@ -31095,12 +31143,12 @@
       "abbreviation": "P"
     },
     "team": {
-      "mlb_id": 112,
-      "abbreviation": "CHC"
+      "mlb_id": 110,
+      "abbreviation": "BAL"
     },
     "status": {
-      "code": null,
-      "description": null
+      "code": "RM",
+      "description": "Reassigned to Minors"
     }
   },
   "cbq1bw89b4": {
@@ -34603,8 +34651,8 @@
       "abbreviation": "CHC"
     },
     "status": {
-      "code": "RM",
-      "description": "Reassigned to Minors"
+      "code": "A",
+      "description": "Active"
     }
   },
   "dlk1ynj8sm": {
@@ -40363,8 +40411,8 @@
       "abbreviation": "TEX"
     },
     "status": {
-      "code": "A",
-      "description": "Active"
+      "code": "D10",
+      "description": "Injured 10-Day"
     }
   },
   "fx7zd1yet4": {
@@ -43335,8 +43383,8 @@
       "abbreviation": "P"
     },
     "team": {
-      "mlb_id": "LAA",
-      "abbreviation": "LAA"
+      "mlb_id": 112,
+      "abbreviation": "CHC"
     },
     "status": {
       "code": null,
@@ -44443,8 +44491,8 @@
       "abbreviation": "BAL"
     },
     "status": {
-      "code": "D10",
-      "description": "Injured 10-Day"
+      "code": "A",
+      "description": "Active"
     }
   },
   "h8qhlz4jfd": {
@@ -45015,12 +45063,12 @@
       "abbreviation": "1B"
     },
     "team": {
-      "mlb_id": 137,
-      "abbreviation": "SF"
+      "mlb_id": 136,
+      "abbreviation": "SEA"
     },
     "status": {
-      "code": "A",
-      "description": "Active"
+      "code": "NYR",
+      "description": "Not Yet Reported"
     }
   },
   "hk8n5xyl40": {
@@ -57067,8 +57115,8 @@
       "abbreviation": "BOS"
     },
     "status": {
-      "code": "D10",
-      "description": "Injured 10-Day"
+      "code": "D60",
+      "description": "Injured 60-Day"
     }
   },
   "mt51fk88t4": {
@@ -58219,8 +58267,8 @@
       "abbreviation": "CLE"
     },
     "status": {
-      "code": "A",
-      "description": "Active"
+      "code": "RM",
+      "description": "Reassigned to Minors"
     }
   },
   "n4p7pn0prr": {
@@ -65899,8 +65947,8 @@
       "abbreviation": "BAL"
     },
     "status": {
-      "code": "A",
-      "description": "Active"
+      "code": "RM",
+      "description": "Reassigned to Minors"
     }
   },
   "r16fl66vyd": {
@@ -66955,8 +67003,8 @@
       "abbreviation": "SF"
     },
     "status": {
-      "code": "D10",
-      "description": "Injured 10-Day"
+      "code": "A",
+      "description": "Active"
     }
   },
   "rdwswldhkw": {
@@ -70843,8 +70891,8 @@
       "abbreviation": "BAL"
     },
     "status": {
-      "code": "D7",
-      "description": "Injured 7-Day"
+      "code": "A",
+      "description": "Active"
     }
   },
   "szw0f96ml0": {
@@ -77995,8 +78043,8 @@
       "abbreviation": "CHC"
     },
     "status": {
-      "code": "A",
-      "description": "Active"
+      "code": null,
+      "description": null
     }
   },
   "wlfgcq8xb8": {
@@ -84139,8 +84187,8 @@
       "abbreviation": "TB"
     },
     "status": {
-      "code": "A",
-      "description": "Active"
+      "code": "RM",
+      "description": "Reassigned to Minors"
     }
   },
   "yxrv54hzg8": {
@@ -85531,8 +85579,8 @@
       "abbreviation": "DET"
     },
     "status": {
-      "code": "A",
-      "description": "Active"
+      "code": "RM",
+      "description": "Reassigned to Minors"
     }
   },
   "zcz6fs97zd": {
@@ -85819,8 +85867,8 @@
       "abbreviation": "BOS"
     },
     "status": {
-      "code": "D60",
-      "description": "Injured 60-Day"
+      "code": "A",
+      "description": "Active"
     }
   },
   "zfdvvllx24": {
@@ -86011,8 +86059,8 @@
       "abbreviation": "TEX"
     },
     "status": {
-      "code": "D10",
-      "description": "Injured 10-Day"
+      "code": "A",
+      "description": "Active"
     }
   },
   "zhm8xjzder": {
@@ -86539,8 +86587,8 @@
       "abbreviation": "BAL"
     },
     "status": {
-      "code": "A",
-      "description": "Active"
+      "code": null,
+      "description": null
     }
   },
   "ztsfxzrjk8": {
