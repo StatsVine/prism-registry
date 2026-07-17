@@ -3307,8 +3307,8 @@
       "abbreviation": "NYM"
     },
     "status": {
-      "code": "D10",
-      "description": "Injured 10-Day"
+      "code": "A",
+      "description": "Active"
     }
   },
   "543807": {
@@ -17467,8 +17467,8 @@
       "abbreviation": "PHI"
     },
     "status": {
-      "code": "A",
-      "description": "Active"
+      "code": "D15",
+      "description": "Injured 15-Day"
     }
   },
   "641755": {
@@ -26491,8 +26491,8 @@
       "abbreviation": "BOS"
     },
     "status": {
-      "code": "A",
-      "description": "Active"
+      "code": "NYR",
+      "description": "Not Yet Reported"
     }
   },
   "663362": {
@@ -40603,8 +40603,8 @@
       "abbreviation": "TB"
     },
     "status": {
-      "code": "RM",
-      "description": "Reassigned to Minors"
+      "code": "A",
+      "description": "Active"
     }
   },
   "669449": {
@@ -42375,12 +42375,12 @@
       "abbreviation": "SS"
     },
     "team": {
-      "mlb_id": 121,
-      "abbreviation": "NYM"
+      "mlb_id": 120,
+      "abbreviation": "WSH"
     },
     "status": {
-      "code": "A",
-      "description": "Active"
+      "code": null,
+      "description": null
     }
   },
   "670102": {
@@ -49483,8 +49483,8 @@
       "abbreviation": "MIL"
     },
     "status": {
-      "code": "NYR",
-      "description": "Not Yet Reported"
+      "code": "RM",
+      "description": "Reassigned to Minors"
     }
   },
   "676475": {
@@ -52219,8 +52219,8 @@
       "abbreviation": "BAL"
     },
     "status": {
-      "code": "A",
-      "description": "Active"
+      "code": "D10",
+      "description": "Injured 10-Day"
     }
   },
   "677943": {
@@ -65803,8 +65803,8 @@
       "abbreviation": "PHI"
     },
     "status": {
-      "code": "RM",
-      "description": "Reassigned to Minors"
+      "code": "A",
+      "description": "Active"
     }
   },
   "686752": {
@@ -69163,8 +69163,8 @@
       "abbreviation": "BOS"
     },
     "status": {
-      "code": "RM",
-      "description": "Reassigned to Minors"
+      "code": "A",
+      "description": "Active"
     }
   },
   "687952": {
@@ -69211,8 +69211,8 @@
       "abbreviation": "BAL"
     },
     "status": {
-      "code": "RM",
-      "description": "Reassigned to Minors"
+      "code": "A",
+      "description": "Active"
     }
   },
   "687957": {
@@ -74203,8 +74203,8 @@
       "abbreviation": "MIL"
     },
     "status": {
-      "code": "D15",
-      "description": "Injured 15-Day"
+      "code": "RM",
+      "description": "Reassigned to Minors"
     }
   },
   "692285": {
@@ -79053,6 +79053,54 @@
     "status": {
       "code": "RM",
       "description": "Reassigned to Minors"
+    }
+  },
+  "695720": {
+    "id": "m9fmv682yw",
+    "ids": {
+      "prism": "m9fmv682yw",
+      "bbref": "whiteto01",
+      "fangraphs": "sa3025383",
+      "mlbam": "695720",
+      "nfbc": "12639",
+      "sfbb": "whiteto01",
+      "yahoo": "64325"
+    },
+    "names": {
+      "boxscore": "White",
+      "givenFirst": "Thomas",
+      "givenFirstMiddle": "Thomas Anthony",
+      "firstLast": "Tommy White",
+      "lastFirst": "White, Tommy",
+      "lastFirstInit": "White, T",
+      "givenFull": "Thomas Anthony White",
+      "last": "White",
+      "first": "Tommy",
+      "middle": "Anthony"
+    },
+    "profile": {
+      "birthDate": "2003-3-2",
+      "birthYear": "2003",
+      "birthMonth": "3",
+      "birthDay": "2",
+      "birthCity": "St. Petersburg",
+      "birthState": "FL",
+      "birthCountry": "USA",
+      "batHand": "R",
+      "fieldHand": "R",
+      "debutDate": null
+    },
+    "position": {
+      "code": "5",
+      "abbreviation": "3B"
+    },
+    "team": {
+      "mlb_id": 133,
+      "abbreviation": "ATH"
+    },
+    "status": {
+      "code": null,
+      "description": null
     }
   },
   "695731": {
@@ -87405,6 +87453,54 @@
     "status": {
       "code": "RM",
       "description": "Reassigned to Minors"
+    }
+  },
+  "814305": {
+    "id": "3f3r2t084r",
+    "ids": {
+      "prism": "3f3r2t084r",
+      "bbref": null,
+      "fangraphs": "sa3021045",
+      "mlbam": "814305",
+      "nfbc": "12715",
+      "sfbb": null,
+      "yahoo": "65085"
+    },
+    "names": {
+      "boxscore": "Tur",
+      "givenFirst": "Yunior",
+      "givenFirstMiddle": "Yunior",
+      "firstLast": "Yunior Tur",
+      "lastFirst": "Tur, Yunior",
+      "lastFirstInit": "Tur, Y",
+      "givenFull": "Yunior Tur",
+      "last": "Tur",
+      "first": "Yunior",
+      "middle": null
+    },
+    "profile": {
+      "birthDate": "1999-8-9",
+      "birthYear": "1999",
+      "birthMonth": "8",
+      "birthDay": "9",
+      "birthCity": "Havana",
+      "birthState": null,
+      "birthCountry": "Cuba",
+      "batHand": "R",
+      "fieldHand": "R",
+      "debutDate": null
+    },
+    "position": {
+      "code": "1",
+      "abbreviation": "P"
+    },
+    "team": {
+      "mlb_id": 133,
+      "abbreviation": "ATH"
+    },
+    "status": {
+      "code": "A",
+      "description": "Active"
     }
   },
   "814439": {

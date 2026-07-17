@@ -1339,8 +1339,8 @@
       "abbreviation": "BAL"
     },
     "status": {
-      "code": "A",
-      "description": "Active"
+      "code": "D10",
+      "description": "Injured 10-Day"
     }
   },
   "alexacj01": {
@@ -21307,8 +21307,8 @@
       "abbreviation": "BAL"
     },
     "status": {
-      "code": "RM",
-      "description": "Reassigned to Minors"
+      "code": "A",
+      "description": "Active"
     }
   },
   "encarje01": {
@@ -21403,8 +21403,8 @@
       "abbreviation": "TB"
     },
     "status": {
-      "code": "RM",
-      "description": "Reassigned to Minors"
+      "code": "A",
+      "description": "Active"
     }
   },
   "englitr01": {
@@ -25531,8 +25531,8 @@
       "abbreviation": "BOS"
     },
     "status": {
-      "code": "RM",
-      "description": "Reassigned to Minors"
+      "code": "A",
+      "description": "Active"
     }
   },
   "garabge01": {
@@ -28267,8 +28267,8 @@
       "abbreviation": "MIL"
     },
     "status": {
-      "code": "NYR",
-      "description": "Not Yet Reported"
+      "code": "RM",
+      "description": "Reassigned to Minors"
     }
   },
   "gordota01": {
@@ -37003,8 +37003,8 @@
       "abbreviation": "PHI"
     },
     "status": {
-      "code": "RM",
-      "description": "Reassigned to Minors"
+      "code": "A",
+      "description": "Active"
     }
   },
   "johnstr02": {
@@ -37147,8 +37147,8 @@
       "abbreviation": "BOS"
     },
     "status": {
-      "code": "A",
-      "description": "Active"
+      "code": "NYR",
+      "description": "Not Yet Reported"
     }
   },
   "jonesja09": {
@@ -38443,8 +38443,8 @@
       "abbreviation": "PHI"
     },
     "status": {
-      "code": "A",
-      "description": "Active"
+      "code": "D15",
+      "description": "Injured 15-Day"
     }
   },
   "kellemi03": {
@@ -63643,8 +63643,8 @@
       "abbreviation": "MIL"
     },
     "status": {
-      "code": "D15",
-      "description": "Injured 15-Day"
+      "code": "RM",
+      "description": "Reassigned to Minors"
     }
   },
   "rodried05": {
@@ -68491,8 +68491,8 @@
       "abbreviation": "NYM"
     },
     "status": {
-      "code": "D10",
-      "description": "Injured 10-Day"
+      "code": "A",
+      "description": "Active"
     }
   },
   "sengako01": {
@@ -69303,12 +69303,12 @@
       "abbreviation": "SS"
     },
     "team": {
-      "mlb_id": 121,
-      "abbreviation": "NYM"
+      "mlb_id": 120,
+      "abbreviation": "WSH"
     },
     "status": {
-      "code": "A",
-      "description": "Active"
+      "code": null,
+      "description": null
     }
   },
   "shugach01": {
@@ -82265,6 +82265,54 @@
     "team": {
       "mlb_id": 146,
       "abbreviation": "MIA"
+    },
+    "status": {
+      "code": null,
+      "description": null
+    }
+  },
+  "whiteto01": {
+    "id": "m9fmv682yw",
+    "ids": {
+      "prism": "m9fmv682yw",
+      "bbref": "whiteto01",
+      "fangraphs": "sa3025383",
+      "mlbam": "695720",
+      "nfbc": "12639",
+      "sfbb": "whiteto01",
+      "yahoo": "64325"
+    },
+    "names": {
+      "boxscore": "White",
+      "givenFirst": "Thomas",
+      "givenFirstMiddle": "Thomas Anthony",
+      "firstLast": "Tommy White",
+      "lastFirst": "White, Tommy",
+      "lastFirstInit": "White, T",
+      "givenFull": "Thomas Anthony White",
+      "last": "White",
+      "first": "Tommy",
+      "middle": "Anthony"
+    },
+    "profile": {
+      "birthDate": "2003-3-2",
+      "birthYear": "2003",
+      "birthMonth": "3",
+      "birthDay": "2",
+      "birthCity": "St. Petersburg",
+      "birthState": "FL",
+      "birthCountry": "USA",
+      "batHand": "R",
+      "fieldHand": "R",
+      "debutDate": null
+    },
+    "position": {
+      "code": "5",
+      "abbreviation": "3B"
+    },
+    "team": {
+      "mlb_id": 133,
+      "abbreviation": "ATH"
     },
     "status": {
       "code": null,
