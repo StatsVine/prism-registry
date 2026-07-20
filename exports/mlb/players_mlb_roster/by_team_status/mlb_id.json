@@ -4142,41 +4142,41 @@
         }
       }
     ],
-    "D15": [
+    "RM": [
       {
-        "id": "53qcwqylp0",
+        "id": "2jeeps07v4",
         "ids": {
-          "prism": "53qcwqylp0",
-          "bbref": "sorokmi01",
-          "fangraphs": "18383",
-          "mlbam": "647336",
-          "nfbc": "9791",
-          "sfbb": "sorokmi01",
-          "yahoo": "10423"
+          "prism": "2jeeps07v4",
+          "bbref": null,
+          "fangraphs": "sa3002790",
+          "mlbam": "672629",
+          "nfbc": "11054",
+          "sfbb": null,
+          "yahoo": "11565"
         },
         "names": {
-          "boxscore": "Soroka",
-          "givenFirst": "Michael",
-          "givenFirstMiddle": "Michael John Graydon",
-          "firstLast": "Michael Soroka",
-          "lastFirst": "Soroka, Michael",
-          "lastFirstInit": "Soroka, M",
-          "givenFull": "Michael John Graydon Soroka",
-          "last": "Soroka",
-          "first": "Michael",
-          "middle": "John Graydon"
+          "boxscore": "Carrillo",
+          "givenFirst": "Gerardo",
+          "givenFirstMiddle": "Gerardo",
+          "firstLast": "Gerardo Carrillo",
+          "lastFirst": "Carrillo, Gerardo",
+          "lastFirstInit": "Carrillo, G",
+          "givenFull": "Gerardo Carrillo",
+          "last": "Carrillo",
+          "first": "Gerardo",
+          "middle": null
         },
         "profile": {
-          "birthDate": "1997-8-4",
-          "birthYear": "1997",
-          "birthMonth": "8",
-          "birthDay": "4",
-          "birthCity": "Calgary",
-          "birthState": "AB",
-          "birthCountry": "Canada",
+          "birthDate": "1998-9-13",
+          "birthYear": "1998",
+          "birthMonth": "9",
+          "birthDay": "13",
+          "birthCity": "Guadalajara",
+          "birthState": null,
+          "birthCountry": "Mexico",
           "batHand": "R",
           "fieldHand": "R",
-          "debutDate": "2018-05-01"
+          "debutDate": null
         },
         "position": {
           "code": "1",
@@ -4187,60 +4187,10 @@
           "abbreviation": "AZ"
         },
         "status": {
-          "code": "D15",
-          "description": "Injured 15-Day"
+          "code": "RM",
+          "description": "Reassigned to Minors"
         }
       },
-      {
-        "id": "5yglslg8ch",
-        "ids": {
-          "prism": "5yglslg8ch",
-          "bbref": "galleza01",
-          "fangraphs": "19291",
-          "mlbam": "668678",
-          "nfbc": "9944",
-          "sfbb": "galleza01",
-          "yahoo": "11116"
-        },
-        "names": {
-          "boxscore": "Gallen",
-          "givenFirst": "Zachary",
-          "givenFirstMiddle": "Zachary Peter",
-          "firstLast": "Zac Gallen",
-          "lastFirst": "Gallen, Zac",
-          "lastFirstInit": "Gallen, Z",
-          "givenFull": "Zachary Peter Gallen",
-          "last": "Gallen",
-          "first": "Zac",
-          "middle": "Peter"
-        },
-        "profile": {
-          "birthDate": "1995-8-3",
-          "birthYear": "1995",
-          "birthMonth": "8",
-          "birthDay": "3",
-          "birthCity": "Somerdale",
-          "birthState": "NJ",
-          "birthCountry": "USA",
-          "batHand": "R",
-          "fieldHand": "R",
-          "debutDate": "2019-06-20"
-        },
-        "position": {
-          "code": "1",
-          "abbreviation": "P"
-        },
-        "team": {
-          "mlb_id": 109,
-          "abbreviation": "AZ"
-        },
-        "status": {
-          "code": "D15",
-          "description": "Injured 15-Day"
-        }
-      }
-    ],
-    "RM": [
       {
         "id": "58z73epxj8",
         "ids": {
@@ -4623,6 +4573,104 @@
         "status": {
           "code": "RM",
           "description": "Reassigned to Minors"
+        }
+      }
+    ],
+    "D15": [
+      {
+        "id": "53qcwqylp0",
+        "ids": {
+          "prism": "53qcwqylp0",
+          "bbref": "sorokmi01",
+          "fangraphs": "18383",
+          "mlbam": "647336",
+          "nfbc": "9791",
+          "sfbb": "sorokmi01",
+          "yahoo": "10423"
+        },
+        "names": {
+          "boxscore": "Soroka",
+          "givenFirst": "Michael",
+          "givenFirstMiddle": "Michael John Graydon",
+          "firstLast": "Michael Soroka",
+          "lastFirst": "Soroka, Michael",
+          "lastFirstInit": "Soroka, M",
+          "givenFull": "Michael John Graydon Soroka",
+          "last": "Soroka",
+          "first": "Michael",
+          "middle": "John Graydon"
+        },
+        "profile": {
+          "birthDate": "1997-8-4",
+          "birthYear": "1997",
+          "birthMonth": "8",
+          "birthDay": "4",
+          "birthCity": "Calgary",
+          "birthState": "AB",
+          "birthCountry": "Canada",
+          "batHand": "R",
+          "fieldHand": "R",
+          "debutDate": "2018-05-01"
+        },
+        "position": {
+          "code": "1",
+          "abbreviation": "P"
+        },
+        "team": {
+          "mlb_id": 109,
+          "abbreviation": "AZ"
+        },
+        "status": {
+          "code": "D15",
+          "description": "Injured 15-Day"
+        }
+      },
+      {
+        "id": "5yglslg8ch",
+        "ids": {
+          "prism": "5yglslg8ch",
+          "bbref": "galleza01",
+          "fangraphs": "19291",
+          "mlbam": "668678",
+          "nfbc": "9944",
+          "sfbb": "galleza01",
+          "yahoo": "11116"
+        },
+        "names": {
+          "boxscore": "Gallen",
+          "givenFirst": "Zachary",
+          "givenFirstMiddle": "Zachary Peter",
+          "firstLast": "Zac Gallen",
+          "lastFirst": "Gallen, Zac",
+          "lastFirstInit": "Gallen, Z",
+          "givenFull": "Zachary Peter Gallen",
+          "last": "Gallen",
+          "first": "Zac",
+          "middle": "Peter"
+        },
+        "profile": {
+          "birthDate": "1995-8-3",
+          "birthYear": "1995",
+          "birthMonth": "8",
+          "birthDay": "3",
+          "birthCity": "Somerdale",
+          "birthState": "NJ",
+          "birthCountry": "USA",
+          "batHand": "R",
+          "fieldHand": "R",
+          "debutDate": "2019-06-20"
+        },
+        "position": {
+          "code": "1",
+          "abbreviation": "P"
+        },
+        "team": {
+          "mlb_id": 109,
+          "abbreviation": "AZ"
+        },
+        "status": {
+          "code": "D15",
+          "description": "Injured 15-Day"
         }
       }
     ],
@@ -8185,6 +8233,54 @@
         "position": {
           "code": "1",
           "abbreviation": "P"
+        },
+        "team": {
+          "mlb_id": 110,
+          "abbreviation": "BAL"
+        },
+        "status": {
+          "code": "RM",
+          "description": "Reassigned to Minors"
+        }
+      },
+      {
+        "id": "csjvqf29ew",
+        "ids": {
+          "prism": "csjvqf29ew",
+          "bbref": null,
+          "fangraphs": "sa829374",
+          "mlbam": "657675",
+          "nfbc": "12717",
+          "sfbb": null,
+          "yahoo": "65747"
+        },
+        "names": {
+          "boxscore": "Martin Jr.",
+          "givenFirst": "Rudy",
+          "givenFirstMiddle": "Rudy",
+          "firstLast": "Rudy Martin Jr.",
+          "lastFirst": "Martin Jr., Rudy",
+          "lastFirstInit": "Martin Jr., R",
+          "givenFull": "Rudy Martin Jr.",
+          "last": "Martin",
+          "first": "Rudy",
+          "middle": null
+        },
+        "profile": {
+          "birthDate": "1996-1-31",
+          "birthYear": "1996",
+          "birthMonth": "1",
+          "birthDay": "31",
+          "birthCity": "Memphis",
+          "birthState": "TN",
+          "birthCountry": "USA",
+          "batHand": "L",
+          "fieldHand": "L",
+          "debutDate": null
+        },
+        "position": {
+          "code": "9",
+          "abbreviation": "RF"
         },
         "team": {
           "mlb_id": 110,
@@ -25998,6 +26094,54 @@
         }
       },
       {
+        "id": "6gq9724ry4",
+        "ids": {
+          "prism": "6gq9724ry4",
+          "bbref": "spenclu01",
+          "fangraphs": "35126",
+          "mlbam": "828599",
+          "nfbc": "12716",
+          "sfbb": null,
+          "yahoo": "65537"
+        },
+        "names": {
+          "boxscore": "Spence",
+          "givenFirst": "Lucas",
+          "givenFirstMiddle": "Lucas Edward",
+          "firstLast": "Lucas Spence",
+          "lastFirst": "Spence, Lucas",
+          "lastFirstInit": "Spence, L",
+          "givenFull": "Lucas Spence",
+          "last": "Spence",
+          "first": "Lucas",
+          "middle": "Edward"
+        },
+        "profile": {
+          "birthDate": "2003-1-27",
+          "birthYear": "2003",
+          "birthMonth": "1",
+          "birthDay": "27",
+          "birthCity": "Chicago Heights",
+          "birthState": "IL",
+          "birthCountry": "USA",
+          "batHand": "L",
+          "fieldHand": "L",
+          "debutDate": "2026-07-17"
+        },
+        "position": {
+          "code": "O",
+          "abbreviation": "OF"
+        },
+        "team": {
+          "mlb_id": 117,
+          "abbreviation": "HOU"
+        },
+        "status": {
+          "code": "A",
+          "description": "Active"
+        }
+      },
+      {
         "id": "6vzk63z4p8",
         "ids": {
           "prism": "6vzk63z4p8",
@@ -41713,6 +41857,54 @@
           "batHand": "L",
           "fieldHand": "L",
           "debutDate": "2025-09-23"
+        },
+        "position": {
+          "code": "1",
+          "abbreviation": "P"
+        },
+        "team": {
+          "mlb_id": 134,
+          "abbreviation": "PIT"
+        },
+        "status": {
+          "code": "RM",
+          "description": "Reassigned to Minors"
+        }
+      },
+      {
+        "id": "1395tm4sbr",
+        "ids": {
+          "prism": "1395tm4sbr",
+          "bbref": "curtikh01",
+          "fangraphs": "33865",
+          "mlbam": "694753",
+          "nfbc": "12718",
+          "sfbb": null,
+          "yahoo": "62895"
+        },
+        "names": {
+          "boxscore": "Curtis",
+          "givenFirst": "Khristian",
+          "givenFirstMiddle": "Khristian Steven",
+          "firstLast": "Khristian Curtis",
+          "lastFirst": "Curtis, Khristian",
+          "lastFirstInit": "Curtis, K",
+          "givenFull": "Khristian Steven Curtis",
+          "last": "Curtis",
+          "first": "Khristian",
+          "middle": "Steven"
+        },
+        "profile": {
+          "birthDate": "2002-5-9",
+          "birthYear": "2002",
+          "birthMonth": "5",
+          "birthDay": "9",
+          "birthCity": "Beaumont",
+          "birthState": "TX",
+          "birthCountry": "USA",
+          "batHand": "R",
+          "fieldHand": "R",
+          "debutDate": "2026-07-18"
         },
         "position": {
           "code": "1",
@@ -77524,105 +77716,55 @@
         }
       }
     ],
-    "D10": [
+    "RM": [
       {
-        "id": "6t00rslfx8",
+        "id": "2xsqz44be0",
         "ids": {
-          "prism": "6t00rslfx8",
-          "bbref": "stantmi03",
-          "fangraphs": "4949",
-          "mlbam": "519317",
-          "nfbc": "7789",
-          "sfbb": "stantmi03",
-          "yahoo": "8634"
+          "prism": "2xsqz44be0",
+          "bbref": null,
+          "fangraphs": "sa3010837",
+          "mlbam": "690440",
+          "nfbc": "12719",
+          "sfbb": null,
+          "yahoo": "61826"
         },
         "names": {
-          "boxscore": "Stanton",
-          "givenFirst": "Giancarlo",
-          "givenFirstMiddle": "Giancarlo Cruz-Michael",
-          "firstLast": "Giancarlo Stanton",
-          "lastFirst": "Stanton, Giancarlo",
-          "lastFirstInit": "Stanton, G",
-          "givenFull": "Giancarlo Cruz-Michael Stanton",
-          "last": "Stanton",
-          "first": "Giancarlo",
-          "middle": "Cruz-Michael"
+          "boxscore": "Hanner",
+          "givenFirst": "Bradley",
+          "givenFirstMiddle": "Bradley Thomas",
+          "firstLast": "Bradley Hanner",
+          "lastFirst": "Hanner, Bradley",
+          "lastFirstInit": "Hanner, B",
+          "givenFull": "Bradley Thomas Hanner",
+          "last": "Hanner",
+          "first": "Bradley",
+          "middle": "Thomas"
         },
         "profile": {
-          "birthDate": "1989-11-8",
-          "birthYear": "1989",
-          "birthMonth": "11",
-          "birthDay": "8",
-          "birthCity": "Panorama",
-          "birthState": "CA",
+          "birthDate": "1999-2-10",
+          "birthYear": "1999",
+          "birthMonth": "2",
+          "birthDay": "10",
+          "birthCity": "Rhoadesville",
+          "birthState": "VA",
           "birthCountry": "USA",
           "batHand": "R",
           "fieldHand": "R",
-          "debutDate": "2010-06-08"
+          "debutDate": null
         },
         "position": {
-          "code": "10",
-          "abbreviation": "DH"
+          "code": "1",
+          "abbreviation": "P"
         },
         "team": {
           "mlb_id": 147,
           "abbreviation": "NYY"
         },
         "status": {
-          "code": "D10",
-          "description": "Injured 10-Day"
+          "code": "RM",
+          "description": "Reassigned to Minors"
         }
       },
-      {
-        "id": "lc2c1qq11d",
-        "ids": {
-          "prism": "lc2c1qq11d",
-          "bbref": "judgeaa01",
-          "fangraphs": "15640",
-          "mlbam": "592450",
-          "nfbc": "8956",
-          "sfbb": "judgeaa01",
-          "yahoo": "9877"
-        },
-        "names": {
-          "boxscore": "Judge",
-          "givenFirst": "Aaron",
-          "givenFirstMiddle": "Aaron James",
-          "firstLast": "Aaron Judge",
-          "lastFirst": "Judge, Aaron",
-          "lastFirstInit": "Judge, A",
-          "givenFull": "Aaron James Judge",
-          "last": "Judge",
-          "first": "Aaron",
-          "middle": "James"
-        },
-        "profile": {
-          "birthDate": "1992-4-26",
-          "birthYear": "1992",
-          "birthMonth": "4",
-          "birthDay": "26",
-          "birthCity": "Linden",
-          "birthState": "CA",
-          "birthCountry": "USA",
-          "batHand": "R",
-          "fieldHand": "R",
-          "debutDate": "2016-08-13"
-        },
-        "position": {
-          "code": "9",
-          "abbreviation": "RF"
-        },
-        "team": {
-          "mlb_id": 147,
-          "abbreviation": "NYY"
-        },
-        "status": {
-          "code": "D10",
-          "description": "Injured 10-Day"
-        }
-      }
-    ],
-    "RM": [
       {
         "id": "78ktpnhtzr",
         "ids": {
@@ -78053,6 +78195,104 @@
         "status": {
           "code": "RM",
           "description": "Reassigned to Minors"
+        }
+      }
+    ],
+    "D10": [
+      {
+        "id": "6t00rslfx8",
+        "ids": {
+          "prism": "6t00rslfx8",
+          "bbref": "stantmi03",
+          "fangraphs": "4949",
+          "mlbam": "519317",
+          "nfbc": "7789",
+          "sfbb": "stantmi03",
+          "yahoo": "8634"
+        },
+        "names": {
+          "boxscore": "Stanton",
+          "givenFirst": "Giancarlo",
+          "givenFirstMiddle": "Giancarlo Cruz-Michael",
+          "firstLast": "Giancarlo Stanton",
+          "lastFirst": "Stanton, Giancarlo",
+          "lastFirstInit": "Stanton, G",
+          "givenFull": "Giancarlo Cruz-Michael Stanton",
+          "last": "Stanton",
+          "first": "Giancarlo",
+          "middle": "Cruz-Michael"
+        },
+        "profile": {
+          "birthDate": "1989-11-8",
+          "birthYear": "1989",
+          "birthMonth": "11",
+          "birthDay": "8",
+          "birthCity": "Panorama",
+          "birthState": "CA",
+          "birthCountry": "USA",
+          "batHand": "R",
+          "fieldHand": "R",
+          "debutDate": "2010-06-08"
+        },
+        "position": {
+          "code": "10",
+          "abbreviation": "DH"
+        },
+        "team": {
+          "mlb_id": 147,
+          "abbreviation": "NYY"
+        },
+        "status": {
+          "code": "D10",
+          "description": "Injured 10-Day"
+        }
+      },
+      {
+        "id": "lc2c1qq11d",
+        "ids": {
+          "prism": "lc2c1qq11d",
+          "bbref": "judgeaa01",
+          "fangraphs": "15640",
+          "mlbam": "592450",
+          "nfbc": "8956",
+          "sfbb": "judgeaa01",
+          "yahoo": "9877"
+        },
+        "names": {
+          "boxscore": "Judge",
+          "givenFirst": "Aaron",
+          "givenFirstMiddle": "Aaron James",
+          "firstLast": "Aaron Judge",
+          "lastFirst": "Judge, Aaron",
+          "lastFirstInit": "Judge, A",
+          "givenFull": "Aaron James Judge",
+          "last": "Judge",
+          "first": "Aaron",
+          "middle": "James"
+        },
+        "profile": {
+          "birthDate": "1992-4-26",
+          "birthYear": "1992",
+          "birthMonth": "4",
+          "birthDay": "26",
+          "birthCity": "Linden",
+          "birthState": "CA",
+          "birthCountry": "USA",
+          "batHand": "R",
+          "fieldHand": "R",
+          "debutDate": "2016-08-13"
+        },
+        "position": {
+          "code": "9",
+          "abbreviation": "RF"
+        },
+        "team": {
+          "mlb_id": 147,
+          "abbreviation": "NYY"
+        },
+        "status": {
+          "code": "D10",
+          "description": "Injured 10-Day"
         }
       }
     ],
