@@ -11,13 +11,18 @@ For dataset documentation, schemas, and build process, see the [main branch READ
 /{sport}/{product}/{prism_id}.json
 /{sport}/{product}/by_id/{source}/{source_id}
 /{sport}/{product}/by_id/{source}/{source_id}.json
-/{sport}/players_mlb_roster/by_team/{pivot}/{team}
-/{sport}/players_mlb_roster/by_team/{pivot}/{team}.json
-/{sport}/players_mlb_roster/by_team_status/{pivot}/{team}
-/{sport}/players_mlb_roster/by_team_status/{pivot}/{team}.json
+/{sport}/{roster_product}/by_team/{pivot}/{team}
+/{sport}/{roster_product}/by_team/{pivot}/{team}.json
+/{sport}/{roster_product}/by_team_status/{pivot}/{team}
+/{sport}/{roster_product}/by_team_status/{pivot}/{team}.json
 ```
 
 All routes are pre-generated at build time. No runtime server.
+
+`{sport}` is `mlb` or `nfl`. The `by_team` routes exist only for the roster
+product of each sport — `players_mlb_roster` and `players_nfl_roster` — since
+those are the only products carrying team and status. `{pivot}` is `abbrev` for
+either sport, plus `mlb_id` for MLB.
 
 ## Data
 
