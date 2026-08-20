@@ -8,6 +8,7 @@ on:
   workflow_run:
     workflows:
       - Build and commit export files
+      - Build and commit NFL export files
     types:
       - completed
 

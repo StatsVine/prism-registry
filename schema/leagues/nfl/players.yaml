@@ -1,0 +1,302 @@
+---
+sources:
+  nflverse:
+    crosswalk_key: gsis_id
+    preprocess:
+      - field: birth_year
+        template: "{{ birth_date.split('-')[0] }}"
+      - field: birth_month
+        template: "{{ birth_date.split('-')[1] }}"
+      - field: birth_day
+        template: "{{ birth_date.split('-')[2] }}"
+      # The name the player goes by. nflverse glues the generational suffix onto
+      # common_first_name for 20 players (Paul Jr., Vernon III), so strip it back
+      # off -- otherwise names.first renders as "Paul Jr.".
+      - field: name_common_first
+        template: >-
+          {% set ok = ['Jr.','Jr','Sr.','Sr','II','III','IV','V'] %}
+          {% set p = (common_first_name or first_name).split() %}
+          {{ p[:-1]|join(' ') if p and p[-1] in ok
+             else (common_first_name or first_name) }}
+      # nflverse scatters the suffix across three places and the populations
+      # barely overlap: a `suffix` column (163 rows, 2 of them holding a stray
+      # given name), glued onto common_first_name (20), and inline in
+      # display_name (275). Take the first that looks like an actual suffix.
+      - field: name_suffix
+        template: >-
+          {% set ok = ['Jr.','Jr','Sr.','Sr','II','III','IV','V'] %}
+          {% set p = (common_first_name or first_name).split() %}
+          {% set glued = p[-1] if p and p[-1] in ok else '' %}
+          {% set base = name_common_first ~ ' ' ~ last_name %}
+          {% set tail = display_name[base|length:]|trim
+             if display_name.startswith(base) else '' %}
+          {{ (suffix|trim if suffix|trim in ok else '')
+             or glued or (tail if tail in ok else '') }}
+      # The legal full name, which nflverse never composes itself.
+      - field: name_givenFull
+        template: "{{ first_name }} {{ last_name }}{% if name_suffix %} {{ name_suffix }}{% endif %}"
+      # short_name is blank for two thirds of nflverse, so fall back to the
+      # initial-and-surname form it uses when it is present.
+      - field: name_boxscore
+        template: >-
+          {{ short_name if short_name
+             else (name_common_first[0] ~ '.' ~ last_name) }}
+      # Composed from the common name so they stay consistent with names.first.
+      - field: name_firstLast
+        template: "{{ name_common_first }} {{ last_name }}"
+      - field: name_lastFirst
+        template: "{{ last_name }}, {{ name_common_first }}"
+      - field: name_lastFirstInit
+        template: "{{ last_name }}, {{ name_common_first[0] }}"
+
+mappings:
+  # Ids
+  - dest: id
+    src: crosswalk.prism_id
+  - dest: ids.prism
+    src: crosswalk.prism_id
+  - dest: ids.espn
+    src:
+      - crosswalk.espn_id
+      - nflverse.espn_id
+  - dest: ids.gsis
+    src:
+      - crosswalk.gsis_id
+      - nflverse.gsis_id
+  - dest: ids.nffc
+    src: crosswalk.nffc_id
+  - dest: ids.pfr
+    src:
+      - crosswalk.pfr_id
+      - nflverse.pfr_id
+  - dest: ids.sleeper
+    src: crosswalk.sleeper_id
+  - dest: ids.sportradar
+    src: crosswalk.sportradar_id
+  - dest: ids.wikidata
+    src: crosswalk.wikidata_id
+  - dest: ids.yahoo
+    src: crosswalk.yahoo_id
+
+  # Names
+  - dest: names.last
+    src:
+      - nflverse.last_name
+      - crosswalk.last_name
+  - dest: names.first
+    src:
+      # nflverse first_name is the legal name -- John Stafford, Rayne Prescott --
+      # so it sits last. common_first_name is what the player is called and is
+      # populated for every nflverse row, so it leads.
+      - nflverse.name_common_first
+      - crosswalk.first_name
+      - nflverse.first_name
+  - dest: names.middle
+    src: crosswalk.middle_name
+  - dest: names.suffix
+    src: nflverse.name_suffix
+  # The legal first name -- Stafford is John, Prescott is Rayne. Differs from
+  # names.first for 29% of nflverse rows. Mirrors MLB's names.givenFirst.
+  - dest: names.givenFirst
+    src: nflverse.first_name
+  - dest: names.givenFull
+    src: nflverse.name_givenFull
+  # The name nflverse displays, e.g. "Bo Nix"
+  - dest: names.display
+    src: nflverse.display_name
+  # Broadcast/boxscore form, e.g. "B.Nix". Named to match MLB's names.boxscore,
+  # which fills the same role with a different league convention ("Pop").
+  - dest: names.boxscore
+    src: nflverse.name_boxscore
+  - dest: names.firstLast
+    src:
+      - nflverse.name_firstLast
+      - nflverse.display_name
+  - dest: names.lastFirst
+    src: nflverse.name_lastFirst
+  - dest: names.lastFirstInit
+    src: nflverse.name_lastFirstInit
+
+  # Birth
+  - dest: profile.birthDate
+    src: nflverse.birth_date
+  - dest: profile.birthYear
+    src:
+      - nflverse.birth_year
+      - crosswalk.birth_year
+  - dest: profile.birthMonth
+    src:
+      - nflverse.birth_month
+      - crosswalk.birth_month
+  - dest: profile.birthDay
+    src:
+      - nflverse.birth_day
+      - crosswalk.birth_day
+
+  # Physical
+  # Height in inches, weight in pounds
+  - dest: profile.height
+    src: nflverse.height
+  - dest: profile.weight
+    src: nflverse.weight
+
+
+  # Position
+  - dest: position.abbreviation
+    src:
+      - nflverse.position
+      - nflverse.ngs_position
+  - dest: position.group
+    src:
+      - nflverse.position_group
+      - nflverse.ngs_position_group
+
+
+  # Team
+  - dest: team.abbreviation
+    src: nflverse.latest_team
+  - dest: team.jerseyNumber
+    src: nflverse.jersey_number
+
+  # Status
+  - dest: status.code
+    src:
+      - nflverse.status
+      - nflverse.ngs_status
+  - dest: status.description
+    src: nflverse.ngs_status_short_description
+
+fieldsets:
+  ids:
+    fields:
+      - id
+      - ids.prism
+      - ids.espn
+      - ids.gsis
+      - ids.nffc
+      - ids.pfr
+      - ids.sleeper
+      - ids.sportradar
+      - ids.wikidata
+      - ids.yahoo
+  names_basic:
+    fields:
+      - names.last
+      - names.first
+      - names.middle
+  names_all:
+    fieldsets:
+      - names_basic
+    fields:
+      # Shared with MLB's names_all
+      - names.boxscore
+      - names.givenFirst
+      - names.firstLast
+      - names.lastFirst
+      - names.lastFirstInit
+      - names.givenFull
+      # NFL-only
+      - names.suffix
+      - names.display
+  birth:
+    fields:
+      - profile.birthDate
+      - profile.birthYear
+      - profile.birthMonth
+      - profile.birthDay
+  physical:
+    fields:
+      - profile.height
+      - profile.weight
+  position:
+    fields:
+      - position.abbreviation
+      - position.group
+  team_basic:
+    fields:
+      - team.abbreviation
+      - team.jerseyNumber
+  status:
+    fields:
+      - status.code
+      - status.description
+
+pivots:
+  by_id:
+    name: by_id
+    fields:
+      - name: prism_id
+        field: ids.prism
+        is_array: false
+      - name: espn_id
+        field: ids.espn
+        is_array: false
+      - name: gsis_id
+        field: ids.gsis
+        is_array: false
+      - name: nffc_id
+        field: ids.nffc
+        is_array: false
+      - name: pfr_id
+        field: ids.pfr
+        is_array: false
+      - name: sleeper_id
+        field: ids.sleeper
+        is_array: false
+      - name: sportradar_id
+        field: ids.sportradar
+        is_array: false
+      - name: wikidata_id
+        field: ids.wikidata
+        is_array: false
+      - name: yahoo_id
+        field: ids.yahoo
+        is_array: false
+
+products:
+  player_ids:
+    fieldsets:
+      - ids
+      - names_basic
+    by_ids: true
+    pivots:
+      - by_id
+  players_profile:
+    fieldsets:
+      - ids
+      - names_all
+      - birth
+    pivots:
+      - by_id
+  players_nfl_profile:
+    fieldsets:
+      - ids
+      - names_all
+      - birth
+      - physical
+      - position
+    pivots:
+      - by_id
+  players_nfl_roster:
+    fieldsets:
+      - ids
+      - names_all
+      - birth
+      - physical
+      - position
+      - team_basic
+      - status
+    pivots:
+      - by_id
+      - name: by_team
+        fields:
+          - name: abbrev
+            field: team.abbreviation
+            is_array: true
+            null_key: "null"
+      - name: by_team_status
+        fields:
+          - name: abbrev
+            field: team.abbreviation
+            subfield: status.code
+            is_array: true
