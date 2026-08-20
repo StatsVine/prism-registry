@@ -1,4 +1,4 @@
-name: Build and commit export files
+name: Build and commit NFL export files
 
 on:
   workflow_dispatch:  # manually triggered
@@ -8,7 +8,7 @@ on:
     branches:
       - main
     paths:
-      - "schema/leagues/mlb/**"
+      - "schema/leagues/nfl/**"
 
 # MLB and NFL builds both fire on `crosswalk-updated` and both push to main,
 # so serialise them rather than racing on the push.
@@ -17,7 +17,7 @@ concurrency:
   cancel-in-progress: false
 
 jobs:
-  build_mlb_exports:
+  build_nfl_exports:
     runs-on: ubuntu-latest
     permissions:
       contents: write
@@ -29,7 +29,7 @@ jobs:
       - name: Clone prism-crosswalk repo
         run: |
           git clone https://github.com/statsvine/prism-crosswalk.git crosswalk
-      
+
       - name: Clone prism-tools repo
         run: |
           git clone https://github.com/statsvine/prism-tools.git tools
@@ -43,16 +43,16 @@ jobs:
         run: |
           pip install -r tools/requirements.txt
 
-      - name: Run MLB build script
+      - name: Run NFL build script
         run: |
-          python3 tools/registry/mlb/build_players_registry.py crosswalk/exports/mlb/players/ids/players.json exports/mlb --registry-file schema/leagues/mlb/players.yaml
+          python3 tools/registry/nfl/build_players_registry.py crosswalk/exports/nfl/players/full/players.json exports/nfl --registry-file schema/leagues/nfl/players.yaml
 
       - name: Commit export files
         run: |
           git config --global user.name "PRISM Build Bot"
           git config --global user.email "statvine+prism@gmail.com"
           git add exports/
-          git commit -m "Automated build: Update MLB output files" || echo "No changes to commit"
+          git commit -m "Automated build: Update NFL output files" || echo "No changes to commit"
           git pull --rebase origin main
           git push origin main
         env:

@@ -25,7 +25,11 @@ In addition to the sites referenced, we acknowledge and thank the following proj
 ---
 
 🏈 Football (NFL)
-- *Attribution pending — no external data currently included.*
+
+- **nflverse - nflverse-data**
+  - Source: https://github.com/nflverse/nflverse-data
+  - License: Creative Commons Attribution 4.0 International (CC-BY 4.0)
+  - Notes: `players.csv` release, joined on `gsis_id`. Used for player profile, position, physical, college, draft, experience, team and roster status data.
 
 🏀 Basketball (NBA)
 - *Attribution pending — no external data currently included.*

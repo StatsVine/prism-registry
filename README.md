@@ -38,21 +38,37 @@ If you already use Crosswalk and need player metadata to build applications, pow
 
 ## Scope
 
-Currently **MLB only**. Registry provides four product datasets covering ~1,700+ players who appeared on a 40-man roster during the 2025 or 2026 seasons, with ongoing coverage as rosters change.
+**MLB and NFL**. For MLB, Registry provides four product datasets covering ~1,700+ players who appeared on a 40-man roster during the 2025 or 2026 seasons, with ongoing coverage as rosters change. NFL coverage is newer and currently spans an initial 41-player seed, enriched from [nflverse](https://github.com/nflverse/nflverse-data) and joined on `gsis_id`.
 
 ## Datasets
 
-### player_ids
+### MLB
+
+#### player_ids
 All known IDs plus basic names (last, first, middle). A thin wrapper around Crosswalk with authoritative name data.
 
-### players_profile
+#### players_profile
 All IDs plus full names and birth data. Cross-sport friendly.
 
-### players_mlb_profile
+#### players_mlb_profile
 Builds on `players_profile` with MLB-specific data: primary position, batting/throwing hand, and MLB debut date. Excludes team and roster status.
 
-### players_mlb_roster
+#### players_mlb_roster
 The richest dataset. Full profile plus current team and roster status. Also provides `by_team` and `by_team_status` groupings for team-centric lookups.
+
+### NFL
+
+#### player_ids
+All known IDs plus basic names (last, first, middle).
+
+#### players_profile
+All IDs plus full names and birth data.
+
+#### players_nfl_profile
+Builds on `players_profile` with NFL-specific data: primary position and position group, plus height and weight. Excludes team and roster status.
+
+#### players_nfl_roster
+The richest dataset. Full profile plus latest team, jersey number, and roster status. Also provides `by_team` and `by_team_status` groupings for team-centric lookups.
 
 ## File Formats
 
@@ -75,6 +91,7 @@ All four formats are available for each product. `by_id` lookups are also availa
 PRISM Registry builds on data from:
 - [PRISM Crosswalk](https://github.com/StatsVine/prism-crosswalk) (Open Data Commons Attribution License)
 - MLB official data (publicly available via MLB.com and the MLB Stats API)
+- [nflverse](https://github.com/nflverse/nflverse-data) (Creative Commons Attribution 4.0 International)
 - [Chadwick Bureau / Register](https://github.com/chadwickbureau/register) (Open Data Commons Attribution License)
 - [SmartFantasyBaseball's Player ID Map](https://www.smartfantasybaseball.com/tools/)
 
