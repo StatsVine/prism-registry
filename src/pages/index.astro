@@ -15,6 +15,7 @@ const BASE = 'https://registry.prism.statsvine.com'
       p { margin: 0.5rem 0; }
       h2 { font-size: 1rem; margin-top: 2rem; margin-bottom: 0.5rem; }
       h3 { font-size: 0.95rem; margin-top: 1.5rem; margin-bottom: 0.25rem; color: #444; }
+      h4 { font-size: 0.9rem; margin-top: 1.25rem; margin-bottom: 0.25rem; color: #555; font-weight: normal; }
       code { background: #f4f4f4; padding: 0.1em 0.3em; border-radius: 3px; font-size: 0.95em; }
       pre { background: #f4f4f4; padding: 1rem; border-radius: 4px; overflow-x: auto; }
       a { color: #0066cc; }
@@ -23,19 +24,25 @@ const BASE = 'https://registry.prism.statsvine.com'
   </head>
   <body>
     <h1>registry.prism.statsvine.com</h1>
-    <p>A static JSON API serving enriched player metadata — names, birth dates, MLB roster affiliations, and more — built on top of the stable identifier mappings from <a href="https://crosswalk.prism.statsvine.com">PRISM Crosswalk</a>. Where Crosswalk gives you IDs, Registry gives you the context to use them.</p>
+    <p>A static JSON API serving enriched player metadata — names, birth dates, roster affiliations, and more — built on top of the stable identifier mappings from <a href="https://crosswalk.prism.statsvine.com">PRISM Crosswalk</a>. Where Crosswalk gives you IDs, Registry gives you the context to use them.</p>
     <p>
       Build artifacts (exports in multiple formats): <a href="https://github.com/StatsVine/prism-registry">statsvine/prism-registry</a><br />
       Part of the <a href="https://prism.statsvine.com">PRISM ecosystem</a> for sports player identity and data.
     </p>
-    <p>Currently covers MLB (~1,700+ players who appeared on a 40-man roster in 2025 or 2026, updated daily). NFL and NBA planned.</p>
+    <p>Currently covers MLB (~1,700+ players who appeared on a 40-man roster in 2025 or 2026) and NFL (41 players, a seed cohort that is growing), both updated daily. NBA planned.</p>
 
     <h2>Products</h2>
-    <p>Registry provides four datasets, each a superset of the previous:</p>
+    <p>Registry provides four datasets per sport, each a superset of the previous:</p>
+    <h3>MLB</h3>
     <pre><code>player_ids          IDs + basic names (last, first, middle)
 players_profile     Adds full names and birth data
 players_mlb_profile Adds position, bat/throw hand, MLB debut date
 players_mlb_roster  Adds current team and roster status</code></pre>
+    <h3>NFL</h3>
+    <pre><code>player_ids          IDs + basic names (last, first, middle)
+players_profile     Adds full names and birth data
+players_nfl_profile Adds position, position group, height, weight
+players_nfl_roster  Adds team, jersey number, roster status</code></pre>
 
     <h2>Endpoints</h2>
 
@@ -44,14 +51,16 @@ players_mlb_roster  Adds current team and roster status</code></pre>
 
     <h3>Look up by external ID</h3>
     <pre><code>{BASE}/&#123;sport&#125;/&#123;product&#125;/by_id/&#123;source&#125;/&#123;source_id&#125;.json</code></pre>
-    <p>Supported <code>source</code> values: <code>mlbam_id</code>, <code>bbref_id</code>, <code>fangraphs_ids</code>, <code>nfbc_id</code>, <code>sfbb_id</code>, <code>yahoo_id</code></p>
+    <p>Supported <code>source</code> values &mdash; MLB: <code>prism_id</code>, <code>mlbam_id</code>, <code>bbref_id</code>, <code>fangraphs_ids</code>, <code>nfbc_id</code>, <code>sfbb_id</code>, <code>yahoo_id</code></p>
+    <p>NFL: <code>prism_id</code>, <code>espn_id</code>, <code>gsis_id</code>, <code>nffc_id</code>, <code>pfr_id</code>, <code>sleeper_id</code>, <code>sportradar_id</code>, <code>wikidata_id</code>, <code>yahoo_id</code></p>
 
-    <h3>Look up by team (players_mlb_roster only)</h3>
+    <h3>Look up by team (roster products only)</h3>
     <p>All players on a team:</p>
-    <pre><code>{BASE}/mlb/players_mlb_roster/by_team/&#123;pivot&#125;/&#123;team&#125;.json</code></pre>
+    <pre><code>{BASE}/&#123;sport&#125;/&#123;roster_product&#125;/by_team/&#123;pivot&#125;/&#123;team&#125;.json</code></pre>
     <p>All players on a team, grouped by roster status:</p>
-    <pre><code>{BASE}/mlb/players_mlb_roster/by_team_status/&#123;pivot&#125;/&#123;team&#125;.json</code></pre>
-    <p>Supported <code>pivot</code> values: <code>abbrev</code> (e.g. <code>LAD</code>), <code>mlb_id</code> (e.g. <code>119</code>)</p>
+    <pre><code>{BASE}/&#123;sport&#125;/&#123;roster_product&#125;/by_team_status/&#123;pivot&#125;/&#123;team&#125;.json</code></pre>
+    <p>Roster products are <code>players_mlb_roster</code> and <code>players_nfl_roster</code> &mdash; the only products carrying team and status.</p>
+    <p>Supported <code>pivot</code> values &mdash; MLB: <code>abbrev</code> (e.g. <code>LAD</code>), <code>mlb_id</code> (e.g. <code>119</code>). NFL: <code>abbrev</code> only (e.g. <code>DEN</code>).</p>
 
     <h2>Examples</h2>
 
@@ -91,32 +100,70 @@ players_mlb_roster  Adds current team and roster status</code></pre>
     <pre><code><a href="/mlb/players_mlb_roster/by_team/abbrev/LAD.json">{BASE}/mlb/players_mlb_roster/by_team/abbrev/LAD.json</a>
 <a href="/mlb/players_mlb_roster/by_team_status/abbrev/LAD.json">{BASE}/mlb/players_mlb_roster/by_team_status/abbrev/LAD.json</a></code></pre>
 
+    <h3>Bo Nix</h3>
+    <pre><code><a href="/nfl/player_ids/27cz4r21c0.json">{BASE}/nfl/player_ids/27cz4r21c0.json</a>
+<a href="/nfl/players_nfl_roster/by_id/gsis_id/00-0039732.json">{BASE}/nfl/players_nfl_roster/by_id/gsis_id/00-0039732.json</a></code></pre>
+    <pre>{JSON.stringify({
+      id: "27cz4r21c0",
+      ids: {
+        prism: "27cz4r21c0",
+        espn: "4426338",
+        gsis: "00-0039732",
+        nffc: "20299",
+        pfr: "NixxBo00",
+        sleeper: "11563",
+        sportradar: "f056c8ed-6ee5-492c-af11-3f7e3d97195c",
+        wikidata: "Q64010450",
+        yahoo: "40875"
+      },
+      names: {
+        boxscore: "B.Nix",
+        firstLast: "Bo Nix",
+        last: "Nix",
+        first: "Bo"
+      },
+      profile: {
+        birthDate: "2000-02-25",
+        height: "74",
+        weight: "217"
+      },
+      position: { abbreviation: "QB", group: "QB" },
+      team: { abbreviation: "DEN", jerseyNumber: "10" },
+      status: { code: "ACT", description: "Active" }
+    }, null, 2)}</pre>
+
+    <h3>Denver Broncos roster</h3>
+    <pre><code><a href="/nfl/players_nfl_roster/by_team/abbrev/DEN.json">{BASE}/nfl/players_nfl_roster/by_team/abbrev/DEN.json</a>
+<a href="/nfl/players_nfl_roster/by_team_status/abbrev/DEN.json">{BASE}/nfl/players_nfl_roster/by_team_status/abbrev/DEN.json</a></code></pre>
+
     <h2>Bulk downloads</h2>
-    <p>Exports follow the pattern <code>/exports/mlb/&#123;product&#125;/</code>.</p>
+    <p>Exports follow the pattern <code>/exports/&#123;sport&#125;/&#123;product&#125;/</code>.</p>
     <p>All four products are available in JSON, minified JSON, CSV, and NDJSON, plus <code>by_id</code> pivot files keyed by source.</p>
 
-    <h3>player_ids</h3>
+    <h3>MLB</h3>
+
+    <h4>player_ids</h4>
     <pre><code>
 <a href="/exports/mlb/player_ids/player_ids.json">{BASE}/exports/mlb/player_ids/player_ids.json</a>
 <a href="/exports/mlb/player_ids/player_ids.csv">{BASE}/exports/mlb/player_ids/player_ids.csv</a>
 <a href="/exports/mlb/player_ids/player_ids.ndjson">{BASE}/exports/mlb/player_ids/player_ids.ndjson</a>
 <a href="/exports/mlb/player_ids/by_id/mlbam_id.json">{BASE}/exports/mlb/player_ids/by_id/mlbam_id.json</a></code></pre>
 
-    <h3>players_profile</h3>
+    <h4>players_profile</h4>
     <pre><code>
 <a href="/exports/mlb/players_profile/players_profile.json">{BASE}/exports/mlb/players_profile/players_profile.json</a>
 <a href="/exports/mlb/players_profile/players_profile.csv">{BASE}/exports/mlb/players_profile/players_profile.csv</a>
 <a href="/exports/mlb/players_profile/players_profile.ndjson">{BASE}/exports/mlb/players_profile/players_profile.ndjson</a>
 <a href="/exports/mlb/players_profile/by_id/mlbam_id.json">{BASE}/exports/mlb/players_profile/by_id/mlbam_id.json</a></code></pre>
 
-    <h3>players_mlb_profile</h3>
+    <h4>players_mlb_profile</h4>
     <pre><code>
 <a href="/exports/mlb/players_mlb_profile/players_mlb_profile.json">{BASE}/exports/mlb/players_mlb_profile/players_mlb_profile.json</a>
 <a href="/exports/mlb/players_mlb_profile/players_mlb_profile.csv">{BASE}/exports/mlb/players_mlb_profile/players_mlb_profile.csv</a>
 <a href="/exports/mlb/players_mlb_profile/players_mlb_profile.ndjson">{BASE}/exports/mlb/players_mlb_profile/players_mlb_profile.ndjson</a>
 <a href="/exports/mlb/players_mlb_profile/by_id/mlbam_id.json">{BASE}/exports/mlb/players_mlb_profile/by_id/mlbam_id.json</a></code></pre>
 
-    <h3>players_mlb_roster</h3>
+    <h4>players_mlb_roster</h4>
     <pre><code>
 <a href="/exports/mlb/players_mlb_roster/players_mlb_roster.json">{BASE}/exports/mlb/players_mlb_roster/players_mlb_roster.json</a>
 <a href="/exports/mlb/players_mlb_roster/players_mlb_roster.csv">{BASE}/exports/mlb/players_mlb_roster/players_mlb_roster.csv</a>
@@ -126,11 +173,45 @@ players_mlb_roster  Adds current team and roster status</code></pre>
 <a href="/exports/mlb/players_mlb_roster/by_team/mlb_id.json">{BASE}/exports/mlb/players_mlb_roster/by_team/mlb_id.json</a>
 <a href="/exports/mlb/players_mlb_roster/by_team_status/abbrev.json">{BASE}/exports/mlb/players_mlb_roster/by_team_status/abbrev.json</a>
 <a href="/exports/mlb/players_mlb_roster/by_team_status/mlb_id.json">{BASE}/exports/mlb/players_mlb_roster/by_team_status/mlb_id.json</a></code></pre>
+
+    <h3>NFL</h3>
+
+    <h4>player_ids</h4>
+    <pre><code>
+<a href="/exports/nfl/player_ids/player_ids.json">{BASE}/exports/nfl/player_ids/player_ids.json</a>
+<a href="/exports/nfl/player_ids/player_ids.csv">{BASE}/exports/nfl/player_ids/player_ids.csv</a>
+<a href="/exports/nfl/player_ids/player_ids.ndjson">{BASE}/exports/nfl/player_ids/player_ids.ndjson</a>
+<a href="/exports/nfl/player_ids/by_id/gsis_id.json">{BASE}/exports/nfl/player_ids/by_id/gsis_id.json</a></code></pre>
+
+    <h4>players_profile</h4>
+    <pre><code>
+<a href="/exports/nfl/players_profile/players_profile.json">{BASE}/exports/nfl/players_profile/players_profile.json</a>
+<a href="/exports/nfl/players_profile/players_profile.csv">{BASE}/exports/nfl/players_profile/players_profile.csv</a>
+<a href="/exports/nfl/players_profile/players_profile.ndjson">{BASE}/exports/nfl/players_profile/players_profile.ndjson</a>
+<a href="/exports/nfl/players_profile/by_id/gsis_id.json">{BASE}/exports/nfl/players_profile/by_id/gsis_id.json</a></code></pre>
+
+    <h4>players_nfl_profile</h4>
+    <pre><code>
+<a href="/exports/nfl/players_nfl_profile/players_nfl_profile.json">{BASE}/exports/nfl/players_nfl_profile/players_nfl_profile.json</a>
+<a href="/exports/nfl/players_nfl_profile/players_nfl_profile.csv">{BASE}/exports/nfl/players_nfl_profile/players_nfl_profile.csv</a>
+<a href="/exports/nfl/players_nfl_profile/players_nfl_profile.ndjson">{BASE}/exports/nfl/players_nfl_profile/players_nfl_profile.ndjson</a>
+<a href="/exports/nfl/players_nfl_profile/by_id/gsis_id.json">{BASE}/exports/nfl/players_nfl_profile/by_id/gsis_id.json</a></code></pre>
+
+    <h4>players_nfl_roster</h4>
+    <pre><code>
+<a href="/exports/nfl/players_nfl_roster/players_nfl_roster.json">{BASE}/exports/nfl/players_nfl_roster/players_nfl_roster.json</a>
+<a href="/exports/nfl/players_nfl_roster/players_nfl_roster.csv">{BASE}/exports/nfl/players_nfl_roster/players_nfl_roster.csv</a>
+<a href="/exports/nfl/players_nfl_roster/players_nfl_roster.ndjson">{BASE}/exports/nfl/players_nfl_roster/players_nfl_roster.ndjson</a>
+<a href="/exports/nfl/players_nfl_roster/by_id/gsis_id.json">{BASE}/exports/nfl/players_nfl_roster/by_id/gsis_id.json</a>
+<a href="/exports/nfl/players_nfl_roster/by_team/abbrev.json">{BASE}/exports/nfl/players_nfl_roster/by_team/abbrev.json</a>
+<a href="/exports/nfl/players_nfl_roster/by_team_status/abbrev.json">{BASE}/exports/nfl/players_nfl_roster/by_team_status/abbrev.json</a></code></pre>
     <p>All formats also available as <code>.min.json</code>.</p>
 
     <h2>Response shape</h2>
 
-    <h3>player_ids</h3>
+    <h3>MLB</h3>
+
+    <h4>player_ids</h4>
     <pre><code>
 id                   PRISM ID (always present)
 
@@ -147,7 +228,7 @@ names.first          first name
 names.middle         middle name (may be absent)
 </code></pre>
 
-    <h3>players_profile <span class="muted">(adds full names and birth data)</span></h3>
+    <h4>players_profile <span class="muted">(adds full names and birth data)</span></h4>
     <pre><code>
 names.boxscore       boxscore display name
 names.givenFirst     given first name
@@ -166,7 +247,7 @@ profile.birthState   state/province (may be absent)
 profile.birthCountry country (may be absent)
 </code></pre>
 
-    <h3>players_mlb_profile <span class="muted">(adds MLB-specific attributes)</span></h3>
+    <h4>players_mlb_profile <span class="muted">(adds MLB-specific attributes)</span></h4>
     <pre><code>
 profile.batHand      batting hand: L, R, or S (may be absent)
 profile.fieldHand    throwing hand: L or R (may be absent)
@@ -176,13 +257,69 @@ position.code        position code (e.g. "1" for pitcher, "Y" for two-way player
 position.abbreviation position abbreviation (e.g. "P", "CF", "TWP")
 </code></pre>
 
-    <h3>players_mlb_roster <span class="muted">(adds team and roster status)</span></h3>
+    <h4>players_mlb_roster <span class="muted">(adds team and roster status)</span></h4>
     <pre><code>
 team.mlb_id          MLB team ID
 team.abbreviation    team abbreviation (e.g. "LAD")
 
 status.code          roster status code (A, D10, D15, D60, RM, null, ...)
 status.description   human-readable status (e.g. "Active", "Injured 15-Day")
+</code></pre>
+
+    <h3>NFL</h3>
+
+    <h4>player_ids</h4>
+    <pre><code>
+id                   PRISM ID (always present)
+
+ids.prism            PRISM ID (always present)
+ids.gsis             NFL GSIS ID (always present; the join key)
+ids.espn             ESPN ID (usually present)
+ids.pfr              Pro Football Reference ID (usually present; not stable)
+ids.sleeper          Sleeper ID (usually present)
+ids.sportradar       Sportradar ID (usually present)
+ids.nffc             NFFC ID (may be absent)
+ids.wikidata         Wikidata ID (may be absent)
+ids.yahoo            Yahoo Fantasy ID (may be absent)
+
+names.last           last name
+names.first          the name the player goes by
+names.middle         middle name (usually absent; no NFL source supplies it)
+</code></pre>
+
+    <h4>players_profile <span class="muted">(adds full names and birth data)</span></h4>
+    <pre><code>
+names.boxscore       broadcast/boxscore form (e.g. "B.Nix")
+names.givenFirst     legal first name -- Stafford is "John", Prescott "Rayne"
+names.firstLast      "First Last"
+names.lastFirst      "Last, First"
+names.lastFirstInit  "Last, F"
+names.givenFull      full legal name, including any suffix
+names.suffix         generational suffix, e.g. "Jr.", "III" (may be absent)
+names.display        display name, including any suffix (e.g. "Michael Penix Jr.")
+
+profile.birthDate    "YYYY-MM-DD" (may be absent)
+profile.birthYear    birth year (may be absent)
+profile.birthMonth   birth month (may be absent)
+profile.birthDay     birth day (may be absent)
+</code></pre>
+
+    <h4>players_nfl_profile <span class="muted">(adds position and size)</span></h4>
+    <pre><code>
+position.abbreviation position abbreviation (e.g. "QB")
+position.group        position group (e.g. "QB")
+
+profile.height       height in inches (may be absent)
+profile.weight       weight in pounds (may be absent)
+</code></pre>
+
+    <h4>players_nfl_roster <span class="muted">(adds team and roster status)</span></h4>
+    <pre><code>
+team.abbreviation    team abbreviation (e.g. "DEN")
+team.jerseyNumber    jersey number (may be absent)
+
+status.code          roster status code (ACT, CUT, RES, DEV, PUP, RET, ...)
+status.description   human-readable status (e.g. "Active")
 </code></pre>
   </body>
 </html>
