@@ -1,9 +1,8 @@
 name: Deploy to GitHub Pages
 
+# No `push` trigger: the build workflows' own export commit is a push to main,
+# so it would fire a second, duplicate deploy alongside the `workflow_run` one.
 on:
-  push:
-    branches:
-      - main
   workflow_dispatch:
   workflow_run:
     workflows:
@@ -20,6 +19,11 @@ permissions:
 
 jobs:
   build:
+    # `types: [completed]` fires on failure and cancellation too; only deploy
+    # what actually built.
+    if: >-
+      github.event_name != 'workflow_run' ||
+      github.event.workflow_run.conclusion == 'success'
     runs-on: ubuntu-latest
     steps:
       - name: Checkout pages branch

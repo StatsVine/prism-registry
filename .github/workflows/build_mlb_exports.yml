@@ -3,17 +3,19 @@ name: Build and commit export files
 on:
   workflow_dispatch:  # manually triggered
   repository_dispatch:
-    types: [crosswalk-updated]
+    types: [crosswalk-updated, crosswalk-updated-mlb]
   push:
     branches:
       - main
     paths:
       - "schema/leagues/mlb/**"
 
-# MLB and NFL builds both fire on `crosswalk-updated` and both push to main,
-# so serialise them rather than racing on the push.
+# GitHub keeps only one *pending* run per concurrency group, so a newer run
+# supersedes and cancels an older one. MLB and NFL therefore get a group each:
+# each sport still serialises against itself before pushing to main, but neither
+# can cancel the other.
 concurrency:
-  group: registry-exports
+  group: registry-exports-mlb
   cancel-in-progress: false
 
 jobs:
