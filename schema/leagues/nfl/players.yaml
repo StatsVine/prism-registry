@@ -49,6 +49,9 @@ sources:
       - field: name_lastFirstInit
         template: "{{ last_name }}, {{ name_common_first[0] }}"
 
+  sleeper:
+    crosswalk_key: sleeper_id
+
 mappings:
   # Ids
   - dest: id
@@ -119,7 +122,9 @@ mappings:
 
   # Birth
   - dest: profile.birthDate
-    src: nflverse.birth_date
+    src:
+      - nflverse.birth_date
+      - sleeper.birth_date
   - dest: profile.birthYear
     src:
       - nflverse.birth_year
@@ -136,21 +141,40 @@ mappings:
   # Physical
   # Height in inches, weight in pounds
   - dest: profile.height
-    src: nflverse.height
+    src:
+      - nflverse.height
+      # Sleeper carries height in two formats in the one field -- 10,063
+      # players as bare inches ("75"), 1,791 as feet-and-inches (6'2"). Mixing
+      # them in would corrupt the field, and normalizing needs a preprocess we
+      # do not need yet: the split is almost entirely unrostered players
+      # (only 30 of 3,204 rostered are the feet-and-inches form).
+      # - sleeper.height
   - dest: profile.weight
-    src: nflverse.weight
+    src:
+      - nflverse.weight
+      - sleeper.weight
 
+  # Career
+  # The season a player entered the league. nflverse fills it for every row, so
+  # Sleeper (46%) only ever backfills a player nflverse does not carry.
+  - dest: profile.rookieYear
+    src:
+      - nflverse.rookie_season
+      - sleeper.metadata.rookie_year
 
   # Position
   - dest: position.abbreviation
     src:
       - nflverse.position
       - nflverse.ngs_position
+      # Sleeper uses a different position vocabulary than nflverse -- T for OT,
+      # CB/SS for DB, OL for G -- so it disagrees on 32% of the players both
+      # carry. Adding it as a fallback would put two vocabularies in one field.
+      # - sleeper.position
   - dest: position.group
     src:
       - nflverse.position_group
       - nflverse.ngs_position_group
-
 
   # Team
   - dest: team.abbreviation
@@ -275,6 +299,8 @@ products:
       - birth
       - physical
       - position
+    fields:
+      - profile.rookieYear
     pivots:
       - by_id
   players_nfl_roster:
@@ -286,6 +312,8 @@ products:
       - position
       - team_basic
       - status
+    fields:
+      - profile.rookieYear
     pivots:
       - by_id
       - name: by_team
