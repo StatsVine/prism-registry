@@ -52,6 +52,95 @@ sources:
   sleeper:
     crosswalk_key: sleeper_id
 
+  # Joined on fantasypros_id, which the crosswalk carries for every NFL row.
+  # FantasyPros is the canonical source for that id and for fantasypros_slug;
+  # everything else it publishes sits behind nflverse, which currently covers
+  # all 508 of our players, so today FantasyPros only supplies the slug. It
+  # earns its place as the population grows: FantasyPros carries 8,502 players
+  # to nflverse's 25,066, but it is an independent read of the same league and
+  # is the only one of the two that will have a row for a player nflverse has
+  # not picked up yet.
+  fantasypros:
+    crosswalk_key: fantasypros_id
+    preprocess:
+      # Every part below is cut from player_name, whose ordering is consistent,
+      # with the first_name and last_name columns used only to locate the
+      # surname boundary.
+      #
+      # The two columns are transposed for 1,360 of the 8,502 records (16%),
+      # almost all of them retired players: Tiki Barber is published as
+      # first_name "Barber", last_name "Tiki", with player_name "Tiki Barber"
+      # correct. Mapping last_name straight through would make "Tiki" a
+      # surname. A further 39 records agree with neither ordering, either
+      # because player_name uses the common name (first_name "Marquise",
+      # player_name "Hollywood Brown") or because the row is malformed
+      # ("Kahlil McKenzie- DUP").
+      #
+      # Like nflverse, FantasyPros keeps the legal given name in its first_name
+      # column and the common one in the displayed name, so the two are teased
+      # apart the same way here.
+
+      # The suffix lives only in player_name, never in last_name, and always as
+      # the final token.
+      - field: name_suffix
+        template: >-
+          {% set ok = ['Jr.','Jr','Sr.','Sr','II','III','IV','V'] %}
+          {% set p = player_name.split() %}
+          {{ p[-1] if p and p[-1] in ok else '' }}
+      # player_name with any suffix peeled off, i.e. the given-plus-surname
+      # part. Every field below is cut from this.
+      - field: name_base
+        template: >-
+          {{ player_name[:player_name|length - name_suffix|length]|trim
+             if name_suffix else player_name }}
+      # The surname. Whichever of the two columns the base actually ends with
+      # wins, which is what corrects the transposed rows; the last token is a
+      # last resort for the malformed ones.
+      - field: name_last
+        template: >-
+          {{ last_name if name_base.endswith(' ' ~ last_name)
+             else (first_name if name_base.endswith(' ' ~ first_name)
+             else name_base.split()[-1]) }}
+      # The name the player goes by -- what is left of the base once the
+      # surname is removed. "Hollywood" for Marquise Brown.
+      - field: name_common_first
+        template: >-
+          {{ name_base[:name_base|length - name_last|length]|trim }}
+      # The legal given name. Equal to name_common_first for most players and
+      # differing for the 30 who go by another name. On a transposed row the
+      # surname came out of the first_name column, so the legal given name is
+      # the one sitting in last_name.
+      - field: name_givenFirst
+        template: >-
+          {{ last_name if name_last == first_name else first_name }}
+      # The legal full name, which FantasyPros never composes itself.
+      - field: name_givenFull
+        template: >-
+          {{ name_givenFirst }} {{ name_last }}{% if name_suffix %} {{ name_suffix }}{% endif %}
+      # Composed from the common name so they stay consistent with names.first.
+      - field: name_firstLast
+        template: "{{ name_common_first }} {{ name_last }}"
+      - field: name_lastFirst
+        template: "{{ name_last }}, {{ name_common_first }}"
+      - field: name_lastFirstInit
+        template: >-
+          {{ name_last }}, {{ name_common_first[0] if name_common_first else '' }}
+      # FantasyPros publishes no boxscore form, so build nflverse's.
+      - field: name_boxscore
+        template: >-
+          {{ (name_common_first[0] ~ '.' ~ name_last)
+             if name_common_first else name_last }}
+      # birthdate is 82% populated and already ISO-formatted, matching
+      # nflverse.birth_date. All three guards are load-bearing: an absent
+      # birthdate splits to a one-element list, so month and day would raise
+      # IndexError rather than render blank.
+      - field: birth_year
+        template: "{{ birthdate.split('-')[0] if birthdate else '' }}"
+      - field: birth_month
+        template: "{{ birthdate.split('-')[1] if birthdate else '' }}"
+      - field: birth_day
+        template: "{{ birthdate.split('-')[2] if birthdate else '' }}"
+
 mappings:
   # Ids
   - dest: id
@@ -64,6 +153,15 @@ mappings:
       - nflverse.espn_id
   - dest: ids.fantasypros
     src: crosswalk.fantasypros_id
+  # The web key. fantasypros_id does not resolve on the site, so the slug is
+  # the only way to reach /nfl/players/{slug}.php. The crosswalk leads because
+  # it is the reviewed copy; the FantasyPros value behind it is the same string
+  # for all 508 rows today and exists to cover a player the crosswalk has an id
+  # for but no slug.
+  - dest: ids.fantasyprosSlug
+    src:
+      - crosswalk.fantasypros_slug
+      - fantasypros.slug
   - dest: ids.gsis
     src:
       - crosswalk.gsis_id
@@ -88,6 +186,7 @@ mappings:
     src:
       - nflverse.last_name
       - crosswalk.last_name
+      - fantasypros.name_last
   - dest: names.first
     src:
       # nflverse first_name is the legal name -- John Stafford, Rayne Prescott --
@@ -96,49 +195,69 @@ mappings:
       - nflverse.name_common_first
       - crosswalk.first_name
       - nflverse.first_name
+      - fantasypros.name_common_first
   - dest: names.middle
     src: crosswalk.middle_name
   - dest: names.suffix
-    src: nflverse.name_suffix
+    src:
+      - nflverse.name_suffix
+      - fantasypros.name_suffix
   # The legal first name -- Stafford is John, Prescott is Rayne. Differs from
   # names.first for 29% of nflverse rows. Mirrors MLB's names.givenFirst.
   - dest: names.givenFirst
-    src: nflverse.first_name
+    src:
+      - nflverse.first_name
+      - fantasypros.name_givenFirst
   - dest: names.givenFull
-    src: nflverse.name_givenFull
+    src:
+      - nflverse.name_givenFull
+      - fantasypros.name_givenFull
   # The name nflverse displays, e.g. "Bo Nix"
   - dest: names.display
-    src: nflverse.display_name
+    src:
+      - nflverse.display_name
+      - fantasypros.player_name
   # Broadcast/boxscore form, e.g. "B.Nix". Named to match MLB's names.boxscore,
   # which fills the same role with a different league convention ("Pop").
   - dest: names.boxscore
-    src: nflverse.name_boxscore
+    src:
+      - nflverse.name_boxscore
+      - fantasypros.name_boxscore
   - dest: names.firstLast
     src:
       - nflverse.name_firstLast
       - nflverse.display_name
+      - fantasypros.name_firstLast
   - dest: names.lastFirst
-    src: nflverse.name_lastFirst
+    src:
+      - nflverse.name_lastFirst
+      - fantasypros.name_lastFirst
   - dest: names.lastFirstInit
-    src: nflverse.name_lastFirstInit
+    src:
+      - nflverse.name_lastFirstInit
+      - fantasypros.name_lastFirstInit
 
   # Birth
   - dest: profile.birthDate
     src:
       - nflverse.birth_date
       - sleeper.birth_date
+      - fantasypros.birthdate
   - dest: profile.birthYear
     src:
       - nflverse.birth_year
       - crosswalk.birth_year
+      - fantasypros.birth_year
   - dest: profile.birthMonth
     src:
       - nflverse.birth_month
       - crosswalk.birth_month
+      - fantasypros.birth_month
   - dest: profile.birthDay
     src:
       - nflverse.birth_day
       - crosswalk.birth_day
+      - fantasypros.birth_day
 
   # Physical
   # Height in inches, weight in pounds
@@ -169,6 +288,13 @@ mappings:
     src:
       - nflverse.position
       - nflverse.ngs_position
+      # FantasyPros uses a coarser vocabulary than nflverse -- LB for
+      # ILB/OLB/MLB, S for FS/SS, and no offensive line, punter or long snapper
+      # at all -- but unlike Sleeper it does not contradict nflverse where the
+      # two overlap: they disagree on 3 of our 508 players. Safe as a last
+      # fallback. Its one novel value is EDGE, which nflverse splits across DE
+      # and OLB.
+      - fantasypros.position_id
       # Sleeper uses a different position vocabulary than nflverse -- T for OT,
       # CB/SS for DB, OL for G -- so it disagrees on 32% of the players both
       # carry. Adding it as a fallback would put two vocabularies in one field.
@@ -180,7 +306,21 @@ mappings:
 
   # Team
   - dest: team.abbreviation
-    src: nflverse.latest_team
+    src:
+      - nflverse.latest_team
+      # FantasyPros' team_id is deliberately not a fallback here. It is a
+      # different vocabulary (JAC and LAR where nflverse has JAX and LA) and it
+      # uses "FA" as a pseudo-team for 6,021 free agents, which nflverse leaves
+      # blank. Either one alone would corrupt the by_team and by_team_status
+      # pivots.
+      #
+      # This field carries a raw source abbreviation, so there is nothing
+      # neutral to reconcile the two vocabularies against -- picking one of
+      # them just makes that source's spelling the de facto standard. Leaving
+      # FantasyPros out until PRISM carries canonical team ids of its own. At
+      # that point each source's team value maps onto ours and this stops
+      # being a vocabulary clash at all.
+      # - fantasypros.team_id
   - dest: team.jerseyNumber
     src: nflverse.jersey_number
 
@@ -199,6 +339,7 @@ fieldsets:
       - ids.prism
       - ids.espn
       - ids.fantasypros
+      - ids.fantasyprosSlug
       - ids.gsis
       - ids.nffc
       - ids.pfr
@@ -260,6 +401,9 @@ pivots:
         is_array: false
       - name: fantasypros_id
         field: ids.fantasypros
+        is_array: false
+      - name: fantasypros_slug
+        field: ids.fantasyprosSlug
         is_array: false
       - name: gsis_id
         field: ids.gsis
