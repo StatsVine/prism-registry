@@ -62,6 +62,8 @@ mappings:
     src:
       - crosswalk.espn_id
       - nflverse.espn_id
+  - dest: ids.fantasypros
+    src: crosswalk.fantasypros_id
   - dest: ids.gsis
     src:
       - crosswalk.gsis_id
@@ -196,6 +198,7 @@ fieldsets:
       - id
       - ids.prism
       - ids.espn
+      - ids.fantasypros
       - ids.gsis
       - ids.nffc
       - ids.pfr
@@ -254,6 +257,9 @@ pivots:
         is_array: false
       - name: espn_id
         field: ids.espn
+        is_array: false
+      - name: fantasypros_id
+        field: ids.fantasypros
         is_array: false
       - name: gsis_id
         field: ids.gsis
