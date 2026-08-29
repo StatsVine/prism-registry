@@ -52,7 +52,7 @@ players_nfl_roster  Adds team, jersey number, roster status</code></pre>
     <h3>Look up by external ID</h3>
     <pre><code>{BASE}/&#123;sport&#125;/&#123;product&#125;/by_id/&#123;source&#125;/&#123;source_id&#125;.json</code></pre>
     <p>Supported <code>source</code> values &mdash; MLB: <code>prism_id</code>, <code>mlbam_id</code>, <code>bbref_id</code>, <code>fangraphs_ids</code>, <code>nfbc_id</code>, <code>sfbb_id</code>, <code>yahoo_id</code></p>
-    <p>NFL: <code>prism_id</code>, <code>espn_id</code>, <code>gsis_id</code>, <code>nffc_id</code>, <code>pfr_id</code>, <code>sleeper_id</code>, <code>sportradar_id</code>, <code>wikidata_id</code>, <code>yahoo_id</code></p>
+    <p>NFL: <code>prism_id</code>, <code>espn_id</code>, <code>fantasypros_id</code>, <code>gsis_id</code>, <code>nffc_id</code>, <code>pfr_id</code>, <code>sleeper_id</code>, <code>sportradar_id</code>, <code>wikidata_id</code>, <code>yahoo_id</code></p>
 
     <h3>Look up by team (roster products only)</h3>
     <p>All players on a team:</p>
@@ -275,6 +275,7 @@ id                   PRISM ID (always present)
 ids.prism            PRISM ID (always present)
 ids.gsis             NFL GSIS ID (always present; the join key)
 ids.espn             ESPN ID (usually present)
+ids.fantasypros      FantasyPros ID (usually present)
 ids.pfr              Pro Football Reference ID (usually present; not stable)
 ids.sleeper          Sleeper ID (usually present)
 ids.sportradar       Sportradar ID (usually present)
