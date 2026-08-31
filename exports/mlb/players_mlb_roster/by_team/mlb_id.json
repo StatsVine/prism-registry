@@ -476,8 +476,8 @@
         "abbreviation": "LAA"
       },
       "status": {
-        "code": "RM",
-        "description": "Reassigned to Minors"
+        "code": "A",
+        "description": "Active"
       }
     },
     {
@@ -956,8 +956,8 @@
         "abbreviation": "LAA"
       },
       "status": {
-        "code": "A",
-        "description": "Active"
+        "code": "RM",
+        "description": "Reassigned to Minors"
       }
     },
     {
@@ -2492,8 +2492,8 @@
         "abbreviation": "LAA"
       },
       "status": {
-        "code": "RM",
-        "description": "Reassigned to Minors"
+        "code": "A",
+        "description": "Active"
       }
     },
     {
@@ -2684,8 +2684,8 @@
         "abbreviation": "LAA"
       },
       "status": {
-        "code": "A",
-        "description": "Active"
+        "code": "D15",
+        "description": "Injured 15-Day"
       }
     },
     {
@@ -3742,8 +3742,8 @@
         "abbreviation": "AZ"
       },
       "status": {
-        "code": "A",
-        "description": "Active"
+        "code": "RM",
+        "description": "Reassigned to Minors"
       }
     },
     {
@@ -8786,8 +8786,8 @@
         "abbreviation": "BOS"
       },
       "status": {
-        "code": "D60",
-        "description": "Injured 60-Day"
+        "code": "A",
+        "description": "Active"
       }
     },
     {
@@ -8930,8 +8930,8 @@
         "abbreviation": "BOS"
       },
       "status": {
-        "code": "A",
-        "description": "Active"
+        "code": "RM",
+        "description": "Reassigned to Minors"
       }
     },
     {
@@ -9026,8 +9026,8 @@
         "abbreviation": "BOS"
       },
       "status": {
-        "code": "A",
-        "description": "Active"
+        "code": "RM",
+        "description": "Reassigned to Minors"
       }
     },
     {
@@ -10082,8 +10082,8 @@
         "abbreviation": "BOS"
       },
       "status": {
-        "code": "D60",
-        "description": "Injured 60-Day"
+        "code": "A",
+        "description": "Active"
       }
     },
     {
@@ -10466,8 +10466,8 @@
         "abbreviation": "BOS"
       },
       "status": {
-        "code": "A",
-        "description": "Active"
+        "code": "RM",
+        "description": "Reassigned to Minors"
       }
     },
     {
@@ -24734,54 +24734,6 @@
       "status": {
         "code": "D60",
         "description": "Injured 60-Day"
-      }
-    },
-    {
-      "id": "y218njyfh4",
-      "ids": {
-        "prism": "y218njyfh4",
-        "bbref": "owensty01",
-        "fangraphs": "26030",
-        "mlbam": "687074",
-        "nfbc": "12295",
-        "sfbb": null,
-        "yahoo": "63527"
-      },
-      "names": {
-        "boxscore": "Owens",
-        "givenFirst": "Tyler",
-        "givenFirstMiddle": "Tyler David",
-        "firstLast": "Tyler Owens",
-        "lastFirst": "Owens, Tyler",
-        "lastFirstInit": "Owens, T",
-        "givenFull": "Tyler David Owens",
-        "last": "Owens",
-        "first": "Tyler",
-        "middle": "David"
-      },
-      "profile": {
-        "birthDate": "2001-1-9",
-        "birthYear": "2001",
-        "birthMonth": "1",
-        "birthDay": "9",
-        "birthCity": "Ocala",
-        "birthState": "FL",
-        "birthCountry": "USA",
-        "batHand": "R",
-        "fieldHand": "R",
-        "debutDate": "2025-05-01"
-      },
-      "position": {
-        "code": "1",
-        "abbreviation": "P"
-      },
-      "team": {
-        "mlb_id": 116,
-        "abbreviation": "DET"
-      },
-      "status": {
-        "code": null,
-        "description": null
       }
     },
     {
@@ -44671,6 +44623,54 @@
       }
     },
     {
+      "id": "y218njyfh4",
+      "ids": {
+        "prism": "y218njyfh4",
+        "bbref": "owensty01",
+        "fangraphs": "26030",
+        "mlbam": "687074",
+        "nfbc": "12295",
+        "sfbb": null,
+        "yahoo": "63527"
+      },
+      "names": {
+        "boxscore": "Owens",
+        "givenFirst": "Tyler",
+        "givenFirstMiddle": "Tyler David",
+        "firstLast": "Tyler Owens",
+        "lastFirst": "Owens, Tyler",
+        "lastFirstInit": "Owens, T",
+        "givenFull": "Tyler David Owens",
+        "last": "Owens",
+        "first": "Tyler",
+        "middle": "David"
+      },
+      "profile": {
+        "birthDate": "2001-1-9",
+        "birthYear": "2001",
+        "birthMonth": "1",
+        "birthDay": "9",
+        "birthCity": "Ocala",
+        "birthState": "FL",
+        "birthCountry": "USA",
+        "batHand": "R",
+        "fieldHand": "R",
+        "debutDate": "2025-05-01"
+      },
+      "position": {
+        "code": "1",
+        "abbreviation": "P"
+      },
+      "team": {
+        "mlb_id": 134,
+        "abbreviation": "PIT"
+      },
+      "status": {
+        "code": null,
+        "description": null
+      }
+    },
+    {
       "id": "ykn111ez8w",
       "ids": {
         "prism": "ykn111ez8w",
@@ -44908,8 +44908,8 @@
         "abbreviation": "SD"
       },
       "status": {
-        "code": "A",
-        "description": "Active"
+        "code": "D10",
+        "description": "Injured 10-Day"
       }
     },
     {
@@ -46636,8 +46636,8 @@
         "abbreviation": "SD"
       },
       "status": {
-        "code": "D10",
-        "description": "Injured 10-Day"
+        "code": "A",
+        "description": "Active"
       }
     },
     {
@@ -47308,8 +47308,8 @@
         "abbreviation": "SD"
       },
       "status": {
-        "code": "A",
-        "description": "Active"
+        "code": "D10",
+        "description": "Injured 10-Day"
       }
     },
     {
@@ -47404,8 +47404,8 @@
         "abbreviation": "SD"
       },
       "status": {
-        "code": "RM",
-        "description": "Reassigned to Minors"
+        "code": "A",
+        "description": "Active"
       }
     },
     {
@@ -47646,8 +47646,8 @@
         "abbreviation": "SEA"
       },
       "status": {
-        "code": "A",
-        "description": "Active"
+        "code": "D15",
+        "description": "Injured 15-Day"
       }
     },
     {
@@ -48990,8 +48990,8 @@
         "abbreviation": "SEA"
       },
       "status": {
-        "code": "RM",
-        "description": "Reassigned to Minors"
+        "code": "A",
+        "description": "Active"
       }
     },
     {
@@ -51776,8 +51776,8 @@
         "abbreviation": "SF"
       },
       "status": {
-        "code": "A",
-        "description": "Active"
+        "code": "D15",
+        "description": "Injured 15-Day"
       }
     },
     {
@@ -53170,8 +53170,8 @@
         "abbreviation": "STL"
       },
       "status": {
-        "code": "A",
-        "description": "Active"
+        "code": "D10",
+        "description": "Injured 10-Day"
       }
     },
     {
@@ -53938,8 +53938,8 @@
         "abbreviation": "STL"
       },
       "status": {
-        "code": "RM",
-        "description": "Reassigned to Minors"
+        "code": "A",
+        "description": "Active"
       }
     },
     {
@@ -53994,8 +53994,8 @@
       "id": "hebbs60ttd",
       "ids": {
         "prism": "hebbs60ttd",
-        "bbref": null,
-        "fangraphs": "sa3020805",
+        "bbref": "winquca01",
+        "fangraphs": "31850",
         "mlbam": "685464",
         "nfbc": "12602",
         "sfbb": null,
@@ -61528,8 +61528,8 @@
         "abbreviation": "TOR"
       },
       "status": {
-        "code": "A",
-        "description": "Active"
+        "code": "RM",
+        "description": "Reassigned to Minors"
       }
     },
     {
@@ -62336,8 +62336,8 @@
         "debutDate": "2020-09-09"
       },
       "position": {
-        "code": "9",
-        "abbreviation": "RF"
+        "code": "7",
+        "abbreviation": "LF"
       },
       "team": {
         "mlb_id": 141,
@@ -64458,8 +64458,8 @@
         "abbreviation": "MIN"
       },
       "status": {
-        "code": "RM",
-        "description": "Reassigned to Minors"
+        "code": "A",
+        "description": "Active"
       }
     },
     {
@@ -65322,8 +65322,8 @@
         "abbreviation": "MIN"
       },
       "status": {
-        "code": "A",
-        "description": "Active"
+        "code": "D10",
+        "description": "Injured 10-Day"
       }
     },
     {
@@ -78052,8 +78052,8 @@
         "abbreviation": "NYY"
       },
       "status": {
-        "code": "RM",
-        "description": "Reassigned to Minors"
+        "code": "A",
+        "description": "Active"
       }
     },
     {
@@ -79636,8 +79636,8 @@
         "abbreviation": "NYY"
       },
       "status": {
-        "code": "A",
-        "description": "Active"
+        "code": "RM",
+        "description": "Reassigned to Minors"
       }
     },
     {
@@ -79876,8 +79876,8 @@
         "abbreviation": "NYY"
       },
       "status": {
-        "code": "A",
-        "description": "Active"
+        "code": "RM",
+        "description": "Reassigned to Minors"
       }
     },
     {
