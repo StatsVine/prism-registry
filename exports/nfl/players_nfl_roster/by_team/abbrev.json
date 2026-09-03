@@ -596,7 +596,7 @@
         "jerseyNumber": "89"
       },
       "status": {
-        "code": "RES",
+        "code": "CUT",
         "description": "R/Injured"
       }
     },
@@ -796,8 +796,8 @@
         "jerseyNumber": "47"
       },
       "status": {
-        "code": "CUT",
-        "description": "Active"
+        "code": "DEV",
+        "description": "PS; Vet"
       }
     },
     {
@@ -1798,8 +1798,8 @@
         "jerseyNumber": "80"
       },
       "status": {
-        "code": "CUT",
-        "description": "Waivers/No Rec."
+        "code": "DEV",
+        "description": "PS; Exc"
       }
     },
     {
@@ -2952,8 +2952,8 @@
         "jerseyNumber": "20"
       },
       "status": {
-        "code": "CUT",
-        "description": "Waivers/No Rec."
+        "code": "DEV",
+        "description": "Practice Squad"
       }
     },
     {
@@ -3503,6 +3503,56 @@
       },
       "status": {
         "code": "ACT",
+        "description": "Active"
+      }
+    },
+    {
+      "id": "swj9z3p6yh",
+      "ids": {
+        "prism": "swj9z3p6yh",
+        "espn": "4037235",
+        "fantasypros": "18585",
+        "fantasyprosSlug": "greg-dortch",
+        "gsis": "00-0035500",
+        "nffc": "17057",
+        "pfr": "DortGr01",
+        "sleeper": "5970",
+        "sportradar": "4484c7d1-025a-4f26-8e9b-48503afb0c68",
+        "wikidata": "Q60215524",
+        "yahoo": "32523"
+      },
+      "names": {
+        "boxscore": "G.Dortch",
+        "givenFirst": "Greg",
+        "firstLast": "Greg Dortch",
+        "lastFirst": "Dortch, Greg",
+        "lastFirstInit": "Dortch, G",
+        "givenFull": "Greg Dortch",
+        "suffix": null,
+        "display": "Greg Dortch",
+        "last": "Dortch",
+        "first": "Greg",
+        "middle": null
+      },
+      "profile": {
+        "birthDate": "1998-05-29",
+        "birthYear": "1998",
+        "birthMonth": "05",
+        "birthDay": "29",
+        "height": "67",
+        "weight": "180",
+        "rookieYear": "2019"
+      },
+      "position": {
+        "abbreviation": "WR",
+        "group": "WR"
+      },
+      "team": {
+        "abbreviation": "BUF",
+        "jerseyNumber": null
+      },
+      "status": {
+        "code": "DEV",
         "description": "Active"
       }
     },
@@ -4504,8 +4554,8 @@
         "jerseyNumber": "86"
       },
       "status": {
-        "code": "CUT",
-        "description": "Waivers/No Rec."
+        "code": "DEV",
+        "description": "Practice Squad"
       }
     },
     {
@@ -4704,8 +4754,8 @@
         "jerseyNumber": "83"
       },
       "status": {
-        "code": "CUT",
-        "description": "Active"
+        "code": "DEV",
+        "description": "PS; Vet"
       }
     },
     {
@@ -5111,6 +5161,56 @@
       }
     },
     {
+      "id": "cjs8qckn70",
+      "ids": {
+        "prism": "cjs8qckn70",
+        "espn": "4257364",
+        "fantasypros": "25748",
+        "fantasyprosSlug": "zavier-scott",
+        "gsis": "00-0038440",
+        "nffc": "20829",
+        "pfr": "ScotZa00",
+        "sleeper": "11299",
+        "sportradar": "3b133980-eb9a-11ed-8b52-a11a185238e2",
+        "wikidata": "Q124753613",
+        "yahoo": "40539"
+      },
+      "names": {
+        "boxscore": "Z.Scott",
+        "givenFirst": "Zavier",
+        "firstLast": "Zavier Scott",
+        "lastFirst": "Scott, Zavier",
+        "lastFirstInit": "Scott, Z",
+        "givenFull": "Zavier Scott",
+        "suffix": null,
+        "display": "Zavier Scott",
+        "last": "Scott",
+        "first": "Zavier",
+        "middle": null
+      },
+      "profile": {
+        "birthDate": "1999-07-17",
+        "birthYear": "1999",
+        "birthMonth": "07",
+        "birthDay": "17",
+        "height": "73",
+        "weight": "221",
+        "rookieYear": "2023"
+      },
+      "position": {
+        "abbreviation": "RB",
+        "group": "RB"
+      },
+      "team": {
+        "abbreviation": "CHI",
+        "jerseyNumber": null
+      },
+      "status": {
+        "code": "DEV",
+        "description": "Waivers/No Rec."
+      }
+    },
+    {
       "id": "dbc529yv1w",
       "ids": {
         "prism": "dbc529yv1w",
@@ -5256,7 +5356,7 @@
         "jerseyNumber": "43"
       },
       "status": {
-        "code": "ACT",
+        "code": "RES",
         "description": "Active"
       }
     },
@@ -5506,8 +5606,8 @@
         "jerseyNumber": "83"
       },
       "status": {
-        "code": "CUT",
-        "description": "Waivers/No Rec."
+        "code": "DEV",
+        "description": "Practice Squad"
       }
     },
     {
@@ -5763,56 +5863,6 @@
       }
     },
     {
-      "id": "35eng5rvk8",
-      "ids": {
-        "prism": "35eng5rvk8",
-        "espn": "4257188",
-        "fantasypros": "25336",
-        "fantasyprosSlug": "charlie-jones",
-        "gsis": "00-0038576",
-        "nffc": "20468",
-        "pfr": "JoneCh11",
-        "sleeper": "10228",
-        "sportradar": "c634c231-61fb-4725-8533-2cce14bfebbf",
-        "wikidata": "Q114000835",
-        "yahoo": "40158"
-      },
-      "names": {
-        "boxscore": "C.Jones",
-        "givenFirst": "Charlie",
-        "firstLast": "Charlie Jones",
-        "lastFirst": "Jones, Charlie",
-        "lastFirstInit": "Jones, C",
-        "givenFull": "Charlie Jones",
-        "suffix": null,
-        "display": "Charlie Jones",
-        "last": "Jones",
-        "first": "Charlie",
-        "middle": null
-      },
-      "profile": {
-        "birthDate": "1998-10-29",
-        "birthYear": "1998",
-        "birthMonth": "10",
-        "birthDay": "29",
-        "height": "72",
-        "weight": "190",
-        "rookieYear": "2023"
-      },
-      "position": {
-        "abbreviation": "WR",
-        "group": "WR"
-      },
-      "team": {
-        "abbreviation": "CIN",
-        "jerseyNumber": "15"
-      },
-      "status": {
-        "code": "CUT",
-        "description": "Waivers/No Rec."
-      }
-    },
-    {
       "id": "6jtyc0w3b0",
       "ids": {
         "prism": "6jtyc0w3b0",
@@ -5858,7 +5908,7 @@
         "jerseyNumber": "87"
       },
       "status": {
-        "code": "CUT",
+        "code": "DEV",
         "description": "Active"
       }
     },
@@ -6110,56 +6160,6 @@
       "status": {
         "code": "ACT",
         "description": "Active"
-      }
-    },
-    {
-      "id": "ck7gwv44k8",
-      "ids": {
-        "prism": "ck7gwv44k8",
-        "espn": "4690070",
-        "fantasypros": "24370",
-        "fantasyprosSlug": "mitchell-tinsley",
-        "gsis": "00-0038839",
-        "nffc": "20659",
-        "pfr": "TinsMi00",
-        "sleeper": "11068",
-        "sportradar": "0ac39560-e760-11ed-ad1e-4d786886cff5",
-        "wikidata": "Q114088426",
-        "yahoo": "40313"
-      },
-      "names": {
-        "boxscore": "M.Tinsley",
-        "givenFirst": "Mitchell",
-        "firstLast": "Mitchell Tinsley",
-        "lastFirst": "Tinsley, Mitchell",
-        "lastFirstInit": "Tinsley, M",
-        "givenFull": "Mitchell Tinsley",
-        "suffix": null,
-        "display": "Mitchell Tinsley",
-        "last": "Tinsley",
-        "first": "Mitchell",
-        "middle": null
-      },
-      "profile": {
-        "birthDate": "1999-09-15",
-        "birthYear": "1999",
-        "birthMonth": "09",
-        "birthDay": "15",
-        "height": "73",
-        "weight": "205",
-        "rookieYear": "2023"
-      },
-      "position": {
-        "abbreviation": "WR",
-        "group": "WR"
-      },
-      "team": {
-        "abbreviation": "CIN",
-        "jerseyNumber": "82"
-      },
-      "status": {
-        "code": "CUT",
-        "description": "Waivers/No Rec."
       }
     },
     {
@@ -6665,6 +6665,56 @@
   ],
   "CLE": [
     {
+      "id": "22ddgf0rxm",
+      "ids": {
+        "prism": "22ddgf0rxm",
+        "espn": "4722893",
+        "fantasypros": "25876",
+        "fantasyprosSlug": "jaleel-mclaughlin",
+        "gsis": "00-0038794",
+        "nffc": "21005",
+        "pfr": "McLaJa00",
+        "sleeper": "11439",
+        "sportradar": "60b4ded0-f321-11ed-ab27-e38fa04fd6c0",
+        "wikidata": "Q120973540",
+        "yahoo": "40696"
+      },
+      "names": {
+        "boxscore": "J.McLaughlin",
+        "givenFirst": "Jaleel",
+        "firstLast": "Jaleel McLaughlin",
+        "lastFirst": "McLaughlin, Jaleel",
+        "lastFirstInit": "McLaughlin, J",
+        "givenFull": "Jaleel McLaughlin",
+        "suffix": null,
+        "display": "Jaleel McLaughlin",
+        "last": "McLaughlin",
+        "first": "Jaleel",
+        "middle": null
+      },
+      "profile": {
+        "birthDate": "2000-09-13",
+        "birthYear": "2000",
+        "birthMonth": "09",
+        "birthDay": "13",
+        "height": "69",
+        "weight": "183",
+        "rookieYear": "2023"
+      },
+      "position": {
+        "abbreviation": "RB",
+        "group": "RB"
+      },
+      "team": {
+        "abbreviation": "CLE",
+        "jerseyNumber": null
+      },
+      "status": {
+        "code": "DEV",
+        "description": "Waivers/No Rec."
+      }
+    },
+    {
       "id": "5zjgsg39rm",
       "ids": {
         "prism": "5zjgsg39rm",
@@ -6758,56 +6808,6 @@
       "team": {
         "abbreviation": "CLE",
         "jerseyNumber": "23"
-      },
-      "status": {
-        "code": "CUT",
-        "description": "Waivers/No Rec."
-      }
-    },
-    {
-      "id": "7flf6622yr",
-      "ids": {
-        "prism": "7flf6622yr",
-        "espn": "4369863",
-        "fantasypros": "25287",
-        "fantasyprosSlug": "cedric-tillman",
-        "gsis": "00-0038979",
-        "nffc": "20290",
-        "pfr": "TillCe01",
-        "sleeper": "10444",
-        "sportradar": "148330d9-5182-4b58-b695-8067aaba4731",
-        "wikidata": "Q110486805",
-        "yahoo": "40093"
-      },
-      "names": {
-        "boxscore": "C.Tillman",
-        "givenFirst": "Cedric",
-        "firstLast": "Cedric Tillman",
-        "lastFirst": "Tillman, Cedric",
-        "lastFirstInit": "Tillman, C",
-        "givenFull": "Cedric Tillman",
-        "suffix": null,
-        "display": "Cedric Tillman",
-        "last": "Tillman",
-        "first": "Cedric",
-        "middle": null
-      },
-      "profile": {
-        "birthDate": "2000-04-19",
-        "birthYear": "2000",
-        "birthMonth": "04",
-        "birthDay": "19",
-        "height": "75",
-        "weight": "215",
-        "rookieYear": "2023"
-      },
-      "position": {
-        "abbreviation": "WR",
-        "group": "WR"
-      },
-      "team": {
-        "abbreviation": "CLE",
-        "jerseyNumber": "19"
       },
       "status": {
         "code": "CUT",
@@ -7813,7 +7813,7 @@
       },
       "status": {
         "code": "ACT",
-        "description": "Waivers/No Rec."
+        "description": "Active"
       }
     },
     {
@@ -7912,8 +7912,8 @@
         "jerseyNumber": "46"
       },
       "status": {
-        "code": "CUT",
-        "description": "Waivers/No Rec."
+        "code": "DEV",
+        "description": "Practice Squad"
       }
     },
     {
@@ -8160,56 +8160,6 @@
       "team": {
         "abbreviation": "DAL",
         "jerseyNumber": "10"
-      },
-      "status": {
-        "code": "CUT",
-        "description": "Active"
-      }
-    },
-    {
-      "id": "g7qme995hm",
-      "ids": {
-        "prism": "g7qme995hm",
-        "espn": "4685279",
-        "fantasypros": "24344",
-        "fantasyprosSlug": "jaydon-blue",
-        "gsis": "00-0040586",
-        "nffc": "22092",
-        "pfr": "BlueJa01",
-        "sleeper": "12457",
-        "sportradar": "f5e6eb8e-2c76-4bf9-b47f-57c62659341d",
-        "wikidata": "Q128792652",
-        "yahoo": "41935"
-      },
-      "names": {
-        "boxscore": "J.Blue",
-        "givenFirst": "Jaydon",
-        "firstLast": "Jaydon Blue",
-        "lastFirst": "Blue, Jaydon",
-        "lastFirstInit": "Blue, J",
-        "givenFull": "Jaydon Blue",
-        "suffix": null,
-        "display": "Jaydon Blue",
-        "last": "Blue",
-        "first": "Jaydon",
-        "middle": null
-      },
-      "profile": {
-        "birthDate": "2004-01-08",
-        "birthYear": "2004",
-        "birthMonth": "01",
-        "birthDay": "08",
-        "height": "69",
-        "weight": "198",
-        "rookieYear": "2025"
-      },
-      "position": {
-        "abbreviation": "RB",
-        "group": "RB"
-      },
-      "team": {
-        "abbreviation": "DAL",
-        "jerseyNumber": "23"
       },
       "status": {
         "code": "CUT",
@@ -8768,56 +8718,6 @@
     }
   ],
   "DEN": [
-    {
-      "id": "22ddgf0rxm",
-      "ids": {
-        "prism": "22ddgf0rxm",
-        "espn": "4722893",
-        "fantasypros": "25876",
-        "fantasyprosSlug": "jaleel-mclaughlin",
-        "gsis": "00-0038794",
-        "nffc": "21005",
-        "pfr": "McLaJa00",
-        "sleeper": "11439",
-        "sportradar": "60b4ded0-f321-11ed-ab27-e38fa04fd6c0",
-        "wikidata": "Q120973540",
-        "yahoo": "40696"
-      },
-      "names": {
-        "boxscore": "J.McLaughlin",
-        "givenFirst": "Jaleel",
-        "firstLast": "Jaleel McLaughlin",
-        "lastFirst": "McLaughlin, Jaleel",
-        "lastFirstInit": "McLaughlin, J",
-        "givenFull": "Jaleel McLaughlin",
-        "suffix": null,
-        "display": "Jaleel McLaughlin",
-        "last": "McLaughlin",
-        "first": "Jaleel",
-        "middle": null
-      },
-      "profile": {
-        "birthDate": "2000-09-13",
-        "birthYear": "2000",
-        "birthMonth": "09",
-        "birthDay": "13",
-        "height": "69",
-        "weight": "183",
-        "rookieYear": "2023"
-      },
-      "position": {
-        "abbreviation": "RB",
-        "group": "RB"
-      },
-      "team": {
-        "abbreviation": "DEN",
-        "jerseyNumber": "38"
-      },
-      "status": {
-        "code": "CUT",
-        "description": "Waivers/No Rec."
-      }
-    },
     {
       "id": "27cz4r21c0",
       "ids": {
@@ -9966,7 +9866,7 @@
         "jerseyNumber": "83"
       },
       "status": {
-        "code": "CUT",
+        "code": "ACT",
         "description": "Active"
       }
     },
@@ -10166,8 +10066,8 @@
         "jerseyNumber": "85"
       },
       "status": {
-        "code": "CUT",
-        "description": "Active"
+        "code": "DEV",
+        "description": "PS; Vet"
       }
     },
     {
@@ -10366,7 +10266,7 @@
         "jerseyNumber": "10"
       },
       "status": {
-        "code": "ACT",
+        "code": "RES",
         "description": "Active"
       }
     },
@@ -10467,56 +10367,6 @@
       },
       "status": {
         "code": "ACT",
-        "description": "Active"
-      }
-    },
-    {
-      "id": "swj9z3p6yh",
-      "ids": {
-        "prism": "swj9z3p6yh",
-        "espn": "4037235",
-        "fantasypros": "18585",
-        "fantasyprosSlug": "greg-dortch",
-        "gsis": "00-0035500",
-        "nffc": "17057",
-        "pfr": "DortGr01",
-        "sleeper": "5970",
-        "sportradar": "4484c7d1-025a-4f26-8e9b-48503afb0c68",
-        "wikidata": "Q60215524",
-        "yahoo": "32523"
-      },
-      "names": {
-        "boxscore": "G.Dortch",
-        "givenFirst": "Greg",
-        "firstLast": "Greg Dortch",
-        "lastFirst": "Dortch, Greg",
-        "lastFirstInit": "Dortch, G",
-        "givenFull": "Greg Dortch",
-        "suffix": null,
-        "display": "Greg Dortch",
-        "last": "Dortch",
-        "first": "Greg",
-        "middle": null
-      },
-      "profile": {
-        "birthDate": "1998-05-29",
-        "birthYear": "1998",
-        "birthMonth": "05",
-        "birthDay": "29",
-        "height": "67",
-        "weight": "183",
-        "rookieYear": "2019"
-      },
-      "position": {
-        "abbreviation": "WR",
-        "group": "WR"
-      },
-      "team": {
-        "abbreviation": "DET",
-        "jerseyNumber": "8"
-      },
-      "status": {
-        "code": "CUT",
         "description": "Active"
       }
     },
@@ -11318,8 +11168,8 @@
         "jerseyNumber": "49"
       },
       "status": {
-        "code": "CUT",
-        "description": "Waivers/No Rec."
+        "code": "DEV",
+        "description": "Practice Squad"
       }
     },
     {
@@ -11668,8 +11518,8 @@
         "jerseyNumber": "22"
       },
       "status": {
-        "code": "CUT",
-        "description": "Active"
+        "code": "DEV",
+        "description": "PS; Vet"
       }
     },
     {
@@ -11925,6 +11775,56 @@
       }
     },
     {
+      "id": "ck7gwv44k8",
+      "ids": {
+        "prism": "ck7gwv44k8",
+        "espn": "4690070",
+        "fantasypros": "24370",
+        "fantasyprosSlug": "mitchell-tinsley",
+        "gsis": "00-0038839",
+        "nffc": "20659",
+        "pfr": "TinsMi00",
+        "sleeper": "11068",
+        "sportradar": "0ac39560-e760-11ed-ad1e-4d786886cff5",
+        "wikidata": "Q114088426",
+        "yahoo": "40313"
+      },
+      "names": {
+        "boxscore": "M.Tinsley",
+        "givenFirst": "Mitchell",
+        "firstLast": "Mitchell Tinsley",
+        "lastFirst": "Tinsley, Mitchell",
+        "lastFirstInit": "Tinsley, M",
+        "givenFull": "Mitchell Tinsley",
+        "suffix": null,
+        "display": "Mitchell Tinsley",
+        "last": "Tinsley",
+        "first": "Mitchell",
+        "middle": null
+      },
+      "profile": {
+        "birthDate": "1999-09-15",
+        "birthYear": "1999",
+        "birthMonth": "09",
+        "birthDay": "15",
+        "height": "73",
+        "weight": "205",
+        "rookieYear": "2023"
+      },
+      "position": {
+        "abbreviation": "WR",
+        "group": "WR"
+      },
+      "team": {
+        "abbreviation": "HOU",
+        "jerseyNumber": null
+      },
+      "status": {
+        "code": "DEV",
+        "description": "Waivers/No Rec."
+      }
+    },
+    {
       "id": "e5tg15f6sm",
       "ids": {
         "prism": "e5tg15f6sm",
@@ -11970,8 +11870,8 @@
         "jerseyNumber": "82"
       },
       "status": {
-        "code": "CUT",
-        "description": "Waivers/No Rec."
+        "code": "DEV",
+        "description": "Practice Squad"
       }
     },
     {
@@ -12620,8 +12520,8 @@
         "jerseyNumber": "26"
       },
       "status": {
-        "code": "CUT",
-        "description": "Waivers/No Rec."
+        "code": "DEV",
+        "description": "Practice Squad"
       }
     },
     {
@@ -12670,8 +12570,8 @@
         "jerseyNumber": "25"
       },
       "status": {
-        "code": "CUT",
-        "description": "Waivers/No Rec."
+        "code": "DEV",
+        "description": "Practice Squad"
       }
     },
     {
@@ -12823,6 +12723,56 @@
         "code": "ACT",
         "description": "Active"
       }
+    },
+    {
+      "id": "yvgkv18dlh",
+      "ids": {
+        "prism": "yvgkv18dlh",
+        "espn": "4362504",
+        "fantasypros": "20162",
+        "fantasyprosSlug": "brevin-jordan",
+        "gsis": "00-0036556",
+        "nffc": "18797",
+        "pfr": "JordBr00",
+        "sleeper": "7568",
+        "sportradar": "8ffb5c07-4aa1-4796-b1ab-30c1ab0ccc4c",
+        "wikidata": "Q71471661",
+        "yahoo": "33535"
+      },
+      "names": {
+        "boxscore": "B.Jordan",
+        "givenFirst": "Brevin",
+        "firstLast": "Brevin Jordan",
+        "lastFirst": "Jordan, Brevin",
+        "lastFirstInit": "Jordan, B",
+        "givenFull": "Brevin Jordan",
+        "suffix": null,
+        "display": "Brevin Jordan",
+        "last": "Jordan",
+        "first": "Brevin",
+        "middle": null
+      },
+      "profile": {
+        "birthDate": "2000-07-16",
+        "birthYear": "2000",
+        "birthMonth": "07",
+        "birthDay": "16",
+        "height": "75",
+        "weight": "245",
+        "rookieYear": "2021"
+      },
+      "position": {
+        "abbreviation": "TE",
+        "group": "TE"
+      },
+      "team": {
+        "abbreviation": "HOU",
+        "jerseyNumber": "9"
+      },
+      "status": {
+        "code": "ACT",
+        "description": "Active"
+      }
     }
   ],
   "IND": [
@@ -12873,7 +12823,7 @@
       },
       "status": {
         "code": "CUT",
-        "description": "Waivers/No Rec."
+        "description": "Practice Squad"
       }
     },
     {
@@ -13172,8 +13122,8 @@
         "jerseyNumber": "6"
       },
       "status": {
-        "code": "CUT",
-        "description": "Waivers/No Rec."
+        "code": "DEV",
+        "description": "PS; Exc"
       }
     },
     {
@@ -13422,8 +13372,8 @@
         "jerseyNumber": "12"
       },
       "status": {
-        "code": "CUT",
-        "description": "Active"
+        "code": "DEV",
+        "description": "PS; Vet"
       }
     },
     {
@@ -15376,8 +15326,8 @@
         "jerseyNumber": "42"
       },
       "status": {
-        "code": "CUT",
-        "description": "Waivers/No Rec."
+        "code": "DEV",
+        "description": "Practice Squad"
       }
     },
     {
@@ -15526,8 +15476,8 @@
         "jerseyNumber": "85"
       },
       "status": {
-        "code": "CUT",
-        "description": "Waivers/No Rec."
+        "code": "DEV",
+        "description": "Practice Squad"
       }
     },
     {
@@ -17632,8 +17582,8 @@
         "jerseyNumber": "85"
       },
       "status": {
-        "code": "CUT",
-        "description": "Active"
+        "code": "DEV",
+        "description": "PS; Vet"
       }
     },
     {
@@ -17882,8 +17832,8 @@
         "jerseyNumber": "37"
       },
       "status": {
-        "code": "CUT",
-        "description": "Waivers/No Rec."
+        "code": "DEV",
+        "description": "Practice Squad"
       }
     },
     {
@@ -18232,7 +18182,7 @@
         "jerseyNumber": "10"
       },
       "status": {
-        "code": "ACT",
+        "code": "RES",
         "description": "Active"
       }
     },
@@ -18535,7 +18485,7 @@
       },
       "status": {
         "code": "CUT",
-        "description": "Active"
+        "description": "Waivers/No Rec."
       }
     },
     {
@@ -18685,7 +18635,7 @@
       },
       "status": {
         "code": "ACT",
-        "description": "Waivers/No Rec."
+        "description": "Active"
       }
     },
     {
@@ -18734,8 +18684,8 @@
         "jerseyNumber": "89"
       },
       "status": {
-        "code": "CUT",
-        "description": "Active"
+        "code": "RES",
+        "description": "Waivers/Injured"
       }
     },
     {
@@ -18882,6 +18832,56 @@
       "team": {
         "abbreviation": "MIA",
         "jerseyNumber": "6"
+      },
+      "status": {
+        "code": "ACT",
+        "description": "Active"
+      }
+    },
+    {
+      "id": "fsshqt1qcd",
+      "ids": {
+        "prism": "fsshqt1qcd",
+        "espn": "4429435",
+        "fantasypros": "27161",
+        "fantasyprosSlug": "brady-cook",
+        "gsis": "00-0040398",
+        "nffc": "22608",
+        "pfr": "CookBr03",
+        "sleeper": "12538",
+        "sportradar": "4916c770-2501-11f0-aed8-c154e65d4269",
+        "wikidata": "Q115492003",
+        "yahoo": "42229"
+      },
+      "names": {
+        "boxscore": "B.Cook",
+        "givenFirst": "Brady",
+        "firstLast": "Brady Cook",
+        "lastFirst": "Cook, Brady",
+        "lastFirstInit": "Cook, B",
+        "givenFull": "Brady Cook",
+        "suffix": null,
+        "display": "Brady Cook",
+        "last": "Cook",
+        "first": "Brady",
+        "middle": null
+      },
+      "profile": {
+        "birthDate": "2001-10-12",
+        "birthYear": "2001",
+        "birthMonth": "10",
+        "birthDay": "12",
+        "height": "74",
+        "weight": "215",
+        "rookieYear": "2025"
+      },
+      "position": {
+        "abbreviation": "QB",
+        "group": "QB"
+      },
+      "team": {
+        "abbreviation": "MIA",
+        "jerseyNumber": null
       },
       "status": {
         "code": "ACT",
@@ -19334,8 +19334,8 @@
         "jerseyNumber": null
       },
       "status": {
-        "code": "CUT",
-        "description": "Waivers/No Rec."
+        "code": "DEV",
+        "description": "Practice Squad"
       }
     },
     {
@@ -19941,56 +19941,6 @@
       }
     },
     {
-      "id": "cjs8qckn70",
-      "ids": {
-        "prism": "cjs8qckn70",
-        "espn": "4257364",
-        "fantasypros": "25748",
-        "fantasyprosSlug": "zavier-scott",
-        "gsis": "00-0038440",
-        "nffc": "20829",
-        "pfr": "ScotZa00",
-        "sleeper": "11299",
-        "sportradar": "3b133980-eb9a-11ed-8b52-a11a185238e2",
-        "wikidata": "Q124753613",
-        "yahoo": "40539"
-      },
-      "names": {
-        "boxscore": "Z.Scott",
-        "givenFirst": "Zavier",
-        "firstLast": "Zavier Scott",
-        "lastFirst": "Scott, Zavier",
-        "lastFirstInit": "Scott, Z",
-        "givenFull": "Zavier Scott",
-        "suffix": null,
-        "display": "Zavier Scott",
-        "last": "Scott",
-        "first": "Zavier",
-        "middle": null
-      },
-      "profile": {
-        "birthDate": "1999-07-17",
-        "birthYear": "1999",
-        "birthMonth": "07",
-        "birthDay": "17",
-        "height": "73",
-        "weight": "221",
-        "rookieYear": "2023"
-      },
-      "position": {
-        "abbreviation": "RB",
-        "group": "RB"
-      },
-      "team": {
-        "abbreviation": "MIN",
-        "jerseyNumber": "36"
-      },
-      "status": {
-        "code": "CUT",
-        "description": "Waivers/No Rec."
-      }
-    },
-    {
       "id": "gb9dwjf1eh",
       "ids": {
         "prism": "gb9dwjf1eh",
@@ -20287,7 +20237,7 @@
       },
       "status": {
         "code": "CUT",
-        "description": "Active"
+        "description": "Waivers/No Rec."
       }
     },
     {
@@ -20537,7 +20487,7 @@
       },
       "status": {
         "code": "CUT",
-        "description": "Active"
+        "description": "Waivers/No Rec."
       }
     },
     {
@@ -20587,7 +20537,7 @@
       },
       "status": {
         "code": "RES",
-        "description": "Waivers/Injured"
+        "description": "R/Injured"
       }
     },
     {
@@ -21143,56 +21093,6 @@
       }
     },
     {
-      "id": "m4lg68kvw8",
-      "ids": {
-        "prism": "m4lg68kvw8",
-        "espn": "4361100",
-        "fantasypros": "26436",
-        "fantasyprosSlug": "jack-westover",
-        "gsis": "00-0039305",
-        "nffc": "21705",
-        "pfr": "WestJa01",
-        "sleeper": "12045",
-        "sportradar": "22926aa0-0725-11ef-bcfc-752f39cb55fa",
-        "wikidata": "Q124154413",
-        "yahoo": "41352"
-      },
-      "names": {
-        "boxscore": "J.Westover",
-        "givenFirst": "Jack",
-        "firstLast": "Jack Westover",
-        "lastFirst": "Westover, Jack",
-        "lastFirstInit": "Westover, J",
-        "givenFull": "Jack Westover",
-        "suffix": null,
-        "display": "Jack Westover",
-        "last": "Westover",
-        "first": "Jack",
-        "middle": null
-      },
-      "profile": {
-        "birthDate": "1999-06-09",
-        "birthYear": "1999",
-        "birthMonth": "06",
-        "birthDay": "09",
-        "height": "75",
-        "weight": "252",
-        "rookieYear": "2024"
-      },
-      "position": {
-        "abbreviation": "TE",
-        "group": "TE"
-      },
-      "team": {
-        "abbreviation": "NE",
-        "jerseyNumber": "37"
-      },
-      "status": {
-        "code": "CUT",
-        "description": "Waivers/No Rec."
-      }
-    },
-    {
       "id": "meqm3br97r",
       "ids": {
         "prism": "meqm3br97r",
@@ -21493,6 +21393,56 @@
       }
     },
     {
+      "id": "q77b13glnw",
+      "ids": {
+        "prism": "q77b13glnw",
+        "espn": "4372026",
+        "fantasypros": "24331",
+        "fantasyprosSlug": "cameron-latu",
+        "gsis": "00-0038564",
+        "nffc": "20453",
+        "pfr": "LatuCa01",
+        "sleeper": "10210",
+        "sportradar": "3763a2ec-ee98-4cf4-9aa7-ee626057c56f",
+        "wikidata": "Q108490323",
+        "yahoo": "40101"
+      },
+      "names": {
+        "boxscore": "C.Latu",
+        "givenFirst": "Cameron",
+        "firstLast": "Cameron Latu",
+        "lastFirst": "Latu, Cameron",
+        "lastFirstInit": "Latu, C",
+        "givenFull": "Cameron Latu",
+        "suffix": null,
+        "display": "Cameron Latu",
+        "last": "Latu",
+        "first": "Cameron",
+        "middle": null
+      },
+      "profile": {
+        "birthDate": "2000-02-24",
+        "birthYear": "2000",
+        "birthMonth": "02",
+        "birthDay": "24",
+        "height": "77",
+        "weight": "244",
+        "rookieYear": "2023"
+      },
+      "position": {
+        "abbreviation": "TE",
+        "group": "TE"
+      },
+      "team": {
+        "abbreviation": "NE",
+        "jerseyNumber": null
+      },
+      "status": {
+        "code": "ACT",
+        "description": "Active"
+      }
+    },
+    {
       "id": "qne54t8c0d",
       "ids": {
         "prism": "qne54t8c0d",
@@ -21538,8 +21488,8 @@
         "jerseyNumber": "34"
       },
       "status": {
-        "code": "CUT",
-        "description": "Waivers/No Rec."
+        "code": "DEV",
+        "description": "Practice Squad"
       }
     },
     {
@@ -21995,6 +21945,56 @@
       }
     },
     {
+      "id": "7flf6622yr",
+      "ids": {
+        "prism": "7flf6622yr",
+        "espn": "4369863",
+        "fantasypros": "25287",
+        "fantasyprosSlug": "cedric-tillman",
+        "gsis": "00-0038979",
+        "nffc": "20290",
+        "pfr": "TillCe01",
+        "sleeper": "10444",
+        "sportradar": "148330d9-5182-4b58-b695-8067aaba4731",
+        "wikidata": "Q110486805",
+        "yahoo": "40093"
+      },
+      "names": {
+        "boxscore": "C.Tillman",
+        "givenFirst": "Cedric",
+        "firstLast": "Cedric Tillman",
+        "lastFirst": "Tillman, Cedric",
+        "lastFirstInit": "Tillman, C",
+        "givenFull": "Cedric Tillman",
+        "suffix": null,
+        "display": "Cedric Tillman",
+        "last": "Tillman",
+        "first": "Cedric",
+        "middle": null
+      },
+      "profile": {
+        "birthDate": "2000-04-19",
+        "birthYear": "2000",
+        "birthMonth": "04",
+        "birthDay": "19",
+        "height": "75",
+        "weight": "215",
+        "rookieYear": "2023"
+      },
+      "position": {
+        "abbreviation": "WR",
+        "group": "WR"
+      },
+      "team": {
+        "abbreviation": "NO",
+        "jerseyNumber": null
+      },
+      "status": {
+        "code": "DEV",
+        "description": "Waivers/No Rec."
+      }
+    },
+    {
       "id": "9d3w2xyky8",
       "ids": {
         "prism": "9d3w2xyky8",
@@ -22341,7 +22341,7 @@
       },
       "status": {
         "code": "CUT",
-        "description": "Active"
+        "description": "Waivers/No Rec."
       }
     },
     {
@@ -22541,7 +22541,7 @@
       },
       "status": {
         "code": "CUT",
-        "description": "Active"
+        "description": "Waivers/No Rec."
       }
     },
     {
@@ -22947,6 +22947,56 @@
       }
     },
     {
+      "id": "35eng5rvk8",
+      "ids": {
+        "prism": "35eng5rvk8",
+        "espn": "4257188",
+        "fantasypros": "25336",
+        "fantasyprosSlug": "charlie-jones",
+        "gsis": "00-0038576",
+        "nffc": "20468",
+        "pfr": "JoneCh11",
+        "sleeper": "10228",
+        "sportradar": "c634c231-61fb-4725-8533-2cce14bfebbf",
+        "wikidata": "Q114000835",
+        "yahoo": "40158"
+      },
+      "names": {
+        "boxscore": "C.Jones",
+        "givenFirst": "Charlie",
+        "firstLast": "Charlie Jones",
+        "lastFirst": "Jones, Charlie",
+        "lastFirstInit": "Jones, C",
+        "givenFull": "Charlie Jones",
+        "suffix": null,
+        "display": "Charlie Jones",
+        "last": "Jones",
+        "first": "Charlie",
+        "middle": null
+      },
+      "profile": {
+        "birthDate": "1998-10-29",
+        "birthYear": "1998",
+        "birthMonth": "10",
+        "birthDay": "29",
+        "height": "72",
+        "weight": "190",
+        "rookieYear": "2023"
+      },
+      "position": {
+        "abbreviation": "WR",
+        "group": "WR"
+      },
+      "team": {
+        "abbreviation": "NYG",
+        "jerseyNumber": null
+      },
+      "status": {
+        "code": "DEV",
+        "description": "Waivers/No Rec."
+      }
+    },
+    {
       "id": "3hdwjgyf6r",
       "ids": {
         "prism": "3hdwjgyf6r",
@@ -22992,8 +23042,8 @@
         "jerseyNumber": "87"
       },
       "status": {
-        "code": "CUT",
-        "description": "Active"
+        "code": "DEV",
+        "description": "PS; Vet"
       }
     },
     {
@@ -23342,8 +23392,8 @@
         "jerseyNumber": "13"
       },
       "status": {
-        "code": "CUT",
-        "description": "Waivers/No Rec."
+        "code": "DEV",
+        "description": "PS; Vet"
       }
     },
     {
@@ -24594,7 +24644,57 @@
         "jerseyNumber": "19"
       },
       "status": {
-        "code": "CUT",
+        "code": "DEV",
+        "description": "PS; Vet"
+      }
+    },
+    {
+      "id": "ssj65qvedr",
+      "ids": {
+        "prism": "ssj65qvedr",
+        "espn": "4259619",
+        "fantasypros": "25533",
+        "fantasyprosSlug": "blake-grupe",
+        "gsis": "00-0038905",
+        "nffc": "20629",
+        "pfr": "GrupBl00",
+        "sleeper": "11058",
+        "sportradar": "2a1d4ce0-e6f6-11ed-abca-c7a3a205e21d",
+        "wikidata": "Q122038689",
+        "yahoo": "40296"
+      },
+      "names": {
+        "boxscore": "B.Grupe",
+        "givenFirst": "Blake",
+        "firstLast": "Blake Grupe",
+        "lastFirst": "Grupe, Blake",
+        "lastFirstInit": "Grupe, B",
+        "givenFull": "Blake Grupe",
+        "suffix": null,
+        "display": "Blake Grupe",
+        "last": "Grupe",
+        "first": "Blake",
+        "middle": null
+      },
+      "profile": {
+        "birthDate": "1998-11-05",
+        "birthYear": "1998",
+        "birthMonth": "11",
+        "birthDay": "05",
+        "height": "67",
+        "weight": "156",
+        "rookieYear": "2023"
+      },
+      "position": {
+        "abbreviation": "K",
+        "group": "SPEC"
+      },
+      "team": {
+        "abbreviation": "NYJ",
+        "jerseyNumber": null
+      },
+      "status": {
+        "code": "ACT",
         "description": "Active"
       }
     },
@@ -25351,6 +25451,56 @@
       }
     },
     {
+      "id": "g7qme995hm",
+      "ids": {
+        "prism": "g7qme995hm",
+        "espn": "4685279",
+        "fantasypros": "24344",
+        "fantasyprosSlug": "jaydon-blue",
+        "gsis": "00-0040586",
+        "nffc": "22092",
+        "pfr": "BlueJa01",
+        "sleeper": "12457",
+        "sportradar": "f5e6eb8e-2c76-4bf9-b47f-57c62659341d",
+        "wikidata": "Q128792652",
+        "yahoo": "41935"
+      },
+      "names": {
+        "boxscore": "J.Blue",
+        "givenFirst": "Jaydon",
+        "firstLast": "Jaydon Blue",
+        "lastFirst": "Blue, Jaydon",
+        "lastFirstInit": "Blue, J",
+        "givenFull": "Jaydon Blue",
+        "suffix": null,
+        "display": "Jaydon Blue",
+        "last": "Blue",
+        "first": "Jaydon",
+        "middle": null
+      },
+      "profile": {
+        "birthDate": "2004-01-08",
+        "birthYear": "2004",
+        "birthMonth": "01",
+        "birthDay": "08",
+        "height": "69",
+        "weight": "198",
+        "rookieYear": "2025"
+      },
+      "position": {
+        "abbreviation": "RB",
+        "group": "RB"
+      },
+      "team": {
+        "abbreviation": "PHI",
+        "jerseyNumber": null
+      },
+      "status": {
+        "code": "DEV",
+        "description": "Waivers/No Rec."
+      }
+    },
+    {
       "id": "j37w40wh6r",
       "ids": {
         "prism": "j37w40wh6r",
@@ -25646,8 +25796,8 @@
         "jerseyNumber": "18"
       },
       "status": {
-        "code": "CUT",
-        "description": "Active"
+        "code": "DEV",
+        "description": "PS; Vet"
       }
     },
     {
@@ -25896,8 +26046,8 @@
         "jerseyNumber": "39"
       },
       "status": {
-        "code": "CUT",
-        "description": "Active"
+        "code": "DEV",
+        "description": "PS; Vet"
       }
     },
     {
@@ -26748,8 +26898,8 @@
         "jerseyNumber": "21"
       },
       "status": {
-        "code": "CUT",
-        "description": "Active"
+        "code": "DEV",
+        "description": "PS; Vet"
       }
     },
     {
@@ -27700,8 +27850,8 @@
         "jerseyNumber": "84"
       },
       "status": {
-        "code": "CUT",
-        "description": "Waivers/No Rec."
+        "code": "DEV",
+        "description": "Practice Squad"
       }
     },
     {
@@ -29654,8 +29804,8 @@
         "jerseyNumber": "82"
       },
       "status": {
-        "code": "CUT",
-        "description": "Waivers/No Rec."
+        "code": "DEV",
+        "description": "PS; Exc"
       }
     },
     {
@@ -30256,8 +30406,8 @@
         "jerseyNumber": "85"
       },
       "status": {
-        "code": "CUT",
-        "description": "Active"
+        "code": "DEV",
+        "description": "PS; Vet"
       }
     },
     {
@@ -30406,8 +30556,8 @@
         "jerseyNumber": "19"
       },
       "status": {
-        "code": "CUT",
-        "description": "Waivers/No Rec."
+        "code": "DEV",
+        "description": "Practice Squad"
       }
     },
     {
@@ -30556,8 +30706,8 @@
         "jerseyNumber": "35"
       },
       "status": {
-        "code": "CUT",
-        "description": "Active"
+        "code": "DEV",
+        "description": "PS; Vet"
       }
     },
     {
@@ -30857,7 +31007,7 @@
       },
       "status": {
         "code": "CUT",
-        "description": "Active"
+        "description": "Waivers/No Rec."
       }
     },
     {
@@ -31660,6 +31810,56 @@
       "status": {
         "code": "ACT",
         "description": "Active"
+      }
+    },
+    {
+      "id": "m4lg68kvw8",
+      "ids": {
+        "prism": "m4lg68kvw8",
+        "espn": "4361100",
+        "fantasypros": "26436",
+        "fantasyprosSlug": "jack-westover",
+        "gsis": "00-0039305",
+        "nffc": "21705",
+        "pfr": "WestJa01",
+        "sleeper": "12045",
+        "sportradar": "22926aa0-0725-11ef-bcfc-752f39cb55fa",
+        "wikidata": "Q124154413",
+        "yahoo": "41352"
+      },
+      "names": {
+        "boxscore": "J.Westover",
+        "givenFirst": "Jack",
+        "firstLast": "Jack Westover",
+        "lastFirst": "Westover, Jack",
+        "lastFirstInit": "Westover, J",
+        "givenFull": "Jack Westover",
+        "suffix": null,
+        "display": "Jack Westover",
+        "last": "Westover",
+        "first": "Jack",
+        "middle": null
+      },
+      "profile": {
+        "birthDate": "1999-06-09",
+        "birthYear": "1999",
+        "birthMonth": "06",
+        "birthDay": "09",
+        "height": "75",
+        "weight": "252",
+        "rookieYear": "2024"
+      },
+      "position": {
+        "abbreviation": "TE",
+        "group": "TE"
+      },
+      "team": {
+        "abbreviation": "WAS",
+        "jerseyNumber": null
+      },
+      "status": {
+        "code": "DEV",
+        "description": "Waivers/No Rec."
       }
     },
     {
