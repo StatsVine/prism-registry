@@ -7095,8 +7095,8 @@
       "abbreviation": "C"
     },
     "team": {
-      "mlb_id": 145,
-      "abbreviation": "CWS"
+      "mlb_id": 144,
+      "abbreviation": "ATL"
     },
     "status": {
       "code": null,
@@ -19291,8 +19291,8 @@
       "abbreviation": "SEA"
     },
     "status": {
-      "code": "A",
-      "description": "Active"
+      "code": "FME",
+      "description": "Family Medical Emergency"
     }
   },
   "18373": {
@@ -29803,8 +29803,8 @@
       "abbreviation": "SEA"
     },
     "status": {
-      "code": null,
-      "description": null
+      "code": "A",
+      "description": "Active"
     }
   },
   "20333": {
@@ -39303,8 +39303,8 @@
       "abbreviation": "3B"
     },
     "team": {
-      "mlb_id": 137,
-      "abbreviation": "SF"
+      "mlb_id": 120,
+      "abbreviation": "WSH"
     },
     "status": {
       "code": null,
@@ -42667,8 +42667,8 @@
       "abbreviation": "SF"
     },
     "status": {
-      "code": "D15",
-      "description": "Injured 15-Day"
+      "code": "D60",
+      "description": "Injured 60-Day"
     }
   },
   "23550": {
@@ -43383,12 +43383,12 @@
       "abbreviation": "3B"
     },
     "team": {
-      "mlb_id": 146,
+      "mlb_id": "MIA",
       "abbreviation": "MIA"
     },
     "status": {
-      "code": "A",
-      "description": "Active"
+      "code": null,
+      "description": null
     }
   },
   "23788": {
@@ -47803,8 +47803,8 @@
       "abbreviation": "PIT"
     },
     "status": {
-      "code": "A",
-      "description": "Active"
+      "code": "RM",
+      "description": "Reassigned to Minors"
     }
   },
   "25005": {
@@ -52935,8 +52935,8 @@
       "abbreviation": "P"
     },
     "team": {
-      "mlb_id": 134,
-      "abbreviation": "PIT"
+      "mlb_id": 116,
+      "abbreviation": "DET"
     },
     "status": {
       "code": null,
@@ -63691,8 +63691,8 @@
       "abbreviation": "MIA"
     },
     "status": {
-      "code": "RM",
-      "description": "Reassigned to Minors"
+      "code": "A",
+      "description": "Active"
     }
   },
   "27974": {
@@ -65131,8 +65131,8 @@
       "abbreviation": "PIT"
     },
     "status": {
-      "code": "RM",
-      "description": "Reassigned to Minors"
+      "code": "A",
+      "description": "Active"
     }
   },
   "29000": {
@@ -68151,12 +68151,12 @@
       "abbreviation": "3B"
     },
     "team": {
-      "mlb_id": 111,
-      "abbreviation": "BOS"
+      "mlb_id": 137,
+      "abbreviation": "SF"
     },
     "status": {
-      "code": null,
-      "description": null
+      "code": "RM",
+      "description": "Reassigned to Minors"
     }
   },
   "29794": {
@@ -76503,12 +76503,12 @@
       "abbreviation": "P"
     },
     "team": {
-      "mlb_id": 110,
-      "abbreviation": "BAL"
+      "mlb_id": 121,
+      "abbreviation": "NYM"
     },
     "status": {
-      "code": null,
-      "description": null
+      "code": "RM",
+      "description": "Reassigned to Minors"
     }
   },
   "31701": {
@@ -79391,6 +79391,54 @@
       "description": "Active"
     }
   },
+  "32051": {
+    "id": "pewrbrfmlh",
+    "ids": {
+      "prism": "pewrbrfmlh",
+      "bbref": "salaset01",
+      "fangraphs": "32051",
+      "mlbam": "806956",
+      "nfbc": "11949",
+      "sfbb": "salaset01",
+      "yahoo": "62225"
+    },
+    "names": {
+      "boxscore": "Salas",
+      "givenFirst": "Ethan",
+      "givenFirstMiddle": "Ethan Gabriel",
+      "firstLast": "Ethan Salas",
+      "lastFirst": "Salas, Ethan",
+      "lastFirstInit": "Salas, E",
+      "givenFull": "Ethan Salas",
+      "last": "Salas",
+      "first": "Ethan",
+      "middle": "Gabriel"
+    },
+    "profile": {
+      "birthDate": "2006-6-1",
+      "birthYear": "2006",
+      "birthMonth": "6",
+      "birthDay": "1",
+      "birthCity": "Kissimmee",
+      "birthState": "FL",
+      "birthCountry": "USA",
+      "batHand": "L",
+      "fieldHand": "R",
+      "debutDate": "2026-09-02"
+    },
+    "position": {
+      "code": "2",
+      "abbreviation": "C"
+    },
+    "team": {
+      "mlb_id": 135,
+      "abbreviation": "SD"
+    },
+    "status": {
+      "code": "A",
+      "description": "Active"
+    }
+  },
   "32053": {
     "id": "g6ecq5jjph",
     "ids": {
@@ -79479,12 +79527,12 @@
       "abbreviation": "C"
     },
     "team": {
-      "mlb_id": 121,
-      "abbreviation": "NYM"
+      "mlb_id": 134,
+      "abbreviation": "PIT"
     },
     "status": {
-      "code": "RM",
-      "description": "Reassigned to Minors"
+      "code": null,
+      "description": null
     }
   },
   "32056": {
@@ -83515,8 +83563,8 @@
       "abbreviation": "PIT"
     },
     "status": {
-      "code": "RM",
-      "description": "Reassigned to Minors"
+      "code": "A",
+      "description": "Active"
     }
   },
   "33876": {
@@ -87067,8 +87115,8 @@
       "abbreviation": "PIT"
     },
     "status": {
-      "code": "A",
-      "description": "Active"
+      "code": "D15",
+      "description": "Injured 15-Day"
     }
   },
   "9132": {
@@ -87835,8 +87883,8 @@
       "abbreviation": "SEA"
     },
     "status": {
-      "code": "RM",
-      "description": "Reassigned to Minors"
+      "code": "D60",
+      "description": "Injured 60-Day"
     }
   },
   "sa3009629": {
@@ -90141,54 +90189,6 @@
     "status": {
       "code": "RM",
       "description": "Reassigned to Minors"
-    }
-  },
-  "sa3020881": {
-    "id": "pewrbrfmlh",
-    "ids": {
-      "prism": "pewrbrfmlh",
-      "bbref": "salaset01",
-      "fangraphs": "sa3020881",
-      "mlbam": "806956",
-      "nfbc": "11949",
-      "sfbb": "salaset01",
-      "yahoo": "62225"
-    },
-    "names": {
-      "boxscore": "Salas",
-      "givenFirst": "Ethan",
-      "givenFirstMiddle": "Ethan Gabriel",
-      "firstLast": "Ethan Salas",
-      "lastFirst": "Salas, Ethan",
-      "lastFirstInit": "Salas, E",
-      "givenFull": "Ethan Salas",
-      "last": "Salas",
-      "first": "Ethan",
-      "middle": "Gabriel"
-    },
-    "profile": {
-      "birthDate": "2006-6-1",
-      "birthYear": "2006",
-      "birthMonth": "6",
-      "birthDay": "1",
-      "birthCity": "Kissimmee",
-      "birthState": "FL",
-      "birthCountry": "USA",
-      "batHand": "L",
-      "fieldHand": "R",
-      "debutDate": "2026-09-02"
-    },
-    "position": {
-      "code": "2",
-      "abbreviation": "C"
-    },
-    "team": {
-      "mlb_id": 135,
-      "abbreviation": "SD"
-    },
-    "status": {
-      "code": "A",
-      "description": "Active"
     }
   },
   "sa3021845": {
