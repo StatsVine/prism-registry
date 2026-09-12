@@ -1446,7 +1446,7 @@
     },
     "status": {
       "code": "ACT",
-      "description": "Active"
+      "description": "Inactive"
     }
   },
   "0db29717-c724-4603-8e5e-d10ef35cb842": {
@@ -1746,7 +1746,7 @@
     },
     "status": {
       "code": "ACT",
-      "description": "Active"
+      "description": "Inactive/3rd QB"
     }
   },
   "0ff54d6c-4d2a-4974-9815-b889e7dc293e": {
@@ -3146,7 +3146,7 @@
     },
     "status": {
       "code": "ACT",
-      "description": "Active"
+      "description": "Inactive/3rd QB"
     }
   },
   "1c50997f-c56e-47f9-a750-33ab100ed28b": {
@@ -5996,7 +5996,7 @@
     },
     "status": {
       "code": "ACT",
-      "description": "Active"
+      "description": "Inactive/3rd QB"
     }
   },
   "2ec24c7a-8d5d-453a-b45d-03eb27c645d0": {
@@ -6645,8 +6645,8 @@
       "jerseyNumber": "33"
     },
     "status": {
-      "code": "ACT",
-      "description": "Active"
+      "code": "DEV",
+      "description": "PS; Vet"
     }
   },
   "31f4645a-7ccb-4633-8580-2fca361beb4f": {
@@ -13346,7 +13346,7 @@
     },
     "status": {
       "code": "ACT",
-      "description": "Active"
+      "description": "Inactive"
     }
   },
   "66f7bbe1-eb89-4b48-83db-d947b04ff1fd": {
@@ -13446,7 +13446,7 @@
     },
     "status": {
       "code": "ACT",
-      "description": "Active"
+      "description": "Inactive"
     }
   },
   "6752915f-efe5-473d-a520-78cadfab6dda": {
@@ -13696,7 +13696,7 @@
     },
     "status": {
       "code": "ACT",
-      "description": "Active"
+      "description": "Inactive"
     }
   },
   "68d72fe0-79b2-4fdb-afd5-6c79676e77f3": {
@@ -14343,6 +14343,56 @@
     "team": {
       "abbreviation": "CHI",
       "jerseyNumber": "25"
+    },
+    "status": {
+      "code": "ACT",
+      "description": "Active"
+    }
+  },
+  "6f124753-5c6c-454b-97c7-0f9b4d14e7c2": {
+    "id": "efygw621f0",
+    "ids": {
+      "prism": "efygw621f0",
+      "espn": "3047876",
+      "fantasypros": "18166",
+      "fantasyprosSlug": "khadarel-hodge",
+      "gsis": "00-0034854",
+      "nffc": "16960",
+      "pfr": "HodgKh00",
+      "sleeper": "5773",
+      "sportradar": "6f124753-5c6c-454b-97c7-0f9b4d14e7c2",
+      "wikidata": "Q57242217",
+      "yahoo": "31769"
+    },
+    "names": {
+      "boxscore": "K.Hodge",
+      "givenFirst": "KhaDarel",
+      "firstLast": "KhaDarel Hodge",
+      "lastFirst": "Hodge, KhaDarel",
+      "lastFirstInit": "Hodge, K",
+      "givenFull": "KhaDarel Hodge",
+      "suffix": null,
+      "display": "KhaDarel Hodge",
+      "last": "Hodge",
+      "first": "KhaDarel",
+      "middle": null
+    },
+    "profile": {
+      "birthDate": "1994-01-03",
+      "birthYear": "1994",
+      "birthMonth": "01",
+      "birthDay": "03",
+      "height": "74",
+      "weight": "210",
+      "rookieYear": "2018"
+    },
+    "position": {
+      "abbreviation": "WR",
+      "group": "WR"
+    },
+    "team": {
+      "abbreviation": "SF",
+      "jerseyNumber": "0"
     },
     "status": {
       "code": "ACT",
@@ -16246,7 +16296,7 @@
     },
     "status": {
       "code": "ACT",
-      "description": "Active"
+      "description": "Inactive"
     }
   },
   "7e397190-ca24-11ec-9f1c-b7114d38a85b": {
@@ -22396,7 +22446,7 @@
     },
     "status": {
       "code": "ACT",
-      "description": "Active"
+      "description": "Inactive/3rd QB"
     }
   },
   "b17d816a-b687-488f-ac03-7dcba5aae0b6": {
@@ -22596,7 +22646,7 @@
     },
     "status": {
       "code": "ACT",
-      "description": "Active"
+      "description": "Inactive"
     }
   },
   "b37c621e-1125-4c35-bea0-fcabb1527060": {
@@ -23996,7 +24046,7 @@
     },
     "status": {
       "code": "ACT",
-      "description": "Active"
+      "description": "Inactive"
     }
   },
   "bdb77276-7191-4454-85c2-e1693a33d709": {
@@ -24346,7 +24396,7 @@
     },
     "status": {
       "code": "ACT",
-      "description": "Active"
+      "description": "Inactive"
     }
   },
   "c17f53c0-25de-11f0-b2c4-1fd68bf02b2c": {
@@ -26141,12 +26191,12 @@
       "group": "TE"
     },
     "team": {
-      "abbreviation": "MIA",
+      "abbreviation": "MIN",
       "jerseyNumber": "89"
     },
     "status": {
-      "code": "RES",
-      "description": "R/Injured"
+      "code": "ACT",
+      "description": "Waivers/No Rec."
     }
   },
   "cf15be8f-9117-4531-a517-2b9c7cb3e9e1": {
@@ -27346,7 +27396,7 @@
     },
     "status": {
       "code": "ACT",
-      "description": "Active"
+      "description": "Inactive"
     }
   },
   "d9f8b92b-69d4-4d83-9bf2-106ee523efed": {
@@ -27595,8 +27645,8 @@
       "jerseyNumber": "85"
     },
     "status": {
-      "code": "DEV",
-      "description": "PS; Vet"
+      "code": "ACT",
+      "description": "Active"
     }
   },
   "dc83f7af-7b30-4c4a-9c93-f67bd8db954b": {
@@ -28445,8 +28495,8 @@
       "jerseyNumber": "34"
     },
     "status": {
-      "code": "ACT",
-      "description": "Active"
+      "code": "DEV",
+      "description": "Practice Squad"
     }
   },
   "e30ac2bf-f359-4913-8e92-0a97a7ebf289": {

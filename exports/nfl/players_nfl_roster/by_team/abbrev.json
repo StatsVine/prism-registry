@@ -10066,8 +10066,8 @@
         "jerseyNumber": "85"
       },
       "status": {
-        "code": "DEV",
-        "description": "PS; Vet"
+        "code": "ACT",
+        "description": "Active"
       }
     },
     {
@@ -15679,7 +15679,7 @@
       },
       "status": {
         "code": "ACT",
-        "description": "Active"
+        "description": "Inactive/3rd QB"
       }
     },
     {
@@ -15879,7 +15879,7 @@
       },
       "status": {
         "code": "ACT",
-        "description": "Active"
+        "description": "Inactive"
       }
     },
     {
@@ -16029,7 +16029,7 @@
       },
       "status": {
         "code": "ACT",
-        "description": "Active"
+        "description": "Inactive"
       }
     },
     {
@@ -16529,7 +16529,7 @@
       },
       "status": {
         "code": "ACT",
-        "description": "Active"
+        "description": "Inactive"
       }
     },
     {
@@ -18639,56 +18639,6 @@
       }
     },
     {
-      "id": "2s8ghle4q4",
-      "ids": {
-        "prism": "2s8ghle4q4",
-        "espn": "4373030",
-        "fantasypros": "25349",
-        "fantasyprosSlug": "ben-sims",
-        "gsis": "00-0038809",
-        "nffc": "20639",
-        "pfr": "SimsBe00",
-        "sleeper": "11082",
-        "sportradar": "cef32a80-e761-11ed-ac46-e3b4ebd723e5",
-        "wikidata": "Q122110104",
-        "yahoo": "40335"
-      },
-      "names": {
-        "boxscore": "B.Sims",
-        "givenFirst": "Ben",
-        "firstLast": "Ben Sims",
-        "lastFirst": "Sims, Ben",
-        "lastFirstInit": "Sims, B",
-        "givenFull": "Ben Sims",
-        "suffix": null,
-        "display": "Ben Sims",
-        "last": "Sims",
-        "first": "Ben",
-        "middle": null
-      },
-      "profile": {
-        "birthDate": "2000-05-16",
-        "birthYear": "2000",
-        "birthMonth": "05",
-        "birthDay": "16",
-        "height": "77",
-        "weight": "250",
-        "rookieYear": "2023"
-      },
-      "position": {
-        "abbreviation": "TE",
-        "group": "TE"
-      },
-      "team": {
-        "abbreviation": "MIA",
-        "jerseyNumber": "89"
-      },
-      "status": {
-        "code": "RES",
-        "description": "R/Injured"
-      }
-    },
-    {
       "id": "6cr065ht5d",
       "ids": {
         "prism": "6cr065ht5d",
@@ -19540,6 +19490,56 @@
     }
   ],
   "MIN": [
+    {
+      "id": "2s8ghle4q4",
+      "ids": {
+        "prism": "2s8ghle4q4",
+        "espn": "4373030",
+        "fantasypros": "25349",
+        "fantasyprosSlug": "ben-sims",
+        "gsis": "00-0038809",
+        "nffc": "20639",
+        "pfr": "SimsBe00",
+        "sleeper": "11082",
+        "sportradar": "cef32a80-e761-11ed-ac46-e3b4ebd723e5",
+        "wikidata": "Q122110104",
+        "yahoo": "40335"
+      },
+      "names": {
+        "boxscore": "B.Sims",
+        "givenFirst": "Ben",
+        "firstLast": "Ben Sims",
+        "lastFirst": "Sims, Ben",
+        "lastFirstInit": "Sims, B",
+        "givenFull": "Ben Sims",
+        "suffix": null,
+        "display": "Ben Sims",
+        "last": "Sims",
+        "first": "Ben",
+        "middle": null
+      },
+      "profile": {
+        "birthDate": "2000-05-16",
+        "birthYear": "2000",
+        "birthMonth": "05",
+        "birthDay": "16",
+        "height": "77",
+        "weight": "250",
+        "rookieYear": "2023"
+      },
+      "position": {
+        "abbreviation": "TE",
+        "group": "TE"
+      },
+      "team": {
+        "abbreviation": "MIN",
+        "jerseyNumber": "89"
+      },
+      "status": {
+        "code": "ACT",
+        "description": "Waivers/No Rec."
+      }
+    },
     {
       "id": "3lcg8zg194",
       "ids": {
@@ -20839,7 +20839,7 @@
       },
       "status": {
         "code": "ACT",
-        "description": "Active"
+        "description": "Inactive"
       }
     },
     {
@@ -21189,7 +21189,7 @@
       },
       "status": {
         "code": "ACT",
-        "description": "Active"
+        "description": "Inactive/3rd QB"
       }
     },
     {
@@ -21289,7 +21289,7 @@
       },
       "status": {
         "code": "ACT",
-        "description": "Active"
+        "description": "Inactive"
       }
     },
     {
@@ -21438,8 +21438,8 @@
         "jerseyNumber": "34"
       },
       "status": {
-        "code": "ACT",
-        "description": "Active"
+        "code": "DEV",
+        "description": "Practice Squad"
       }
     },
     {
@@ -27601,7 +27601,7 @@
       },
       "status": {
         "code": "ACT",
-        "description": "Active"
+        "description": "Inactive/3rd QB"
       }
     },
     {
@@ -27900,8 +27900,8 @@
         "jerseyNumber": "33"
       },
       "status": {
-        "code": "ACT",
-        "description": "Active"
+        "code": "DEV",
+        "description": "PS; Vet"
       }
     },
     {
@@ -28001,7 +28001,7 @@
       },
       "status": {
         "code": "ACT",
-        "description": "Active"
+        "description": "Inactive"
       }
     },
     {
@@ -28151,7 +28151,7 @@
       },
       "status": {
         "code": "ACT",
-        "description": "Active"
+        "description": "Inactive"
       }
     },
     {
@@ -28453,7 +28453,7 @@
       },
       "status": {
         "code": "ACT",
-        "description": "Active"
+        "description": "Inactive"
       }
     },
     {
@@ -28853,7 +28853,7 @@
       },
       "status": {
         "code": "ACT",
-        "description": "Active"
+        "description": "Inactive/3rd QB"
       }
     },
     {
@@ -28900,6 +28900,56 @@
       "team": {
         "abbreviation": "SF",
         "jerseyNumber": "88"
+      },
+      "status": {
+        "code": "ACT",
+        "description": "Active"
+      }
+    },
+    {
+      "id": "efygw621f0",
+      "ids": {
+        "prism": "efygw621f0",
+        "espn": "3047876",
+        "fantasypros": "18166",
+        "fantasyprosSlug": "khadarel-hodge",
+        "gsis": "00-0034854",
+        "nffc": "16960",
+        "pfr": "HodgKh00",
+        "sleeper": "5773",
+        "sportradar": "6f124753-5c6c-454b-97c7-0f9b4d14e7c2",
+        "wikidata": "Q57242217",
+        "yahoo": "31769"
+      },
+      "names": {
+        "boxscore": "K.Hodge",
+        "givenFirst": "KhaDarel",
+        "firstLast": "KhaDarel Hodge",
+        "lastFirst": "Hodge, KhaDarel",
+        "lastFirstInit": "Hodge, K",
+        "givenFull": "KhaDarel Hodge",
+        "suffix": null,
+        "display": "KhaDarel Hodge",
+        "last": "Hodge",
+        "first": "KhaDarel",
+        "middle": null
+      },
+      "profile": {
+        "birthDate": "1994-01-03",
+        "birthYear": "1994",
+        "birthMonth": "01",
+        "birthDay": "03",
+        "height": "74",
+        "weight": "210",
+        "rookieYear": "2018"
+      },
+      "position": {
+        "abbreviation": "WR",
+        "group": "WR"
+      },
+      "team": {
+        "abbreviation": "SF",
+        "jerseyNumber": "0"
       },
       "status": {
         "code": "ACT",
@@ -29153,7 +29203,7 @@
       },
       "status": {
         "code": "ACT",
-        "description": "Active"
+        "description": "Inactive"
       }
     },
     {

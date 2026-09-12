@@ -10076,6 +10076,56 @@
         }
       },
       {
+        "id": "hfpk6r5ykr",
+        "ids": {
+          "prism": "hfpk6r5ykr",
+          "espn": "3126997",
+          "fantasypros": "19052",
+          "fantasyprosSlug": "tom-kennedy",
+          "gsis": "00-0035544",
+          "nffc": "17838",
+          "pfr": "KennTo01",
+          "sleeper": "6588",
+          "sportradar": "dc51b38c-dc82-44ee-a88b-764d681ce58a",
+          "wikidata": "Q85809979",
+          "yahoo": "32561"
+        },
+        "names": {
+          "boxscore": "T.Kennedy",
+          "givenFirst": "Tom",
+          "firstLast": "Tom Kennedy",
+          "lastFirst": "Kennedy, Tom",
+          "lastFirstInit": "Kennedy, T",
+          "givenFull": "Tom Kennedy",
+          "suffix": null,
+          "display": "Tom Kennedy",
+          "last": "Kennedy",
+          "first": "Tom",
+          "middle": null
+        },
+        "profile": {
+          "birthDate": "1996-07-29",
+          "birthYear": "1996",
+          "birthMonth": "07",
+          "birthDay": "29",
+          "height": "70",
+          "weight": "195",
+          "rookieYear": "2019"
+        },
+        "position": {
+          "abbreviation": "WR",
+          "group": "WR"
+        },
+        "team": {
+          "abbreviation": "DET",
+          "jerseyNumber": "85"
+        },
+        "status": {
+          "code": "ACT",
+          "description": "Active"
+        }
+      },
+      {
         "id": "hxc15qqtm4",
         "ids": {
           "prism": "hxc15qqtm4",
@@ -10377,56 +10427,6 @@
       }
     ],
     "DEV": [
-      {
-        "id": "hfpk6r5ykr",
-        "ids": {
-          "prism": "hfpk6r5ykr",
-          "espn": "3126997",
-          "fantasypros": "19052",
-          "fantasyprosSlug": "tom-kennedy",
-          "gsis": "00-0035544",
-          "nffc": "17838",
-          "pfr": "KennTo01",
-          "sleeper": "6588",
-          "sportradar": "dc51b38c-dc82-44ee-a88b-764d681ce58a",
-          "wikidata": "Q85809979",
-          "yahoo": "32561"
-        },
-        "names": {
-          "boxscore": "T.Kennedy",
-          "givenFirst": "Tom",
-          "firstLast": "Tom Kennedy",
-          "lastFirst": "Kennedy, Tom",
-          "lastFirstInit": "Kennedy, T",
-          "givenFull": "Tom Kennedy",
-          "suffix": null,
-          "display": "Tom Kennedy",
-          "last": "Kennedy",
-          "first": "Tom",
-          "middle": null
-        },
-        "profile": {
-          "birthDate": "1996-07-29",
-          "birthYear": "1996",
-          "birthMonth": "07",
-          "birthDay": "29",
-          "height": "70",
-          "weight": "195",
-          "rookieYear": "2019"
-        },
-        "position": {
-          "abbreviation": "WR",
-          "group": "WR"
-        },
-        "team": {
-          "abbreviation": "DET",
-          "jerseyNumber": "85"
-        },
-        "status": {
-          "code": "DEV",
-          "description": "PS; Vet"
-        }
-      },
       {
         "id": "lb6q42mhhh",
         "ids": {
@@ -15770,7 +15770,7 @@
         },
         "status": {
           "code": "ACT",
-          "description": "Active"
+          "description": "Inactive/3rd QB"
         }
       },
       {
@@ -15970,7 +15970,7 @@
         },
         "status": {
           "code": "ACT",
-          "description": "Active"
+          "description": "Inactive"
         }
       },
       {
@@ -16120,7 +16120,7 @@
         },
         "status": {
           "code": "ACT",
-          "description": "Active"
+          "description": "Inactive"
         }
       },
       {
@@ -16620,7 +16620,7 @@
         },
         "status": {
           "code": "ACT",
-          "description": "Active"
+          "description": "Inactive"
         }
       },
       {
@@ -19593,8 +19593,10 @@
           "description": "Active"
         }
       }
-    ],
-    "RES": [
+    ]
+  },
+  "MIN": {
+    "ACT": [
       {
         "id": "2s8ghle4q4",
         "ids": {
@@ -19637,18 +19639,14 @@
           "group": "TE"
         },
         "team": {
-          "abbreviation": "MIA",
+          "abbreviation": "MIN",
           "jerseyNumber": "89"
         },
         "status": {
-          "code": "RES",
-          "description": "R/Injured"
+          "code": "ACT",
+          "description": "Waivers/No Rec."
         }
-      }
-    ]
-  },
-  "MIN": {
-    "ACT": [
+      },
       {
         "id": "3lcg8zg194",
         "ids": {
@@ -20956,7 +20954,7 @@
         },
         "status": {
           "code": "ACT",
-          "description": "Active"
+          "description": "Inactive"
         }
       },
       {
@@ -21306,7 +21304,7 @@
         },
         "status": {
           "code": "ACT",
-          "description": "Active"
+          "description": "Inactive/3rd QB"
         }
       },
       {
@@ -21406,7 +21404,7 @@
         },
         "status": {
           "code": "ACT",
-          "description": "Active"
+          "description": "Inactive"
         }
       },
       {
@@ -21503,56 +21501,6 @@
         "team": {
           "abbreviation": "NE",
           "jerseyNumber": "36"
-        },
-        "status": {
-          "code": "ACT",
-          "description": "Active"
-        }
-      },
-      {
-        "id": "qne54t8c0d",
-        "ids": {
-          "prism": "qne54t8c0d",
-          "espn": "4698253",
-          "fantasypros": "27498",
-          "fantasyprosSlug": "lan-larison",
-          "gsis": "00-0040568",
-          "nffc": "22623",
-          "pfr": "LariLa00",
-          "sleeper": "12969",
-          "sportradar": "e2d48330-251e-11f0-aae1-fdfd5aa92d71",
-          "wikidata": "Q134136921",
-          "yahoo": "42284"
-        },
-        "names": {
-          "boxscore": "L.Larison",
-          "givenFirst": "Lan",
-          "firstLast": "Lan Larison",
-          "lastFirst": "Larison, Lan",
-          "lastFirstInit": "Larison, L",
-          "givenFull": "Lan Larison",
-          "suffix": null,
-          "display": "Lan Larison",
-          "last": "Larison",
-          "first": "Lan",
-          "middle": null
-        },
-        "profile": {
-          "birthDate": "2001-10-11",
-          "birthYear": "2001",
-          "birthMonth": "10",
-          "birthDay": "11",
-          "height": "71",
-          "weight": "209",
-          "rookieYear": "2025"
-        },
-        "position": {
-          "abbreviation": "RB",
-          "group": "RB"
-        },
-        "team": {
-          "abbreviation": "NE",
-          "jerseyNumber": "34"
         },
         "status": {
           "code": "ACT",
@@ -21707,6 +21655,58 @@
         "status": {
           "code": "ACT",
           "description": "Active"
+        }
+      }
+    ],
+    "DEV": [
+      {
+        "id": "qne54t8c0d",
+        "ids": {
+          "prism": "qne54t8c0d",
+          "espn": "4698253",
+          "fantasypros": "27498",
+          "fantasyprosSlug": "lan-larison",
+          "gsis": "00-0040568",
+          "nffc": "22623",
+          "pfr": "LariLa00",
+          "sleeper": "12969",
+          "sportradar": "e2d48330-251e-11f0-aae1-fdfd5aa92d71",
+          "wikidata": "Q134136921",
+          "yahoo": "42284"
+        },
+        "names": {
+          "boxscore": "L.Larison",
+          "givenFirst": "Lan",
+          "firstLast": "Lan Larison",
+          "lastFirst": "Larison, Lan",
+          "lastFirstInit": "Larison, L",
+          "givenFull": "Lan Larison",
+          "suffix": null,
+          "display": "Lan Larison",
+          "last": "Larison",
+          "first": "Lan",
+          "middle": null
+        },
+        "profile": {
+          "birthDate": "2001-10-11",
+          "birthYear": "2001",
+          "birthMonth": "10",
+          "birthDay": "11",
+          "height": "71",
+          "weight": "209",
+          "rookieYear": "2025"
+        },
+        "position": {
+          "abbreviation": "RB",
+          "group": "RB"
+        },
+        "team": {
+          "abbreviation": "NE",
+          "jerseyNumber": "34"
+        },
+        "status": {
+          "code": "DEV",
+          "description": "Practice Squad"
         }
       }
     ],
@@ -27704,7 +27704,7 @@
         },
         "status": {
           "code": "ACT",
-          "description": "Active"
+          "description": "Inactive/3rd QB"
         }
       },
       {
@@ -27858,56 +27858,6 @@
         }
       },
       {
-        "id": "q76vjl1rsd",
-        "ids": {
-          "prism": "q76vjl1rsd",
-          "espn": "4035693",
-          "fantasypros": "24214",
-          "fantasyprosSlug": "velus-jonesjr",
-          "gsis": "00-0037745",
-          "nffc": "19538",
-          "pfr": "JoneVe00",
-          "sleeper": "8223",
-          "sportradar": "318b263d-8910-4e46-afe3-5860092ab260",
-          "wikidata": "Q110866818",
-          "yahoo": "34027"
-        },
-        "names": {
-          "boxscore": "V.Jones",
-          "givenFirst": "Velus",
-          "firstLast": "Velus Jones",
-          "lastFirst": "Jones, Velus",
-          "lastFirstInit": "Jones, V",
-          "givenFull": "Velus Jones Jr.",
-          "suffix": "Jr.",
-          "display": "Velus Jones Jr.",
-          "last": "Jones",
-          "first": "Velus",
-          "middle": null
-        },
-        "profile": {
-          "birthDate": "1997-05-11",
-          "birthYear": "1997",
-          "birthMonth": "05",
-          "birthDay": "11",
-          "height": "72",
-          "weight": "204",
-          "rookieYear": "2022"
-        },
-        "position": {
-          "abbreviation": "WR",
-          "group": "WR"
-        },
-        "team": {
-          "abbreviation": "SEA",
-          "jerseyNumber": "33"
-        },
-        "status": {
-          "code": "ACT",
-          "description": "Active"
-        }
-      },
-      {
         "id": "rns539tb70",
         "ids": {
           "prism": "rns539tb70",
@@ -27954,7 +27904,7 @@
         },
         "status": {
           "code": "ACT",
-          "description": "Active"
+          "description": "Inactive"
         }
       },
       {
@@ -28104,7 +28054,7 @@
         },
         "status": {
           "code": "ACT",
-          "description": "Active"
+          "description": "Inactive"
         }
       },
       {
@@ -28311,6 +28261,56 @@
         "status": {
           "code": "DEV",
           "description": "Practice Squad"
+        }
+      },
+      {
+        "id": "q76vjl1rsd",
+        "ids": {
+          "prism": "q76vjl1rsd",
+          "espn": "4035693",
+          "fantasypros": "24214",
+          "fantasyprosSlug": "velus-jonesjr",
+          "gsis": "00-0037745",
+          "nffc": "19538",
+          "pfr": "JoneVe00",
+          "sleeper": "8223",
+          "sportradar": "318b263d-8910-4e46-afe3-5860092ab260",
+          "wikidata": "Q110866818",
+          "yahoo": "34027"
+        },
+        "names": {
+          "boxscore": "V.Jones",
+          "givenFirst": "Velus",
+          "firstLast": "Velus Jones",
+          "lastFirst": "Jones, Velus",
+          "lastFirstInit": "Jones, V",
+          "givenFull": "Velus Jones Jr.",
+          "suffix": "Jr.",
+          "display": "Velus Jones Jr.",
+          "last": "Jones",
+          "first": "Velus",
+          "middle": null
+        },
+        "profile": {
+          "birthDate": "1997-05-11",
+          "birthYear": "1997",
+          "birthMonth": "05",
+          "birthDay": "11",
+          "height": "72",
+          "weight": "204",
+          "rookieYear": "2022"
+        },
+        "position": {
+          "abbreviation": "WR",
+          "group": "WR"
+        },
+        "team": {
+          "abbreviation": "SEA",
+          "jerseyNumber": "33"
+        },
+        "status": {
+          "code": "DEV",
+          "description": "PS; Vet"
         }
       }
     ],
@@ -28566,7 +28566,7 @@
         },
         "status": {
           "code": "ACT",
-          "description": "Active"
+          "description": "Inactive"
         }
       },
       {
@@ -28966,7 +28966,7 @@
         },
         "status": {
           "code": "ACT",
-          "description": "Active"
+          "description": "Inactive/3rd QB"
         }
       },
       {
@@ -29013,6 +29013,56 @@
         "team": {
           "abbreviation": "SF",
           "jerseyNumber": "88"
+        },
+        "status": {
+          "code": "ACT",
+          "description": "Active"
+        }
+      },
+      {
+        "id": "efygw621f0",
+        "ids": {
+          "prism": "efygw621f0",
+          "espn": "3047876",
+          "fantasypros": "18166",
+          "fantasyprosSlug": "khadarel-hodge",
+          "gsis": "00-0034854",
+          "nffc": "16960",
+          "pfr": "HodgKh00",
+          "sleeper": "5773",
+          "sportradar": "6f124753-5c6c-454b-97c7-0f9b4d14e7c2",
+          "wikidata": "Q57242217",
+          "yahoo": "31769"
+        },
+        "names": {
+          "boxscore": "K.Hodge",
+          "givenFirst": "KhaDarel",
+          "firstLast": "KhaDarel Hodge",
+          "lastFirst": "Hodge, KhaDarel",
+          "lastFirstInit": "Hodge, K",
+          "givenFull": "KhaDarel Hodge",
+          "suffix": null,
+          "display": "KhaDarel Hodge",
+          "last": "Hodge",
+          "first": "KhaDarel",
+          "middle": null
+        },
+        "profile": {
+          "birthDate": "1994-01-03",
+          "birthYear": "1994",
+          "birthMonth": "01",
+          "birthDay": "03",
+          "height": "74",
+          "weight": "210",
+          "rookieYear": "2018"
+        },
+        "position": {
+          "abbreviation": "WR",
+          "group": "WR"
+        },
+        "team": {
+          "abbreviation": "SF",
+          "jerseyNumber": "0"
         },
         "status": {
           "code": "ACT",
@@ -29166,7 +29216,7 @@
         },
         "status": {
           "code": "ACT",
-          "description": "Active"
+          "description": "Inactive"
         }
       },
       {

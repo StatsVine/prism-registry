@@ -1846,7 +1846,7 @@
     },
     "status": {
       "code": "ACT",
-      "description": "Active"
+      "description": "Inactive/3rd QB"
     }
   },
   "ben-sims": {
@@ -1891,12 +1891,12 @@
       "group": "TE"
     },
     "team": {
-      "abbreviation": "MIA",
+      "abbreviation": "MIN",
       "jerseyNumber": "89"
     },
     "status": {
-      "code": "RES",
-      "description": "R/Injured"
+      "code": "ACT",
+      "description": "Waivers/No Rec."
     }
   },
   "ben-sinnott": {
@@ -5846,7 +5846,7 @@
     },
     "status": {
       "code": "ACT",
-      "description": "Active"
+      "description": "Inactive"
     }
   },
   "cj-stroud": {
@@ -9996,7 +9996,7 @@
     },
     "status": {
       "code": "ACT",
-      "description": "Active"
+      "description": "Inactive"
     }
   },
   "ej-jenkins": {
@@ -14196,7 +14196,7 @@
     },
     "status": {
       "code": "ACT",
-      "description": "Active"
+      "description": "Inactive/3rd QB"
     }
   },
   "jalen-nailor": {
@@ -17396,7 +17396,7 @@
     },
     "status": {
       "code": "ACT",
-      "description": "Active"
+      "description": "Inactive"
     }
   },
   "jordan-love": {
@@ -17546,7 +17546,7 @@
     },
     "status": {
       "code": "ACT",
-      "description": "Active"
+      "description": "Inactive"
     }
   },
   "jordan-whittington": {
@@ -19949,6 +19949,56 @@
       "description": "Active"
     }
   },
+  "khadarel-hodge": {
+    "id": "efygw621f0",
+    "ids": {
+      "prism": "efygw621f0",
+      "espn": "3047876",
+      "fantasypros": "18166",
+      "fantasyprosSlug": "khadarel-hodge",
+      "gsis": "00-0034854",
+      "nffc": "16960",
+      "pfr": "HodgKh00",
+      "sleeper": "5773",
+      "sportradar": "6f124753-5c6c-454b-97c7-0f9b4d14e7c2",
+      "wikidata": "Q57242217",
+      "yahoo": "31769"
+    },
+    "names": {
+      "boxscore": "K.Hodge",
+      "givenFirst": "KhaDarel",
+      "firstLast": "KhaDarel Hodge",
+      "lastFirst": "Hodge, KhaDarel",
+      "lastFirstInit": "Hodge, K",
+      "givenFull": "KhaDarel Hodge",
+      "suffix": null,
+      "display": "KhaDarel Hodge",
+      "last": "Hodge",
+      "first": "KhaDarel",
+      "middle": null
+    },
+    "profile": {
+      "birthDate": "1994-01-03",
+      "birthYear": "1994",
+      "birthMonth": "01",
+      "birthDay": "03",
+      "height": "74",
+      "weight": "210",
+      "rookieYear": "2018"
+    },
+    "position": {
+      "abbreviation": "WR",
+      "group": "WR"
+    },
+    "team": {
+      "abbreviation": "SF",
+      "jerseyNumber": "0"
+    },
+    "status": {
+      "code": "ACT",
+      "description": "Active"
+    }
+  },
   "khalil-shakir": {
     "id": "yf37phbdnr",
     "ids": {
@@ -20296,7 +20346,7 @@
     },
     "status": {
       "code": "ACT",
-      "description": "Active"
+      "description": "Inactive/3rd QB"
     }
   },
   "kyle-allen": {
@@ -20945,8 +20995,8 @@
       "jerseyNumber": "34"
     },
     "status": {
-      "code": "ACT",
-      "description": "Active"
+      "code": "DEV",
+      "description": "Practice Squad"
     }
   },
   "laquon-treadwell": {
@@ -22846,7 +22896,7 @@
     },
     "status": {
       "code": "ACT",
-      "description": "Active"
+      "description": "Inactive"
     }
   },
   "mecole-hardman": {
@@ -23996,7 +24046,7 @@
     },
     "status": {
       "code": "ACT",
-      "description": "Active"
+      "description": "Inactive"
     }
   },
   "nick-singleton": {
@@ -28745,8 +28795,8 @@
       "jerseyNumber": "85"
     },
     "status": {
-      "code": "DEV",
-      "description": "PS; Vet"
+      "code": "ACT",
+      "description": "Active"
     }
   },
   "tommy-devito": {
@@ -28946,7 +28996,7 @@
     },
     "status": {
       "code": "ACT",
-      "description": "Active"
+      "description": "Inactive"
     }
   },
   "travis-etienne": {
@@ -29296,7 +29346,7 @@
     },
     "status": {
       "code": "ACT",
-      "description": "Active"
+      "description": "Inactive"
     }
   },
   "trevor-etienne": {
@@ -29896,7 +29946,7 @@
     },
     "status": {
       "code": "ACT",
-      "description": "Active"
+      "description": "Inactive"
     }
   },
   "ty-chandler": {
@@ -30046,7 +30096,7 @@
     },
     "status": {
       "code": "ACT",
-      "description": "Active"
+      "description": "Inactive/3rd QB"
     }
   },
   "tyjae-spears": {
@@ -31095,8 +31145,8 @@
       "jerseyNumber": "33"
     },
     "status": {
-      "code": "ACT",
-      "description": "Active"
+      "code": "DEV",
+      "description": "PS; Vet"
     }
   },
   "wandale-robinson": {
