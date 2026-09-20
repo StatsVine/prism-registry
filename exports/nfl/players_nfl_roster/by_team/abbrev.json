@@ -2100,8 +2100,8 @@
         "jerseyNumber": "6"
       },
       "status": {
-        "code": "ACT",
-        "description": "Active"
+        "code": "RES",
+        "description": "R/Injured"
       }
     },
     {
@@ -3052,8 +3052,8 @@
         "jerseyNumber": "20"
       },
       "status": {
-        "code": "ACT",
-        "description": "Active"
+        "code": "DEV",
+        "description": "Practice Squad"
       }
     },
     {
@@ -3553,7 +3553,7 @@
       },
       "status": {
         "code": "ACT",
-        "description": "Active"
+        "description": "Inactive"
       }
     },
     {
@@ -3652,8 +3652,8 @@
         "jerseyNumber": null
       },
       "status": {
-        "code": "ACT",
-        "description": "Active"
+        "code": "DEV",
+        "description": "PS; Vet"
       }
     },
     {
@@ -3703,7 +3703,7 @@
       },
       "status": {
         "code": "ACT",
-        "description": "Active"
+        "description": "Inactive"
       }
     },
     {
@@ -4152,56 +4152,6 @@
       "team": {
         "abbreviation": "CAR",
         "jerseyNumber": "30"
-      },
-      "status": {
-        "code": "ACT",
-        "description": "Active"
-      }
-    },
-    {
-      "id": "5m30sny944",
-      "ids": {
-        "prism": "5m30sny944",
-        "espn": "4708486",
-        "fantasypros": "27294",
-        "fantasyprosSlug": "jimmy-horn-jr",
-        "gsis": "00-0040218",
-        "nffc": "22291",
-        "pfr": "HornJi00",
-        "sleeper": "12523",
-        "sportradar": "f15872a6-7bc1-41e4-a2cd-0a2fbc432bf7",
-        "wikidata": "Q122308579",
-        "yahoo": "41999"
-      },
-      "names": {
-        "boxscore": "J.Horn",
-        "givenFirst": "Jimmy",
-        "firstLast": "Jimmy Horn",
-        "lastFirst": "Horn, Jimmy",
-        "lastFirstInit": "Horn, J",
-        "givenFull": "Jimmy Horn Jr.",
-        "suffix": "Jr.",
-        "display": "Jimmy Horn Jr.",
-        "last": "Horn",
-        "first": "Jimmy",
-        "middle": null
-      },
-      "profile": {
-        "birthDate": "2002-09-12",
-        "birthYear": "2002",
-        "birthMonth": "09",
-        "birthDay": "12",
-        "height": "68",
-        "weight": "174",
-        "rookieYear": "2025"
-      },
-      "position": {
-        "abbreviation": "WR",
-        "group": "WR"
-      },
-      "team": {
-        "abbreviation": "CAR",
-        "jerseyNumber": "15"
       },
       "status": {
         "code": "ACT",
@@ -5106,8 +5056,8 @@
         "jerseyNumber": null
       },
       "status": {
-        "code": "ACT",
-        "description": "Active"
+        "code": "DEV",
+        "description": "Practice Squad"
       }
     },
     {
@@ -5756,8 +5706,8 @@
         "jerseyNumber": "81"
       },
       "status": {
-        "code": "ACT",
-        "description": "Active"
+        "code": "DEV",
+        "description": "Practice Squad"
       }
     },
     {
@@ -6158,8 +6108,8 @@
         "jerseyNumber": "87"
       },
       "status": {
-        "code": "ACT",
-        "description": "Active"
+        "code": "DEV",
+        "description": "PS; Vet"
       }
     },
     {
@@ -6960,8 +6910,58 @@
         "jerseyNumber": null
       },
       "status": {
+        "code": "ACT",
+        "description": "Active"
+      }
+    },
+    {
+      "id": "5m30sny944",
+      "ids": {
+        "prism": "5m30sny944",
+        "espn": "4708486",
+        "fantasypros": "27294",
+        "fantasyprosSlug": "jimmy-horn-jr",
+        "gsis": "00-0040218",
+        "nffc": "22291",
+        "pfr": "HornJi00",
+        "sleeper": "12523",
+        "sportradar": "f15872a6-7bc1-41e4-a2cd-0a2fbc432bf7",
+        "wikidata": "Q122308579",
+        "yahoo": "41999"
+      },
+      "names": {
+        "boxscore": "J.Horn",
+        "givenFirst": "Jimmy",
+        "firstLast": "Jimmy Horn",
+        "lastFirst": "Horn, Jimmy",
+        "lastFirstInit": "Horn, J",
+        "givenFull": "Jimmy Horn Jr.",
+        "suffix": "Jr.",
+        "display": "Jimmy Horn Jr.",
+        "last": "Horn",
+        "first": "Jimmy",
+        "middle": null
+      },
+      "profile": {
+        "birthDate": "2002-09-12",
+        "birthYear": "2002",
+        "birthMonth": "09",
+        "birthDay": "12",
+        "height": "68",
+        "weight": "174",
+        "rookieYear": "2025"
+      },
+      "position": {
+        "abbreviation": "WR",
+        "group": "WR"
+      },
+      "team": {
+        "abbreviation": "CLE",
+        "jerseyNumber": null
+      },
+      "status": {
         "code": "DEV",
-        "description": "PS; Vet"
+        "description": "PS; Exc"
       }
     },
     {
@@ -7110,8 +7110,8 @@
         "jerseyNumber": "22"
       },
       "status": {
-        "code": "ACT",
-        "description": "Active"
+        "code": "RES",
+        "description": "R/Injured"
       }
     },
     {
@@ -7465,56 +7465,6 @@
       }
     },
     {
-      "id": "k0s7m7592m",
-      "ids": {
-        "prism": "k0s7m7592m",
-        "espn": "4372019",
-        "fantasypros": "22921",
-        "fantasyprosSlug": "jerome-ford",
-        "gsis": "00-0037267",
-        "nffc": "19443",
-        "pfr": "FordJe00",
-        "sleeper": "8143",
-        "sportradar": "cdc61676-6592-43f9-a4a6-d29ce52ac8f4",
-        "wikidata": "Q108928936",
-        "yahoo": "34112"
-      },
-      "names": {
-        "boxscore": "J.Ford",
-        "givenFirst": "Jerome",
-        "firstLast": "Jerome Ford",
-        "lastFirst": "Ford, Jerome",
-        "lastFirstInit": "Ford, J",
-        "givenFull": "Jerome Ford",
-        "suffix": null,
-        "display": "Jerome Ford",
-        "last": "Ford",
-        "first": "Jerome",
-        "middle": null
-      },
-      "profile": {
-        "birthDate": "1999-09-12",
-        "birthYear": "1999",
-        "birthMonth": "09",
-        "birthDay": "12",
-        "height": "70",
-        "weight": "210",
-        "rookieYear": "2022"
-      },
-      "position": {
-        "abbreviation": "RB",
-        "group": "RB"
-      },
-      "team": {
-        "abbreviation": "CLE",
-        "jerseyNumber": "34"
-      },
-      "status": {
-        "code": "RES",
-        "description": "R/I; NOT 90"
-      }
-    },
-    {
       "id": "mhj74wzzb8",
       "ids": {
         "prism": "mhj74wzzb8",
@@ -7865,6 +7815,56 @@
       }
     },
     {
+      "id": "w4hbw6wjzw",
+      "ids": {
+        "prism": "w4hbw6wjzw",
+        "espn": "4570561",
+        "fantasypros": "23075",
+        "fantasyprosSlug": "eric-gray",
+        "gsis": "00-0038396",
+        "nffc": "19448",
+        "pfr": "GrayEr01",
+        "sleeper": "10223",
+        "sportradar": "dcc536c1-36f2-4e34-8028-ccf32d930018",
+        "wikidata": "Q105320431",
+        "yahoo": "40198"
+      },
+      "names": {
+        "boxscore": "E.Gray",
+        "givenFirst": "Eric",
+        "firstLast": "Eric Gray",
+        "lastFirst": "Gray, Eric",
+        "lastFirstInit": "Gray, E",
+        "givenFull": "Eric Gray",
+        "suffix": null,
+        "display": "Eric Gray",
+        "last": "Gray",
+        "first": "Eric",
+        "middle": null
+      },
+      "profile": {
+        "birthDate": "1999-11-04",
+        "birthYear": "1999",
+        "birthMonth": "11",
+        "birthDay": "04",
+        "height": "70",
+        "weight": "210",
+        "rookieYear": "2023"
+      },
+      "position": {
+        "abbreviation": "RB",
+        "group": "RB"
+      },
+      "team": {
+        "abbreviation": "CLE",
+        "jerseyNumber": null
+      },
+      "status": {
+        "code": "DEV",
+        "description": "PS; Vet"
+      }
+    },
+    {
       "id": "xc1cxd8cxh",
       "ids": {
         "prism": "xc1cxd8cxh",
@@ -7936,7 +7936,7 @@
         "lastFirst": "Concepcion, KC",
         "lastFirstInit": "Concepcion, K",
         "givenFull": "Kevin Concepcion",
-        "suffix": null,
+        "suffix": "Jr.",
         "display": "KC Concepcion",
         "last": "Concepcion",
         "first": "KC",
@@ -8012,8 +8012,8 @@
         "jerseyNumber": "25"
       },
       "status": {
-        "code": "ACT",
-        "description": "Active"
+        "code": "DEV",
+        "description": "Practice Squad"
       }
     },
     {
@@ -8817,56 +8817,6 @@
       }
     },
     {
-      "id": "xt0g9xz8e4",
-      "ids": {
-        "prism": "xt0g9xz8e4",
-        "espn": "4431562",
-        "fantasypros": "22928",
-        "fantasyprosSlug": "phil-mafah",
-        "gsis": "00-0040021",
-        "nffc": "22305",
-        "pfr": "MafaPh00",
-        "sleeper": "12738",
-        "sportradar": "54b97d06-1639-46a3-9dcc-67320687281d",
-        "wikidata": "Q123416724",
-        "yahoo": "42018"
-      },
-      "names": {
-        "boxscore": "P.Mafah",
-        "givenFirst": "Phil",
-        "firstLast": "Phil Mafah",
-        "lastFirst": "Mafah, Phil",
-        "lastFirstInit": "Mafah, P",
-        "givenFull": "Phil Mafah",
-        "suffix": null,
-        "display": "Phil Mafah",
-        "last": "Mafah",
-        "first": "Phil",
-        "middle": null
-      },
-      "profile": {
-        "birthDate": "2002-10-24",
-        "birthYear": "2002",
-        "birthMonth": "10",
-        "birthDay": "24",
-        "height": "73",
-        "weight": "232",
-        "rookieYear": "2025"
-      },
-      "position": {
-        "abbreviation": "RB",
-        "group": "RB"
-      },
-      "team": {
-        "abbreviation": "DAL",
-        "jerseyNumber": "37"
-      },
-      "status": {
-        "code": "ACT",
-        "description": "Waivers/No Rec."
-      }
-    },
-    {
       "id": "ykcfxcth9h",
       "ids": {
         "prism": "ykcfxcth9h",
@@ -9561,7 +9511,7 @@
       },
       "team": {
         "abbreviation": "DEN",
-        "jerseyNumber": "5"
+        "jerseyNumber": null
       },
       "status": {
         "code": "ACT",
@@ -14424,8 +14374,8 @@
         "jerseyNumber": "14"
       },
       "status": {
-        "code": "ACT",
-        "description": "Active"
+        "code": "DEV",
+        "description": "PS; Vet"
       }
     },
     {
@@ -15573,7 +15523,7 @@
       },
       "team": {
         "abbreviation": "KC",
-        "jerseyNumber": "39"
+        "jerseyNumber": "34"
       },
       "status": {
         "code": "DEV",
@@ -15979,7 +15929,7 @@
       },
       "status": {
         "code": "ACT",
-        "description": "Inactive/3rd QB"
+        "description": "Active"
       }
     },
     {
@@ -17080,8 +17030,8 @@
         "jerseyNumber": "84"
       },
       "status": {
-        "code": "ACT",
-        "description": "Active"
+        "code": "RES",
+        "description": "R/Injured"
       }
     },
     {
@@ -17432,6 +17382,56 @@
       "status": {
         "code": "ACT",
         "description": "Active"
+      }
+    },
+    {
+      "id": "new1v148yr",
+      "ids": {
+        "prism": "new1v148yr",
+        "espn": "3051738",
+        "fantasypros": "17528",
+        "fantasyprosSlug": "marquez-valdesscantling",
+        "gsis": "00-0034272",
+        "nffc": "16312",
+        "pfr": "ValdMa00",
+        "sleeper": "5086",
+        "sportradar": "e7f0a505-8060-403e-a3b3-9d4e88dda1dc",
+        "wikidata": "Q52290858",
+        "yahoo": "31144"
+      },
+      "names": {
+        "boxscore": "M.Valdes-Scantling",
+        "givenFirst": "Marquez",
+        "firstLast": "Marquez Valdes-Scantling",
+        "lastFirst": "Valdes-Scantling, Marquez",
+        "lastFirstInit": "Valdes-Scantling, M",
+        "givenFull": "Marquez Valdes-Scantling",
+        "suffix": null,
+        "display": "Marquez Valdes-Scantling",
+        "last": "Valdes-Scantling",
+        "first": "Marquez",
+        "middle": null
+      },
+      "profile": {
+        "birthDate": "1994-10-10",
+        "birthYear": "1994",
+        "birthMonth": "10",
+        "birthDay": "10",
+        "height": "76",
+        "weight": "206",
+        "rookieYear": "2018"
+      },
+      "position": {
+        "abbreviation": "WR",
+        "group": "WR"
+      },
+      "team": {
+        "abbreviation": "LAC",
+        "jerseyNumber": null
+      },
+      "status": {
+        "code": "DEV",
+        "description": "PS; Vet"
       }
     },
     {
@@ -18182,8 +18182,8 @@
         "jerseyNumber": "41"
       },
       "status": {
-        "code": "ACT",
-        "description": "Active"
+        "code": "DEV",
+        "description": "PS; Vet"
       }
     },
     {
@@ -18632,8 +18632,8 @@
         "jerseyNumber": null
       },
       "status": {
-        "code": "ACT",
-        "description": "Active"
+        "code": "DEV",
+        "description": "PS; Vet"
       }
     },
     {
@@ -19986,8 +19986,8 @@
         "jerseyNumber": "27"
       },
       "status": {
-        "code": "ACT",
-        "description": "Active"
+        "code": "RES",
+        "description": "R/Injured"
       }
     },
     {
@@ -20538,6 +20538,56 @@
       "status": {
         "code": "ACT",
         "description": "Active"
+      }
+    },
+    {
+      "id": "k0s7m7592m",
+      "ids": {
+        "prism": "k0s7m7592m",
+        "espn": "4372019",
+        "fantasypros": "22921",
+        "fantasyprosSlug": "jerome-ford",
+        "gsis": "00-0037267",
+        "nffc": "19443",
+        "pfr": "FordJe00",
+        "sleeper": "8143",
+        "sportradar": "cdc61676-6592-43f9-a4a6-d29ce52ac8f4",
+        "wikidata": "Q108928936",
+        "yahoo": "34112"
+      },
+      "names": {
+        "boxscore": "J.Ford",
+        "givenFirst": "Jerome",
+        "firstLast": "Jerome Ford",
+        "lastFirst": "Ford, Jerome",
+        "lastFirstInit": "Ford, J",
+        "givenFull": "Jerome Ford",
+        "suffix": null,
+        "display": "Jerome Ford",
+        "last": "Ford",
+        "first": "Jerome",
+        "middle": null
+      },
+      "profile": {
+        "birthDate": "1999-09-12",
+        "birthYear": "1999",
+        "birthMonth": "09",
+        "birthDay": "12",
+        "height": "70",
+        "weight": "210",
+        "rookieYear": "2022"
+      },
+      "position": {
+        "abbreviation": "RB",
+        "group": "RB"
+      },
+      "team": {
+        "abbreviation": "MIN",
+        "jerseyNumber": null
+      },
+      "status": {
+        "code": "DEV",
+        "description": "PS; Vet"
       }
     },
     {
@@ -21239,7 +21289,7 @@
       },
       "status": {
         "code": "ACT",
-        "description": "Inactive"
+        "description": "Active"
       }
     },
     {
@@ -21589,7 +21639,7 @@
       },
       "status": {
         "code": "ACT",
-        "description": "Inactive/3rd QB"
+        "description": "Active"
       }
     },
     {
@@ -21689,7 +21739,7 @@
       },
       "status": {
         "code": "ACT",
-        "description": "Inactive"
+        "description": "Active"
       }
     },
     {
@@ -22890,8 +22940,8 @@
         "jerseyNumber": "81"
       },
       "status": {
-        "code": "ACT",
-        "description": "Active"
+        "code": "DEV",
+        "description": "Practice Squad"
       }
     },
     {
@@ -23392,8 +23442,8 @@
         "jerseyNumber": "87"
       },
       "status": {
-        "code": "ACT",
-        "description": "Active"
+        "code": "DEV",
+        "description": "PS; Vet"
       }
     },
     {
@@ -23542,8 +23592,8 @@
         "jerseyNumber": "83"
       },
       "status": {
-        "code": "ACT",
-        "description": "Active"
+        "code": "DEV",
+        "description": "Practice Squad"
       }
     },
     {
@@ -24247,56 +24297,6 @@
       }
     },
     {
-      "id": "w4hbw6wjzw",
-      "ids": {
-        "prism": "w4hbw6wjzw",
-        "espn": "4570561",
-        "fantasypros": "23075",
-        "fantasyprosSlug": "eric-gray",
-        "gsis": "00-0038396",
-        "nffc": "19448",
-        "pfr": "GrayEr01",
-        "sleeper": "10223",
-        "sportradar": "dcc536c1-36f2-4e34-8028-ccf32d930018",
-        "wikidata": "Q105320431",
-        "yahoo": "40198"
-      },
-      "names": {
-        "boxscore": "E.Gray",
-        "givenFirst": "Eric",
-        "firstLast": "Eric Gray",
-        "lastFirst": "Gray, Eric",
-        "lastFirstInit": "Gray, E",
-        "givenFull": "Eric Gray",
-        "suffix": null,
-        "display": "Eric Gray",
-        "last": "Gray",
-        "first": "Eric",
-        "middle": null
-      },
-      "profile": {
-        "birthDate": "1999-11-04",
-        "birthYear": "1999",
-        "birthMonth": "11",
-        "birthDay": "04",
-        "height": "70",
-        "weight": "210",
-        "rookieYear": "2023"
-      },
-      "position": {
-        "abbreviation": "RB",
-        "group": "RB"
-      },
-      "team": {
-        "abbreviation": "NYG",
-        "jerseyNumber": "20"
-      },
-      "status": {
-        "code": "ACT",
-        "description": "Waivers/No Rec."
-      }
-    },
-    {
       "id": "xd5jlbbn0h",
       "ids": {
         "prism": "xd5jlbbn0h",
@@ -24344,6 +24344,56 @@
       "status": {
         "code": "RES",
         "description": "R/Injured"
+      }
+    },
+    {
+      "id": "xt0g9xz8e4",
+      "ids": {
+        "prism": "xt0g9xz8e4",
+        "espn": "4431562",
+        "fantasypros": "22928",
+        "fantasyprosSlug": "phil-mafah",
+        "gsis": "00-0040021",
+        "nffc": "22305",
+        "pfr": "MafaPh00",
+        "sleeper": "12738",
+        "sportradar": "54b97d06-1639-46a3-9dcc-67320687281d",
+        "wikidata": "Q123416724",
+        "yahoo": "42018"
+      },
+      "names": {
+        "boxscore": "P.Mafah",
+        "givenFirst": "Phil",
+        "firstLast": "Phil Mafah",
+        "lastFirst": "Mafah, Phil",
+        "lastFirstInit": "Mafah, P",
+        "givenFull": "Phil Mafah",
+        "suffix": null,
+        "display": "Phil Mafah",
+        "last": "Mafah",
+        "first": "Phil",
+        "middle": null
+      },
+      "profile": {
+        "birthDate": "2002-10-24",
+        "birthYear": "2002",
+        "birthMonth": "10",
+        "birthDay": "24",
+        "height": "73",
+        "weight": "232",
+        "rookieYear": "2025"
+      },
+      "position": {
+        "abbreviation": "RB",
+        "group": "RB"
+      },
+      "team": {
+        "abbreviation": "NYG",
+        "jerseyNumber": null
+      },
+      "status": {
+        "code": "DEV",
+        "description": "Practice Squad"
       }
     },
     {
@@ -24541,11 +24591,11 @@
       },
       "team": {
         "abbreviation": "NYJ",
-        "jerseyNumber": "16"
+        "jerseyNumber": null
       },
       "status": {
-        "code": "ACT",
-        "description": "Active"
+        "code": "DEV",
+        "description": "PS; Vet"
       }
     },
     {
@@ -25044,8 +25094,8 @@
         "jerseyNumber": "19"
       },
       "status": {
-        "code": "ACT",
-        "description": "Active"
+        "code": "DEV",
+        "description": "PS; Vet"
       }
     },
     {
@@ -27203,56 +27253,6 @@
       }
     },
     {
-      "id": "new1v148yr",
-      "ids": {
-        "prism": "new1v148yr",
-        "espn": "3051738",
-        "fantasypros": "17528",
-        "fantasyprosSlug": "marquez-valdesscantling",
-        "gsis": "00-0034272",
-        "nffc": "16312",
-        "pfr": "ValdMa00",
-        "sleeper": "5086",
-        "sportradar": "e7f0a505-8060-403e-a3b3-9d4e88dda1dc",
-        "wikidata": "Q52290858",
-        "yahoo": "31144"
-      },
-      "names": {
-        "boxscore": "M.Valdes-Scantling",
-        "givenFirst": "Marquez",
-        "firstLast": "Marquez Valdes-Scantling",
-        "lastFirst": "Valdes-Scantling, Marquez",
-        "lastFirstInit": "Valdes-Scantling, M",
-        "givenFull": "Marquez Valdes-Scantling",
-        "suffix": null,
-        "display": "Marquez Valdes-Scantling",
-        "last": "Valdes-Scantling",
-        "first": "Marquez",
-        "middle": null
-      },
-      "profile": {
-        "birthDate": "1994-10-10",
-        "birthYear": "1994",
-        "birthMonth": "10",
-        "birthDay": "10",
-        "height": "76",
-        "weight": "206",
-        "rookieYear": "2018"
-      },
-      "position": {
-        "abbreviation": "WR",
-        "group": "WR"
-      },
-      "team": {
-        "abbreviation": "PIT",
-        "jerseyNumber": null
-      },
-      "status": {
-        "code": "ACT",
-        "description": "Active"
-      }
-    },
-    {
       "id": "pf3193cwfd",
       "ids": {
         "prism": "pf3193cwfd",
@@ -28101,7 +28101,7 @@
       },
       "status": {
         "code": "ACT",
-        "description": "Inactive/3rd QB"
+        "description": "Active"
       }
     },
     {
@@ -28501,7 +28501,7 @@
       },
       "status": {
         "code": "ACT",
-        "description": "Inactive"
+        "description": "Active"
       }
     },
     {
@@ -28651,7 +28651,7 @@
       },
       "status": {
         "code": "ACT",
-        "description": "Inactive"
+        "description": "Active"
       }
     },
     {
@@ -29353,7 +29353,7 @@
       },
       "status": {
         "code": "ACT",
-        "description": "Inactive/3rd QB"
+        "description": "Active"
       }
     },
     {
@@ -29402,8 +29402,8 @@
         "jerseyNumber": "88"
       },
       "status": {
-        "code": "ACT",
-        "description": "Active"
+        "code": "RES",
+        "description": "R/Injured"
       }
     },
     {
@@ -29452,8 +29452,8 @@
         "jerseyNumber": "0"
       },
       "status": {
-        "code": "DEV",
-        "description": "PS; Vet"
+        "code": "ACT",
+        "description": "Active"
       }
     },
     {
@@ -29752,8 +29752,8 @@
         "jerseyNumber": null
       },
       "status": {
-        "code": "DEV",
-        "description": "PS; Vet"
+        "code": "ACT",
+        "description": "Active"
       }
     },
     {
@@ -30454,8 +30454,8 @@
         "jerseyNumber": "18"
       },
       "status": {
-        "code": "ACT",
-        "description": "Active"
+        "code": "DEV",
+        "description": "Practice Squad"
       }
     },
     {
