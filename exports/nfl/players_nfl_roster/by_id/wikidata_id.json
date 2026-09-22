@@ -496,7 +496,7 @@
     },
     "status": {
       "code": "ACT",
-      "description": "Active"
+      "description": "R/Injured"
     }
   },
   "Q100871143": {
@@ -795,7 +795,7 @@
       "jerseyNumber": "41"
     },
     "status": {
-      "code": "DEV",
+      "code": "ACT",
       "description": "PS; Vet"
     }
   },
@@ -946,7 +946,7 @@
     },
     "status": {
       "code": "ACT",
-      "description": "Active"
+      "description": "R/Injured"
     }
   },
   "Q104172703": {
@@ -993,6 +993,56 @@
     "team": {
       "abbreviation": "HOU",
       "jerseyNumber": "14"
+    },
+    "status": {
+      "code": "ACT",
+      "description": "Active"
+    }
+  },
+  "Q104213955": {
+    "id": "qprfbzpbkd",
+    "ids": {
+      "prism": "qprfbzpbkd",
+      "espn": "4429676",
+      "fantasypros": "22976",
+      "fantasyprosSlug": "tyler-goodson",
+      "gsis": "00-0037120",
+      "nffc": "19472",
+      "pfr": "GoodTy00",
+      "sleeper": "8207",
+      "sportradar": "3fec8370-ca72-11ec-a83a-8732d3d5a7e3",
+      "wikidata": "Q104213955",
+      "yahoo": "34261"
+    },
+    "names": {
+      "boxscore": "T.Goodson",
+      "givenFirst": "Tyler",
+      "firstLast": "Tyler Goodson",
+      "lastFirst": "Goodson, Tyler",
+      "lastFirstInit": "Goodson, T",
+      "givenFull": "Tyler Goodson",
+      "suffix": null,
+      "display": "Tyler Goodson",
+      "last": "Goodson",
+      "first": "Tyler",
+      "middle": null
+    },
+    "profile": {
+      "birthDate": "2000-11-10",
+      "birthYear": "2000",
+      "birthMonth": "11",
+      "birthDay": "10",
+      "height": "69",
+      "weight": "197",
+      "rookieYear": "2022"
+    },
+    "position": {
+      "abbreviation": "RB",
+      "group": "RB"
+    },
+    "team": {
+      "abbreviation": "DAL",
+      "jerseyNumber": null
     },
     "status": {
       "code": "ACT",
@@ -1196,7 +1246,7 @@
     },
     "status": {
       "code": "DEV",
-      "description": "PS; Vet"
+      "description": "Active"
     }
   },
   "Q104744550": {
@@ -1596,7 +1646,7 @@
     },
     "status": {
       "code": "DEV",
-      "description": "PS; Vet"
+      "description": "Active"
     }
   },
   "Q105552710": {
@@ -1796,7 +1846,7 @@
     },
     "status": {
       "code": "ACT",
-      "description": "Active"
+      "description": "R/Injured"
     }
   },
   "Q106676603": {
@@ -1896,7 +1946,7 @@
     },
     "status": {
       "code": "DEV",
-      "description": "Active"
+      "description": "Reserve/Future"
     }
   },
   "Q106677430": {
@@ -1946,7 +1996,7 @@
     },
     "status": {
       "code": "ACT",
-      "description": "Active"
+      "description": "R/Injured"
     }
   },
   "Q106677495": {
@@ -2046,7 +2096,7 @@
     },
     "status": {
       "code": "ACT",
-      "description": "Active"
+      "description": null
     }
   },
   "Q107404742": {
@@ -2096,7 +2146,7 @@
     },
     "status": {
       "code": "ACT",
-      "description": "Active"
+      "description": null
     }
   },
   "Q108052763": {
@@ -2195,8 +2245,8 @@
       "jerseyNumber": null
     },
     "status": {
-      "code": "DEV",
-      "description": "PS; Vet"
+      "code": "ACT",
+      "description": "Active"
     }
   },
   "Q108280665": {
@@ -2246,7 +2296,7 @@
     },
     "status": {
       "code": "ACT",
-      "description": "Active"
+      "description": null
     }
   },
   "Q108292970": {
@@ -2346,7 +2396,7 @@
     },
     "status": {
       "code": "ACT",
-      "description": "Active"
+      "description": null
     }
   },
   "Q108405509": {
@@ -2446,7 +2496,57 @@
     },
     "status": {
       "code": "ACT",
-      "description": "Waivers/No Rec."
+      "description": null
+    }
+  },
+  "Q108413734": {
+    "id": "0dwqknb39w",
+    "ids": {
+      "prism": "0dwqknb39w",
+      "espn": "3929914",
+      "fantasypros": "23451",
+      "fantasyprosSlug": "adam-prentice",
+      "gsis": "00-0036727",
+      "nffc": "19343",
+      "pfr": "PrenAd00",
+      "sleeper": "8025",
+      "sportradar": "e5870f5e-f9b2-48a3-97ec-8d12fbc91f3f",
+      "wikidata": "Q108413734",
+      "yahoo": "33901"
+    },
+    "names": {
+      "boxscore": "A.Prentice",
+      "givenFirst": "Adam",
+      "firstLast": "Adam Prentice",
+      "lastFirst": "Prentice, Adam",
+      "lastFirstInit": "Prentice, A",
+      "givenFull": "Adam Prentice",
+      "suffix": null,
+      "display": "Adam Prentice",
+      "last": "Prentice",
+      "first": "Adam",
+      "middle": null
+    },
+    "profile": {
+      "birthDate": "1997-01-16",
+      "birthYear": "1997",
+      "birthMonth": "01",
+      "birthDay": "16",
+      "height": "72",
+      "weight": "245",
+      "rookieYear": "2021"
+    },
+    "position": {
+      "abbreviation": "FB",
+      "group": "RB"
+    },
+    "team": {
+      "abbreviation": "DEN",
+      "jerseyNumber": "46"
+    },
+    "status": {
+      "code": "ACT",
+      "description": "Active"
     }
   },
   "Q108490323": {
@@ -2496,7 +2596,7 @@
     },
     "status": {
       "code": "ACT",
-      "description": "Active"
+      "description": "Reserve/Future"
     }
   },
   "Q108525388": {
@@ -2696,7 +2796,7 @@
     },
     "status": {
       "code": "ACT",
-      "description": "Active"
+      "description": "R/Injured"
     }
   },
   "Q108677281": {
@@ -2915,7 +3015,7 @@
       "yahoo": "34357"
     },
     "names": {
-      "boxscore": "B.Knight",
+      "boxscore": "Z.Knight",
       "givenFirst": "Zonovan",
       "firstLast": "Bam Knight",
       "lastFirst": "Knight, Bam",
@@ -2946,7 +3046,7 @@
     },
     "status": {
       "code": "ACT",
-      "description": "Active"
+      "description": "Reserve/Future"
     }
   },
   "Q108760978": {
@@ -3546,7 +3646,7 @@
     },
     "status": {
       "code": "ACT",
-      "description": "Active"
+      "description": "R/Injured"
     }
   },
   "Q108913584": {
@@ -3696,7 +3796,7 @@
     },
     "status": {
       "code": "DEV",
-      "description": "PS; Vet"
+      "description": "R/Injured"
     }
   },
   "Q108929256": {
@@ -3896,7 +3996,7 @@
     },
     "status": {
       "code": "DEV",
-      "description": "PS; Vet"
+      "description": "R/Injured"
     }
   },
   "Q109187026": {
@@ -4396,7 +4496,7 @@
     },
     "status": {
       "code": "DEV",
-      "description": "Practice Squad"
+      "description": "Reserve/Future"
     }
   },
   "Q109648030": {
@@ -4546,7 +4646,7 @@
     },
     "status": {
       "code": "ACT",
-      "description": "Active"
+      "description": "R/Injured"
     }
   },
   "Q109875281": {
@@ -4596,7 +4696,7 @@
     },
     "status": {
       "code": "ACT",
-      "description": "Active"
+      "description": "R/Injured; DFR"
     }
   },
   "Q109905035": {
@@ -4696,7 +4796,7 @@
     },
     "status": {
       "code": "ACT",
-      "description": "Active"
+      "description": "R/Injured"
     }
   },
   "Q110263644": {
@@ -4746,7 +4846,7 @@
     },
     "status": {
       "code": "ACT",
-      "description": "Active"
+      "description": null
     }
   },
   "Q110265821": {
@@ -4796,7 +4896,7 @@
     },
     "status": {
       "code": "RSR",
-      "description": "R/Injured; DFR"
+      "description": "Active"
     }
   },
   "Q110337160": {
@@ -4946,7 +5046,7 @@
     },
     "status": {
       "code": "ACT",
-      "description": "Active"
+      "description": null
     }
   },
   "Q110460526": {
@@ -5046,7 +5146,7 @@
     },
     "status": {
       "code": "DEV",
-      "description": "PS; Vet"
+      "description": "R/Injured"
     }
   },
   "Q110514705": {
@@ -5096,7 +5196,7 @@
     },
     "status": {
       "code": "ACT",
-      "description": "Active"
+      "description": null
     }
   },
   "Q110647780": {
@@ -5196,7 +5296,7 @@
     },
     "status": {
       "code": "ACT",
-      "description": "Active"
+      "description": null
     }
   },
   "Q110782713": {
@@ -5296,7 +5396,7 @@
     },
     "status": {
       "code": "RES",
-      "description": "R/Injured"
+      "description": "Active"
     }
   },
   "Q110826056": {
@@ -5346,7 +5446,7 @@
     },
     "status": {
       "code": "DEV",
-      "description": "PS; Vet"
+      "description": "Active"
     }
   },
   "Q110866818": {
@@ -5396,7 +5496,7 @@
     },
     "status": {
       "code": "DEV",
-      "description": "PS; Vet"
+      "description": "Active"
     }
   },
   "Q110903857": {
@@ -5546,7 +5646,7 @@
     },
     "status": {
       "code": "ACT",
-      "description": "Active"
+      "description": "PS; Exc"
     }
   },
   "Q111317399": {
@@ -5646,7 +5746,7 @@
     },
     "status": {
       "code": "ACT",
-      "description": "Active"
+      "description": null
     }
   },
   "Q111536390": {
@@ -5745,8 +5845,8 @@
       "jerseyNumber": "81"
     },
     "status": {
-      "code": "DEV",
-      "description": "Practice Squad"
+      "code": "ACT",
+      "description": "Active"
     }
   },
   "Q111786021": {
@@ -5796,7 +5896,7 @@
     },
     "status": {
       "code": "ACT",
-      "description": "Active"
+      "description": "PS; Exc"
     }
   },
   "Q111787485": {
@@ -5846,7 +5946,7 @@
     },
     "status": {
       "code": "RES",
-      "description": "R/Injured"
+      "description": "Practice Squad"
     }
   },
   "Q111788647": {
@@ -6046,7 +6146,7 @@
     },
     "status": {
       "code": "DEV",
-      "description": "PS; Vet"
+      "description": "R/Injured; DFR"
     }
   },
   "Q111818660": {
@@ -6146,7 +6246,7 @@
     },
     "status": {
       "code": "RES",
-      "description": "R/Injured"
+      "description": "Active"
     }
   },
   "Q111820833": {
@@ -6196,7 +6296,7 @@
     },
     "status": {
       "code": "ACT",
-      "description": "Active"
+      "description": "R/Injured; DFR"
     }
   },
   "Q111832605": {
@@ -6346,7 +6446,7 @@
     },
     "status": {
       "code": "ACT",
-      "description": "Active"
+      "description": "Waivers/No Rec."
     }
   },
   "Q112501462": {
@@ -6396,7 +6496,7 @@
     },
     "status": {
       "code": "RES",
-      "description": "R/Injured"
+      "description": "Active"
     }
   },
   "Q113200524": {
@@ -6496,7 +6596,7 @@
     },
     "status": {
       "code": "ACT",
-      "description": "Active"
+      "description": null
     }
   },
   "Q113276021": {
@@ -6696,7 +6796,7 @@
     },
     "status": {
       "code": "ACT",
-      "description": "Active"
+      "description": null
     }
   },
   "Q113468531": {
@@ -6746,7 +6846,7 @@
     },
     "status": {
       "code": "ACT",
-      "description": "Active"
+      "description": null
     }
   },
   "Q113481927": {
@@ -6796,7 +6896,7 @@
     },
     "status": {
       "code": "RES",
-      "description": "R/Injured"
+      "description": null
     }
   },
   "Q113501464": {
@@ -6996,7 +7096,7 @@
     },
     "status": {
       "code": "ACT",
-      "description": "Active"
+      "description": null
     }
   },
   "Q113662126": {
@@ -7146,7 +7246,7 @@
     },
     "status": {
       "code": "RES",
-      "description": "R/Injured"
+      "description": "Active"
     }
   },
   "Q113728944": {
@@ -7196,7 +7296,7 @@
     },
     "status": {
       "code": "ACT",
-      "description": "Active"
+      "description": null
     }
   },
   "Q113813355": {
@@ -7246,7 +7346,7 @@
     },
     "status": {
       "code": "ACT",
-      "description": "Active"
+      "description": "R/Injured"
     }
   },
   "Q113825612": {
@@ -7296,7 +7396,7 @@
     },
     "status": {
       "code": "DEV",
-      "description": "Practice Squad"
+      "description": null
     }
   },
   "Q113843781": {
@@ -7346,7 +7446,7 @@
     },
     "status": {
       "code": "ACT",
-      "description": "Active"
+      "description": null
     }
   },
   "Q113843993": {
@@ -7446,7 +7546,7 @@
     },
     "status": {
       "code": "ACT",
-      "description": "Active"
+      "description": null
     }
   },
   "Q113861514": {
@@ -7496,7 +7596,7 @@
     },
     "status": {
       "code": "PUP",
-      "description": "R/PUP"
+      "description": "Active"
     }
   },
   "Q113869071": {
@@ -7596,7 +7696,7 @@
     },
     "status": {
       "code": "DEV",
-      "description": "Practice Squad"
+      "description": null
     }
   },
   "Q113900863": {
@@ -7646,7 +7746,7 @@
     },
     "status": {
       "code": "ACT",
-      "description": "Active"
+      "description": "R/Injured; DFR"
     }
   },
   "Q114000835": {
@@ -7696,7 +7796,7 @@
     },
     "status": {
       "code": "DEV",
-      "description": "PS; Vet"
+      "description": "Active"
     }
   },
   "Q114049519": {
@@ -7746,7 +7846,7 @@
     },
     "status": {
       "code": "ACT",
-      "description": "Active"
+      "description": null
     }
   },
   "Q114055824": {
@@ -7796,7 +7896,7 @@
     },
     "status": {
       "code": "ACT",
-      "description": "Active"
+      "description": null
     }
   },
   "Q114060536": {
@@ -7896,7 +7996,7 @@
     },
     "status": {
       "code": "DEV",
-      "description": "PS; Exc"
+      "description": "Reserve/Future"
     }
   },
   "Q114149783": {
@@ -8046,7 +8146,7 @@
     },
     "status": {
       "code": "ACT",
-      "description": "Active"
+      "description": null
     }
   },
   "Q114237471": {
@@ -8096,7 +8196,7 @@
     },
     "status": {
       "code": "ACT",
-      "description": "Active"
+      "description": "R/Injured"
     }
   },
   "Q114241916": {
@@ -8146,7 +8246,7 @@
     },
     "status": {
       "code": "DEV",
-      "description": "Practice Squad"
+      "description": "Active"
     }
   },
   "Q114255395": {
@@ -8296,7 +8396,7 @@
     },
     "status": {
       "code": "RSR",
-      "description": "R/Injured; DFR"
+      "description": "R/Injured"
     }
   },
   "Q114313913": {
@@ -8346,7 +8446,7 @@
     },
     "status": {
       "code": "RES",
-      "description": "R/Injured"
+      "description": "Reserve/Future"
     }
   },
   "Q114315467": {
@@ -8396,7 +8496,7 @@
     },
     "status": {
       "code": "ACT",
-      "description": "Active"
+      "description": null
     }
   },
   "Q114323995": {
@@ -8496,7 +8596,7 @@
     },
     "status": {
       "code": "DEV",
-      "description": "Practice Squad"
+      "description": null
     }
   },
   "Q114364019": {
@@ -8546,7 +8646,7 @@
     },
     "status": {
       "code": "RES",
-      "description": "R/Injured"
+      "description": "Active"
     }
   },
   "Q114498061": {
@@ -8696,7 +8796,7 @@
     },
     "status": {
       "code": "DEV",
-      "description": "PS; Vet"
+      "description": "Active"
     }
   },
   "Q114564449": {
@@ -8846,7 +8946,7 @@
     },
     "status": {
       "code": "ACT",
-      "description": "Active"
+      "description": null
     }
   },
   "Q114604701": {
@@ -8896,7 +8996,7 @@
     },
     "status": {
       "code": "ACT",
-      "description": "Active"
+      "description": null
     }
   },
   "Q114652896": {
@@ -8946,7 +9046,7 @@
     },
     "status": {
       "code": "RES",
-      "description": "R/Injured"
+      "description": "Active"
     }
   },
   "Q114686918": {
@@ -8996,7 +9096,7 @@
     },
     "status": {
       "code": "ACT",
-      "description": "Active"
+      "description": "R/Injured"
     }
   },
   "Q114709187": {
@@ -9046,7 +9146,7 @@
     },
     "status": {
       "code": "ACT",
-      "description": "Active"
+      "description": "R/Injured"
     }
   },
   "Q114724579": {
@@ -9096,7 +9196,7 @@
     },
     "status": {
       "code": "RSR",
-      "description": "R/Injured; DFR"
+      "description": "Active"
     }
   },
   "Q114818783": {
@@ -9246,7 +9346,7 @@
     },
     "status": {
       "code": "ACT",
-      "description": "Active"
+      "description": null
     }
   },
   "Q115110322": {
@@ -9296,7 +9396,7 @@
     },
     "status": {
       "code": "ACT",
-      "description": "Active"
+      "description": null
     }
   },
   "Q115222279": {
@@ -9396,7 +9496,7 @@
     },
     "status": {
       "code": "ACT",
-      "description": "Active"
+      "description": null
     }
   },
   "Q115441650": {
@@ -9496,7 +9596,7 @@
     },
     "status": {
       "code": "ACT",
-      "description": "Active"
+      "description": null
     }
   },
   "Q115491978": {
@@ -9596,7 +9696,7 @@
     },
     "status": {
       "code": "ACT",
-      "description": "Active"
+      "description": null
     }
   },
   "Q115491999": {
@@ -9646,7 +9746,7 @@
     },
     "status": {
       "code": "ACT",
-      "description": "Active"
+      "description": null
     }
   },
   "Q115492003": {
@@ -9696,7 +9796,7 @@
     },
     "status": {
       "code": "ACT",
-      "description": "Active"
+      "description": null
     }
   },
   "Q115492004": {
@@ -9796,7 +9896,7 @@
     },
     "status": {
       "code": "RES",
-      "description": "R/Injured"
+      "description": null
     }
   },
   "Q115492173": {
@@ -9896,7 +9996,7 @@
     },
     "status": {
       "code": "RES",
-      "description": "R/Injured"
+      "description": "Active"
     }
   },
   "Q115492182": {
@@ -9946,7 +10046,7 @@
     },
     "status": {
       "code": "ACT",
-      "description": "Active"
+      "description": null
     }
   },
   "Q115492256": {
@@ -9996,7 +10096,7 @@
     },
     "status": {
       "code": "ACT",
-      "description": "Active"
+      "description": null
     }
   },
   "Q115492436": {
@@ -10096,7 +10196,7 @@
     },
     "status": {
       "code": "ACT",
-      "description": "Active"
+      "description": null
     }
   },
   "Q115492469": {
@@ -10146,7 +10246,7 @@
     },
     "status": {
       "code": "DEV",
-      "description": "Practice Squad"
+      "description": null
     }
   },
   "Q115492523": {
@@ -10196,7 +10296,7 @@
     },
     "status": {
       "code": "RSR",
-      "description": "R/Injured; DFR"
+      "description": null
     }
   },
   "Q115495089": {
@@ -10296,7 +10396,7 @@
     },
     "status": {
       "code": "ACT",
-      "description": "Active"
+      "description": null
     }
   },
   "Q115542257": {
@@ -10396,7 +10496,7 @@
     },
     "status": {
       "code": "ACT",
-      "description": "Active"
+      "description": null
     }
   },
   "Q115665015": {
@@ -10496,7 +10596,7 @@
     },
     "status": {
       "code": "ACT",
-      "description": "Active"
+      "description": null
     }
   },
   "Q115803198": {
@@ -10546,7 +10646,7 @@
     },
     "status": {
       "code": "ACT",
-      "description": "Active"
+      "description": null
     }
   },
   "Q115819176": {
@@ -10596,7 +10696,7 @@
     },
     "status": {
       "code": "ACT",
-      "description": "Active"
+      "description": null
     }
   },
   "Q115907697": {
@@ -10696,7 +10796,7 @@
     },
     "status": {
       "code": "RSR",
-      "description": "R/Injured; DFR"
+      "description": "R/Injured"
     }
   },
   "Q116200615": {
@@ -10796,7 +10896,7 @@
     },
     "status": {
       "code": "ACT",
-      "description": "Active"
+      "description": null
     }
   },
   "Q116814598": {
@@ -11246,7 +11346,7 @@
     },
     "status": {
       "code": "ACT",
-      "description": "Active"
+      "description": null
     }
   },
   "Q118133409": {
@@ -11296,7 +11396,7 @@
     },
     "status": {
       "code": "ACT",
-      "description": "Active"
+      "description": "R/Injured"
     }
   },
   "Q118209515": {
@@ -11346,7 +11446,57 @@
     },
     "status": {
       "code": "ACT",
-      "description": "Active"
+      "description": null
+    }
+  },
+  "Q118209518": {
+    "id": "6bxshl2hwd",
+    "ids": {
+      "prism": "6bxshl2hwd",
+      "espn": "4372070",
+      "fantasypros": "25727",
+      "fantasyprosSlug": "ben-vansumeren",
+      "gsis": "00-0038489",
+      "nffc": "20849",
+      "pfr": "VanSBe00",
+      "sleeper": "11273",
+      "sportradar": "1377e940-eb75-11ed-aecd-85bc826ed43e",
+      "wikidata": "Q118209518",
+      "yahoo": "40518"
+    },
+    "names": {
+      "boxscore": "B.VanSumeren",
+      "givenFirst": "Ben",
+      "firstLast": "Ben VanSumeren",
+      "lastFirst": "VanSumeren, Ben",
+      "lastFirstInit": "VanSumeren, B",
+      "givenFull": "Ben VanSumeren",
+      "suffix": null,
+      "display": "Ben VanSumeren",
+      "last": "VanSumeren",
+      "first": "Ben",
+      "middle": null
+    },
+    "profile": {
+      "birthDate": "2000-05-05",
+      "birthYear": "2000",
+      "birthMonth": "05",
+      "birthDay": "05",
+      "height": "74",
+      "weight": "231",
+      "rookieYear": "2023"
+    },
+    "position": {
+      "abbreviation": "RB",
+      "group": "RB"
+    },
+    "team": {
+      "abbreviation": "KC",
+      "jerseyNumber": null
+    },
+    "status": {
+      "code": "ACT",
+      "description": "R/Injured"
     }
   },
   "Q118220427": {
@@ -11396,7 +11546,7 @@
     },
     "status": {
       "code": "DEV",
-      "description": "Waivers/No Rec."
+      "description": null
     }
   },
   "Q118410935": {
@@ -11496,7 +11646,7 @@
     },
     "status": {
       "code": "ACT",
-      "description": "Active"
+      "description": null
     }
   },
   "Q118924098": {
@@ -11596,7 +11746,7 @@
     },
     "status": {
       "code": "ACT",
-      "description": "Active"
+      "description": "R/Injured"
     }
   },
   "Q120628723": {
@@ -11646,7 +11796,7 @@
     },
     "status": {
       "code": "PUP",
-      "description": "R/PUP"
+      "description": "Reserve/Future"
     }
   },
   "Q120702551": {
@@ -11746,7 +11896,7 @@
     },
     "status": {
       "code": "ACT",
-      "description": "Active"
+      "description": null
     }
   },
   "Q120765641": {
@@ -11846,7 +11996,7 @@
     },
     "status": {
       "code": "RES",
-      "description": "R/Injured"
+      "description": null
     }
   },
   "Q120922131": {
@@ -11996,7 +12146,7 @@
     },
     "status": {
       "code": "DEV",
-      "description": "Practice Squad"
+      "description": "Active"
     }
   },
   "Q120973540": {
@@ -12096,7 +12246,7 @@
     },
     "status": {
       "code": "ACT",
-      "description": "Active"
+      "description": null
     }
   },
   "Q121030748": {
@@ -12146,7 +12296,7 @@
     },
     "status": {
       "code": "RES",
-      "description": "R/Injured; DFR"
+      "description": null
     }
   },
   "Q121033005": {
@@ -12195,8 +12345,8 @@
       "jerseyNumber": "6"
     },
     "status": {
-      "code": "DEV",
-      "description": "PS; Exc"
+      "code": "ACT",
+      "description": "Active"
     }
   },
   "Q121073917": {
@@ -12246,7 +12396,7 @@
     },
     "status": {
       "code": "ACT",
-      "description": "Active"
+      "description": null
     }
   },
   "Q121079734": {
@@ -12296,7 +12446,7 @@
     },
     "status": {
       "code": "ACT",
-      "description": "Active"
+      "description": "R/Injured"
     }
   },
   "Q121160147": {
@@ -12446,7 +12596,7 @@
     },
     "status": {
       "code": "ACT",
-      "description": "Active"
+      "description": null
     }
   },
   "Q121444080": {
@@ -12496,7 +12646,7 @@
     },
     "status": {
       "code": "DEV",
-      "description": "PS; Exc"
+      "description": "Reserve/Future"
     }
   },
   "Q121572487": {
@@ -12546,7 +12696,7 @@
     },
     "status": {
       "code": "ACT",
-      "description": "Active"
+      "description": null
     }
   },
   "Q121863369": {
@@ -12596,7 +12746,7 @@
     },
     "status": {
       "code": "ACT",
-      "description": "Active"
+      "description": null
     }
   },
   "Q121991604": {
@@ -12646,7 +12796,7 @@
     },
     "status": {
       "code": "ACT",
-      "description": "Active"
+      "description": null
     }
   },
   "Q122038689": {
@@ -12846,7 +12996,7 @@
     },
     "status": {
       "code": "RES",
-      "description": "R/Injured"
+      "description": "Active"
     }
   },
   "Q122110104": {
@@ -12896,7 +13046,7 @@
     },
     "status": {
       "code": "ACT",
-      "description": "Waivers/No Rec."
+      "description": "Active"
     }
   },
   "Q122159008": {
@@ -12996,7 +13146,7 @@
     },
     "status": {
       "code": "DEV",
-      "description": "PS; Exc"
+      "description": null
     }
   },
   "Q122372530": {
@@ -13046,7 +13196,7 @@
     },
     "status": {
       "code": "ACT",
-      "description": "R/Injured"
+      "description": "Active"
     }
   },
   "Q122376129": {
@@ -13146,7 +13296,7 @@
     },
     "status": {
       "code": "ACT",
-      "description": "Active"
+      "description": null
     }
   },
   "Q122461052": {
@@ -13196,7 +13346,7 @@
     },
     "status": {
       "code": "ACT",
-      "description": "Active"
+      "description": null
     }
   },
   "Q122784078": {
@@ -13246,7 +13396,7 @@
     },
     "status": {
       "code": "ACT",
-      "description": "Active"
+      "description": null
     }
   },
   "Q122789703": {
@@ -13296,7 +13446,7 @@
     },
     "status": {
       "code": "ACT",
-      "description": "Active"
+      "description": "R/Injured"
     }
   },
   "Q122790425": {
@@ -13396,7 +13546,7 @@
     },
     "status": {
       "code": "ACT",
-      "description": "Active"
+      "description": null
     }
   },
   "Q122832663": {
@@ -13446,7 +13596,7 @@
     },
     "status": {
       "code": "ACT",
-      "description": "Active"
+      "description": null
     }
   },
   "Q122866013": {
@@ -13596,7 +13746,7 @@
     },
     "status": {
       "code": "DEV",
-      "description": "Practice Squad"
+      "description": "Reserve/Future"
     }
   },
   "Q122999654": {
@@ -13646,7 +13796,7 @@
     },
     "status": {
       "code": "ACT",
-      "description": "Active"
+      "description": null
     }
   },
   "Q123001109": {
@@ -13746,7 +13896,7 @@
     },
     "status": {
       "code": "ACT",
-      "description": "Active"
+      "description": null
     }
   },
   "Q123046216": {
@@ -13796,7 +13946,7 @@
     },
     "status": {
       "code": "ACT",
-      "description": "Active"
+      "description": null
     }
   },
   "Q123049979": {
@@ -13846,7 +13996,7 @@
     },
     "status": {
       "code": "DEV",
-      "description": "Practice Squad"
+      "description": null
     }
   },
   "Q123050591": {
@@ -13946,7 +14096,7 @@
     },
     "status": {
       "code": "ACT",
-      "description": "Active"
+      "description": null
     }
   },
   "Q123116440": {
@@ -14096,7 +14246,7 @@
     },
     "status": {
       "code": "ACT",
-      "description": "Active"
+      "description": null
     }
   },
   "Q123321999": {
@@ -14246,7 +14396,7 @@
     },
     "status": {
       "code": "ACT",
-      "description": "Active"
+      "description": null
     }
   },
   "Q123412413": {
@@ -14296,7 +14446,7 @@
     },
     "status": {
       "code": "ACT",
-      "description": "Active"
+      "description": null
     }
   },
   "Q123416724": {
@@ -14346,7 +14496,7 @@
     },
     "status": {
       "code": "DEV",
-      "description": "Practice Squad"
+      "description": null
     }
   },
   "Q123474548": {
@@ -14396,7 +14546,7 @@
     },
     "status": {
       "code": "ACT",
-      "description": "Active"
+      "description": null
     }
   },
   "Q123482404": {
@@ -14446,7 +14596,7 @@
     },
     "status": {
       "code": "DEV",
-      "description": "Practice Squad"
+      "description": "R/Injured"
     }
   },
   "Q123507803": {
@@ -14496,7 +14646,7 @@
     },
     "status": {
       "code": "ACT",
-      "description": "Active"
+      "description": null
     }
   },
   "Q123514848": {
@@ -14546,7 +14696,7 @@
     },
     "status": {
       "code": "ACT",
-      "description": "Active"
+      "description": null
     }
   },
   "Q123550509": {
@@ -14596,7 +14746,7 @@
     },
     "status": {
       "code": "ACT",
-      "description": "Active"
+      "description": null
     }
   },
   "Q123558128": {
@@ -14646,7 +14796,7 @@
     },
     "status": {
       "code": "RES",
-      "description": "R/Injured"
+      "description": null
     }
   },
   "Q123583355": {
@@ -14696,7 +14846,7 @@
     },
     "status": {
       "code": "ACT",
-      "description": "Active"
+      "description": null
     }
   },
   "Q123615627": {
@@ -14746,7 +14896,7 @@
     },
     "status": {
       "code": "ACT",
-      "description": "Active"
+      "description": "R/Injured"
     }
   },
   "Q123653630": {
@@ -14796,7 +14946,7 @@
     },
     "status": {
       "code": "ACT",
-      "description": "Active"
+      "description": null
     }
   },
   "Q123739228": {
@@ -14845,8 +14995,8 @@
       "jerseyNumber": "89"
     },
     "status": {
-      "code": "DEV",
-      "description": "Practice Squad"
+      "code": "ACT",
+      "description": null
     }
   },
   "Q123799216": {
@@ -14896,7 +15046,7 @@
     },
     "status": {
       "code": "ACT",
-      "description": "Active"
+      "description": null
     }
   },
   "Q123914106": {
@@ -14996,7 +15146,7 @@
     },
     "status": {
       "code": "ACT",
-      "description": "Active"
+      "description": null
     }
   },
   "Q123985403": {
@@ -15046,7 +15196,7 @@
     },
     "status": {
       "code": "DEV",
-      "description": "PS; Exc"
+      "description": null
     }
   },
   "Q124031329": {
@@ -15096,7 +15246,7 @@
     },
     "status": {
       "code": "DEV",
-      "description": "Practice Squad"
+      "description": null
     }
   },
   "Q124125056": {
@@ -15146,7 +15296,7 @@
     },
     "status": {
       "code": "SUS",
-      "description": "R/Susp < 1Yr"
+      "description": "Reserve/Future"
     }
   },
   "Q124154413": {
@@ -15196,7 +15346,7 @@
     },
     "status": {
       "code": "DEV",
-      "description": "PS; Exc"
+      "description": "Active"
     }
   },
   "Q124209497": {
@@ -15246,7 +15396,7 @@
     },
     "status": {
       "code": "PUP",
-      "description": "R/PUP"
+      "description": "Active"
     }
   },
   "Q124215676": {
@@ -15296,7 +15446,7 @@
     },
     "status": {
       "code": "ACT",
-      "description": "Active"
+      "description": null
     }
   },
   "Q124254862": {
@@ -15346,7 +15496,7 @@
     },
     "status": {
       "code": "ACT",
-      "description": "Active"
+      "description": null
     }
   },
   "Q124352406": {
@@ -15396,7 +15546,7 @@
     },
     "status": {
       "code": "ACT",
-      "description": "Active"
+      "description": null
     }
   },
   "Q124382622": {
@@ -15496,7 +15646,7 @@
     },
     "status": {
       "code": "ACT",
-      "description": "Active"
+      "description": null
     }
   },
   "Q124415515": {
@@ -15546,7 +15696,7 @@
     },
     "status": {
       "code": "ACT",
-      "description": "Active"
+      "description": null
     }
   },
   "Q124429774": {
@@ -15646,7 +15796,7 @@
     },
     "status": {
       "code": "ACT",
-      "description": "Active"
+      "description": null
     }
   },
   "Q124608287": {
@@ -15846,7 +15996,7 @@
     },
     "status": {
       "code": "PUP",
-      "description": "R/PUP"
+      "description": "Active"
     }
   },
   "Q124753613": {
@@ -15896,7 +16046,7 @@
     },
     "status": {
       "code": "DEV",
-      "description": "PS; Exc"
+      "description": "Reserve/Future"
     }
   },
   "Q124757164": {
@@ -15946,7 +16096,7 @@
     },
     "status": {
       "code": "ACT",
-      "description": "PS; Exc"
+      "description": "Active"
     }
   },
   "Q124788532": {
@@ -16046,7 +16196,7 @@
     },
     "status": {
       "code": "RES",
-      "description": "R/Injured"
+      "description": null
     }
   },
   "Q125245637": {
@@ -16146,7 +16296,7 @@
     },
     "status": {
       "code": "DEV",
-      "description": "Practice Squad"
+      "description": "Reserve/Future"
     }
   },
   "Q125613332": {
@@ -16246,7 +16396,7 @@
     },
     "status": {
       "code": "ACT",
-      "description": "Active"
+      "description": null
     }
   },
   "Q126063506": {
@@ -16296,7 +16446,7 @@
     },
     "status": {
       "code": "ACT",
-      "description": "Active"
+      "description": null
     }
   },
   "Q126114516": {
@@ -16346,7 +16496,7 @@
     },
     "status": {
       "code": "ACT",
-      "description": "Active"
+      "description": "R/Injured"
     }
   },
   "Q126285126": {
@@ -16396,7 +16546,7 @@
     },
     "status": {
       "code": "RES",
-      "description": "R/Injured"
+      "description": null
     }
   },
   "Q126370762": {
@@ -16446,7 +16596,7 @@
     },
     "status": {
       "code": "ACT",
-      "description": "Active"
+      "description": null
     }
   },
   "Q126690521": {
@@ -16496,7 +16646,7 @@
     },
     "status": {
       "code": "ACT",
-      "description": "Active"
+      "description": null
     }
   },
   "Q127446663": {
@@ -16546,7 +16696,7 @@
     },
     "status": {
       "code": "ACT",
-      "description": "Active"
+      "description": null
     }
   },
   "Q128529362": {
@@ -16596,7 +16746,7 @@
     },
     "status": {
       "code": "ACT",
-      "description": "Active"
+      "description": "Reserve/Future"
     }
   },
   "Q128792652": {
@@ -16646,7 +16796,7 @@
     },
     "status": {
       "code": "DEV",
-      "description": "Practice Squad"
+      "description": null
     }
   },
   "Q129084698": {
@@ -16696,7 +16846,7 @@
     },
     "status": {
       "code": "PUP",
-      "description": "R/PUP"
+      "description": "Active"
     }
   },
   "Q129169419": {
@@ -16746,7 +16896,7 @@
     },
     "status": {
       "code": "ACT",
-      "description": "Active"
+      "description": null
     }
   },
   "Q129182644": {
@@ -16796,7 +16946,7 @@
     },
     "status": {
       "code": "ACT",
-      "description": "Active"
+      "description": null
     }
   },
   "Q129255829": {
@@ -16846,7 +16996,7 @@
     },
     "status": {
       "code": "ACT",
-      "description": "Active"
+      "description": "R/Injured"
     }
   },
   "Q129281609": {
@@ -16896,7 +17046,7 @@
     },
     "status": {
       "code": "ACT",
-      "description": "Active"
+      "description": null
     }
   },
   "Q129605": {
@@ -17046,7 +17196,7 @@
     },
     "status": {
       "code": "ACT",
-      "description": "Active"
+      "description": null
     }
   },
   "Q129824544": {
@@ -17196,7 +17346,7 @@
     },
     "status": {
       "code": "ACT",
-      "description": "Active"
+      "description": null
     }
   },
   "Q130211010": {
@@ -17246,7 +17396,7 @@
     },
     "status": {
       "code": "ACT",
-      "description": "Active"
+      "description": null
     }
   },
   "Q130214825": {
@@ -17346,7 +17496,7 @@
     },
     "status": {
       "code": "ACT",
-      "description": "Active"
+      "description": null
     }
   },
   "Q130258565": {
@@ -17446,7 +17596,7 @@
     },
     "status": {
       "code": "ACT",
-      "description": "Active"
+      "description": null
     }
   },
   "Q130287252": {
@@ -17496,7 +17646,7 @@
     },
     "status": {
       "code": "ACT",
-      "description": "Active"
+      "description": null
     }
   },
   "Q130302368": {
@@ -17546,7 +17696,7 @@
     },
     "status": {
       "code": "ACT",
-      "description": "Active"
+      "description": null
     }
   },
   "Q130325727": {
@@ -17596,7 +17746,7 @@
     },
     "status": {
       "code": "ACT",
-      "description": "Active"
+      "description": null
     }
   },
   "Q130332377": {
@@ -17645,8 +17795,8 @@
       "jerseyNumber": "7"
     },
     "status": {
-      "code": "ACT",
-      "description": "Active"
+      "code": "RES",
+      "description": null
     }
   },
   "Q130332382": {
@@ -17696,7 +17846,7 @@
     },
     "status": {
       "code": "ACT",
-      "description": "Active"
+      "description": null
     }
   },
   "Q130333034": {
@@ -17746,7 +17896,7 @@
     },
     "status": {
       "code": "ACT",
-      "description": "Active"
+      "description": null
     }
   },
   "Q130344625": {
@@ -17796,7 +17946,7 @@
     },
     "status": {
       "code": "RSN",
-      "description": "R/NFIL; DFR"
+      "description": null
     }
   },
   "Q130376111": {
@@ -17846,7 +17996,7 @@
     },
     "status": {
       "code": "ACT",
-      "description": "Active"
+      "description": null
     }
   },
   "Q130380708": {
@@ -17896,7 +18046,7 @@
     },
     "status": {
       "code": "RES",
-      "description": "R/Injured"
+      "description": null
     }
   },
   "Q130418405": {
@@ -17946,7 +18096,7 @@
     },
     "status": {
       "code": "ACT",
-      "description": "Active"
+      "description": null
     }
   },
   "Q130437351": {
@@ -17996,7 +18146,7 @@
     },
     "status": {
       "code": "RES",
-      "description": "R/Injured"
+      "description": null
     }
   },
   "Q130442719": {
@@ -18046,7 +18196,7 @@
     },
     "status": {
       "code": "ACT",
-      "description": "Active"
+      "description": null
     }
   },
   "Q130442904": {
@@ -18146,7 +18296,7 @@
     },
     "status": {
       "code": "ACT",
-      "description": "Active"
+      "description": null
     }
   },
   "Q130469392": {
@@ -18196,7 +18346,7 @@
     },
     "status": {
       "code": "ACT",
-      "description": "Inactive"
+      "description": null
     }
   },
   "Q130539112": {
@@ -18246,7 +18396,7 @@
     },
     "status": {
       "code": "ACT",
-      "description": "Active"
+      "description": "Reserve/Future"
     }
   },
   "Q130543670": {
@@ -18296,7 +18446,7 @@
     },
     "status": {
       "code": "ACT",
-      "description": "Active"
+      "description": null
     }
   },
   "Q130603051": {
@@ -18346,7 +18496,7 @@
     },
     "status": {
       "code": "ACT",
-      "description": "Active"
+      "description": null
     }
   },
   "Q130667760": {
@@ -18396,7 +18546,7 @@
     },
     "status": {
       "code": "ACT",
-      "description": "Active"
+      "description": null
     }
   },
   "Q130753966": {
@@ -18446,7 +18596,7 @@
     },
     "status": {
       "code": "RSR",
-      "description": "R/Injured; DFR"
+      "description": null
     }
   },
   "Q131139492": {
@@ -18496,7 +18646,7 @@
     },
     "status": {
       "code": "ACT",
-      "description": "Active"
+      "description": null
     }
   },
   "Q131173700": {
@@ -18546,7 +18696,7 @@
     },
     "status": {
       "code": "ACT",
-      "description": "Active"
+      "description": null
     }
   },
   "Q131226627": {
@@ -18596,7 +18746,7 @@
     },
     "status": {
       "code": "RES",
-      "description": "R/Injured"
+      "description": null
     }
   },
   "Q131228425": {
@@ -18646,7 +18796,7 @@
     },
     "status": {
       "code": "RSR",
-      "description": "R/Injured; DFR"
+      "description": null
     }
   },
   "Q131318957": {
@@ -18696,7 +18846,7 @@
     },
     "status": {
       "code": "ACT",
-      "description": "Active"
+      "description": null
     }
   },
   "Q131318963": {
@@ -18746,7 +18896,7 @@
     },
     "status": {
       "code": "DEV",
-      "description": "Practice Squad"
+      "description": null
     }
   },
   "Q131363525": {
@@ -18796,7 +18946,7 @@
     },
     "status": {
       "code": "ACT",
-      "description": "Active"
+      "description": null
     }
   },
   "Q131447674": {
@@ -18846,7 +18996,7 @@
     },
     "status": {
       "code": "ACT",
-      "description": "Active"
+      "description": null
     }
   },
   "Q131581951": {
@@ -18896,7 +19046,7 @@
     },
     "status": {
       "code": "ACT",
-      "description": "Active"
+      "description": null
     }
   },
   "Q131612484": {
@@ -18946,7 +19096,7 @@
     },
     "status": {
       "code": "ACT",
-      "description": "Active"
+      "description": null
     }
   },
   "Q131649781": {
@@ -18996,7 +19146,7 @@
     },
     "status": {
       "code": "ACT",
-      "description": "Active"
+      "description": null
     }
   },
   "Q131725558": {
@@ -19046,7 +19196,7 @@
     },
     "status": {
       "code": "ACT",
-      "description": "Active"
+      "description": null
     }
   },
   "Q131826890": {
@@ -19096,7 +19246,7 @@
     },
     "status": {
       "code": "ACT",
-      "description": "Active"
+      "description": null
     }
   },
   "Q131831414": {
@@ -19146,7 +19296,7 @@
     },
     "status": {
       "code": "ACT",
-      "description": "Active"
+      "description": null
     }
   },
   "Q132029855": {
@@ -19196,7 +19346,7 @@
     },
     "status": {
       "code": "ACT",
-      "description": "Active"
+      "description": null
     }
   },
   "Q132063724": {
@@ -19246,7 +19396,7 @@
     },
     "status": {
       "code": "ACT",
-      "description": "Active"
+      "description": null
     }
   },
   "Q132125839": {
@@ -19296,7 +19446,7 @@
     },
     "status": {
       "code": "ACT",
-      "description": "Active"
+      "description": null
     }
   },
   "Q132167395": {
@@ -19346,7 +19496,7 @@
     },
     "status": {
       "code": "ACT",
-      "description": "Active"
+      "description": null
     }
   },
   "Q132435812": {
@@ -19396,7 +19546,7 @@
     },
     "status": {
       "code": "ACT",
-      "description": "Active"
+      "description": null
     }
   },
   "Q132435855": {
@@ -19446,7 +19596,7 @@
     },
     "status": {
       "code": "DEV",
-      "description": "Practice Squad"
+      "description": null
     }
   },
   "Q132527239": {
@@ -19496,7 +19646,7 @@
     },
     "status": {
       "code": "DEV",
-      "description": "Practice Squad"
+      "description": null
     }
   },
   "Q132626401": {
@@ -19546,7 +19696,7 @@
     },
     "status": {
       "code": "ACT",
-      "description": "Active"
+      "description": null
     }
   },
   "Q132859079": {
@@ -19596,7 +19746,7 @@
     },
     "status": {
       "code": "ACT",
-      "description": "Active"
+      "description": null
     }
   },
   "Q134136921": {
@@ -19646,7 +19796,7 @@
     },
     "status": {
       "code": "DEV",
-      "description": "Practice Squad"
+      "description": null
     }
   },
   "Q134136933": {
@@ -19696,7 +19846,7 @@
     },
     "status": {
       "code": "ACT",
-      "description": "Active"
+      "description": null
     }
   },
   "Q134348206": {
@@ -19746,7 +19896,7 @@
     },
     "status": {
       "code": "ACT",
-      "description": "Active"
+      "description": null
     }
   },
   "Q134348438": {
@@ -19796,7 +19946,7 @@
     },
     "status": {
       "code": "ACT",
-      "description": "Active"
+      "description": null
     }
   },
   "Q134386486": {
@@ -19846,7 +19996,7 @@
     },
     "status": {
       "code": "ACT",
-      "description": "Active"
+      "description": null
     }
   },
   "Q134625884": {
@@ -19896,7 +20046,7 @@
     },
     "status": {
       "code": "ACT",
-      "description": "Active"
+      "description": "Waivers/No Rec."
     }
   },
   "Q135537968": {
@@ -19946,7 +20096,7 @@
     },
     "status": {
       "code": "ACT",
-      "description": "Active"
+      "description": null
     }
   },
   "Q135654188": {
@@ -19996,7 +20146,7 @@
     },
     "status": {
       "code": "ACT",
-      "description": "Active"
+      "description": null
     }
   },
   "Q135672064": {
@@ -20046,7 +20196,7 @@
     },
     "status": {
       "code": "ACT",
-      "description": "Active"
+      "description": null
     }
   },
   "Q135678459": {
@@ -20096,7 +20246,7 @@
     },
     "status": {
       "code": "DEV",
-      "description": "Practice Squad"
+      "description": null
     }
   },
   "Q135684292": {
@@ -20146,7 +20296,7 @@
     },
     "status": {
       "code": "ACT",
-      "description": "Active"
+      "description": null
     }
   },
   "Q135918814": {
@@ -20196,7 +20346,7 @@
     },
     "status": {
       "code": "ACT",
-      "description": "Active"
+      "description": null
     }
   },
   "Q135951999": {
@@ -20246,7 +20396,7 @@
     },
     "status": {
       "code": "ACT",
-      "description": "Active"
+      "description": null
     }
   },
   "Q135987692": {
@@ -20296,7 +20446,7 @@
     },
     "status": {
       "code": "ACT",
-      "description": "Active"
+      "description": null
     }
   },
   "Q136035435": {
@@ -20346,7 +20496,7 @@
     },
     "status": {
       "code": "ACT",
-      "description": "Active"
+      "description": null
     }
   },
   "Q136051141": {
@@ -20396,7 +20546,7 @@
     },
     "status": {
       "code": "DEV",
-      "description": "Practice Squad"
+      "description": null
     }
   },
   "Q136131651": {
@@ -20446,7 +20596,7 @@
     },
     "status": {
       "code": "ACT",
-      "description": "Active"
+      "description": null
     }
   },
   "Q136132094": {
@@ -20496,7 +20646,7 @@
     },
     "status": {
       "code": "ACT",
-      "description": "Active"
+      "description": null
     }
   },
   "Q136198724": {
@@ -20546,7 +20696,7 @@
     },
     "status": {
       "code": "ACT",
-      "description": "Active"
+      "description": null
     }
   },
   "Q136207945": {
@@ -20596,7 +20746,7 @@
     },
     "status": {
       "code": "ACT",
-      "description": "Active"
+      "description": null
     }
   },
   "Q136325019": {
@@ -20646,7 +20796,7 @@
     },
     "status": {
       "code": "DEV",
-      "description": "R/Injured"
+      "description": null
     }
   },
   "Q136399902": {
@@ -20696,7 +20846,7 @@
     },
     "status": {
       "code": "DEV",
-      "description": "Practice Squad"
+      "description": null
     }
   },
   "Q136410914": {
@@ -20746,7 +20896,7 @@
     },
     "status": {
       "code": "RSR",
-      "description": "R/Injured; DFR"
+      "description": null
     }
   },
   "Q136432693": {
@@ -20795,8 +20945,8 @@
       "jerseyNumber": "11"
     },
     "status": {
-      "code": "ACT",
-      "description": "Active"
+      "code": "RES",
+      "description": null
     }
   },
   "Q136652161": {
@@ -20846,7 +20996,7 @@
     },
     "status": {
       "code": "DEV",
-      "description": "Practice Squad"
+      "description": null
     }
   },
   "Q136705420": {
@@ -20896,7 +21046,7 @@
     },
     "status": {
       "code": "DEV",
-      "description": "Practice Squad"
+      "description": null
     }
   },
   "Q136721553": {
@@ -20946,7 +21096,7 @@
     },
     "status": {
       "code": "ACT",
-      "description": "Active"
+      "description": null
     }
   },
   "Q136802873": {
@@ -20996,7 +21146,7 @@
     },
     "status": {
       "code": "ACT",
-      "description": "Active"
+      "description": null
     }
   },
   "Q136803025": {
@@ -21046,7 +21196,7 @@
     },
     "status": {
       "code": "ACT",
-      "description": "Active"
+      "description": null
     }
   },
   "Q136813695": {
@@ -21096,7 +21246,7 @@
     },
     "status": {
       "code": "ACT",
-      "description": "Active"
+      "description": null
     }
   },
   "Q136813968": {
@@ -21146,7 +21296,7 @@
     },
     "status": {
       "code": "ACT",
-      "description": "Active"
+      "description": null
     }
   },
   "Q136850221": {
@@ -21196,7 +21346,7 @@
     },
     "status": {
       "code": "ACT",
-      "description": "Active"
+      "description": null
     }
   },
   "Q137042890": {
@@ -21246,7 +21396,7 @@
     },
     "status": {
       "code": "ACT",
-      "description": "Active"
+      "description": null
     }
   },
   "Q137170414": {
@@ -21296,7 +21446,7 @@
     },
     "status": {
       "code": "ACT",
-      "description": "Active"
+      "description": null
     }
   },
   "Q137177840": {
@@ -21346,7 +21496,7 @@
     },
     "status": {
       "code": "ACT",
-      "description": "Active"
+      "description": null
     }
   },
   "Q137177974": {
@@ -21396,7 +21546,7 @@
     },
     "status": {
       "code": "ACT",
-      "description": "Active"
+      "description": null
     }
   },
   "Q137267132": {
@@ -21445,8 +21595,8 @@
       "jerseyNumber": "82"
     },
     "status": {
-      "code": "DEV",
-      "description": "Practice Squad"
+      "code": "ACT",
+      "description": null
     }
   },
   "Q137272866": {
@@ -21496,7 +21646,7 @@
     },
     "status": {
       "code": "ACT",
-      "description": "Active"
+      "description": null
     }
   },
   "Q137294764": {
@@ -21546,7 +21696,7 @@
     },
     "status": {
       "code": "DEV",
-      "description": "Practice Squad"
+      "description": null
     }
   },
   "Q137356492": {
@@ -21596,7 +21746,7 @@
     },
     "status": {
       "code": "ACT",
-      "description": "Active"
+      "description": null
     }
   },
   "Q137368484": {
@@ -21646,7 +21796,7 @@
     },
     "status": {
       "code": "ACT",
-      "description": "Active"
+      "description": null
     }
   },
   "Q137384579": {
@@ -21696,7 +21846,7 @@
     },
     "status": {
       "code": "ACT",
-      "description": "Active"
+      "description": null
     }
   },
   "Q137386042": {
@@ -21746,7 +21896,7 @@
     },
     "status": {
       "code": "ACT",
-      "description": "Active"
+      "description": null
     }
   },
   "Q137391681": {
@@ -21796,7 +21946,7 @@
     },
     "status": {
       "code": "ACT",
-      "description": "Active"
+      "description": null
     }
   },
   "Q137534358": {
@@ -21846,7 +21996,7 @@
     },
     "status": {
       "code": "ACT",
-      "description": "Active"
+      "description": null
     }
   },
   "Q137576229": {
@@ -21896,7 +22046,7 @@
     },
     "status": {
       "code": "ACT",
-      "description": "Active"
+      "description": null
     }
   },
   "Q137610464": {
@@ -21946,7 +22096,7 @@
     },
     "status": {
       "code": "DEV",
-      "description": "Practice Squad"
+      "description": null
     }
   },
   "Q137907188": {
@@ -21996,7 +22146,7 @@
     },
     "status": {
       "code": "DEV",
-      "description": "Practice Squad"
+      "description": null
     }
   },
   "Q137917354": {
@@ -22046,7 +22196,7 @@
     },
     "status": {
       "code": "ACT",
-      "description": "Active"
+      "description": null
     }
   },
   "Q137917364": {
@@ -22096,7 +22246,7 @@
     },
     "status": {
       "code": "ACT",
-      "description": "Active"
+      "description": null
     }
   },
   "Q137924445": {
@@ -22146,7 +22296,7 @@
     },
     "status": {
       "code": "ACT",
-      "description": "Active"
+      "description": null
     }
   },
   "Q139568039": {
@@ -22196,7 +22346,7 @@
     },
     "status": {
       "code": "ACT",
-      "description": "Active"
+      "description": null
     }
   },
   "Q141106485": {
@@ -22246,7 +22396,7 @@
     },
     "status": {
       "code": "ACT",
-      "description": "Active"
+      "description": null
     }
   },
   "Q14950145": {
@@ -22496,7 +22646,7 @@
     },
     "status": {
       "code": "ACT",
-      "description": "Active"
+      "description": "Reserve/Future"
     }
   },
   "Q16148577": {
@@ -22646,7 +22796,7 @@
     },
     "status": {
       "code": "ACT",
-      "description": "Active"
+      "description": "Waivers/No Rec."
     }
   },
   "Q16235552": {
@@ -22746,7 +22896,7 @@
     },
     "status": {
       "code": "ACT",
-      "description": "Active"
+      "description": "R/Injured"
     }
   },
   "Q16729768": {
@@ -22946,7 +23096,7 @@
     },
     "status": {
       "code": "RSR",
-      "description": "R/Injured; DFR"
+      "description": "R/Injured"
     }
   },
   "Q18149300": {
@@ -23046,7 +23196,7 @@
     },
     "status": {
       "code": "ACT",
-      "description": "Active"
+      "description": "R/Injured"
     }
   },
   "Q18421895": {
@@ -23596,7 +23746,7 @@
     },
     "status": {
       "code": "ACT",
-      "description": "Active"
+      "description": "R/Injured"
     }
   },
   "Q21038865": {
@@ -23646,7 +23796,7 @@
     },
     "status": {
       "code": "ACT",
-      "description": "Active"
+      "description": "R/Retired"
     }
   },
   "Q21066626": {
@@ -23846,7 +23996,7 @@
     },
     "status": {
       "code": "ACT",
-      "description": "Active"
+      "description": "R/Injured"
     }
   },
   "Q21621996": {
@@ -23896,7 +24046,7 @@
     },
     "status": {
       "code": "ACT",
-      "description": "Active"
+      "description": "R/Injured"
     }
   },
   "Q21622138": {
@@ -23945,8 +24095,8 @@
       "jerseyNumber": "14"
     },
     "status": {
-      "code": "DEV",
-      "description": "PS; Vet"
+      "code": "ACT",
+      "description": "Active"
     }
   },
   "Q21622530": {
@@ -24246,7 +24396,7 @@
     },
     "status": {
       "code": "ACT",
-      "description": "Active"
+      "description": "Reserve/Future"
     }
   },
   "Q24007338": {
@@ -24546,7 +24696,7 @@
     },
     "status": {
       "code": "RSR",
-      "description": "R/Injured; DFR"
+      "description": "R/Injured"
     }
   },
   "Q2591444": {
@@ -24946,7 +25096,7 @@
     },
     "status": {
       "code": "RSR",
-      "description": "R/Injured; DFR"
+      "description": "Active"
     }
   },
   "Q27734163": {
@@ -25246,7 +25396,7 @@
     },
     "status": {
       "code": "ACT",
-      "description": "Active"
+      "description": "R/Injured"
     }
   },
   "Q28124532": {
@@ -25596,7 +25746,7 @@
     },
     "status": {
       "code": "RES",
-      "description": "R/Injured"
+      "description": "Active"
     }
   },
   "Q29723427": {
@@ -25796,7 +25946,7 @@
     },
     "status": {
       "code": "DEV",
-      "description": "PS; Vet"
+      "description": "Active"
     }
   },
   "Q302581": {
@@ -26096,7 +26246,7 @@
     },
     "status": {
       "code": "DEV",
-      "description": "PS; Vet"
+      "description": "R/Injured"
     }
   },
   "Q41788679": {
@@ -26246,7 +26396,7 @@
     },
     "status": {
       "code": "ACT",
-      "description": "Active"
+      "description": "R/Injured"
     }
   },
   "Q42290074": {
@@ -26596,7 +26746,7 @@
     },
     "status": {
       "code": "RES",
-      "description": "R/Injured"
+      "description": "Active"
     }
   },
   "Q47001909": {
@@ -27046,7 +27196,7 @@
     },
     "status": {
       "code": "ACT",
-      "description": "Active"
+      "description": "R/Injured"
     }
   },
   "Q52161990": {
@@ -27146,7 +27296,7 @@
     },
     "status": {
       "code": "DEV",
-      "description": "PS; Vet"
+      "description": "Active"
     }
   },
   "Q52423823": {
@@ -27245,8 +27395,8 @@
       "jerseyNumber": "19"
     },
     "status": {
-      "code": "DEV",
-      "description": "PS; Vet"
+      "code": "ACT",
+      "description": "Active"
     }
   },
   "Q52441680": {
@@ -27646,7 +27796,7 @@
     },
     "status": {
       "code": "ACT",
-      "description": "Active"
+      "description": "R/Injured"
     }
   },
   "Q55614243": {
@@ -27696,7 +27846,7 @@
     },
     "status": {
       "code": "ACT",
-      "description": "Active"
+      "description": "R/Injured"
     }
   },
   "Q55615481": {
@@ -27715,7 +27865,7 @@
       "yahoo": "31114"
     },
     "names": {
-      "boxscore": "J.Watson",
+      "boxscore": "Ju.Watson",
       "givenFirst": "Justin",
       "firstLast": "Justin Watson",
       "lastFirst": "Watson, Justin",
@@ -27796,7 +27946,7 @@
     },
     "status": {
       "code": "ACT",
-      "description": "Active"
+      "description": "PS; Vet"
     }
   },
   "Q56651156": {
@@ -28046,7 +28196,7 @@
     },
     "status": {
       "code": "ACT",
-      "description": "Active"
+      "description": "R/Injured"
     }
   },
   "Q57339590": {
@@ -28096,7 +28246,7 @@
     },
     "status": {
       "code": "ACT",
-      "description": "Active"
+      "description": "R/Injured"
     }
   },
   "Q57603670": {
@@ -28146,7 +28296,7 @@
     },
     "status": {
       "code": "DEV",
-      "description": "PS; Vet"
+      "description": "Reserve/Future"
     }
   },
   "Q58495244": {
@@ -28396,7 +28546,7 @@
     },
     "status": {
       "code": "EXE",
-      "description": "Ex/Comm. Perm."
+      "description": "Active"
     }
   },
   "Q59782499": {
@@ -28446,7 +28596,7 @@
     },
     "status": {
       "code": "ACT",
-      "description": "Active"
+      "description": "Reserve/Future"
     }
   },
   "Q60215524": {
@@ -28496,7 +28646,7 @@
     },
     "status": {
       "code": "DEV",
-      "description": "PS; Vet"
+      "description": "Active"
     }
   },
   "Q60287086": {
@@ -28545,8 +28695,8 @@
       "jerseyNumber": "21"
     },
     "status": {
-      "code": "DEV",
-      "description": "PS; Vet"
+      "code": "ACT",
+      "description": "Active"
     }
   },
   "Q60524318": {
@@ -28796,6 +28946,56 @@
     },
     "status": {
       "code": "DEV",
+      "description": "R/Injured"
+    }
+  },
+  "Q6289028": {
+    "id": "6zb7szennm",
+    "ids": {
+      "prism": "6zb7szennm",
+      "espn": "11394",
+      "fantasypros": "9326",
+      "fantasyprosSlug": "josh-johnson",
+      "gsis": "00-0026300",
+      "nffc": "7163",
+      "pfr": "JohnJo05",
+      "sleeper": "260",
+      "sportradar": "73e133bf-d3f7-4fda-bd25-2fde66cb8ee1",
+      "wikidata": "Q6289028",
+      "yahoo": "8937"
+    },
+    "names": {
+      "boxscore": "J.Johnson",
+      "givenFirst": "Joshua",
+      "firstLast": "Josh Johnson",
+      "lastFirst": "Johnson, Josh",
+      "lastFirstInit": "Johnson, J",
+      "givenFull": "Joshua Johnson",
+      "suffix": null,
+      "display": "Josh Johnson",
+      "last": "Johnson",
+      "first": "Josh",
+      "middle": null
+    },
+    "profile": {
+      "birthDate": "1986-05-15",
+      "birthYear": "1986",
+      "birthMonth": "05",
+      "birthDay": "15",
+      "height": "75",
+      "weight": "219",
+      "rookieYear": "2008"
+    },
+    "position": {
+      "abbreviation": "QB",
+      "group": "QB"
+    },
+    "team": {
+      "abbreviation": "CIN",
+      "jerseyNumber": "11"
+    },
+    "status": {
+      "code": "ACT",
       "description": "Active"
     }
   },
@@ -28897,6 +29097,56 @@
     "status": {
       "code": "ACT",
       "description": "Active"
+    }
+  },
+  "Q63230198": {
+    "id": "0rlr2nk7er",
+    "ids": {
+      "prism": "0rlr2nk7er",
+      "espn": "3916071",
+      "fantasypros": "18565",
+      "fantasyprosSlug": "gary-jennings",
+      "gsis": "00-0035589",
+      "nffc": "17056",
+      "pfr": "JennGa00",
+      "sleeper": "6045",
+      "sportradar": "49f9f357-e90a-45b7-9f55-fe451125149f",
+      "wikidata": "Q63230198",
+      "yahoo": "31952"
+    },
+    "names": {
+      "boxscore": "G.Jennings",
+      "givenFirst": "Gary",
+      "firstLast": "Gary Jennings",
+      "lastFirst": "Jennings, Gary",
+      "lastFirstInit": "Jennings, G",
+      "givenFull": "Gary Jennings",
+      "suffix": "Jr.",
+      "display": "Gary Jennings",
+      "last": "Jennings",
+      "first": "Gary",
+      "middle": null
+    },
+    "profile": {
+      "birthDate": "1997-03-07",
+      "birthYear": "1997",
+      "birthMonth": "03",
+      "birthDay": "07",
+      "height": "73",
+      "weight": "216",
+      "rookieYear": "2019"
+    },
+    "position": {
+      "abbreviation": "WR",
+      "group": "WR"
+    },
+    "team": {
+      "abbreviation": "LAC",
+      "jerseyNumber": null
+    },
+    "status": {
+      "code": "ACT",
+      "description": "Waivers/No Rec."
     }
   },
   "Q63302700": {
@@ -29196,7 +29446,7 @@
     },
     "status": {
       "code": "ACT",
-      "description": "Inactive"
+      "description": "Active"
     }
   },
   "Q6382866": {
@@ -29596,7 +29846,7 @@
     },
     "status": {
       "code": "PUP",
-      "description": "R/PUP"
+      "description": "Active"
     }
   },
   "Q66994659": {
@@ -29646,7 +29896,7 @@
     },
     "status": {
       "code": "DEV",
-      "description": "PS; Vet"
+      "description": "Active"
     }
   },
   "Q67086841": {
@@ -29746,7 +29996,7 @@
     },
     "status": {
       "code": "ACT",
-      "description": "Active"
+      "description": "Reserve/Future"
     }
   },
   "Q6758302": {
@@ -29846,7 +30096,7 @@
     },
     "status": {
       "code": "ACT",
-      "description": "Active"
+      "description": "R/Injured"
     }
   },
   "Q67702653": {
@@ -30146,7 +30396,7 @@
     },
     "status": {
       "code": "ACT",
-      "description": "Active"
+      "description": "R/Injured"
     }
   },
   "Q71605297": {
@@ -30396,7 +30646,7 @@
     },
     "status": {
       "code": "ACT",
-      "description": "Active"
+      "description": "R/Injured; DFR"
     }
   },
   "Q73415208": {
@@ -30446,7 +30696,7 @@
     },
     "status": {
       "code": "ACT",
-      "description": "Active"
+      "description": "Reserve/Future"
     }
   },
   "Q74433616": {
@@ -30646,7 +30896,7 @@
     },
     "status": {
       "code": "RLS",
-      "description": "R/Left Squad"
+      "description": "R/Injured"
     }
   },
   "Q7606645": {
@@ -30696,7 +30946,7 @@
     },
     "status": {
       "code": "ACT",
-      "description": "Active"
+      "description": "R/Injured"
     }
   },
   "Q76446120": {
@@ -30746,7 +30996,7 @@
     },
     "status": {
       "code": "DEV",
-      "description": "PS; Vet"
+      "description": "Active"
     }
   },
   "Q76995200": {
@@ -31346,7 +31596,7 @@
     },
     "status": {
       "code": "DEV",
-      "description": "PS; Vet"
+      "description": "Active"
     }
   },
   "Q84056510": {
@@ -31496,7 +31746,7 @@
     },
     "status": {
       "code": "ACT",
-      "description": "Active"
+      "description": "Reserve/Future"
     }
   },
   "Q87847659": {
@@ -31896,7 +32146,7 @@
     },
     "status": {
       "code": "ACT",
-      "description": "Active"
+      "description": null
     }
   },
   "Q91934897": {
@@ -31946,7 +32196,7 @@
     },
     "status": {
       "code": "DEV",
-      "description": "PS; Vet"
+      "description": "Active"
     }
   },
   "Q91936104": {
@@ -32096,7 +32346,7 @@
     },
     "status": {
       "code": "ACT",
-      "description": "Active"
+      "description": "Reserve/Future"
     }
   },
   "Q95227652": {
@@ -32346,7 +32596,7 @@
     },
     "status": {
       "code": "DEV",
-      "description": "PS; Vet"
+      "description": "Active"
     }
   },
   "Q99399800": {
@@ -32396,7 +32646,7 @@
     },
     "status": {
       "code": "DEV",
-      "description": "PS; Exc"
+      "description": "Active"
     }
   },
   "Q99554628": {
