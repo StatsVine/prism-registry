@@ -2870,8 +2870,8 @@
         "debutDate": "2020-08-21"
       },
       "position": {
-        "code": "9",
-        "abbreviation": "RF"
+        "code": "10",
+        "abbreviation": "DH"
       },
       "team": {
         "mlb_id": 109,
@@ -15078,8 +15078,8 @@
         "abbreviation": "CIN"
       },
       "status": {
-        "code": "RM",
-        "description": "Reassigned to Minors"
+        "code": "A",
+        "description": "Active"
       }
     },
     {
@@ -15942,8 +15942,8 @@
         "abbreviation": "CIN"
       },
       "status": {
-        "code": "A",
-        "description": "Active"
+        "code": "D15",
+        "description": "Injured 15-Day"
       }
     },
     {
@@ -38854,8 +38854,8 @@
         "abbreviation": "NYM"
       },
       "status": {
-        "code": "D15",
-        "description": "Injured 15-Day"
+        "code": "A",
+        "description": "Active"
       }
     },
     {
@@ -39238,8 +39238,8 @@
         "abbreviation": "NYM"
       },
       "status": {
-        "code": "A",
-        "description": "Active"
+        "code": "D15",
+        "description": "Injured 15-Day"
       }
     },
     {
@@ -39672,8 +39672,8 @@
         "abbreviation": "ATH"
       },
       "status": {
-        "code": "D15",
-        "description": "Injured 15-Day"
+        "code": "D60",
+        "description": "Injured 60-Day"
       }
     },
     {
@@ -40584,8 +40584,8 @@
         "abbreviation": "ATH"
       },
       "status": {
-        "code": "A",
-        "description": "Active"
+        "code": "D10",
+        "description": "Injured 10-Day"
       }
     },
     {
@@ -42408,8 +42408,8 @@
         "abbreviation": "ATH"
       },
       "status": {
-        "code": "D60",
-        "description": "Injured 60-Day"
+        "code": "A",
+        "description": "Active"
       }
     },
     {
@@ -43903,54 +43903,6 @@
       }
     },
     {
-      "id": "frcyhvvbgd",
-      "ids": {
-        "prism": "frcyhvvbgd",
-        "bbref": "dovalca01",
-        "fangraphs": "21992",
-        "mlbam": "666808",
-        "nfbc": "11105",
-        "sfbb": "dovalca01",
-        "yahoo": "11536"
-      },
-      "names": {
-        "boxscore": "Doval",
-        "givenFirst": "Camilo",
-        "givenFirstMiddle": "Camilo",
-        "firstLast": "Camilo Doval",
-        "lastFirst": "Doval, Camilo",
-        "lastFirstInit": "Doval, C",
-        "givenFull": "Camilo Doval",
-        "last": "Doval",
-        "first": "Camilo",
-        "middle": null
-      },
-      "profile": {
-        "birthDate": "1997-7-4",
-        "birthYear": "1997",
-        "birthMonth": "7",
-        "birthDay": "4",
-        "birthCity": "Yamasa",
-        "birthState": null,
-        "birthCountry": "Dominican Republic",
-        "batHand": "R",
-        "fieldHand": "R",
-        "debutDate": "2021-04-18"
-      },
-      "position": {
-        "code": "1",
-        "abbreviation": "P"
-      },
-      "team": {
-        "mlb_id": 134,
-        "abbreviation": "PIT"
-      },
-      "status": {
-        "code": "A",
-        "description": "Active"
-      }
-    },
-    {
       "id": "h1lm2rr94w",
       "ids": {
         "prism": "h1lm2rr94w",
@@ -45098,8 +45050,8 @@
         "abbreviation": "PIT"
       },
       "status": {
-        "code": "D15",
-        "description": "Injured 15-Day"
+        "code": "A",
+        "description": "Active"
       }
     },
     {
@@ -52544,8 +52496,8 @@
         "abbreviation": "SF"
       },
       "status": {
-        "code": "RM",
-        "description": "Reassigned to Minors"
+        "code": "A",
+        "description": "Active"
       }
     },
     {
@@ -52784,8 +52736,8 @@
         "abbreviation": "SF"
       },
       "status": {
-        "code": "A",
-        "description": "Active"
+        "code": "D15",
+        "description": "Injured 15-Day"
       }
     },
     {
@@ -53506,6 +53458,54 @@
       "status": {
         "code": "D60",
         "description": "Injured 60-Day"
+      }
+    },
+    {
+      "id": "w4kpqkjfxw",
+      "ids": {
+        "prism": "w4kpqkjfxw",
+        "bbref": "davidbo02",
+        "fangraphs": "33405",
+        "mlbam": "815589",
+        "nfbc": "12621",
+        "sfbb": "davidbo01",
+        "yahoo": "65060"
+      },
+      "names": {
+        "boxscore": "Davidson",
+        "givenFirst": "Chanteyon",
+        "givenFirstMiddle": "Chanteyon Ajria",
+        "firstLast": "Bo Davidson",
+        "lastFirst": "Davidson, Bo",
+        "lastFirstInit": "Davidson, B",
+        "givenFull": "Chanteyon Ajria Davidson",
+        "last": "Davidson",
+        "first": "Bo",
+        "middle": "Ajria"
+      },
+      "profile": {
+        "birthDate": "2002-7-5",
+        "birthYear": "2002",
+        "birthMonth": "7",
+        "birthDay": "5",
+        "birthCity": "Charlotte",
+        "birthState": "NC",
+        "birthCountry": "USA",
+        "batHand": "L",
+        "fieldHand": "R",
+        "debutDate": "2026-09-21"
+      },
+      "position": {
+        "code": "7",
+        "abbreviation": "LF"
+      },
+      "team": {
+        "mlb_id": 137,
+        "abbreviation": "SF"
+      },
+      "status": {
+        "code": "A",
+        "description": "Active"
       }
     },
     {
@@ -55274,8 +55274,8 @@
         "debutDate": "2024-09-10"
       },
       "position": {
-        "code": "7",
-        "abbreviation": "LF"
+        "code": "6",
+        "abbreviation": "SS"
       },
       "team": {
         "mlb_id": 138,
@@ -58886,8 +58886,8 @@
         "abbreviation": "TEX"
       },
       "status": {
-        "code": "A",
-        "description": "Active"
+        "code": "D10",
+        "description": "Injured 10-Day"
       }
     },
     {
@@ -60614,8 +60614,8 @@
         "abbreviation": "TEX"
       },
       "status": {
-        "code": "D60",
-        "description": "Injured 60-Day"
+        "code": "A",
+        "description": "Active"
       }
     },
     {
@@ -61190,8 +61190,8 @@
         "abbreviation": "TEX"
       },
       "status": {
-        "code": "D15",
-        "description": "Injured 15-Day"
+        "code": "D60",
+        "description": "Injured 60-Day"
       }
     },
     {
@@ -61286,8 +61286,8 @@
         "abbreviation": "TEX"
       },
       "status": {
-        "code": "A",
-        "description": "Active"
+        "code": "RM",
+        "description": "Reassigned to Minors"
       }
     },
     {
@@ -61718,8 +61718,8 @@
         "abbreviation": "TEX"
       },
       "status": {
-        "code": "D15",
-        "description": "Injured 15-Day"
+        "code": "A",
+        "description": "Active"
       }
     },
     {
@@ -67484,6 +67484,54 @@
       "status": {
         "code": "D60",
         "description": "Injured 60-Day"
+      }
+    },
+    {
+      "id": "xfsrfsxj8m",
+      "ids": {
+        "prism": "xfsrfsxj8m",
+        "bbref": "sabataa01",
+        "fangraphs": "27774",
+        "mlbam": "693306",
+        "nfbc": "12763",
+        "sfbb": null,
+        "yahoo": "12155"
+      },
+      "names": {
+        "boxscore": "Sabato",
+        "givenFirst": "Aaron",
+        "givenFirstMiddle": "Aaron Chase",
+        "firstLast": "Aaron Sabato",
+        "lastFirst": "Sabato, Aaron",
+        "lastFirstInit": "Sabato, A",
+        "givenFull": "Aaron Chase Sabato",
+        "last": "Sabato",
+        "first": "Aaron",
+        "middle": "Chase"
+      },
+      "profile": {
+        "birthDate": "1999-6-4",
+        "birthYear": "1999",
+        "birthMonth": "6",
+        "birthDay": "4",
+        "birthCity": "Rye",
+        "birthState": "NY",
+        "birthCountry": "USA",
+        "batHand": "R",
+        "fieldHand": "R",
+        "debutDate": "2026-09-21"
+      },
+      "position": {
+        "code": "3",
+        "abbreviation": "1B"
+      },
+      "team": {
+        "mlb_id": 142,
+        "abbreviation": "MIN"
+      },
+      "status": {
+        "code": "A",
+        "description": "Active"
       }
     },
     {
@@ -78868,8 +78916,8 @@
         "abbreviation": "NYY"
       },
       "status": {
-        "code": "A",
-        "description": "Active"
+        "code": "RM",
+        "description": "Reassigned to Minors"
       }
     },
     {
@@ -80356,8 +80404,8 @@
         "abbreviation": "NYY"
       },
       "status": {
-        "code": "D10",
-        "description": "Injured 10-Day"
+        "code": "A",
+        "description": "Active"
       }
     },
     {
@@ -84076,6 +84124,54 @@
     }
   ],
   "PIT": [
+    {
+      "id": "frcyhvvbgd",
+      "ids": {
+        "prism": "frcyhvvbgd",
+        "bbref": "dovalca01",
+        "fangraphs": "21992",
+        "mlbam": "666808",
+        "nfbc": "11105",
+        "sfbb": "dovalca01",
+        "yahoo": "11536"
+      },
+      "names": {
+        "boxscore": "Doval",
+        "givenFirst": "Camilo",
+        "givenFirstMiddle": "Camilo",
+        "firstLast": "Camilo Doval",
+        "lastFirst": "Doval, Camilo",
+        "lastFirstInit": "Doval, C",
+        "givenFull": "Camilo Doval",
+        "last": "Doval",
+        "first": "Camilo",
+        "middle": null
+      },
+      "profile": {
+        "birthDate": "1997-7-4",
+        "birthYear": "1997",
+        "birthMonth": "7",
+        "birthDay": "4",
+        "birthCity": "Yamasa",
+        "birthState": null,
+        "birthCountry": "Dominican Republic",
+        "batHand": "R",
+        "fieldHand": "R",
+        "debutDate": "2021-04-18"
+      },
+      "position": {
+        "code": "1",
+        "abbreviation": "P"
+      },
+      "team": {
+        "mlb_id": "PIT",
+        "abbreviation": "PIT"
+      },
+      "status": {
+        "code": null,
+        "description": null
+      }
+    },
     {
       "id": "p56vtymyj8",
       "ids": {
